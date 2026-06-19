@@ -2331,6 +2331,36 @@
       "kunyomi_kana": "はな",
       "onyomi_romaji": "KA",
       "kunyomi_romaji": "hana"
+    },
+    {
+      "character": "母",
+      "romaji": "bo, haha",
+      "meaning": "ibu",
+      "audioText": "ぼ、はは",
+      "onyomi_kana": "ぼ",
+      "kunyomi_kana": "はは",
+      "onyomi_romaji": "BO",
+      "kunyomi_romaji": "haha"
+    },
+    {
+      "character": "父",
+      "romaji": "fu, chichi",
+      "meaning": "ayah",
+      "audioText": "ふ、ちち",
+      "onyomi_kana": "ふ",
+      "kunyomi_kana": "ちち",
+      "onyomi_romaji": "FU",
+      "kunyomi_romaji": "chichi"
+    },
+    {
+      "character": "円",
+      "romaji": "en, maru",
+      "meaning": "yen, lingkaran",
+      "audioText": "えん、まる",
+      "onyomi_kana": "えん",
+      "kunyomi_kana": "まる",
+      "onyomi_romaji": "EN",
+      "kunyomi_romaji": "maru"
     }
   ],
   "vocabulary_n5": [
@@ -12788,16 +12818,6 @@
       "kunyomi_romaji": "a"
     },
     {
-      "character": "同",
-      "romaji": "dou, ona",
-      "meaning": "sama",
-      "audioText": "どう、おな",
-      "onyomi_kana": "どう",
-      "kunyomi_kana": "おな",
-      "onyomi_romaji": "DOU",
-      "kunyomi_romaji": "ona"
-    },
-    {
       "character": "事",
       "romaji": "ji, koto",
       "meaning": "hal, urusan",
@@ -12816,16 +12836,6 @@
       "kunyomi_kana": "みずか",
       "onyomi_romaji": "JI",
       "kunyomi_romaji": "mizuka"
-    },
-    {
-      "character": "社",
-      "romaji": "sha, yashiro",
-      "meaning": "perusahaan, kuil",
-      "audioText": "しゃ、やしろ",
-      "onyomi_kana": "しゃ",
-      "kunyomi_kana": "やしろ",
-      "onyomi_romaji": "SHA",
-      "kunyomi_romaji": "yashiro"
     },
     {
       "character": "発",
@@ -12878,16 +12888,6 @@
       "kunyomi_romaji": "kata"
     },
     {
-      "character": "新",
-      "romaji": "shin, atara",
-      "meaning": "baru",
-      "audioText": "しん、あたら",
-      "onyomi_kana": "しん",
-      "kunyomi_kana": "あたら",
-      "onyomi_romaji": "SHIN",
-      "kunyomi_romaji": "atara"
-    },
-    {
       "character": "場",
       "romaji": "jou, ba",
       "meaning": "tempat",
@@ -12906,16 +12906,6 @@
       "onyomi_romaji": "IN"
     },
     {
-      "character": "立",
-      "romaji": "ritsu, ta",
-      "meaning": "berdiri",
-      "audioText": "りつ、た",
-      "onyomi_kana": "りつ",
-      "kunyomi_kana": "た",
-      "onyomi_romaji": "RITSU",
-      "kunyomi_romaji": "ta"
-    },
-    {
       "character": "開",
       "romaji": "kai, a",
       "meaning": "membuka",
@@ -12924,16 +12914,6 @@
       "kunyomi_kana": "あ",
       "onyomi_romaji": "KAI",
       "kunyomi_romaji": "a"
-    },
-    {
-      "character": "手",
-      "romaji": "shu, te",
-      "meaning": "tangan",
-      "audioText": "しゅ、て",
-      "onyomi_kana": "しゅ",
-      "kunyomi_kana": "て",
-      "onyomi_romaji": "SHU",
-      "kunyomi_romaji": "te"
     },
     {
       "character": "力",
@@ -12966,16 +12946,6 @@
       "kunyomi_romaji": "ka"
     },
     {
-      "character": "明",
-      "romaji": "mei, aka",
-      "meaning": "terang",
-      "audioText": "めい、あか",
-      "onyomi_kana": "めい",
-      "kunyomi_kana": "あか",
-      "onyomi_romaji": "MEI",
-      "kunyomi_romaji": "aka"
-    },
-    {
       "character": "動",
       "romaji": "dou, ugo",
       "meaning": "bergerak",
@@ -12992,16 +12962,6 @@
       "audioText": "きょう",
       "onyomi_kana": "きょう",
       "onyomi_romaji": "KYOU"
-    },
-    {
-      "character": "目",
-      "romaji": "moku, me",
-      "meaning": "mata",
-      "audioText": "もく、め",
-      "onyomi_kana": "もく",
-      "kunyomi_kana": "め",
-      "onyomi_romaji": "MOKU",
-      "kunyomi_romaji": "me"
     },
     {
       "character": "通",
@@ -13084,16 +13044,6 @@
       "audioText": "ふ",
       "onyomi_kana": "ふ",
       "onyomi_romaji": "FU"
-    },
-    {
-      "character": "作",
-      "romaji": "saku, tsuku",
-      "meaning": "membuat",
-      "audioText": "さく、つく",
-      "onyomi_kana": "さく",
-      "kunyomi_kana": "つく",
-      "onyomi_romaji": "SAKU",
-      "kunyomi_romaji": "tsuku"
     },
     {
       "character": "用",
@@ -13192,36 +13142,6 @@
       "kunyomi_kana": "よ",
       "onyomi_romaji": "SEI",
       "kunyomi_romaji": "yo"
-    },
-    {
-      "character": "多",
-      "romaji": "ta, oo",
-      "meaning": "banyak",
-      "audioText": "た、おお",
-      "onyomi_kana": "た",
-      "kunyomi_kana": "おお",
-      "onyomi_romaji": "TA",
-      "kunyomi_romaji": "oo"
-    },
-    {
-      "character": "正",
-      "romaji": "sei, tada",
-      "meaning": "benar",
-      "audioText": "せい、ただ",
-      "onyomi_kana": "せい",
-      "kunyomi_kana": "ただ",
-      "onyomi_romaji": "SEI",
-      "kunyomi_romaji": "tada"
-    },
-    {
-      "character": "安",
-      "romaji": "an, yasu",
-      "meaning": "murah, aman",
-      "audioText": "あん、やす",
-      "onyomi_kana": "あん",
-      "kunyomi_kana": "やす",
-      "onyomi_romaji": "AN",
-      "kunyomi_romaji": "yasu"
     },
     {
       "character": "院",
@@ -13390,16 +13310,6 @@
       "kunyomi_romaji": "mono"
     },
     {
-      "character": "使",
-      "romaji": "shi, tsuka",
-      "meaning": "guna",
-      "audioText": "し、つか",
-      "onyomi_kana": "し",
-      "kunyomi_kana": "つか",
-      "onyomi_romaji": "SHI",
-      "kunyomi_romaji": "tsuka"
-    },
-    {
       "character": "品",
       "romaji": "hin, shina",
       "meaning": "produk",
@@ -13436,16 +13346,6 @@
       "audioText": "とく",
       "onyomi_kana": "とく",
       "onyomi_romaji": "TOKU"
-    },
-    {
-      "character": "私",
-      "romaji": "shi, watashi",
-      "meaning": "saya",
-      "audioText": "し、わたし",
-      "onyomi_kana": "し",
-      "kunyomi_kana": "わたし",
-      "onyomi_romaji": "SHI",
-      "kunyomi_romaji": "watashi"
     },
     {
       "character": "始",
@@ -13546,26 +13446,6 @@
       "kunyomi_romaji": "a"
     },
     {
-      "character": "口",
-      "romaji": "kou, kuchi",
-      "meaning": "mulut",
-      "audioText": "こう、くち",
-      "onyomi_kana": "こう",
-      "kunyomi_kana": "くち",
-      "onyomi_romaji": "KOU",
-      "kunyomi_romaji": "kuchi"
-    },
-    {
-      "character": "少",
-      "romaji": "shou, suko",
-      "meaning": "sedikit",
-      "audioText": "しょう、すこ",
-      "onyomi_kana": "しょう",
-      "kunyomi_kana": "すこ",
-      "onyomi_romaji": "SHOU",
-      "kunyomi_romaji": "suko"
-    },
-    {
       "character": "町",
       "romaji": "chou, machi",
       "meaning": "kota",
@@ -13600,16 +13480,6 @@
       "kunyomi_kana": "たて",
       "onyomi_romaji": "KEN",
       "kunyomi_romaji": "tate"
-    },
-    {
-      "character": "空",
-      "romaji": "kuu, sora",
-      "meaning": "langit",
-      "audioText": "くう、そら",
-      "onyomi_kana": "くう",
-      "kunyomi_kana": "そら",
-      "onyomi_romaji": "KUU",
-      "kunyomi_romaji": "sora"
     },
     {
       "character": "急",
@@ -13670,16 +13540,6 @@
       "kunyomi_kana": "と",
       "onyomi_romaji": "KEN",
       "kunyomi_romaji": "to"
-    },
-    {
-      "character": "足",
-      "romaji": "soku, ashi",
-      "meaning": "kaki",
-      "audioText": "そく、あし",
-      "onyomi_kana": "そく",
-      "kunyomi_kana": "あし",
-      "onyomi_romaji": "SOKU",
-      "kunyomi_romaji": "ashi"
     },
     {
       "character": "究",
@@ -13938,16 +13798,6 @@
       "kunyomi_romaji": "kae"
     },
     {
-      "character": "古",
-      "romaji": "ko, furu",
-      "meaning": "tua",
-      "audioText": "こ、ふる",
-      "onyomi_kana": "こ",
-      "kunyomi_kana": "ふる",
-      "onyomi_romaji": "KO",
-      "kunyomi_romaji": "furu"
-    },
-    {
       "character": "歌",
       "romaji": "ka, uta",
       "meaning": "lagu",
@@ -13956,16 +13806,6 @@
       "kunyomi_kana": "うた",
       "onyomi_romaji": "KA",
       "kunyomi_romaji": "uta"
-    },
-    {
-      "character": "買",
-      "romaji": "bai, ka",
-      "meaning": "beli",
-      "audioText": "ばい、か",
-      "onyomi_kana": "ばい",
-      "kunyomi_kana": "か",
-      "onyomi_romaji": "BAI",
-      "kunyomi_romaji": "ka"
     },
     {
       "character": "悪",
@@ -14036,26 +13876,6 @@
       "kunyomi_romaji": "kami"
     },
     {
-      "character": "黒",
-      "romaji": "koku, kuro",
-      "meaning": "hitam",
-      "audioText": "こく、くろ",
-      "onyomi_kana": "こく",
-      "kunyomi_kana": "くろ",
-      "onyomi_romaji": "KOKU",
-      "kunyomi_romaji": "kuro"
-    },
-    {
-      "character": "花",
-      "romaji": "ka, hana",
-      "meaning": "bunga",
-      "audioText": "か、はな",
-      "onyomi_kana": "か",
-      "kunyomi_kana": "はな",
-      "onyomi_romaji": "KA",
-      "kunyomi_romaji": "hana"
-    },
-    {
       "character": "春",
       "romaji": "shun, haru",
       "meaning": "musim semi",
@@ -14064,26 +13884,6 @@
       "kunyomi_kana": "はる",
       "onyomi_romaji": "SHUN",
       "kunyomi_romaji": "haru"
-    },
-    {
-      "character": "赤",
-      "romaji": "seki, aka",
-      "meaning": "merah",
-      "audioText": "せき、あか",
-      "onyomi_kana": "せき",
-      "kunyomi_kana": "あか",
-      "onyomi_romaji": "SEKI",
-      "kunyomi_romaji": "aka"
-    },
-    {
-      "character": "青",
-      "romaji": "sei, ao",
-      "meaning": "biru",
-      "audioText": "せい、あお",
-      "onyomi_kana": "せい",
-      "kunyomi_kana": "あお",
-      "onyomi_romaji": "SEI",
-      "kunyomi_romaji": "ao"
     },
     {
       "character": "館",
@@ -14292,16 +14092,6 @@
       "kunyomi_kana": "みじか",
       "onyomi_romaji": "TAN",
       "kunyomi_romaji": "mijika"
-    },
-    {
-      "character": "長",
-      "romaji": "chou, naga",
-      "meaning": "panjang",
-      "audioText": "ちょう、なが",
-      "onyomi_kana": "ちょう",
-      "kunyomi_kana": "なが",
-      "onyomi_romaji": "CHOU",
-      "kunyomi_romaji": "naga"
     },
     {
       "character": "丸",
@@ -14732,6 +14522,246 @@
       "kunyomi_kana": "むかし",
       "onyomi_romaji": "SEKI",
       "kunyomi_romaji": "mukashi"
+    },
+    {
+      "character": "伝",
+      "romaji": "den, tsuta",
+      "meaning": "menyampaikan, legenda",
+      "audioText": "でん、つた",
+      "onyomi_kana": "でん",
+      "kunyomi_kana": "つた",
+      "onyomi_romaji": "DEN",
+      "kunyomi_romaji": "tsuta"
+    },
+    {
+      "character": "億",
+      "romaji": "oku",
+      "meaning": "ratus juta",
+      "audioText": "おく",
+      "onyomi_kana": "おく",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "OKU",
+      "kunyomi_romaji": ""
+    },
+    {
+      "character": "兆",
+      "romaji": "chou, kiza",
+      "meaning": "tanda, sepersejuta",
+      "audioText": "ちょう、きざ",
+      "onyomi_kana": "ちょう",
+      "kunyomi_kana": "きざ",
+      "onyomi_romaji": "CHOU",
+      "kunyomi_romaji": "kiza"
+    },
+    {
+      "character": "党",
+      "romaji": "tou, nakama",
+      "meaning": "partai, kelompok",
+      "audioText": "とう、なかま",
+      "onyomi_kana": "とう",
+      "kunyomi_kana": "なかま",
+      "onyomi_romaji": "TOU",
+      "kunyomi_romaji": "nakama"
+    },
+    {
+      "character": "収",
+      "romaji": "shuu, osa",
+      "meaning": "menerima, memungut",
+      "audioText": "しゅう、おさ",
+      "onyomi_kana": "しゅう",
+      "kunyomi_kana": "おさ",
+      "onyomi_romaji": "SHUU",
+      "kunyomi_romaji": "osa"
+    },
+    {
+      "character": "夢",
+      "romaji": "mu, yume",
+      "meaning": "mimpi",
+      "audioText": "む、ゆめ",
+      "onyomi_kana": "む",
+      "kunyomi_kana": "ゆめ",
+      "onyomi_romaji": "MU",
+      "kunyomi_romaji": "yume"
+    },
+    {
+      "character": "妻",
+      "romaji": "sai, tsuma",
+      "meaning": "istri",
+      "audioText": "さい、つま",
+      "onyomi_kana": "さい",
+      "kunyomi_kana": "つま",
+      "onyomi_romaji": "SAI",
+      "kunyomi_romaji": "tsuma"
+    },
+    {
+      "character": "宅",
+      "romaji": "taku",
+      "meaning": "rumah",
+      "audioText": "たく",
+      "onyomi_kana": "たく",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "TAKU",
+      "kunyomi_romaji": ""
+    },
+    {
+      "character": "富",
+      "romaji": "fu, tomi",
+      "meaning": "kekayaan",
+      "audioText": "ふ、とみ",
+      "onyomi_kana": "ふ",
+      "kunyomi_kana": "とみ",
+      "onyomi_romaji": "FU",
+      "kunyomi_romaji": "tomi"
+    },
+    {
+      "character": "就",
+      "romaji": "shuu, tsu",
+      "meaning": "bekerja, menyelesaikan",
+      "audioText": "しゅう、つ",
+      "onyomi_kana": "しゅう",
+      "kunyomi_kana": "つ",
+      "onyomi_romaji": "SHUU",
+      "kunyomi_romaji": "tsu"
+    },
+    {
+      "character": "展",
+      "romaji": "ten",
+      "meaning": "pameran, membuka",
+      "audioText": "てん",
+      "onyomi_kana": "てん",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "TEN",
+      "kunyomi_romaji": ""
+    },
+    {
+      "character": "州",
+      "romaji": "shuu, su",
+      "meaning": "provinsi, negara bagian",
+      "audioText": "しゅう、す",
+      "onyomi_kana": "しゅう",
+      "kunyomi_kana": "す",
+      "onyomi_romaji": "SHUU",
+      "kunyomi_romaji": "su"
+    },
+    {
+      "character": "師",
+      "romaji": "shi, su",
+      "meaning": "guru, ahli",
+      "audioText": "し、す",
+      "onyomi_kana": "し",
+      "kunyomi_kana": "す",
+      "onyomi_romaji": "SHI",
+      "kunyomi_romaji": "su"
+    },
+    {
+      "character": "幹",
+      "romaji": "kan, miki",
+      "meaning": "batang, inti",
+      "audioText": "かん、みき",
+      "onyomi_kana": "かん",
+      "kunyomi_kana": "みき",
+      "onyomi_romaji": "KAN",
+      "kunyomi_romaji": "miki"
+    },
+    {
+      "character": "府",
+      "romaji": "fu",
+      "meaning": "kantor pemerintah",
+      "audioText": "ふ",
+      "onyomi_kana": "ふ",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "FU",
+      "kunyomi_romaji": ""
+    },
+    {
+      "character": "庫",
+      "romaji": "ko, kura",
+      "meaning": "gudang",
+      "audioText": "こ、くら",
+      "onyomi_kana": "こ",
+      "kunyomi_kana": "くら",
+      "onyomi_romaji": "KO",
+      "kunyomi_romaji": "kura"
+    },
+    {
+      "character": "律",
+      "romaji": "ritsu, richi",
+      "meaning": "hukum, ritme",
+      "audioText": "りつ、りち",
+      "onyomi_kana": "りつ",
+      "kunyomi_kana": "りち",
+      "onyomi_romaji": "RITSU",
+      "kunyomi_romaji": "richi"
+    },
+    {
+      "character": "徳",
+      "romaji": "toku",
+      "meaning": "kebajikan",
+      "audioText": "とく",
+      "onyomi_kana": "とく",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "TOKU",
+      "kunyomi_romaji": ""
+    },
+    {
+      "character": "志",
+      "romaji": "shi, kokoroza",
+      "meaning": "keinginan, tujuan",
+      "audioText": "し、こころざ",
+      "onyomi_kana": "し",
+      "kunyomi_kana": "こころざ",
+      "onyomi_romaji": "SHI",
+      "kunyomi_romaji": "kokoroza"
+    },
+    {
+      "character": "恋",
+      "romaji": "ren, ko",
+      "meaning": "cinta",
+      "audioText": "れん、こ",
+      "onyomi_kana": "れん",
+      "kunyomi_kana": "こ",
+      "onyomi_romaji": "REN",
+      "kunyomi_romaji": "ko"
+    },
+    {
+      "character": "折",
+      "romaji": "setsu, o",
+      "meaning": "mem折, patah",
+      "audioText": "せつ、お",
+      "onyomi_kana": "せつ",
+      "kunyomi_kana": "お",
+      "onyomi_romaji": "SETSU",
+      "kunyomi_romaji": "o"
+    },
+    {
+      "character": "救",
+      "romaji": "kyuu,  suku",
+      "meaning": "menyelamatkan",
+      "audioText": "きゅう、すく",
+      "onyomi_kana": "きゅう",
+      "kunyomi_kana": "すく",
+      "onyomi_romaji": "KYUU",
+      "kunyomi_romaji": " suku"
+    },
+    {
+      "character": "束",
+      "romaji": "soku, taba",
+      "meaning": "ikatan,捆",
+      "audioText": "そく、たば",
+      "onyomi_kana": "そく",
+      "kunyomi_kana": "たば",
+      "onyomi_romaji": "SOKU",
+      "kunyomi_romaji": "taba"
+    },
+    {
+      "character": "植",
+      "romaji": "shoku, u",
+      "meaning": "menanam",
+      "audioText": "しょく、う",
+      "onyomi_kana": "しょく",
+      "kunyomi_kana": "う",
+      "onyomi_romaji": "SHOKU",
+      "kunyomi_romaji": "u"
     }
   ],
   "vocabulary_n4": [
