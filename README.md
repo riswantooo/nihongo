@@ -58,34 +58,3 @@ Aplikasi ini dibangun menggunakan teknologi web modern:
 ├── package.json            # Daftar dependency dan script npm
 └── vite.config.js          # Konfigurasi bundler Vite
 ```
-
----
-
-## Cara Menjalankan Proyek di Lokal
-
-### Prasyarat
-Pastikan Anda sudah menginstal [Node.js](https://nodejs.org/) di perangkat Anda.
-
-### Langkah-langkah
-1.  **Clone Repositori**:
-    ```bash
-    git clone <url-repositori-anda>
-    cd <nama-folder-repositori>
-    ```
-
-2.  **Instal Dependency**:
-    ```bash
-    npm install
-    ```
-
-3.  **Jalankan Server Development**:
-    ```bash
-    npm run dev
-    ```
-    Aplikasi akan berjalan di alamat `http://localhost:5173`.
-
-4.  **Build untuk Produksi**:
-    ```bash
-    npm run build
-    ```
-    Hasil build siap dideploy akan berada di folder `/dist`.
