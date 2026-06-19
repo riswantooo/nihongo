@@ -1,0 +1,188 @@
+[
+  {
+    "particle": "は",
+    "romaji": "wa",
+    "meaning": "Partikel penanda topik utama kalimat.",
+    "rules": "Diletakkan setelah subjek/topik kalimat. Menggantikan partikel が atau を jika kata tersebut dijadikan topik.",
+    "examples": [
+      {
+        "jp": "私は学生です。",
+        "kana": "わたしはがくせいです。",
+        "id": "Saya adalah seorang siswa."
+      }
+    ]
+  },
+  {
+    "particle": "が",
+    "romaji": "ga",
+    "meaning": "Partikel penanda subjek (terutama untuk informasi baru atau keberadaan).",
+    "rules": "Digunakan dengan kata kerja keberadaan (あります/います), kata sifat, atau kata kerja potensial.",
+    "examples": [
+      {
+        "jp": "犬がいます。",
+        "kana": "いぬがいます。",
+        "id": "Ada anjing."
+      },
+      {
+        "jp": "日本語が分かります。",
+        "kana": "にほんごがわかります。",
+        "id": "Saya mengerti bahasa Jepang."
+      }
+    ]
+  },
+  {
+    "particle": "を",
+    "romaji": "o",
+    "meaning": "Partikel penanda objek langsung dari sebuah kata kerja.",
+    "rules": "Diletakkan setelah kata benda objek dan sebelum kata kerja transitif.",
+    "examples": [
+      {
+        "jp": "パンを食べます。",
+        "kana": "パンをたべます。",
+        "id": "Saya makan roti."
+      }
+    ]
+  },
+  {
+    "particle": "に",
+    "romaji": "ni",
+    "meaning": "Menandakan waktu, tempat keberadaan, tujuan/arah, atau objek penerima.",
+    "rules": "Digunakan untuk waktu spesifik (angka), tempat di mana sesuatu berada (dengan あります/います), dan arah pergi/datang.",
+    "examples": [
+      {
+        "jp": "明日７時に起きます。",
+        "kana": "あしたしちじにおきます。",
+        "id": "Besok saya bangun jam 7."
+      },
+      {
+        "jp": "机の上に本があります。",
+        "kana": "つくえのうえにほんがあります。",
+        "id": "Ada buku di atas meja."
+      }
+    ]
+  },
+  {
+    "particle": "で",
+    "romaji": "de",
+    "meaning": "Menandakan tempat aktivitas, alat/metode, atau bahan.",
+    "rules": "Digunakan setelah kata benda tempat di mana aktivitas dilakukan, atau setelah alat yang digunakan.",
+    "examples": [
+      {
+        "jp": "学校で勉強します。",
+        "kana": "がっこうでべんきょうします。",
+        "id": "Saya belajar di sekolah."
+      },
+      {
+        "jp": "箸で食べます。",
+        "kana": "はしでたべます。",
+        "id": "Saya makan menggunakan sumpit."
+      }
+    ]
+  },
+  {
+    "particle": "へ",
+    "romaji": "e",
+    "meaning": "Menandakan arah tujuan pergerakan.",
+    "rules": "Digunakan dengan kata kerja pergerakan seperti 行く (pergi), 来る (datang), 帰る (pulang). Bisa diganti dengan に.",
+    "examples": [
+      {
+        "jp": "日本へ行きます。",
+        "kana": "にほんへいきます。",
+        "id": "Saya pergi ke Jepang."
+      }
+    ]
+  },
+  {
+    "particle": "と",
+    "romaji": "to",
+    "meaning": "Berarti 'dan' (menyambung kata benda) atau 'bersama dengan'.",
+    "rules": "Hanya digunakan untuk menggabungkan kata benda dengan kata benda lainnya secara lengkap.",
+    "examples": [
+      {
+        "jp": "パンと卵を食べます。",
+        "kana": "パンとたまごをたべます。",
+        "id": "Saya makan roti dan telur."
+      },
+      {
+        "jp": "友達と行きます。",
+        "kana": "ともだちといきます。",
+        "id": "Saya pergi bersama teman."
+      }
+    ]
+  },
+  {
+    "particle": "や",
+    "romaji": "ya",
+    "meaning": "Berarti 'dan' (tetapi untuk menyebutkan sebagian contoh dari banyak hal).",
+    "rules": "Menggabungkan dua atau lebih kata benda, menyiratkan bahwa masih ada benda lain yang tidak disebutkan.",
+    "examples": [
+      {
+        "jp": "鞄の中に本やペンがあります。",
+        "kana": "かばんのなかにほんやペンがあります。",
+        "id": "Di dalam tas ada buku, pena, (dan lain-lain)."
+      }
+    ]
+  },
+  {
+    "particle": "も",
+    "romaji": "mo",
+    "meaning": "Berarti 'juga' atau 'pun'.",
+    "rules": "Menggantikan partikel は, が, atau を untuk menunjukkan kesamaan. Dapat digabungkan dengan partikel lain seperti にも atau でも.",
+    "examples": [
+      {
+        "jp": "私も学生です。",
+        "kana": "わたしもがくせいです。",
+        "id": "Saya juga seorang siswa."
+      }
+    ]
+  },
+  {
+    "particle": "の",
+    "romaji": "no",
+    "meaning": "Partikel kepemilikan atau modifikasi kata benda.",
+    "rules": "A の B: B milik A, atau B dijelaskan oleh A.",
+    "examples": [
+      {
+        "jp": "私の本です。",
+        "kana": "わたしのほんです。",
+        "id": "Ini buku saya."
+      },
+      {
+        "jp": "日本語の先生",
+        "kana": "にほんごのせんせい",
+        "id": "Guru bahasa Jepang"
+      }
+    ]
+  },
+  {
+    "particle": "から",
+    "romaji": "kara",
+    "meaning": "Berarti 'dari' (titik awal waktu atau tempat) atau 'karena' (alasan).",
+    "rules": "Untuk tempat/waktu: [Kata benda] + から. Untuk alasan: [Kalimat] + から.",
+    "examples": [
+      {
+        "jp": "家から駅まで歩きます。",
+        "kana": "いえからえきまであるきます。",
+        "id": "Saya berjalan dari rumah sampai stasiun."
+      },
+      {
+        "jp": "暑いから、窓を開けます。",
+        "kana": "あついから、まどをあけます。",
+        "id": "Karena panas, saya membuka jendela."
+      }
+    ]
+  },
+  {
+    "particle": "まで",
+    "romaji": "made",
+    "meaning": "Berarti 'sampai' (titik akhir waktu atau tempat).",
+    "rules": "Sering dipasangkan dengan から.",
+    "examples": [
+      {
+        "jp": "９時から５時まで働きます。",
+        "kana": "くじからごじまではたらきます。",
+        "id": "Saya bekerja dari jam 9 sampai jam 5."
+      }
+    ]
+  }
+]

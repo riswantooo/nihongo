@@ -1,0 +1,1652 @@
+[
+  {
+    "character": "ああ",
+    "romaji": "aa",
+    "meaning": "seperti itu, ah!"
+  },
+  {
+    "character": "会う",
+    "romaji": "au",
+    "meaning": "bertemu"
+  },
+  {
+    "character": "青い",
+    "romaji": "aoi",
+    "meaning": "biru"
+  },
+  {
+    "character": "赤い",
+    "romaji": "akai",
+    "meaning": "merah"
+  },
+  {
+    "character": "明るい",
+    "romaji": "akarui",
+    "meaning": "terang"
+  },
+  {
+    "character": "秋",
+    "romaji": "aki",
+    "meaning": "musim gugur"
+  },
+  {
+    "character": "開く",
+    "romaji": "aku",
+    "meaning": "terbuka"
+  },
+  {
+    "character": "開ける",
+    "romaji": "akeru",
+    "meaning": "membuka"
+  },
+  {
+    "character": "上げる",
+    "romaji": "ageru",
+    "meaning": "memberi, menaikkan"
+  },
+  {
+    "character": "朝",
+    "romaji": "asa",
+    "meaning": "pagi"
+  },
+  {
+    "character": "朝御飯",
+    "romaji": "asagohan",
+    "meaning": "sarapan"
+  },
+  {
+    "character": "明後日",
+    "romaji": "asatte",
+    "meaning": "lusa"
+  },
+  {
+    "character": "足",
+    "romaji": "ashi",
+    "meaning": "kaki"
+  },
+  {
+    "character": "明日",
+    "romaji": "ashita",
+    "meaning": "besok"
+  },
+  {
+    "character": "あそこ",
+    "romaji": "asoko",
+    "meaning": "di sana (jauh)"
+  },
+  {
+    "character": "遊ぶ",
+    "romaji": "asobu",
+    "meaning": "bermain"
+  },
+  {
+    "character": "暖かい",
+    "romaji": "atatakai",
+    "meaning": "hangat"
+  },
+  {
+    "character": "頭",
+    "romaji": "atama",
+    "meaning": "kepala"
+  },
+  {
+    "character": "新しい",
+    "romaji": "atarashii",
+    "meaning": "baru"
+  },
+  {
+    "character": "あちら",
+    "romaji": "achira",
+    "meaning": "sebelah sana"
+  },
+  {
+    "character": "暑い",
+    "romaji": "atsui",
+    "meaning": "panas (cuaca)"
+  },
+  {
+    "character": "熱い",
+    "romaji": "atsui",
+    "meaning": "panas (benda)"
+  },
+  {
+    "character": "厚い",
+    "romaji": "atsui",
+    "meaning": "tebal"
+  },
+  {
+    "character": "あっち",
+    "romaji": "acchi",
+    "meaning": "sana"
+  },
+  {
+    "character": "後",
+    "romaji": "ato",
+    "meaning": "setelah, nanti"
+  },
+  {
+    "character": "あなた",
+    "romaji": "anata",
+    "meaning": "kamu, Anda"
+  },
+  {
+    "character": "兄",
+    "romaji": "ani",
+    "meaning": "kakak laki-laki (sendiri)"
+  },
+  {
+    "character": "姉",
+    "romaji": "ane",
+    "meaning": "kakak perempuan (sendiri)"
+  },
+  {
+    "character": "あの",
+    "romaji": "ano",
+    "meaning": "anu, itu"
+  },
+  {
+    "character": "アパート",
+    "romaji": "apaato",
+    "meaning": "apartemen"
+  },
+  {
+    "character": "浴びる",
+    "romaji": "abiru",
+    "meaning": "mandi"
+  },
+  {
+    "character": "危ない",
+    "romaji": "abunai",
+    "meaning": "berbahaya"
+  },
+  {
+    "character": "甘い",
+    "romaji": "amai",
+    "meaning": "manis"
+  },
+  {
+    "character": "あまり",
+    "romaji": "amari",
+    "meaning": "tidak begitu"
+  },
+  {
+    "character": "雨",
+    "romaji": "ame",
+    "meaning": "hujan"
+  },
+  {
+    "character": "飴",
+    "romaji": "ame",
+    "meaning": "permen"
+  },
+  {
+    "character": "洗う",
+    "romaji": "arau",
+    "meaning": "mencuci"
+  },
+  {
+    "character": "ある",
+    "romaji": "aru",
+    "meaning": "ada (benda mati)"
+  },
+  {
+    "character": "歩く",
+    "romaji": "aruku",
+    "meaning": "berjalan"
+  },
+  {
+    "character": "あれ",
+    "romaji": "are",
+    "meaning": "itu (jauh)"
+  },
+  {
+    "character": "いい / よい",
+    "romaji": "ii / yoi",
+    "meaning": "bagus, baik"
+  },
+  {
+    "character": "いいえ",
+    "romaji": "iie",
+    "meaning": "tidak"
+  },
+  {
+    "character": "言う",
+    "romaji": "iu",
+    "meaning": "berkata"
+  },
+  {
+    "character": "家",
+    "romaji": "ie",
+    "meaning": "rumah"
+  },
+  {
+    "character": "いかが",
+    "romaji": "ikaga",
+    "meaning": "bagaimana"
+  },
+  {
+    "character": "行く",
+    "romaji": "iku",
+    "meaning": "pergi"
+  },
+  {
+    "character": "いくつ",
+    "romaji": "ikutsu",
+    "meaning": "berapa buah, berapa umur"
+  },
+  {
+    "character": "いくら",
+    "romaji": "ikura",
+    "meaning": "berapa harga"
+  },
+  {
+    "character": "池",
+    "romaji": "ike",
+    "meaning": "kolam"
+  },
+  {
+    "character": "医者",
+    "romaji": "isha",
+    "meaning": "dokter"
+  },
+  {
+    "character": "椅子",
+    "romaji": "isu",
+    "meaning": "kursi"
+  },
+  {
+    "character": "忙しい",
+    "romaji": "isogashii",
+    "meaning": "sibuk"
+  },
+  {
+    "character": "痛い",
+    "romaji": "itai",
+    "meaning": "sakit"
+  },
+  {
+    "character": "一",
+    "romaji": "ichi",
+    "meaning": "satu"
+  },
+  {
+    "character": "一日",
+    "romaji": "ichinichi",
+    "meaning": "satu hari"
+  },
+  {
+    "character": "一番",
+    "romaji": "ichiban",
+    "meaning": "nomor satu, paling"
+  },
+  {
+    "character": "いつ",
+    "romaji": "itsu",
+    "meaning": "kapan"
+  },
+  {
+    "character": "五日",
+    "romaji": "itsuka",
+    "meaning": "tanggal 5, 5 hari"
+  },
+  {
+    "character": "一緒",
+    "romaji": "issho",
+    "meaning": "bersama"
+  },
+  {
+    "character": "五つ",
+    "romaji": "itsutsu",
+    "meaning": "lima buah"
+  },
+  {
+    "character": "いつも",
+    "romaji": "itsumo",
+    "meaning": "selalu"
+  },
+  {
+    "character": "犬",
+    "romaji": "inu",
+    "meaning": "anjing"
+  },
+  {
+    "character": "今",
+    "romaji": "ima",
+    "meaning": "sekarang"
+  },
+  {
+    "character": "意味",
+    "romaji": "imi",
+    "meaning": "arti"
+  },
+  {
+    "character": "妹",
+    "romaji": "imouto",
+    "meaning": "adik perempuan"
+  },
+  {
+    "character": "嫌",
+    "romaji": "iya",
+    "meaning": "tidak suka"
+  },
+  {
+    "character": "入口",
+    "romaji": "iriguchi",
+    "meaning": "pintu masuk"
+  },
+  {
+    "character": "居る",
+    "romaji": "iru",
+    "meaning": "ada (benda hidup)"
+  },
+  {
+    "character": "要る",
+    "romaji": "iru",
+    "meaning": "membutuhkan"
+  },
+  {
+    "character": "入れる",
+    "romaji": "ireru",
+    "meaning": "memasukkan"
+  },
+  {
+    "character": "色",
+    "romaji": "iro",
+    "meaning": "warna"
+  },
+  {
+    "character": "色々",
+    "romaji": "iroiro",
+    "meaning": "bermacam-macam"
+  },
+  {
+    "character": "上",
+    "romaji": "ue",
+    "meaning": "atas"
+  },
+  {
+    "character": "後ろ",
+    "romaji": "ushiro",
+    "meaning": "belakang"
+  },
+  {
+    "character": "薄い",
+    "romaji": "usui",
+    "meaning": "tipis"
+  },
+  {
+    "character": "歌",
+    "romaji": "uta",
+    "meaning": "lagu"
+  },
+  {
+    "character": "歌う",
+    "romaji": "utau",
+    "meaning": "bernyanyi"
+  },
+  {
+    "character": "生まれる",
+    "romaji": "umareru",
+    "meaning": "lahir"
+  },
+  {
+    "character": "海",
+    "romaji": "umi",
+    "meaning": "laut"
+  },
+  {
+    "character": "売る",
+    "romaji": "uru",
+    "meaning": "menjual"
+  },
+  {
+    "character": "うるさい",
+    "romaji": "urusai",
+    "meaning": "berisik"
+  },
+  {
+    "character": "上着",
+    "romaji": "uwagi",
+    "meaning": "jaket, mantel"
+  },
+  {
+    "character": "絵",
+    "romaji": "e",
+    "meaning": "gambar"
+  },
+  {
+    "character": "映画",
+    "romaji": "eiga",
+    "meaning": "film"
+  },
+  {
+    "character": "映画館",
+    "romaji": "eigakan",
+    "meaning": "bioskop"
+  },
+  {
+    "character": "英語",
+    "romaji": "eigo",
+    "meaning": "bahasa Inggris"
+  },
+  {
+    "character": "ええ",
+    "romaji": "ee",
+    "meaning": "ya"
+  },
+  {
+    "character": "駅",
+    "romaji": "eki",
+    "meaning": "stasiun"
+  },
+  {
+    "character": "エレベーター",
+    "romaji": "erebeetaa",
+    "meaning": "lift"
+  },
+  {
+    "character": "鉛筆",
+    "romaji": "enpitsu",
+    "meaning": "pensil"
+  },
+  {
+    "character": "おいしい",
+    "romaji": "oishii",
+    "meaning": "enak"
+  },
+  {
+    "character": "多い",
+    "romaji": "ooi",
+    "meaning": "banyak"
+  },
+  {
+    "character": "大きい",
+    "romaji": "ookii",
+    "meaning": "besar"
+  },
+  {
+    "character": "おおぜい",
+    "romaji": "oozei",
+    "meaning": "banyak orang"
+  },
+  {
+    "character": "お母さん",
+    "romaji": "okaasan",
+    "meaning": "ibu (orang lain)"
+  },
+  {
+    "character": "お菓子",
+    "romaji": "okashi",
+    "meaning": "kue, snack"
+  },
+  {
+    "character": "お金",
+    "romaji": "okane",
+    "meaning": "uang"
+  },
+  {
+    "character": "起きる",
+    "romaji": "okiru",
+    "meaning": "bangun"
+  },
+  {
+    "character": "置く",
+    "romaji": "oku",
+    "meaning": "meletakkan"
+  },
+  {
+    "character": "奥さん",
+    "romaji": "okusan",
+    "meaning": "istri (orang lain)"
+  },
+  {
+    "character": "お酒",
+    "romaji": "osake",
+    "meaning": "alkohol"
+  },
+  {
+    "character": "お皿",
+    "romaji": "osara",
+    "meaning": "piring"
+  },
+  {
+    "character": "伯父/叔父",
+    "romaji": "oji",
+    "meaning": "paman"
+  },
+  {
+    "character": "おじいさん",
+    "romaji": "ojiisan",
+    "meaning": "kakek"
+  },
+  {
+    "character": "教える",
+    "romaji": "oshieru",
+    "meaning": "mengajar, memberitahu"
+  },
+  {
+    "character": "押す",
+    "romaji": "osu",
+    "meaning": "menekan, mendorong"
+  },
+  {
+    "character": "遅い",
+    "romaji": "osoi",
+    "meaning": "lambat, terlambat"
+  },
+  {
+    "character": "お茶",
+    "romaji": "ocha",
+    "meaning": "teh"
+  },
+  {
+    "character": "お手洗い",
+    "romaji": "otearai",
+    "meaning": "toilet"
+  },
+  {
+    "character": "お父さん",
+    "romaji": "otousan",
+    "meaning": "ayah (orang lain)"
+  },
+  {
+    "character": "弟",
+    "romaji": "otouto",
+    "meaning": "adik laki-laki"
+  },
+  {
+    "character": "男",
+    "romaji": "otoko",
+    "meaning": "laki-laki"
+  },
+  {
+    "character": "男の子",
+    "romaji": "otoko no ko",
+    "meaning": "anak laki-laki"
+  },
+  {
+    "character": "一昨日",
+    "romaji": "ototoi",
+    "meaning": "kemarin lusa"
+  },
+  {
+    "character": "一昨年",
+    "romaji": "ototoshi",
+    "meaning": "dua tahun yang lalu"
+  },
+  {
+    "character": "大人",
+    "romaji": "otona",
+    "meaning": "orang dewasa"
+  },
+  {
+    "character": "お腹",
+    "romaji": "onaka",
+    "meaning": "perut"
+  },
+  {
+    "character": "同じ",
+    "romaji": "onaji",
+    "meaning": "sama"
+  },
+  {
+    "character": "お兄さん",
+    "romaji": "oniisan",
+    "meaning": "kakak laki-laki (orang lain)"
+  },
+  {
+    "character": "お姉さん",
+    "romaji": "oneesan",
+    "meaning": "kakak perempuan (orang lain)"
+  },
+  {
+    "character": "伯母/叔母",
+    "romaji": "oba",
+    "meaning": "bibi"
+  },
+  {
+    "character": "おばあさん",
+    "romaji": "obaasan",
+    "meaning": "nenek"
+  },
+  {
+    "character": "お弁当",
+    "romaji": "obentou",
+    "meaning": "kotak bekal"
+  },
+  {
+    "character": "覚える",
+    "romaji": "oboeru",
+    "meaning": "mengingat, menghafal"
+  },
+  {
+    "character": "重い",
+    "romaji": "omoi",
+    "meaning": "berat"
+  },
+  {
+    "character": "面白い",
+    "romaji": "omoshiroi",
+    "meaning": "menarik"
+  },
+  {
+    "character": "泳ぐ",
+    "romaji": "oyogu",
+    "meaning": "berenang"
+  },
+  {
+    "character": "降りる",
+    "romaji": "oriru",
+    "meaning": "turun (kendaraan)"
+  },
+  {
+    "character": "終わる",
+    "romaji": "owaru",
+    "meaning": "berakhir"
+  },
+  {
+    "character": "音楽",
+    "romaji": "ongaku",
+    "meaning": "musik"
+  },
+  {
+    "character": "女",
+    "romaji": "onna",
+    "meaning": "perempuan"
+  },
+  {
+    "character": "女の子",
+    "romaji": "onna no ko",
+    "meaning": "anak perempuan"
+  },
+  {
+    "character": "外国",
+    "romaji": "gaikoku",
+    "meaning": "luar negeri"
+  },
+  {
+    "character": "外国人",
+    "romaji": "gaikokujin",
+    "meaning": "orang asing"
+  },
+  {
+    "character": "会社",
+    "romaji": "kaisha",
+    "meaning": "perusahaan"
+  },
+  {
+    "character": "階段",
+    "romaji": "kaidan",
+    "meaning": "tangga"
+  },
+  {
+    "character": "買い物",
+    "romaji": "kaimono",
+    "meaning": "belanja"
+  },
+  {
+    "character": "買う",
+    "romaji": "kau",
+    "meaning": "membeli"
+  },
+  {
+    "character": "返す",
+    "romaji": "kaesu",
+    "meaning": "mengembalikan"
+  },
+  {
+    "character": "帰る",
+    "romaji": "kaeru",
+    "meaning": "pulang"
+  },
+  {
+    "character": "顔",
+    "romaji": "kao",
+    "meaning": "wajah"
+  },
+  {
+    "character": "かかる",
+    "romaji": "kakaru",
+    "meaning": "membutuhkan (waktu/uang)"
+  },
+  {
+    "character": "鍵",
+    "romaji": "kagi",
+    "meaning": "kunci"
+  },
+  {
+    "character": "書く",
+    "romaji": "kaku",
+    "meaning": "menulis"
+  },
+  {
+    "character": "学生",
+    "romaji": "gakusei",
+    "meaning": "siswa"
+  },
+  {
+    "character": "かける",
+    "romaji": "kakeru",
+    "meaning": "menelepon, memakai (kacamata)"
+  },
+  {
+    "character": "傘",
+    "romaji": "kasa",
+    "meaning": "payung"
+  },
+  {
+    "character": "貸す",
+    "romaji": "kasu",
+    "meaning": "meminjamkan"
+  },
+  {
+    "character": "風",
+    "romaji": "kaze",
+    "meaning": "angin"
+  },
+  {
+    "character": "風邪",
+    "romaji": "kaze",
+    "meaning": "masuk angin"
+  },
+  {
+    "character": "家族",
+    "romaji": "kazoku",
+    "meaning": "keluarga"
+  },
+  {
+    "character": "方",
+    "romaji": "kata",
+    "meaning": "orang (sopan)"
+  },
+  {
+    "character": "学校",
+    "romaji": "gakkou",
+    "meaning": "sekolah"
+  },
+  {
+    "character": "カップ",
+    "romaji": "kappu",
+    "meaning": "cangkir"
+  },
+  {
+    "character": "家庭",
+    "romaji": "katei",
+    "meaning": "rumah tangga"
+  },
+  {
+    "character": "角",
+    "romaji": "kado",
+    "meaning": "sudut"
+  },
+  {
+    "character": "かばん",
+    "romaji": "kaban",
+    "meaning": "tas"
+  },
+  {
+    "character": "花瓶",
+    "romaji": "kabin",
+    "meaning": "vas bunga"
+  },
+  {
+    "character": "紙",
+    "romaji": "kami",
+    "meaning": "kertas"
+  },
+  {
+    "character": "カメラ",
+    "romaji": "kamera",
+    "meaning": "kamera"
+  },
+  {
+    "character": "火曜日",
+    "romaji": "kayoubi",
+    "meaning": "hari Selasa"
+  },
+  {
+    "character": "辛い",
+    "romaji": "karai",
+    "meaning": "pedas"
+  },
+  {
+    "character": "体",
+    "romaji": "karada",
+    "meaning": "tubuh"
+  },
+  {
+    "character": "借りる",
+    "romaji": "kariru",
+    "meaning": "meminjam"
+  },
+  {
+    "character": "軽い",
+    "romaji": "karui",
+    "meaning": "ringan"
+  },
+  {
+    "character": "カレー",
+    "romaji": "karee",
+    "meaning": "kari"
+  },
+  {
+    "character": "カレンダー",
+    "romaji": "karendaa",
+    "meaning": "kalender"
+  },
+  {
+    "character": "川",
+    "romaji": "kawa",
+    "meaning": "sungai"
+  },
+  {
+    "character": "かわいい",
+    "romaji": "kawaii",
+    "meaning": "lucu, imut"
+  },
+  {
+    "character": "漢字",
+    "romaji": "kanji",
+    "meaning": "huruf kanji"
+  },
+  {
+    "character": "木",
+    "romaji": "ki",
+    "meaning": "pohon, kayu"
+  },
+  {
+    "character": "黄色い",
+    "romaji": "kiiroi",
+    "meaning": "kuning"
+  },
+  {
+    "character": "消える",
+    "romaji": "kieru",
+    "meaning": "padam, menghilang"
+  },
+  {
+    "character": "聞く",
+    "romaji": "kiku",
+    "meaning": "mendengar, bertanya"
+  },
+  {
+    "character": "北",
+    "romaji": "kita",
+    "meaning": "utara"
+  },
+  {
+    "character": "ギター",
+    "romaji": "gitaa",
+    "meaning": "gitar"
+  },
+  {
+    "character": "汚い",
+    "romaji": "kitanai",
+    "meaning": "kotor"
+  },
+  {
+    "character": "喫茶店",
+    "romaji": "kissaten",
+    "meaning": "kedai kopi"
+  },
+  {
+    "character": "切手",
+    "romaji": "kitte",
+    "meaning": "perangko"
+  },
+  {
+    "character": "切符",
+    "romaji": "kippu",
+    "meaning": "tiket"
+  },
+  {
+    "character": "昨日",
+    "romaji": "kinou",
+    "meaning": "kemarin"
+  },
+  {
+    "character": "九",
+    "romaji": "kyuu / ku",
+    "meaning": "sembilan"
+  },
+  {
+    "character": "牛肉",
+    "romaji": "gyuuniku",
+    "meaning": "daging sapi"
+  },
+  {
+    "character": "牛乳",
+    "romaji": "gyuunyuu",
+    "meaning": "susu sapi"
+  },
+  {
+    "character": "今日",
+    "romaji": "kyou",
+    "meaning": "hari ini"
+  },
+  {
+    "character": "教室",
+    "romaji": "kyoushitsu",
+    "meaning": "ruang kelas"
+  },
+  {
+    "character": "兄弟",
+    "romaji": "kyoudai",
+    "meaning": "saudara"
+  },
+  {
+    "character": "去年",
+    "romaji": "kyonen",
+    "meaning": "tahun lalu"
+  },
+  {
+    "character": "嫌い",
+    "romaji": "kirai",
+    "meaning": "benci"
+  },
+  {
+    "character": "切る",
+    "romaji": "kiru",
+    "meaning": "memotong"
+  },
+  {
+    "character": "着る",
+    "romaji": "kiru",
+    "meaning": "memakai (baju atas)"
+  },
+  {
+    "character": "きれい",
+    "romaji": "kirei",
+    "meaning": "cantik, bersih"
+  },
+  {
+    "character": "キロ",
+    "romaji": "kiro",
+    "meaning": "kilo"
+  },
+  {
+    "character": "銀行",
+    "romaji": "ginkou",
+    "meaning": "bank"
+  },
+  {
+    "character": "金曜日",
+    "romaji": "kin'youbi",
+    "meaning": "hari Jumat"
+  },
+  {
+    "character": "薬",
+    "romaji": "kusuri",
+    "meaning": "obat"
+  },
+  {
+    "character": "ください",
+    "romaji": "kudasai",
+    "meaning": "tolong berikan"
+  },
+  {
+    "character": "果物",
+    "romaji": "kudamono",
+    "meaning": "buah"
+  },
+  {
+    "character": "口",
+    "romaji": "kuchi",
+    "meaning": "mulut"
+  },
+  {
+    "character": "靴",
+    "romaji": "kutsu",
+    "meaning": "sepatu"
+  },
+  {
+    "character": "靴下",
+    "romaji": "kutsushita",
+    "meaning": "kaus kaki"
+  },
+  {
+    "character": "国",
+    "romaji": "kuni",
+    "meaning": "negara"
+  },
+  {
+    "character": "曇り",
+    "romaji": "kumori",
+    "meaning": "mendung"
+  },
+  {
+    "character": "暗い",
+    "romaji": "kurai",
+    "meaning": "gelap"
+  },
+  {
+    "character": "クラス",
+    "romaji": "kurasu",
+    "meaning": "kelas"
+  },
+  {
+    "character": "グラム",
+    "romaji": "guramu",
+    "meaning": "gram"
+  },
+  {
+    "character": "来る",
+    "romaji": "kuru",
+    "meaning": "datang"
+  },
+  {
+    "character": "車",
+    "romaji": "kuruma",
+    "meaning": "mobil"
+  },
+  {
+    "character": "黒い",
+    "romaji": "kuroi",
+    "meaning": "hitam"
+  },
+  {
+    "character": "警察",
+    "romaji": "keisatsu",
+    "meaning": "polisi"
+  },
+  {
+    "character": "今朝",
+    "romaji": "kesa",
+    "meaning": "tadi pagi"
+  },
+  {
+    "character": "消す",
+    "romaji": "kesu",
+    "meaning": "mematikan, menghapus"
+  },
+  {
+    "character": "結構",
+    "romaji": "kekkou",
+    "meaning": "cukup, tidak usah"
+  },
+  {
+    "character": "結婚",
+    "romaji": "kekkon",
+    "meaning": "menikah"
+  },
+  {
+    "character": "月曜日",
+    "romaji": "getsuyoubi",
+    "meaning": "hari Senin"
+  },
+  {
+    "character": "玄関",
+    "romaji": "genkan",
+    "meaning": "pintu masuk"
+  },
+  {
+    "character": "元気",
+    "romaji": "genki",
+    "meaning": "sehat, semangat"
+  },
+  {
+    "character": "五",
+    "romaji": "go",
+    "meaning": "lima"
+  },
+  {
+    "character": "公園",
+    "romaji": "kouen",
+    "meaning": "taman"
+  },
+  {
+    "character": "交差点",
+    "romaji": "kousaten",
+    "meaning": "perempatan"
+  },
+  {
+    "character": "紅茶",
+    "romaji": "koucha",
+    "meaning": "teh hitam"
+  },
+  {
+    "character": "交番",
+    "romaji": "kouban",
+    "meaning": "pos polisi"
+  },
+  {
+    "character": "声",
+    "romaji": "koe",
+    "meaning": "suara"
+  },
+  {
+    "character": "コート",
+    "romaji": "kooto",
+    "meaning": "mantel"
+  },
+  {
+    "character": "コーヒー",
+    "romaji": "koohii",
+    "meaning": "kopi"
+  },
+  {
+    "character": "ここ",
+    "romaji": "koko",
+    "meaning": "di sini"
+  },
+  {
+    "character": "午後",
+    "romaji": "gogo",
+    "meaning": "PM (siang - malam)"
+  },
+  {
+    "character": "九日",
+    "romaji": "kokonoka",
+    "meaning": "tanggal 9, 9 hari"
+  },
+  {
+    "character": "九つ",
+    "romaji": "kokonotsu",
+    "meaning": "sembilan buah"
+  },
+  {
+    "character": "午前",
+    "romaji": "gozen",
+    "meaning": "AM (pagi)"
+  },
+  {
+    "character": "答える",
+    "romaji": "kotaeru",
+    "meaning": "menjawab"
+  },
+  {
+    "character": "こちら",
+    "romaji": "kochira",
+    "meaning": "sebelah sini"
+  },
+  {
+    "character": "こっち",
+    "romaji": "kocchi",
+    "meaning": "sini"
+  },
+  {
+    "character": "コップ",
+    "romaji": "koppu",
+    "meaning": "gelas"
+  },
+  {
+    "character": "今年",
+    "romaji": "kotoshi",
+    "meaning": "tahun ini"
+  },
+  {
+    "character": "言葉",
+    "romaji": "kotoba",
+    "meaning": "kata, bahasa"
+  },
+  {
+    "character": "子供",
+    "romaji": "kodomo",
+    "meaning": "anak"
+  },
+  {
+    "character": "この",
+    "romaji": "kono",
+    "meaning": "ini"
+  },
+  {
+    "character": "御飯",
+    "romaji": "gohan",
+    "meaning": "nasi, makanan"
+  },
+  {
+    "character": "コピーする",
+    "romaji": "kopii suru",
+    "meaning": "memfotokopi"
+  },
+  {
+    "character": "困る",
+    "romaji": "komaru",
+    "meaning": "kesulitan"
+  },
+  {
+    "character": "これ",
+    "romaji": "kore",
+    "meaning": "ini (kata ganti)"
+  },
+  {
+    "character": "今月",
+    "romaji": "kongetsu",
+    "meaning": "bulan ini"
+  },
+  {
+    "character": "今週",
+    "romaji": "konshuu",
+    "meaning": "minggu ini"
+  },
+  {
+    "character": "こんな",
+    "romaji": "konna",
+    "meaning": "seperti ini"
+  },
+  {
+    "character": "今晩",
+    "romaji": "konban",
+    "meaning": "malam ini"
+  },
+  {
+    "character": "さあ",
+    "romaji": "saa",
+    "meaning": "mari kita"
+  },
+  {
+    "character": "財布",
+    "romaji": "saifu",
+    "meaning": "dompet"
+  },
+  {
+    "character": "魚",
+    "romaji": "sakana",
+    "meaning": "ikan"
+  },
+  {
+    "character": "先",
+    "romaji": "saki",
+    "meaning": "sebelumnya, tujuan"
+  },
+  {
+    "character": "咲く",
+    "romaji": "saku",
+    "meaning": "mekar"
+  },
+  {
+    "character": "作文",
+    "romaji": "sakubun",
+    "meaning": "karangan"
+  },
+  {
+    "character": "さす",
+    "romaji": "sasu",
+    "meaning": "memakai payung"
+  },
+  {
+    "character": "雑誌",
+    "romaji": "zasshi",
+    "meaning": "majalah"
+  },
+  {
+    "character": "砂糖",
+    "romaji": "satou",
+    "meaning": "gula"
+  },
+  {
+    "character": "寒い",
+    "romaji": "samui",
+    "meaning": "dingin (cuaca)"
+  },
+  {
+    "character": "さ来年",
+    "romaji": "sarainen",
+    "meaning": "dua tahun lagi"
+  },
+  {
+    "character": "三",
+    "romaji": "san",
+    "meaning": "tiga"
+  },
+  {
+    "character": "散歩する",
+    "romaji": "sanpo suru",
+    "meaning": "jalan-jalan"
+  },
+  {
+    "character": "四",
+    "romaji": "shi / yon",
+    "meaning": "empat"
+  },
+  {
+    "character": "塩",
+    "romaji": "shio",
+    "meaning": "garam"
+  },
+  {
+    "character": "しかし",
+    "romaji": "shikashi",
+    "meaning": "tetapi"
+  },
+  {
+    "character": "時間",
+    "romaji": "jikan",
+    "meaning": "waktu"
+  },
+  {
+    "character": "仕事",
+    "romaji": "shigoto",
+    "meaning": "pekerjaan"
+  },
+  {
+    "character": "辞書",
+    "romaji": "jisho",
+    "meaning": "kamus"
+  },
+  {
+    "character": "静か",
+    "romaji": "shizuka",
+    "meaning": "sepi, tenang"
+  },
+  {
+    "character": "下",
+    "romaji": "shita",
+    "meaning": "bawah"
+  },
+  {
+    "character": "七",
+    "romaji": "shichi / nana",
+    "meaning": "tujuh"
+  },
+  {
+    "character": "質問",
+    "romaji": "shitsumon",
+    "meaning": "pertanyaan"
+  },
+  {
+    "character": "自転車",
+    "romaji": "jitensha",
+    "meaning": "sepeda"
+  },
+  {
+    "character": "自動車",
+    "romaji": "jidousha",
+    "meaning": "mobil"
+  },
+  {
+    "character": "死ぬ",
+    "romaji": "shinu",
+    "meaning": "mati"
+  },
+  {
+    "character": "字引",
+    "romaji": "jibiki",
+    "meaning": "kamus"
+  },
+  {
+    "character": "自分",
+    "romaji": "jibun",
+    "meaning": "diri sendiri"
+  },
+  {
+    "character": "閉まる",
+    "romaji": "shimaru",
+    "meaning": "tertutup"
+  },
+  {
+    "character": "閉める",
+    "romaji": "shimeru",
+    "meaning": "menutup"
+  },
+  {
+    "character": "締める",
+    "romaji": "shimeru",
+    "meaning": "mengencangkan"
+  },
+  {
+    "character": "じゃ / じゃあ",
+    "romaji": "ja / jaa",
+    "meaning": "kalau begitu"
+  },
+  {
+    "character": "写真",
+    "romaji": "shashin",
+    "meaning": "foto"
+  },
+  {
+    "character": "シャツ",
+    "romaji": "shatsu",
+    "meaning": "kemeja"
+  },
+  {
+    "character": "シャワー",
+    "romaji": "shawaa",
+    "meaning": "pancuran air"
+  },
+  {
+    "character": "十",
+    "romaji": "juu",
+    "meaning": "sepuluh"
+  },
+  {
+    "character": "授業",
+    "romaji": "jugyou",
+    "meaning": "pelajaran"
+  },
+  {
+    "character": "宿題",
+    "romaji": "shukudai",
+    "meaning": "pekerjaan rumah"
+  },
+  {
+    "character": "上手",
+    "romaji": "jouzu",
+    "meaning": "pintar"
+  },
+  {
+    "character": "丈夫",
+    "romaji": "joubu",
+    "meaning": "kuat"
+  },
+  {
+    "character": "食堂",
+    "romaji": "shokudou",
+    "meaning": "kantin"
+  },
+  {
+    "character": "知る",
+    "romaji": "shiru",
+    "meaning": "mengetahui"
+  },
+  {
+    "character": "白い",
+    "romaji": "shiroi",
+    "meaning": "putih"
+  },
+  {
+    "character": "新聞",
+    "romaji": "shinbun",
+    "meaning": "koran"
+  },
+  {
+    "character": "水曜日",
+    "romaji": "suiyoubi",
+    "meaning": "hari Rabu"
+  },
+  {
+    "character": "吸う",
+    "romaji": "suu",
+    "meaning": "menghisap"
+  },
+  {
+    "character": "スカート",
+    "romaji": "sukaato",
+    "meaning": "rok"
+  },
+  {
+    "character": "好き",
+    "romaji": "suki",
+    "meaning": "suka"
+  },
+  {
+    "character": "少ない",
+    "romaji": "sukunai",
+    "meaning": "sedikit"
+  },
+  {
+    "character": "すぐ",
+    "romaji": "sugu",
+    "meaning": "segera"
+  },
+  {
+    "character": "少し",
+    "romaji": "sukoshi",
+    "meaning": "sedikit"
+  },
+  {
+    "character": "涼しい",
+    "romaji": "suzushii",
+    "meaning": "sejuk"
+  },
+  {
+    "character": "ストーブ",
+    "romaji": "sutoobu",
+    "meaning": "kompor"
+  },
+  {
+    "character": "スプーン",
+    "romaji": "supuun",
+    "meaning": "sendok"
+  },
+  {
+    "character": "スポーツ",
+    "romaji": "supootsu",
+    "meaning": "olahraga"
+  },
+  {
+    "character": "ズボン",
+    "romaji": "zubon",
+    "meaning": "celana panjang"
+  },
+  {
+    "character": "住む",
+    "romaji": "sumu",
+    "meaning": "tinggal"
+  },
+  {
+    "character": "スリッパ",
+    "romaji": "surippa",
+    "meaning": "sandal (dalam ruangan)"
+  },
+  {
+    "character": "する",
+    "romaji": "suru",
+    "meaning": "melakukan"
+  },
+  {
+    "character": "座る",
+    "romaji": "suwaru",
+    "meaning": "duduk"
+  },
+  {
+    "character": "背",
+    "romaji": "se",
+    "meaning": "punggung, tinggi badan"
+  },
+  {
+    "character": "生徒",
+    "romaji": "seito",
+    "meaning": "murid"
+  },
+  {
+    "character": "セーター",
+    "romaji": "seetaa",
+    "meaning": "sweter"
+  },
+  {
+    "character": "石鹸",
+    "romaji": "sekken",
+    "meaning": "sabun"
+  },
+  {
+    "character": "背広",
+    "romaji": "sebiro",
+    "meaning": "jas"
+  },
+  {
+    "character": "狭い",
+    "romaji": "semai",
+    "meaning": "sempit"
+  },
+  {
+    "character": "ゼロ",
+    "romaji": "zero",
+    "meaning": "nol"
+  },
+  {
+    "character": "千",
+    "romaji": "sen",
+    "meaning": "seribu"
+  },
+  {
+    "character": "先月",
+    "romaji": "sengetsu",
+    "meaning": "bulan lalu"
+  },
+  {
+    "character": "先週",
+    "romaji": "senshuu",
+    "meaning": "minggu lalu"
+  },
+  {
+    "character": "先生",
+    "romaji": "sensei",
+    "meaning": "guru"
+  },
+  {
+    "character": "洗濯",
+    "romaji": "sentaku",
+    "meaning": "cucian"
+  },
+  {
+    "character": "全部",
+    "romaji": "zenbu",
+    "meaning": "semuanya"
+  },
+  {
+    "character": "掃除",
+    "romaji": "souji",
+    "meaning": "membersihkan"
+  },
+  {
+    "character": "そこ",
+    "romaji": "soko",
+    "meaning": "di situ"
+  },
+  {
+    "character": "そちら",
+    "romaji": "sochira",
+    "meaning": "sebelah situ"
+  },
+  {
+    "character": "そっち",
+    "romaji": "socchi",
+    "meaning": "situ"
+  },
+  {
+    "character": "外",
+    "romaji": "soto",
+    "meaning": "luar"
+  },
+  {
+    "character": "その",
+    "romaji": "sono",
+    "meaning": "itu"
+  },
+  {
+    "character": "そば",
+    "romaji": "soba",
+    "meaning": "di samping"
+  },
+  {
+    "character": "空",
+    "romaji": "sora",
+    "meaning": "langit"
+  },
+  {
+    "character": "それ",
+    "romaji": "sore",
+    "meaning": "itu (kata ganti)"
+  },
+  {
+    "character": "それから",
+    "romaji": "sorekara",
+    "meaning": "kemudian"
+  },
+  {
+    "character": "それでは",
+    "romaji": "soredewa",
+    "meaning": "kalau begitu"
+  }
+]

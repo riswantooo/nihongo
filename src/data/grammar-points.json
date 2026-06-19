@@ -1,0 +1,5121 @@
+[
+  {
+    "id": "n5-grammar-1-1",
+    "level": "N5",
+    "chapter": 1,
+    "pattern": "N1 は N2 です",
+    "title_id": "N1 は N2 です",
+    "formation": [
+      {
+        "type": "Noun + Noun",
+        "rule": "Kata Benda 1 + は + Kata Benda 2 + です",
+        "example": "わたし は 学生 です"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "私は学生です。",
+        "romaji": "Watashi wa gakusei desu.",
+        "meaning": "Saya adalah mahasiswa."
+      },
+      {
+        "japanese": "マイクさんはアメリカ人です。",
+        "romaji": "Maiku-san wa amerikajin desu.",
+        "meaning": "Mike adalah orang Amerika."
+      },
+      {
+        "japanese": "サントスさんは研修生です。",
+        "romaji": "Santosu-san wa kenshuusei desu.",
+        "meaning": "Santos adalah peserta magang."
+      }
+    ],
+    "notes": "Pola ini digunakan untuk menunjukkan bahwa N1 adalah N2. Partikel 'は' dibaca 'wa', berfungsi sebagai penanda subjek. 'です' (desu) menunjukkan bentuk sopan dan penegasan predikat.",
+    "common_mistakes": "Menggunakan partikel 'が' (ga) atau 'を' (o) alih-alih 'は' untuk subjek topik utama. Selain itu, lupa menambahkan 'です' di akhir kalimat nominal sopan.",
+    "quiz": [
+      {
+        "question": "Terjemahkan: 'Saya adalah dokter.'",
+        "options": [
+          "わたし が いしゃ です",
+          "わたし は いしゃ です",
+          "わたし は いしゃ ます",
+          "わたし の いしゃ です"
+        ],
+        "answer": "わたし は いしゃ です",
+        "explanation": "Untuk menyatakan 'X adalah Y', gunakan 'N1 は N2 です'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-1-2",
+    "level": "N5",
+    "chapter": 1,
+    "pattern": "N1 は N2 じゃありません",
+    "title_id": "N1 は N2 じゃありません",
+    "formation": [
+      {
+        "type": "Noun + Noun",
+        "rule": "Kata Benda 1 + は + Kata Benda 2 + じゃありません",
+        "example": "わたし は 先生 じゃありません"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "私は先生じゃありません。",
+        "romaji": "Watashi wa sensei ja arimasen.",
+        "meaning": "Saya bukan guru."
+      },
+      {
+        "japanese": "サントスさんは学生じゃありません。",
+        "romaji": "Santosu-san wa gakusei ja arimasen.",
+        "meaning": "Santos bukan mahasiswa."
+      },
+      {
+        "japanese": "あの人は学生じゃありません。",
+        "romaji": "Ano hito wa gakusei ja arimasen.",
+        "meaning": "Orang itu bukan mahasiswa."
+      }
+    ],
+    "notes": "Bentuk negatif dari 'です'. Digunakan untuk menyatakan 'N1 BUKANLAH N2'. 'じゃありません' lebih sering digunakan dalam percakapan santai sehari-hari, sedangkan bentuk formal tertulisnya adalah 'ではありません' (dewa arimasen).",
+    "common_mistakes": "Mencampur aduk antara kata kerja negatif (-ません) dengan kata benda negatif (じゃありません). Kata benda TIDAK BISA langsung diikuti -ません.",
+    "quiz": [
+      {
+        "question": "Manakah kalimat yang benar untuk 'Dia (laki-laki) bukan mahasiswa'?",
+        "options": [
+          "かれ は 学生 ません",
+          "かれ は 学生 じゃありません",
+          "かれ は 学生 じゃないです",
+          "B dan C benar"
+        ],
+        "answer": "B dan C benar",
+        "explanation": "'じゃありません' dan 'じゃないです' sama-sama bentuk negatif dari kata benda dalam bentuk sopan."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-1-3",
+    "level": "N5",
+    "chapter": 1,
+    "pattern": "Kalimat + か",
+    "title_id": "Kalimat + か",
+    "formation": [
+      {
+        "type": "Sentence + か",
+        "rule": "Kalimat lengkap + か",
+        "example": "あなたは 学生 です か"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "あなたは医者ですか。",
+        "romaji": "Anata wa isha desu ka.",
+        "meaning": "Apakah Anda seorang dokter?"
+      },
+      {
+        "japanese": "ミラーさんはアメリカ人ですか。",
+        "romaji": "Miraa-san wa amerikajin desu ka.",
+        "meaning": "Apakah Miller orang Amerika?"
+      }
+    ],
+    "notes": "Partikel 'か' (ka) di akhir kalimat berfungsi sebagai tanda tanya (?). Dalam bahasa Jepang, tanda tanya tertulis (?) jarang digunakan pada kalimat formal karena 'か' sudah mewakilinya.",
+    "common_mistakes": "Menambahkan tanda tanya di akhir kalimat formal yang sudah berakhiran 'か' (walaupun kadang bisa ditolerir, secara tata bahasa klasik tidak perlu).",
+    "quiz": [
+      {
+        "question": "Kalimat tanya yang benar untuk 'Apakah ini buku?'",
+        "options": [
+          "これ は 本 です",
+          "これ は 本 ですか",
+          "これ は 本 かです",
+          "これ は 本の か"
+        ],
+        "answer": "これ は 本 ですか",
+        "explanation": "Cukup tambahkan 'か' setelah kata 'です'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-1-4",
+    "level": "N5",
+    "chapter": 1,
+    "pattern": "N も (juga)",
+    "title_id": "N も (juga)",
+    "formation": [
+      {
+        "type": "Noun + も",
+        "rule": "Kata Benda + も + [keterangan yang sama]",
+        "example": "わたし も 学生 です"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "ミラーさんは会社員です。グプタさんも会社員です。",
+        "romaji": "Miraa-san wa kaishain desu. Guputa-san mo kaishain desu.",
+        "meaning": "Miller pegawai. Gupta juga pegawai."
+      },
+      {
+        "japanese": "私もインドネシア人です。",
+        "romaji": "Watashi mo indoneshiajin desu.",
+        "meaning": "Saya juga orang Indonesia."
+      }
+    ],
+    "notes": "Partikel 'も' (mo) berarti 'juga'. Digunakan untuk menggantikan partikel 'は' (wa) ketika status subjeknya sama dengan subjek kalimat sebelumnya.",
+    "common_mistakes": "Menggunakan 'はも' secara bersamaan (contoh: わたしはも). Jika menggunakan 'も', maka partikel 'は', 'が', dan 'を' otomatis hilang.",
+    "quiz": [
+      {
+        "question": "Jika Yamada adalah guru, dan kamu juga guru, bagaimana kamu mengatakannya?",
+        "options": [
+          "わたし は 先生 です",
+          "わたし の 先生 です",
+          "わたし も 先生 です",
+          "わたし はも 先生 です"
+        ],
+        "answer": "わたし も 先生 です",
+        "explanation": "Partikel 'も' menggantikan 'は' untuk menyatakan 'juga'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-1-5",
+    "level": "N5",
+    "chapter": 1,
+    "pattern": "N1 の N2",
+    "title_id": "N1 の N2",
+    "formation": [
+      {
+        "type": "Noun + Noun",
+        "rule": "Pemilik/Keterangan + の + Benda Utama",
+        "example": "わたし の 本"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "IMCの社員",
+        "romaji": "IMC no shain",
+        "meaning": "Karyawan IMC"
+      },
+      {
+        "japanese": "大学の先生",
+        "romaji": "Daigaku no sensei",
+        "meaning": "Dosen universitas"
+      }
+    ],
+    "notes": "Partikel 'の' (no) digunakan untuk menghubungkan dua kata benda. Fungsinya menyatakan kepemilikan (milik), asal/institusi, atau menjelaskan sifat benda kedua.",
+    "common_mistakes": "Terbalik dalam menyusun posisi N1 dan N2. Dalam bahasa Jepang, kata yang MENGERANGKAN (N1) ditaruh di depan benda yang DITERANGKAN (N2). (Contoh: Mobil saya -> Watashi no kuruma).",
+    "quiz": [
+      {
+        "question": "Apa bahasa Jepangnya 'Tas milik guru'?",
+        "options": [
+          "かばん の 先生",
+          "先生 の かばん",
+          "先生 は かばん",
+          "かばん も 先生"
+        ],
+        "answer": "先生 の かばん",
+        "explanation": "Aturannya adalah [Pemilik] の [Benda yang dimiliki]."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-2-1",
+    "level": "N5",
+    "chapter": 2,
+    "pattern": "これ / それ / あれ は N です",
+    "title_id": "これ / それ / あれ は N です",
+    "formation": [
+      {
+        "type": "Demonstrative",
+        "rule": "これ / それ / あれ + は + Noun + です",
+        "example": "これ は 辞書 です"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "これは辞書です。",
+        "romaji": "Kore wa jisho desu.",
+        "meaning": "Ini adalah kamus."
+      },
+      {
+        "japanese": "それは何ですか。",
+        "romaji": "Sore wa nan desu ka.",
+        "meaning": "Itu apa?"
+      },
+      {
+        "japanese": "これは英語のテープです。",
+        "romaji": "Kore wa eigo no teepu desu.",
+        "meaning": "Ini kaset bahasa Inggris."
+      }
+    ],
+    "notes": "Kore (ini), Sore (itu dekat pendengar), Are (itu jauh dari keduanya). Berfungsi sebagai kata ganti tunjuk benda.",
+    "common_mistakes": "Langsung menggabungkan Kore/Sore/Are dengan kata benda, seperti 'これ 辞書' (salah). Jika ingin menempel dengan benda, gunakan Kono/Sono/Ano.",
+    "quiz": [
+      {
+        "question": "Itu (jauh) adalah rumah.",
+        "options": [
+          "これ は 家 です",
+          "あれ は 家 です",
+          "それ は 家 です",
+          "あの は 家 です"
+        ],
+        "answer": "あれ は 家 です",
+        "explanation": "'あれ' digunakan untuk menunjuk benda yang jauh dari pembicara dan pendengar."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-2-2",
+    "level": "N5",
+    "chapter": 2,
+    "pattern": "この / その / あの N",
+    "title_id": "この / その / あの N",
+    "formation": [
+      {
+        "type": "Modifier + Noun",
+        "rule": "この / その / あの + Noun",
+        "example": "この 本 は わたし の です"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "この本は私のです。",
+        "romaji": "Kono hon wa watashi no desu.",
+        "meaning": "Buku ini milik saya."
+      },
+      {
+        "japanese": "あのかばんは誰のですか。",
+        "romaji": "Ano kaban wa dare no desu ka.",
+        "meaning": "Tas itu milik siapa?"
+      }
+    ],
+    "notes": "Kono, Sono, Ano memiliki arti yang sama dengan Kore, Sore, Are, namun HARUS langsung diikuti oleh kata benda. (Kono = Ini, Sono = Itu, Ano = Itu jauh).",
+    "common_mistakes": "Berdiri sendiri tanpa kata benda. Contoh salah: 'この は 私のです'. Seharusnya: 'これ は 私のです' atau 'この 本 は 私のです'.",
+    "quiz": [
+      {
+        "question": "'Payung ini adalah milik saya.'",
+        "options": [
+          "これ 傘 は 私 の です",
+          "この 傘 は 私 の です",
+          "この は 傘 私 の です",
+          "これ の 傘 は 私 の です"
+        ],
+        "answer": "この 傘 は 私 の です",
+        "explanation": "'この' harus diikuti dengan kata benda ('傘/kasa')."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-2-3",
+    "level": "N5",
+    "chapter": 2,
+    "pattern": "そうです / 違います",
+    "title_id": "そうです / 違います",
+    "formation": [
+      {
+        "type": "Response",
+        "rule": "はい、そうです / いいえ、違います",
+        "example": "はい、そうです。"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "これは辞書ですか。…はい、そうです。",
+        "romaji": "Kore wa jisho desu ka. ...Hai, sou desu.",
+        "meaning": "Ini kamus? ...Ya, benar."
+      },
+      {
+        "japanese": "いいえ、違います。",
+        "romaji": "Iie, chigaimasu.",
+        "meaning": "Bukan, salah."
+      }
+    ],
+    "notes": "'そうです' (sou desu) berarti 'benar / ya, begitu'. '違います' (chigaimasu) berarti 'salah / bukan'. Ini adalah cara singkat untuk membenarkan atau menyangkal pernyataan nominal.",
+    "common_mistakes": "Menjawab dengan 'はい、です' (salah). Untuk persetujuan kalimat benda, gunakan 'はい、そうです'.",
+    "quiz": [
+      {
+        "question": "Q: それは辞書ですか。 A: いいえ、____。",
+        "options": [
+          "じゃありません",
+          "違います",
+          "そうじゃありません",
+          "B dan C benar"
+        ],
+        "answer": "B dan C benar",
+        "explanation": "Untuk menyangkal, bisa menggunakan 'いいえ、違います' atau 'いいえ、そうじゃありません'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-3-1",
+    "level": "N5",
+    "chapter": 3,
+    "pattern": "ここ / そこ / あそこ は N です",
+    "title_id": "ここ / そこ / あそこ は N です",
+    "formation": [
+      {
+        "type": "Place",
+        "rule": "ここ / そこ / あそこ は + Noun(tempat) + です",
+        "example": "ここ は 学校 です"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "ここは食堂です。",
+        "romaji": "Koko wa shokudou desu.",
+        "meaning": "Di sini adalah kantin."
+      },
+      {
+        "japanese": "トイレはあそこです。",
+        "romaji": "Toire wa asoko desu.",
+        "meaning": "Toilet ada di sana."
+      }
+    ],
+    "notes": "Koko (di sini), Soko (di situ), Asoko (di sana). Digunakan untuk menunjuk tempat.",
+    "common_mistakes": "Menggunakan Koko/Soko/Asoko untuk menunjuk arah, padahal seharusnya menunjuk lokasi/tempat. (Untuk arah gunakan Kochira/Sochira/Achira).",
+    "quiz": [
+      {
+        "question": "A: トイレは____ですか。 B: あそこです。",
+        "options": [
+          "どれ",
+          "どこ",
+          "だれ",
+          "なん"
+        ],
+        "answer": "どこ",
+        "explanation": "'どこ' adalah kata tanya untuk tempat (di mana)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-3-2",
+    "level": "N5",
+    "chapter": 3,
+    "pattern": "N は どこ ですか",
+    "title_id": "N は どこ ですか",
+    "formation": [
+      {
+        "type": "Question",
+        "rule": "Noun(tempat/benda) + は + どこ + ですか",
+        "example": "トイレ は どこ ですか"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "エレベーターはどこですか。",
+        "romaji": "Erebeetaa wa doko desu ka.",
+        "meaning": "Lift di mana?"
+      },
+      {
+        "japanese": "受付はどこですか。",
+        "romaji": "Uketsuke wa doko desu ka.",
+        "meaning": "Resepsionis di mana?"
+      },
+      {
+        "japanese": "ネクタイ売り場はどこですか。",
+        "romaji": "Nekutai uriba wa doko desu ka.",
+        "meaning": "Konter dasi di mana?"
+      }
+    ],
+    "notes": "'どこ' (doko) adalah kata tanya yang berarti 'di mana'.",
+    "common_mistakes": "Lupa menggunakan partikel 'は' sebelum kata tanya 'どこ'.",
+    "quiz": [
+      {
+        "question": "'Stasiun di mana?'",
+        "options": [
+          "駅 は どこ ですか",
+          "どこ は 駅 ですか",
+          "駅 の どこ ですか",
+          "駅 は いくら ですか"
+        ],
+        "answer": "駅 は どこ ですか",
+        "explanation": "Subjek (Stasiun) diikuti 'は', lalu kata tanya 'どこ'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-3-3",
+    "level": "N5",
+    "chapter": 3,
+    "pattern": "N は いくら ですか",
+    "title_id": "N は いくら ですか",
+    "formation": [
+      {
+        "type": "Question",
+        "rule": "Noun(benda) + は + いくら + ですか",
+        "example": "この 時計 は いくら ですか"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "これはいくらですか。",
+        "romaji": "Kore wa ikura desu ka.",
+        "meaning": "Ini berapa harganya?"
+      },
+      {
+        "japanese": "その時計はいくらですか。…三千円です。",
+        "romaji": "Sono tokei wa ikura desu ka. ...Sanzen en desu.",
+        "meaning": "Jam itu berapa? ...3.000 Yen."
+      }
+    ],
+    "notes": "'いくら' (ikura) adalah kata tanya untuk harga (Berapa harganya?).",
+    "common_mistakes": "Tertukar dengan 'いくつ' (berapa jumlahnya). 'いくら' khusus untuk harga (uang).",
+    "quiz": [
+      {
+        "question": "'Sepatu ini harganya berapa?'",
+        "options": [
+          "この 靴 は いくつ ですか",
+          "この 靴 は いくら ですか",
+          "これ 靴 は いくら ですか",
+          "靴 の いくら ですか"
+        ],
+        "answer": "この 靴 は いくら ですか",
+        "explanation": "'この 靴' (sepatu ini) + 'は いくら ですか' (harganya berapa)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-4-1",
+    "level": "N5",
+    "chapter": 4,
+    "pattern": "今 何時 ですか",
+    "title_id": "今 何時 ですか",
+    "formation": [
+      {
+        "type": "Time",
+        "rule": "今 + 何時 + ですか",
+        "example": "今 何時 ですか"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "今何時ですか。…七時十分です。",
+        "romaji": "Ima nanji desu ka. ...Shichiji juppun desu.",
+        "meaning": "Sekarang jam berapa? ...Jam 7 lewat 10 menit."
+      },
+      {
+        "japanese": "午前九時です。",
+        "romaji": "Gozen kuji desu.",
+        "meaning": "Jam 9 pagi."
+      }
+    ],
+    "notes": "'何時' (nan-ji) berarti 'Jam berapa'. '分' (fun/pun) berarti 'menit'. Biasanya sering diawali dengan '今' (ima) yang berarti 'sekarang'.",
+    "common_mistakes": "Salah membaca satuan menit, misalnya '4 menit' (yon-pun/yon-fun) yang sering salah diucapkan menjadi 'shi-fun'.",
+    "quiz": [
+      {
+        "question": "Jika sekarang jam 9 pagi, bagaimana mengatakannya?",
+        "options": [
+          "今 九時 です",
+          "今 八時 です",
+          "今 午前九時 です",
+          "A dan C benar"
+        ],
+        "answer": "A dan C benar",
+        "explanation": "'午前九時' (gozen ku-ji) artinya 9 pagi, '九時' artinya jam 9."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-4-2",
+    "level": "N5",
+    "chapter": 4,
+    "pattern": "V ます / V ません / V ました / V ませんでした",
+    "title_id": "V ます / V ません / V ました / V ませんでした",
+    "formation": [
+      {
+        "type": "Verb",
+        "rule": "V-masu (Present) / V-masen (Negatif) / V-mashita (Past) / V-masen deshita (Past Negative)",
+        "example": "起きます / 起きません / 起きました / 起きませんでした"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "毎日勉強します。",
+        "romaji": "Mainichi benkyou shimasu.",
+        "meaning": "Setiap hari (saya) belajar."
+      },
+      {
+        "japanese": "昨日働きませんでした。",
+        "romaji": "Kinou hatarakimasen deshita.",
+        "meaning": "Kemarin (saya) tidak bekerja."
+      },
+      {
+        "japanese": "昨日の晩勉強しました。",
+        "romaji": "Kinou no ban benkyou shimashita.",
+        "meaning": "Kemarin malam (saya) belajar."
+      }
+    ],
+    "notes": "Ini adalah perubahan bentuk (konjugasi) akhir untuk kata kerja formal. 'ます' (masu) untuk positif sekarang/masa depan. 'ません' untuk negatif. 'ました' untuk lampau. 'ませんでした' untuk lampau negatif.",
+    "common_mistakes": "Mencampur tenses. Jika keterangan waktunya 'kemarin' (昨日), harus menggunakan bentuk lampau (-ました).",
+    "quiz": [
+      {
+        "question": "'Kemarin saya tidak belajar.'",
+        "options": [
+          "昨日 勉強しません",
+          "昨日 勉強しました",
+          "昨日 勉強しませんでした",
+          "今日 勉強しませんでした"
+        ],
+        "answer": "昨日 勉強しませんでした",
+        "explanation": "昨日 (kino - kemarin) + 勉強しませんでした (tidak belajar bentuk lampau)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-4-3",
+    "level": "N5",
+    "chapter": 4,
+    "pattern": "N（時間）に V ます",
+    "title_id": "N（時間）に V ます",
+    "formation": [
+      {
+        "type": "Time particle",
+        "rule": "Waktu(spesifik) + に + V-masu",
+        "example": "６時 に 起きます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "六時に起きます。",
+        "romaji": "Rokuji ni okimasu.",
+        "meaning": "(Saya) bangun jam 6."
+      },
+      {
+        "japanese": "十一時に寝ます。",
+        "romaji": "Juuichiji ni nemasu.",
+        "meaning": "(Saya) tidur jam 11."
+      }
+    ],
+    "notes": "Partikel 'に' (ni) diletakkan setelah kata keterangan waktu spesifik (jam, tanggal, bulan, tahun) untuk menunjukkan waktu kejadian.",
+    "common_mistakes": "Menggunakan partikel 'に' pada kata waktu yang TIDAK SPESIFIK seperti hari ini (今日), besok (明日), setiap hari (毎日). Kata-kata ini TIDAK BOLEH dipasangkan dengan 'に'.",
+    "quiz": [
+      {
+        "question": "Manakah kalimat yang SALAH?",
+        "options": [
+          "日曜日に 行きます",
+          "明日に 行きます",
+          "６時に 行きます",
+          "来月に 行きます"
+        ],
+        "answer": "明日に 行きます",
+        "explanation": "Besok (明日/ashita) tidak perlu dan tidak boleh pakai partikel 'に'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-4-4",
+    "level": "N5",
+    "chapter": 4,
+    "pattern": "N から N まで",
+    "title_id": "N から N まで",
+    "formation": [
+      {
+        "type": "Range",
+        "rule": "N(waktu/tempat) + から + N(waktu/tempat) + まで",
+        "example": "９時 から ５時 まで"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "九時から五時まで働きます。",
+        "romaji": "Kuji kara goji made hatarakimasu.",
+        "meaning": "(Saya) bekerja dari jam 9 sampai jam 5."
+      },
+      {
+        "japanese": "月曜日から金曜日まで勉強します。",
+        "romaji": "Getsuyoubi kara kinyoubi made benkyou shimasu.",
+        "meaning": "Belajar dari Senin sampai Jumat."
+      }
+    ],
+    "notes": "'から' (kara) berarti 'dari', dan 'まで' (made) berarti 'sampai'. Bisa digunakan untuk waktu maupun tempat.",
+    "common_mistakes": "Menggunakan 'から' untuk alasan (karena) tapi penempatannya salah. Dalam konteks ini, 'から' artinya 'dari (from)'.",
+    "quiz": [
+      {
+        "question": "'Rapatnya dari jam 1 sampai jam 3.'",
+        "options": [
+          "会議 は １時 まで ３時 から",
+          "会議 は １時 から ３時 まで です",
+          "会議 は １時 に ３時 まで です",
+          "会議 は １時 から ３時 に です"
+        ],
+        "answer": "会議 は １時 から ３時 まで です",
+        "explanation": "'1-ji kara' (dari jam 1) '3-ji made' (sampai jam 3)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-5-1",
+    "level": "N5",
+    "chapter": 5,
+    "pattern": "N（場所）へ 行きます / 来ます / 帰ります",
+    "title_id": "N（場所）へ 行きます / 来ます / 帰ります",
+    "formation": [
+      {
+        "type": "Direction",
+        "rule": "Tempat + へ + 行きます / 来ます / 帰ります",
+        "example": "学校 へ 行きます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "学校へ行きます。",
+        "romaji": "Gakkou e ikimasu.",
+        "meaning": "(Saya) pergi ke sekolah."
+      },
+      {
+        "japanese": "日本へ来ました。",
+        "romaji": "Nihon e kimashita.",
+        "meaning": "(Saya) datang ke Jepang."
+      },
+      {
+        "japanese": "来週の月曜日に京都へ行きます。",
+        "romaji": "Raishuu no getsuyoubi ni Kyouto e ikimasu.",
+        "meaning": "Senin depan (saya) pergi ke Kyoto."
+      }
+    ],
+    "notes": "Partikel 'へ' (ditulis 'he' tapi dibaca 'e') menunjukkan arah perpindahan. Selalu digunakan bersama kata kerja pergerakan: 行きます (pergi), 来ます (datang), 帰ります (pulang).",
+    "common_mistakes": "Tertukar menggunakan partikel 'に'. Meskipun 'に' juga bisa digunakan untuk arah, 'へ' lebih berfokus pada 'arah pergerakan' itu sendiri.",
+    "quiz": [
+      {
+        "question": "'Saya pulang ke rumah.'",
+        "options": [
+          "うち へ 帰ります",
+          "うち へ 行きます",
+          "うち へ 来ます",
+          "うち で 帰ります"
+        ],
+        "answer": "うち へ 帰ります",
+        "explanation": "Pulang ke rumah menggunakan '帰ります' (kaerimasu)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-5-2",
+    "level": "N5",
+    "chapter": 5,
+    "pattern": "N（乗り物）で 行きます",
+    "title_id": "N（乗り物）で 行きます",
+    "formation": [
+      {
+        "type": "Method",
+        "rule": "Kendaraan + で + 行きます / 来ます / 帰ります",
+        "example": "電車 で 行きます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "電車で会社へ行きます。",
+        "romaji": "Densha de kaisha e ikimasu.",
+        "meaning": "Pergi ke kantor naik kereta."
+      },
+      {
+        "japanese": "歩いて駅へ行きます。",
+        "romaji": "Aruite eki e ikimasu.",
+        "meaning": "Jalan kaki ke stasiun."
+      }
+    ],
+    "notes": "Partikel 'で' (de) memiliki arti 'menggunakan/dengan' saat diletakkan setelah kendaraan/alat transportasi.",
+    "common_mistakes": "Menggunakan 'で' pada kata 'berjalan kaki' (歩いて/aruite). Untuk berjalan kaki, partikel 'で' TIDAK digunakan.",
+    "quiz": [
+      {
+        "question": "'Pergi berjalan kaki.'",
+        "options": [
+          "歩いて で 行きます",
+          "歩いて へ 行きます",
+          "歩いて 行きます",
+          "足 で 行きます"
+        ],
+        "answer": "歩いて 行きます",
+        "explanation": "'歩いて' (berjalan kaki) sudah berfungsi sebagai cara, tidak perlu partikel 'で'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-5-3",
+    "level": "N5",
+    "chapter": 5,
+    "pattern": "N（人）と V ます",
+    "title_id": "N（人）と V ます",
+    "formation": [
+      {
+        "type": "Partner",
+        "rule": "Orang/Hewan + と + V-masu",
+        "example": "友達 と 行きます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "友達と東京へ行きます。",
+        "romaji": "Tomodachi to Toukyou e ikimasu.",
+        "meaning": "Pergi ke Tokyo bersama teman."
+      },
+      {
+        "japanese": "一人で来ました。",
+        "romaji": "Hitori de kimashita.",
+        "meaning": "(Saya) datang sendirian."
+      }
+    ],
+    "notes": "Partikel 'と' (to) berarti 'bersama (dengan)'. Menunjukkan partner melakukan kegiatan.",
+    "common_mistakes": "Mencampur aduk dengan 'で' (alat). 'と' hanya untuk partner hidup (orang/hewan).",
+    "quiz": [
+      {
+        "question": "Pergi sendirian = ___ 行きます",
+        "options": [
+          "一人 と",
+          "一人 で",
+          "一人 に",
+          "一人 を"
+        ],
+        "answer": "一人 で",
+        "explanation": "Pengecualian: 'sendirian' menggunakan '一人で' (hitori de), BUKAN '一人と'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-5-4",
+    "level": "N5",
+    "chapter": 5,
+    "pattern": "いつ V ますか",
+    "title_id": "いつ V ますか",
+    "formation": [
+      {
+        "type": "Question",
+        "rule": "いつ + V-masu + か",
+        "example": "いつ 日本へ 行きますか"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "いつ日本へ来ましたか。",
+        "romaji": "Itsu nihon e kimashita ka.",
+        "meaning": "Kapan datang ke Jepang?"
+      },
+      {
+        "japanese": "誕生日はいつですか。",
+        "romaji": "Tanjoubi wa itsu desu ka.",
+        "meaning": "Ulang tahunnya kapan?"
+      }
+    ],
+    "notes": "'いつ' (itsu) adalah kata tanya yang berarti 'Kapan'.",
+    "common_mistakes": "Menambahkan partikel 'に' setelah kata tanya 'いつ'. (Salah: 'いつに' - Tidak boleh).",
+    "quiz": [
+      {
+        "question": "Kalimat mana yang benar?",
+        "options": [
+          "いつに 帰りますか",
+          "いつ 帰りますか",
+          "どこに 帰りますか",
+          "だれ 帰りますか"
+        ],
+        "answer": "いつ 帰りますか",
+        "explanation": "'いつ' (kapan) tidak membutuhkan partikel 'に'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-6-1",
+    "level": "N5",
+    "chapter": 6,
+    "pattern": "N を V ます (Objek + Kata Kerja)",
+    "title_id": "N を V ます (Objek + Kata Kerja)",
+    "formation": [
+      {
+        "type": "Object",
+        "rule": "Objek + を + Kata Kerja Transitif",
+        "example": "ごはん を 食べます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "パンを食べます。",
+        "romaji": "Pan o tabemasu.",
+        "meaning": "(Saya) makan roti."
+      },
+      {
+        "japanese": "コーヒーを飲みます。",
+        "romaji": "Koohii o nomimasu.",
+        "meaning": "(Saya) minum kopi."
+      },
+      {
+        "japanese": "ロビーで友達と会います。",
+        "romaji": "Robee de tomodachi to aimasu.",
+        "meaning": "(Saya) bertemu teman di lobi."
+      }
+    ],
+    "notes": "Partikel 'を' (dibaca 'o') adalah penanda OBJEK PENDERITA. Selalu menempel pada kata benda yang dikenai tindakan oleh kata kerja transitif (makan, minum, melihat, dll).",
+    "common_mistakes": "Lupa menambahkan 'を' sebelum kata kerja transitif, atau menggunakan 'が' yang merubah makna menjadi subjek.",
+    "quiz": [
+      {
+        "question": "'Membaca buku'",
+        "options": [
+          "本 は 読みます",
+          "本 に 読みます",
+          "本 を 読みます",
+          "本 が 読みます"
+        ],
+        "answer": "本 を 読みます",
+        "explanation": "Buku (本) adalah objek yang dibaca, maka pakai 'を'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-6-2",
+    "level": "N5",
+    "chapter": 6,
+    "pattern": "N で V ます (Tempat + Kata Kerja)",
+    "title_id": "N で V ます (Tempat + Kata Kerja)",
+    "formation": [
+      {
+        "type": "Location of action",
+        "rule": "Tempat + で + Aktivitas",
+        "example": "レストラン で 食べます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "食堂で昼ご飯を食べます。",
+        "romaji": "Shokudou de hirugohan o tabemasu.",
+        "meaning": "Makan siang di kantin."
+      },
+      {
+        "japanese": "図書館で本を読みます。",
+        "romaji": "Toshokan de hon o yomimasu.",
+        "meaning": "Membaca buku di perpustakaan."
+      }
+    ],
+    "notes": "Partikel 'で' (de) di sini berfungsi menunjukkan TEMPAT terjadinya aktivitas/kegiatan. Artinya 'di'.",
+    "common_mistakes": "Menggunakan 'に' untuk tempat aktivitas. Ingat: 'で' untuk aksi yang bergerak/aktif (makan, belajar), sedangkan 'に' untuk keberadaan diam (ada, tinggal).",
+    "quiz": [
+      {
+        "question": "Belajar di sekolah.",
+        "options": [
+          "学校 に 勉強します",
+          "学校 で 勉強します",
+          "学校 を 勉強します",
+          "学校 へ 勉強します"
+        ],
+        "answer": "学校 で 勉強します",
+        "explanation": "Belajar adalah aktivitas aktif, maka menggunakan partikel 'で'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-6-3",
+    "level": "N5",
+    "chapter": 6,
+    "pattern": "何を V ますか",
+    "title_id": "何を V ますか",
+    "formation": [
+      {
+        "type": "Question",
+        "rule": "何を + V-masu + か",
+        "example": "何を しますか"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "朝何を食べますか。",
+        "romaji": "Asa nani o tabemasu ka.",
+        "meaning": "Pagi makan apa?"
+      },
+      {
+        "japanese": "何を買いますか。",
+        "romaji": "Nani o kaimasu ka.",
+        "meaning": "Mau beli apa?"
+      }
+    ],
+    "notes": "Kata tanya '何を' (nani o) berarti 'Apa yang (dilakukan)?'.",
+    "common_mistakes": "Membacanya sebagai 'nan o' (salah), pelafalannya yang benar adalah 'nani o'.",
+    "quiz": [
+      {
+        "question": "A: ________。 B: 映画を見ます。",
+        "options": [
+          "何が しますか",
+          "どこで しますか",
+          "何を しますか",
+          "誰を しますか"
+        ],
+        "answer": "何を しますか",
+        "explanation": "Menanyakan apa yang akan dilakukan/ditonton."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-6-4",
+    "level": "N5",
+    "chapter": 6,
+    "pattern": "V ませんか (Ajakan sopan)",
+    "title_id": "V ませんか (Ajakan sopan)",
+    "formation": [
+      {
+        "type": "Invitation",
+        "rule": "V-masen + か",
+        "example": "一緒に 飲みませんか"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "一緒にコーヒーを飲みませんか。",
+        "romaji": "Issho ni koohii o nomimasen ka.",
+        "meaning": "Mau minum kopi bersama?"
+      },
+      {
+        "japanese": "一緒に映画を見ませんか。",
+        "romaji": "Issho ni eiga o mimasen ka.",
+        "meaning": "Mau nonton film bersama?"
+      }
+    ],
+    "notes": "Kata kerja bentuk 'ませんか' (masen ka) digunakan untuk MENGUNGKAPKAN AJAKAN dengan cara yang sopan. Artinya: 'Maukah... / Tidakkah (kita)...'",
+    "common_mistakes": "Mengartikannya sebagai kalimat negatif murni ('kamu tidak minum?'). Padahal ini adalah ajakan positif yang sopan.",
+    "quiz": [
+      {
+        "question": "'Maukah (bersama-sama) menonton film?'",
+        "options": [
+          "映画 を 見ますか",
+          "映画 を 見ましたか",
+          "映画 を 見ませんか",
+          "映画 を 見ましょうか"
+        ],
+        "answer": "映画 を 見ませんか",
+        "explanation": "Bentuk -masen ka adalah ajakan sopan ('Maukah menonton?')."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-7-1",
+    "level": "N5",
+    "chapter": 7,
+    "pattern": "N（人）に N を あげます",
+    "title_id": "N（人）に N を あげます",
+    "formation": [
+      {
+        "type": "Giving",
+        "rule": "Penerima + に + Barang + を + あげます",
+        "example": "友達 に プレゼント を あげます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "友達に花をあげます。",
+        "romaji": "Tomodachi ni hana o agemasu.",
+        "meaning": "Memberi bunga kepada teman."
+      },
+      {
+        "japanese": "先生にプレゼントをあげました。",
+        "romaji": "Sensei ni purezento o agemashita.",
+        "meaning": "Memberi hadiah kepada guru."
+      }
+    ],
+    "notes": "Kata kerja 'あげます' (agemasu) berarti MEMBERI (dari subjek ke orang lain). Partikel 'に' (ni) menunjuk KEPADA siapa barang tersebut diberikan.",
+    "common_mistakes": "Digunakan ketika orang lain memberi kepada KITA. 'あげます' HANYA BOLEH digunakan jika KITA yang memberi atau ORANG LAIN memberi ke ORANG LAIN.",
+    "quiz": [
+      {
+        "question": "'Saya memberi bunga kepada pacar/kekasih.'",
+        "options": [
+          "恋人 に 花 を あげます",
+          "花 に 恋人 を あげます",
+          "恋人 に 花 を もらいます",
+          "花 に 恋人 を もらいます"
+        ],
+        "answer": "恋人 に 花 を あげます",
+        "explanation": "Penerima (koibito) pakai 'に', barang (hana) pakai 'を'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-7-2",
+    "level": "N5",
+    "chapter": 7,
+    "pattern": "N（人）に N を もらいます",
+    "title_id": "N（人）に N を もらいます",
+    "formation": [
+      {
+        "type": "Receiving",
+        "rule": "Pemberi + に/から + Barang + を + もらいます",
+        "example": "先生 に 本 を もらいます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "友達にチョコレートをもらいました。",
+        "romaji": "Tomodachi ni chokoreeto o moraimashita.",
+        "meaning": "Menerima cokelat dari teman."
+      }
+    ],
+    "notes": "Kata kerja 'もらいます' (moraimasu) berarti MENERIMA (dari orang lain ke subjek). Partikel 'に' (ni) atau 'から' (kara) menunjukkan DARI SIAPA kita menerima.",
+    "common_mistakes": "Tertukar posisinya dengan 'agemasu'. Ingat: Jika subjeknya SAYA dan kata kerjanya MORAIMASU, maka partikel 'ni' berarti 'dari'.",
+    "quiz": [
+      {
+        "question": "Sato menerima tas dari Yamada.",
+        "options": [
+          "佐藤さんは 山田さんに かばんを もらいました",
+          "佐藤さんは 山田さんに かばんを あげました",
+          "山田さんは 佐藤さんに かばんを もらいました",
+          "かばんは 佐藤さんに もらいました"
+        ],
+        "answer": "佐藤さんは 山田さんに かばんを もらいました",
+        "explanation": "Sato (subjek) Menerima (moraimashita) dari Yamada (ni)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-7-3",
+    "level": "N5",
+    "chapter": 7,
+    "pattern": "N（道具）で V ます",
+    "title_id": "N（道具）で V ます",
+    "formation": [
+      {
+        "type": "Tool/Method",
+        "rule": "Alat/Metode + で + V-masu",
+        "example": "スプーン で 食べます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "はしで食べます。",
+        "romaji": "Hashi de tabemasu.",
+        "meaning": "Makan pakai sumpit."
+      },
+      {
+        "japanese": "日本語でメールを書きます。",
+        "romaji": "Nihongo de meeru o kakimasu.",
+        "meaning": "Menulis email dalam bahasa Jepang."
+      },
+      {
+        "japanese": "はさみで紙を切ります。",
+        "romaji": "Hasami de kami o kirimasu.",
+        "meaning": "Memotong kertas menggunakan gunting."
+      }
+    ],
+    "notes": "Partikel 'で' (de) di sini berfungsi menunjukkan ALAT atau METODE yang digunakan. Artinya 'dengan (menggunakan)'.",
+    "common_mistakes": "Lupa bahwa bahasa juga dihitung sebagai 'alat/metode'. Contoh: 'Nihongo de hanashimasu' (berbicara DENGAN bahasa Jepang).",
+    "quiz": [
+      {
+        "question": "Saya menulis laporan DENGAN bahasa Jepang.",
+        "options": [
+          "日本語 に レポートを 書きます",
+          "日本語 で レポートを 書きます",
+          "日本語 を レポートを 書きます",
+          "日本語 と レポートを 書きます"
+        ],
+        "answer": "日本語 で レポートを 書きます",
+        "explanation": "Bahasa adalah sarana/alat, sehingga menggunakan partikel 'で'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-7-4",
+    "level": "N5",
+    "chapter": 7,
+    "pattern": "もう V ました / まだ です",
+    "title_id": "もう V ました / まだ です",
+    "formation": [
+      {
+        "type": "Already/Not yet",
+        "rule": "もう + V-mashita / まだ + です",
+        "example": "もう 昼ごはん を 食べましたか"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "もう昼ご飯を食べましたか。…はい、もう食べました。",
+        "romaji": "Mou hirugohan o tabemashita ka. ...Hai, mou tabemashita.",
+        "meaning": "Sudah makan siang? ...Ya, sudah."
+      },
+      {
+        "japanese": "いいえ、まだです。",
+        "romaji": "Iie, mada desu.",
+        "meaning": "Belum."
+      }
+    ],
+    "notes": "'もう' (mou) berarti SUDAH, diikuti dengan kata kerja lampau (-ました). 'まだ' (mada) berarti BELUM, biasanya dijawab dengan 'まだです' (belum) jika ditanya.",
+    "common_mistakes": "Menggabungkan 'まだ' (belum) dengan kata kerja lampau. Ingat: Jika 'sudah' -> V-mashita. Jika 'belum' -> Mada desu (atau Mada V-te imasen).",
+    "quiz": [
+      {
+        "question": "A: もう 宿題を しましたか。 B: いいえ、____。",
+        "options": [
+          "まだ しませんでした",
+          "もう しませんでした",
+          "まだ です",
+          "もう です"
+        ],
+        "answer": "まだ です",
+        "explanation": "Jawaban singkat untuk 'belum' adalah 'まだです'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-8-1",
+    "level": "N5",
+    "chapter": 8,
+    "pattern": "Kata Sifat -i + N",
+    "title_id": "Kata Sifat -i + N",
+    "formation": [
+      {
+        "type": "I-Adj + Noun",
+        "rule": "I-Adj + Noun",
+        "example": "大きい 家 (rumah besar)"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "大きいかばん",
+        "romaji": "Ookii kaban",
+        "meaning": "Tas yang besar"
+      },
+      {
+        "japanese": "おいしい料理",
+        "romaji": "Oishii ryouri",
+        "meaning": "Masakan yang enak"
+      },
+      {
+        "japanese": "このカメラは新しくて、便利です。",
+        "romaji": "Kono kamera wa atarashikute, benri desu.",
+        "meaning": "Kamera ini baru dan praktis."
+      }
+    ],
+    "notes": "Kata sifat akhiran -i (I-Keiyoushi) dapat digunakan secara langsung di depan kata benda untuk mensifati benda tersebut.",
+    "common_mistakes": "Menambahkan partikel 'な' atau 'の' di antara I-Adj dan Kata Benda. (Salah: 大きいな家).",
+    "quiz": [
+      {
+        "question": "'Mobil baru'",
+        "options": [
+          "新しいな 車",
+          "新しいの 車",
+          "新しい 車",
+          "新し 車"
+        ],
+        "answer": "新しい 車",
+        "explanation": "Kata sifat I langsung menempel pada benda tanpa tambahan partikel."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-8-2",
+    "level": "N5",
+    "chapter": 8,
+    "pattern": "Kata Sifat -na + N",
+    "title_id": "Kata Sifat -na + N",
+    "formation": [
+      {
+        "type": "Na-Adj + Noun",
+        "rule": "Na-Adj + な + Noun",
+        "example": "静かな 町 (kota yang sepi)"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "きれいな花",
+        "romaji": "Kirei na hana",
+        "meaning": "Bunga yang cantik"
+      },
+      {
+        "japanese": "静かな町",
+        "romaji": "Shizuka na machi",
+        "meaning": "Kota yang tenang"
+      }
+    ],
+    "notes": "Kata sifat akhiran -na (Na-Keiyoushi) memerlukan partikel 'な' (na) ketika diletakkan di DEPAN kata benda.",
+    "common_mistakes": "Lupa menyisipkan 'な' saat menggabungkan Na-adj dengan benda. Contoh: '静か町' (Salah). Yang benar: '静かな町'.",
+    "quiz": [
+      {
+        "question": "'Orang yang ramah'",
+        "options": [
+          "親切 人",
+          "親切の 人",
+          "親切な 人",
+          "親切に 人"
+        ],
+        "answer": "親切な 人",
+        "explanation": "'親切' (shinsetsu) adalah Na-Adj, jadi wajib ditambah 'な' sebelum kata benda (人)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-8-3",
+    "level": "N5",
+    "chapter": 8,
+    "pattern": "N は Adj(-i) です / Adj(-na) です",
+    "title_id": "N は Adj(-i) です / Adj(-na) です",
+    "formation": [
+      {
+        "type": "Predicate",
+        "rule": "N は + I-Adj / Na-Adj (tanpa na) + です",
+        "example": "この 町 は 静か です"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "この町はにぎやかです。",
+        "romaji": "Kono machi wa nigiyaka desu.",
+        "meaning": "Kota ini ramai."
+      },
+      {
+        "japanese": "日本語は難しいです。",
+        "romaji": "Nihongo wa muzukashii desu.",
+        "meaning": "Bahasa Jepang sulit."
+      }
+    ],
+    "notes": "Kata sifat diletakkan di akhir kalimat sebagai predikat, selalu diakhiri dengan 'です' (desu) pada bentuk sopan (positif). I-Adj TIDAK menambahkan 'na', dan Na-Adj juga MENGHILANGKAN 'na' jika berada di akhir kalimat.",
+    "common_mistakes": "Membawa 'な' ke akhir kalimat. Contoh: 'この町は 静かな です' (SALAH!). Yang benar: 'この町は 静かです'.",
+    "quiz": [
+      {
+        "question": "Gunung Fuji tinggi.",
+        "options": [
+          "富士山 は 高い です",
+          "富士山 は 高いな です",
+          "富士山 は 高いの です",
+          "富士山 高い は です"
+        ],
+        "answer": "富士山 は 高い です",
+        "explanation": "Kata sifat I (高い) langsung diikuti 'です' jika menjadi predikat kalimat."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-8-4",
+    "level": "N5",
+    "chapter": 8,
+    "pattern": "Adj-i (negatif): ~くないです / Adj-na (negatif): ~じゃありません",
+    "title_id": "Adj-i (negatif): ~くないです / Adj-na (negatif): ~じゃありません",
+    "formation": [
+      {
+        "type": "I-Adj Negative",
+        "rule": "Adj-i (coret i) + くないです",
+        "example": "高くないです (tidak tinggi)"
+      },
+      {
+        "type": "Na-Adj Negative",
+        "rule": "Adj-na (tanpa na) + じゃありません",
+        "example": "静かじゃありません (tidak sepi)"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "この映画はおもしろくないです。",
+        "romaji": "Kono eiga wa omoshiroku nai desu.",
+        "meaning": "Film ini tidak menarik."
+      },
+      {
+        "japanese": "ここは静かじゃありません。",
+        "romaji": "Koko wa shizuka ja arimasen.",
+        "meaning": "Di sini tidak tenang."
+      }
+    ],
+    "notes": "Bentuk negatif dari kata sifat. Untuk I-Adj: hilangkan 'い' terakhir dan tambahkan 'くないです' (kunai desu). Untuk Na-Adj: hilangkan 'な' dan tambahkan 'じゃありません' (ja arimasen).",
+    "common_mistakes": "Memasukkan kata 'じゃない' pada I-Adj. Contoh salah: '高いじゃないです'. Seharusnya: '高くないです'. Pengecualian mutlak: 'いい' (bagus) menjadi 'よくないです' (tidak bagus), bukan 'いくないです'.",
+    "quiz": [
+      {
+        "question": "Film itu tidak menarik.",
+        "options": [
+          "その映画は おもしろいじゃありません",
+          "その映画は おもしろくないです",
+          "その映画は おもしろいくないです",
+          "その映画は おもしろいじゃないです"
+        ],
+        "answer": "その映画は おもしろくないです",
+        "explanation": "Omoshiroi adalah I-Adj. 'i' dihilangkan lalu diganti 'kunai desu'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-9-1",
+    "level": "N5",
+    "chapter": 9,
+    "pattern": "N が 好きです / 嫌いです",
+    "title_id": "N が 好きです / 嫌いです",
+    "formation": [
+      {
+        "type": "Preference",
+        "rule": "Objek + が + 好きです / 嫌いです",
+        "example": "わたし は 猫 が 好きです"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "音楽が好きです。",
+        "romaji": "Ongaku ga suki desu.",
+        "meaning": "Suka musik."
+      }
+    ],
+    "notes": "Untuk menyatakan suka (好き / suki) atau benci (嫌い / kirai), gunakan partikel 'が' (ga), BUKAN 'を' (o).",
+    "common_mistakes": "Menggunakan partikel 'を' seperti '猫を好きです' (SALAH). Suki/Kirai adalah kata sifat (Na-Adj), bukan kata kerja transitif, sehingga objeknya ditandai dengan 'が'.",
+    "quiz": [
+      {
+        "question": "Saya suka daging.",
+        "options": [
+          "わたしは 肉を 好きです",
+          "わたしは 肉に 好きです",
+          "わたしは 肉が 好きです",
+          "わたしは 肉で 好きです"
+        ],
+        "answer": "わたしは 肉が 好きです",
+        "explanation": "Untuk menyatakan hal yang disukai, gunakan partikel 'が'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-9-2",
+    "level": "N5",
+    "chapter": 9,
+    "pattern": "N が 上手です / 下手です",
+    "title_id": "N が 上手です / 下手です",
+    "formation": [
+      {
+        "type": "Skill",
+        "rule": "Bidang/Hal + が + 上手です / 下手です",
+        "example": "彼 は 歌 が 上手です"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "ミラーさんは日本語が上手です。",
+        "romaji": "Miraa-san wa nihongo ga jouzu desu.",
+        "meaning": "Miller pandai bahasa Jepang."
+      }
+    ],
+    "notes": "Sama seperti Suki/Kirai, untuk menyatakan pintar/mahir (上手 / jouzu) atau payah (下手 / heta) dalam suatu hal, gunakan partikel 'が'.",
+    "common_mistakes": "Sering menggunakan 'を'. Contoh salah: '日本語を上手です'. Harus diingat bahwa Jouzu/Heta adalah kata sifat, sehingga memakai partikel 'が'.",
+    "quiz": [
+      {
+        "question": "Tanaka pintar tenis.",
+        "options": [
+          "田中さんは テニスが 上手です",
+          "田中さんは テニスを 上手です",
+          "田中さんは テニスで 上手です",
+          "田中さんは テニスに 上手です"
+        ],
+        "answer": "田中さんは テニスが 上手です",
+        "explanation": "Menyatakan kemahiran selalu menggunakan 'が'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-9-3",
+    "level": "N5",
+    "chapter": 9,
+    "pattern": "N が わかります",
+    "title_id": "N が わかります",
+    "formation": [
+      {
+        "type": "Understanding",
+        "rule": "Hal yang dimengerti + が + わかります",
+        "example": "わたし は 日本語 が わかります"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "ひらがながわかります。",
+        "romaji": "Hiragana ga wakarimasu.",
+        "meaning": "Saya mengerti hiragana."
+      }
+    ],
+    "notes": "Kata kerja 'わかります' (wakarimasu / mengerti) juga merupakan pengecualian. Meskipun ia kata kerja, ia tidak menggunakan partikel 'を', melainkan partikel 'が'.",
+    "common_mistakes": "Memakai 'を' karena mengira 'wakarimasu' sama seperti kata kerja aktif lainnya. SALAH: '日本語をわかります'. BENAR: '日本語がわかります'.",
+    "quiz": [
+      {
+        "question": "Apakah kamu mengerti bahasa Inggris?",
+        "options": [
+          "英語を わかりますか",
+          "英語が わかりますか",
+          "英語で わかりますか",
+          "英語に わかりますか"
+        ],
+        "answer": "英語が わかりますか",
+        "explanation": "'わかります' wajib didahului partikel 'が'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-9-4",
+    "level": "N5",
+    "chapter": 9,
+    "pattern": "どうして～ですか。…～からです。",
+    "title_id": "どうして～ですか。…～からです。",
+    "formation": [
+      {
+        "type": "Reason",
+        "rule": "Alasan (Kalimat lengkap) + からです",
+        "example": "時間 が ない からです"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "どうして日本語を勉強しますか。…日本の音楽が好きですから。",
+        "romaji": "Doushite nihongo o benkyou shimasu ka. ...Nihon no ongaku ga suki desu kara.",
+        "meaning": "Mengapa belajar bahasa Jepang? ...Karena suka musik Jepang."
+      }
+    ],
+    "notes": "'どうして' (doushite) berarti 'Kenapa/Mengapa'. Jawabannya selalu diakhiri dengan '〜から (です)' yang berarti 'karena...'.",
+    "common_mistakes": "Lupa menambahkan 'から' di akhir jawaban atas pertanyaan 'どうして'. Jika 'から' diletakkan di DEPAN (contoh: kara jikan ga nai), artinya menjadi bahasa Indonesia (salah). 'から' harus di BELAKANG.",
+    "quiz": [
+      {
+        "question": "Q: どうして 食べませんか。 A: お腹が いっぱい ____。",
+        "options": [
+          "から",
+          "まで",
+          "からです",
+          "だけです"
+        ],
+        "answer": "からです",
+        "explanation": "Karena kalimat diakhiri secara sopan, gunakan 'からです' (karena...). 'から' saja kurang sopan jika berdiri sendiri."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-10-1",
+    "level": "N5",
+    "chapter": 10,
+    "pattern": "N（場所）に N が あります / います",
+    "title_id": "N（場所）に N が あります / います",
+    "formation": [
+      {
+        "type": "Existence",
+        "rule": "Tempat + に + Benda/Orang + が + あります/います",
+        "example": "机の上 に 本 が あります"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "テーブルの上に花があります。",
+        "romaji": "Teeburu no ue ni hana ga arimasu.",
+        "meaning": "Di atas meja ada bunga."
+      },
+      {
+        "japanese": "庭に猫がいます。",
+        "romaji": "Niwa ni neko ga imasu.",
+        "meaning": "Di halaman ada kucing."
+      }
+    ],
+    "notes": "Untuk menyatakan KEBERADAAN (Ada). 'あります' (arimasu) digunakan untuk BENDA MATI dan TANAMAN. 'います' (imasu) digunakan untuk MANUSIA dan HEWAN.",
+    "common_mistakes": "Tertukar antara arimasu dan imasu. (Contoh salah: '犬があります' - anjing adalah hewan/benda hidup, harus pakai 'います'). Lupa juga bahwa tempat ditandai dengan 'に', bukan 'で'.",
+    "quiz": [
+      {
+        "question": "Di taman ada anak-anak.",
+        "options": [
+          "公園に 子供が あります",
+          "公園で 子供が います",
+          "公園に 子供が います",
+          "公園で 子供が あります"
+        ],
+        "answer": "公園に 子供が います",
+        "explanation": "Tempat keberadaan pakai 'に', dan karena anak-anak itu makhluk hidup, gunakan 'います'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-10-2",
+    "level": "N5",
+    "chapter": 10,
+    "pattern": "N は N（場所）に あります / います",
+    "title_id": "N は N（場所）に あります / います",
+    "formation": [
+      {
+        "type": "Location of Subject",
+        "rule": "Subjek + は + Tempat + に + あります/います",
+        "example": "トイレ は あそこ に あります"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "銀行は駅の近くにあります。",
+        "romaji": "Ginkou wa eki no chikaku ni arimasu.",
+        "meaning": "Bank ada di dekat stasiun."
+      }
+    ],
+    "notes": "Pola ini dibalik dari pola 10-1. Fokusnya adalah menjelaskan LOKASI suatu subjek spesifik. (Subjek X ada di Y).",
+    "common_mistakes": "Menggunakan partikel 'が' setelah subjek yang menjadi TOPIK utama. Jika sudah jelas benda apa yang dibicarakan, benda tersebut menjadi topik dan dipasangkan dengan 'は'.",
+    "quiz": [
+      {
+        "question": "Kucing (itu) ada di bawah meja.",
+        "options": [
+          "猫が 机の下に います",
+          "猫は 机の下に います",
+          "机の下に 猫は います",
+          "机の下に 猫が あります"
+        ],
+        "answer": "猫は 机の下に います",
+        "explanation": "Kucing sebagai topik kalimat ('Kucing itu...') diletakkan di depan dengan 'は'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-10-3",
+    "level": "N5",
+    "chapter": 10,
+    "pattern": "N の 上/下/前/後ろ/右/左/中/隣 に",
+    "title_id": "N の 上/下/前/後ろ/右/左/中/隣 に",
+    "formation": [
+      {
+        "type": "Position",
+        "rule": "Benda Acuan + の + Posisi",
+        "example": "机 の 上 (Atas meja)"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "かばんの中に本があります。",
+        "romaji": "Kaban no naka ni hon ga arimasu.",
+        "meaning": "Di dalam tas ada buku."
+      },
+      {
+        "japanese": "スーパーは銀行の隣にあります。",
+        "romaji": "Suupaa wa ginkou no tonari ni arimasu.",
+        "meaning": "Supermarket di sebelah bank."
+      }
+    ],
+    "notes": "Kata penunjuk posisi: 上 (ue/atas), 下 (shita/bawah), 前 (mae/depan), 後ろ (ushiro/belakang), 右 (migi/kanan), 左 (hidari/kiri), 中 (naka/dalam), 隣 (tonari/sebelah). Dihubungkan dengan benda acuan menggunakan partikel 'の'.",
+    "common_mistakes": "Menerjemahkan secara harfiah dari bahasa Indonesia. Di bahasa Indonesia 'Atas Meja', orang sering salah menerjemahkan menjadi '上 の 机' (salah). Bahasa Jepang membalik susunannya menjadi 'Meja の Atas'.",
+    "quiz": [
+      {
+        "question": "'Di dalam tas'",
+        "options": [
+          "中の かばん",
+          "かばんの 中",
+          "かばんの 上",
+          "上の かばん"
+        ],
+        "answer": "かばんの 中",
+        "explanation": "Benda utama dulu (かばん), lalu partikel 'の', lalu posisinya (中)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-11-1",
+    "level": "N5",
+    "chapter": 11,
+    "pattern": "N を Counter V ます",
+    "title_id": "N を Counter V ます",
+    "formation": [
+      {
+        "type": "Counting",
+        "rule": "Benda + を + (Counter) + V-masu",
+        "example": "りんご を ３つ 買いました"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "りんごを三つ買います。",
+        "romaji": "Ringo o mittsu kaimasu.",
+        "meaning": "Membeli 3 buah apel."
+      },
+      {
+        "japanese": "コーヒーを二杯飲みました。",
+        "romaji": "Koohii o nihai nomimashita.",
+        "meaning": "Minum 2 cangkir kopi."
+      }
+    ],
+    "notes": "Pola ini digunakan untuk menyisipkan jumlah (Counter) ke dalam kalimat. Posisinya: Partikel 'を' -> Jumlah/Counter -> Kata Kerja.",
+    "common_mistakes": "Menambahkan partikel 'の' antara jumlah dan kata kerja (salah: りんごを３つの買いました). Counter (kecuali dalam kondisi tertentu) menempel bebas SEBELUM kata kerja.",
+    "quiz": [
+      {
+        "question": "Makan dua buah apel.",
+        "options": [
+          "りんごを 食べます ２つ",
+          "２つの りんごを 食べます",
+          "りんごを ２つ 食べます",
+          "りんご ２つを 食べます"
+        ],
+        "answer": "りんごを ２つ 食べます",
+        "explanation": "Urutan paling natural: [Benda を] [Counter] [Kata Kerja]."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-11-2",
+    "level": "N5",
+    "chapter": 11,
+    "pattern": "どのくらい (Berapa lama)",
+    "title_id": "どのくらい (Berapa lama)",
+    "formation": [
+      {
+        "type": "Duration",
+        "rule": "どのくらい + V-masu + か",
+        "example": "どのくらい 日本語を 勉強しましたか"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "どのくらいかかりますか。…一時間かかります。",
+        "romaji": "Dono kurai kakarimasu ka. ...Ichijikan kakarimasu.",
+        "meaning": "Berapa lama? ...Satu jam."
+      }
+    ],
+    "notes": "'どのくらい' (dono kurai) berarti 'berapa lama' atau 'sebanyak apa'. Digunakan untuk menanyakan durasi waktu atau jumlah uang/jarak.",
+    "common_mistakes": "Menjawab pertanyaan durasi ('berapa lama') dengan waktu spesifik ('jam 3'). Pertanyaan durasi harus dijawab dengan rentang waktu, misalnya '3 jam' (3時間 / 3-jikan).",
+    "quiz": [
+      {
+        "question": "Q: どのくらい 勉強しますか。 A: ____。",
+        "options": [
+          "３時です",
+          "３時間です",
+          "３分です",
+          "B dan C benar"
+        ],
+        "answer": "B dan C benar",
+        "explanation": "Durasi waktu: Jikan (jam), Fun/Pun (menit). B dan C menunjukkan durasi yang valid."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-12-1",
+    "level": "N5",
+    "chapter": 12,
+    "pattern": "N1 は N2 より Adj です",
+    "title_id": "N1 は N2 より Adj です",
+    "formation": [
+      {
+        "type": "Comparison",
+        "rule": "N1 + は + N2 + より + Kata Sifat + です",
+        "example": "日本 は インドネシア より 寒いです"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "東京は大阪より大きいです。",
+        "romaji": "Toukyou wa Oosaka yori ookii desu.",
+        "meaning": "Tokyo lebih besar dari Osaka."
+      }
+    ],
+    "notes": "Pola komparatif (Perbandingan). Menyatakan bahwa N1 lebih (sifat) dibandingkan N2. Partikel 'より' (yori) berarti 'daripada'.",
+    "common_mistakes": "Salah meletakkan 'より'. Ingat, 'より' menempel pada benda yang menjadi PEMBANDING (yang dikalahkan/lebih lemah).",
+    "quiz": [
+      {
+        "question": "Pesawat lebih cepat daripada kereta.",
+        "options": [
+          "飛行機は 電車より 速いです",
+          "電車は 飛行機より 速いです",
+          "飛行機より 電車は 速いです",
+          "飛行機は 電車が 速いです"
+        ],
+        "answer": "飛行機は 電車より 速いです",
+        "explanation": "Subjek utama (Pesawat/Hikouki) + は + Pembanding (Kereta/Densha) + より + Sifat (Cepat/Hayai)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-12-2",
+    "level": "N5",
+    "chapter": 12,
+    "pattern": "N1 と N2 と どちらが Adj ですか",
+    "title_id": "N1 と N2 と どちらが Adj ですか",
+    "formation": [
+      {
+        "type": "Question Comparison",
+        "rule": "N1 + と + N2 + と + どちらが + Sifat + ですか",
+        "example": "犬 と 猫 と どちらが 好きですか"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "肉と魚とどちらが好きですか。",
+        "romaji": "Niku to sakana to dochira ga suki desu ka.",
+        "meaning": "Daging dan ikan, mana yang lebih suka?"
+      }
+    ],
+    "notes": "Digunakan untuk menanyakan perbandingan antara DUA hal. Partikel 'と' dipakai dua kali. Kata tanya selalu menggunakan 'どちらが' (yang mana yang...).",
+    "common_mistakes": "Menggunakan kata tanya 'だれ' (siapa) atau 'なに' (apa). Jika pilihannya hanya DUA, wajib menggunakan 'どちら' (dochira).",
+    "quiz": [
+      {
+        "question": "Mana yang lebih murah, daging sapi atau daging babi?",
+        "options": [
+          "牛肉と 豚肉と なにが 安いですか",
+          "牛肉と 豚肉と どれが 安いですか",
+          "牛肉と 豚肉と どちらが 安いですか",
+          "牛肉と 豚肉と どちらも 安いですか"
+        ],
+        "answer": "牛肉と 豚肉と どちらが 安いですか",
+        "explanation": "Untuk memilih di antara dua opsi, gunakan 'どちらが' (mana yang)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-12-3",
+    "level": "N5",
+    "chapter": 12,
+    "pattern": "N（の中）で 何/どこ/だれ が 一番 Adj ですか",
+    "title_id": "N（の中）で 何/どこ/だれ が 一番 Adj ですか",
+    "formation": [
+      {
+        "type": "Superlative Question",
+        "rule": "Kategori + で + 何/どこ/だれ/いつ + が + 一番 + Sifat + ですか",
+        "example": "日本 で どこ が 一番 きれいですか"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "季節の中で何が一番好きですか。…春が一番好きです。",
+        "romaji": "Kisetsu no naka de nani ga ichiban suki desu ka. ...Haru ga ichiban suki desu.",
+        "meaning": "Di antara musim, paling suka apa? ...Paling suka musim semi."
+      }
+    ],
+    "notes": "Pola Superlatif. Menanyakan apa yang PALING (一番 / ichiban) dari sebuah kategori besar (keluarga, musim, olahraga, dll).",
+    "common_mistakes": "Menggunakan partikel 'は' sebelum '一番'. Yang benar adalah menggunakan partikel 'が' karena menyoroti subjek baru sebagai jawaban unik.",
+    "quiz": [
+      {
+        "question": "Di keluarga, siapa yang paling tinggi?",
+        "options": [
+          "家族で だれが 一番 背が高いですか",
+          "家族で だれは 一番 背が高いですか",
+          "家族は だれが 一番 背が高いですか",
+          "家族は だれは 一番 背が高いですか"
+        ],
+        "answer": "家族で だれが 一番 背が高いですか",
+        "explanation": "Kategori ruang lingkup pakai 'で' (Kozoku de), lalu kata tanya + 'が' (Dare ga)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-13-1",
+    "level": "N5",
+    "chapter": 13,
+    "pattern": "N が ほしいです",
+    "title_id": "N が ほしいです",
+    "formation": [
+      {
+        "type": "Desire (Noun)",
+        "rule": "Subjek(Saya) + は + Benda + が + ほしいです",
+        "example": "わたし は パソコン が ほしいです"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "車が欲しいです。",
+        "romaji": "Kuruma ga hoshii desu.",
+        "meaning": "Saya ingin mobil."
+      },
+      {
+        "japanese": "お金が欲しいです。",
+        "romaji": "Okane ga hoshii desu.",
+        "meaning": "Saya ingin uang."
+      }
+    ],
+    "notes": "Menyatakan KEINGINAN terhadap suatu BENDA. 'ほしい' (hoshii) berarti 'ingin (punya)'. Ini berfungsi sebagai I-Adj, sehingga membutuhkan partikel 'が'.",
+    "common_mistakes": "Digunakan untuk menanyakan keinginan pihak ketiga (contoh: Budi-san ingin HP). Dalam budaya Jepang, kurang sopan menebak secara langsung keinginan orang ketiga pakai 'hoshii'. Hanya dipakai untuk DIRI SENDIRI atau bertanya langsung ke lawan bicara.",
+    "quiz": [
+      {
+        "question": "Saya ingin mobil baru.",
+        "options": [
+          "わたしは 新しい車を ほしいです",
+          "わたしは 新しい車が ほしいです",
+          "わたしは 新しい車に ほしいです",
+          "わたしは 新しい車で ほしいです"
+        ],
+        "answer": "わたしは 新しい車が ほしいです",
+        "explanation": "'ほしい' adalah I-Adj, objek dari keinginan ditandai dengan partikel 'が'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-13-2",
+    "level": "N5",
+    "chapter": 13,
+    "pattern": "V ます (stem) + たいです",
+    "title_id": "V ます (stem) + たいです",
+    "formation": [
+      {
+        "type": "Desire (Verb)",
+        "rule": "V-masu (buang masu) + たいです",
+        "example": "寿司 が 食べたいです"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "日本へ行きたいです。",
+        "romaji": "Nihon e ikitai desu.",
+        "meaning": "Saya ingin pergi ke Jepang."
+      },
+      {
+        "japanese": "寿司を食べたいです。",
+        "romaji": "Sushi o tabetai desu.",
+        "meaning": "Saya ingin makan sushi."
+      }
+    ],
+    "notes": "Menyatakan KEINGINAN untuk MELAKUKAN SESUATU. Akhiran 'ます' (masu) pada kata kerja diubah menjadi 'たい' (tai). Gabungan ini akan berubah sifat menjadi I-Adj.",
+    "common_mistakes": "Lupa membuang 'masu'. Contoh salah: '食べますたい' (salah). Benar: '食べたい'. Objek bisa pakai 'を' atau 'が' secara bebas, namun 'が' lebih disarankan.",
+    "quiz": [
+      {
+        "question": "Ingin minum air.",
+        "options": [
+          "水を 飲みたいです",
+          "水が 飲みたいです",
+          "A dan B benar",
+          "水を 飲みますたいです"
+        ],
+        "answer": "A dan B benar",
+        "explanation": "Untuk bentuk '-tai', partikel objek boleh memakai 'を' (fokus pada aksi minum) maupun 'が' (fokus pada air yang diinginkan)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-13-3",
+    "level": "N5",
+    "chapter": 13,
+    "pattern": "N（場所）へ V ます(stem) に 行きます",
+    "title_id": "N（場所）へ V ます(stem) に 行きます",
+    "formation": [
+      {
+        "type": "Purpose of movement",
+        "rule": "Tempat + へ + V-masu(buang masu) + に + 行きます",
+        "example": "デパート へ 服 を 買い に 行きます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "海へ泳ぎに行きます。",
+        "romaji": "Umi e oyogi ni ikimasu.",
+        "meaning": "Pergi ke laut untuk berenang."
+      }
+    ],
+    "notes": "Menyatakan TUJUAN kepergian. Digabung dengan kata kerja gerak (行く/来る/帰る). Bentuknya: V-masu (buang masu) + に + 行く.",
+    "common_mistakes": "Lupa menghapus kata 'ます'. (Salah: 買いますに行きます). (Benar: 買いに行きます).",
+    "quiz": [
+      {
+        "question": "Pergi ke taman untuk bermain.",
+        "options": [
+          "公園へ 遊びますに 行きます",
+          "公園へ 遊びに 行きます",
+          "公園へ 遊んでに 行きます",
+          "公園へ 遊ぶに 行きます"
+        ],
+        "answer": "公園へ 遊びに 行きます",
+        "explanation": "Asobi (akar/stem dari Asobimasu) + ni + Ikimasu."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-14-1",
+    "level": "N5",
+    "chapter": 14,
+    "pattern": "V て ください (Tolong ~)",
+    "title_id": "V て ください (Tolong ~)",
+    "formation": [
+      {
+        "type": "Request",
+        "rule": "V-te + ください",
+        "example": "ここに 書いて ください"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "窓を開けてください。",
+        "romaji": "Mado o akete kudasai.",
+        "meaning": "Tolong buka jendelanya."
+      },
+      {
+        "japanese": "ちょっと待ってください。",
+        "romaji": "Chotto matte kudasai.",
+        "meaning": "Tolong tunggu sebentar."
+      }
+    ],
+    "notes": "Meminta bantuan / instruksi ('Tolong lakukan...'). Kata kerja wajib diubah ke BENTUK TE. Cara mengubah ke bentuk te bergantung pada golongan kata kerja (I, II, III).",
+    "common_mistakes": "Salah mengkonjugasi bentuk Te pada golongan 1. Misalnya 'Kaimasu' (membeli) menjadi 'Kaite' (SALAH, harusnya 'Katte').",
+    "quiz": [
+      {
+        "question": "'Tolong tunggu sebentar.'",
+        "options": [
+          "ちょっと まちて ください",
+          "ちょっと まって ください",
+          "ちょっと まんで ください",
+          "ちょっと まして ください"
+        ],
+        "answer": "ちょっと まって ください",
+        "explanation": "Machimasu (menunggu) -> bentuk te nya adalah 'Matte'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-14-2",
+    "level": "N5",
+    "chapter": 14,
+    "pattern": "V て います (Sedang ~)",
+    "title_id": "V て います (Sedang ~)",
+    "formation": [
+      {
+        "type": "Ongoing action",
+        "rule": "V-te + います",
+        "example": "今 雨 が 降って います"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "今テレビを見ています。",
+        "romaji": "Ima terebi o mite imasu.",
+        "meaning": "Sekarang sedang menonton TV."
+      }
+    ],
+    "notes": "Menyatakan hal yang SEDANG terjadi (Present Continuous). Sama seperti V-ing dalam bahasa Inggris.",
+    "common_mistakes": "Tidak menggunakan pola ini saat aksi sedang berlangsung saat pembicara mengucapkan kalimatnya. (Orang sering hanya pakai V-masu, yang mana berarti 'akan', bukan 'sedang').",
+    "quiz": [
+      {
+        "question": "'Saya sedang makan nasi sekarang.'",
+        "options": [
+          "今 ごはんを 食べます",
+          "今 ごはんを 食べました",
+          "今 ごはんを 食べています",
+          "今 ごはんを 食べてください"
+        ],
+        "answer": "今 ごはんを 食べています",
+        "explanation": "Tabete imasu (Sedang makan)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-14-3",
+    "level": "N5",
+    "chapter": 14,
+    "pattern": "V ても いいですか (Bolehkah ~?)",
+    "title_id": "V ても いいですか (Bolehkah ~?)",
+    "formation": [
+      {
+        "type": "Permission",
+        "rule": "V-te + も いいですか",
+        "example": "写真 を 撮って も いいですか"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "写真を撮ってもいいですか。",
+        "romaji": "Shashin o totte mo ii desu ka.",
+        "meaning": "Boleh mengambil foto?"
+      }
+    ],
+    "notes": "Meminta izin ('Bolehkah saya...?'). Kata kerja diubah ke bentuk TE ditambah 'も いいですか'.",
+    "common_mistakes": "Lupa menambahkan 'も' (mo). Jika hanya bilang 'V-te ii desu ka', itu tidak natural. Harus lengkap 'V-te MO ii desu ka'.",
+    "quiz": [
+      {
+        "question": "'Bolehkah saya duduk di sini?'",
+        "options": [
+          "ここに 座って も いいですか",
+          "ここに 座り も いいですか",
+          "ここに 座る も いいですか",
+          "ここに 座って いいですか"
+        ],
+        "answer": "ここに 座って も いいですか",
+        "explanation": "Suwarimasu -> Suwatte + mo ii desu ka."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-14-4",
+    "level": "N5",
+    "chapter": 14,
+    "pattern": "V ては いけません (Tidak boleh ~)",
+    "title_id": "V ては いけません (Tidak boleh ~)",
+    "formation": [
+      {
+        "type": "Prohibition",
+        "rule": "V-te + は いけません",
+        "example": "ここで タバコ を 吸って は いけません"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "ここでタバコを吸ってはいけません。",
+        "romaji": "Koko de tabako o sutte wa ikemasen.",
+        "meaning": "Tidak boleh merokok di sini."
+      }
+    ],
+    "notes": "Larangan keras ('Tidak boleh...'). Kata kerja diubah ke bentuk TE ditambah 'は いけません' (wa ikemasen).",
+    "common_mistakes": "Tertukar dengan 'V-naide kudasai' (Tolong jangan). Ikemasen jauh lebih keras dan mutlak aturannya (misal aturan di rumah sakit / rambu lalu lintas).",
+    "quiz": [
+      {
+        "question": "'Di perpustakaan, tidak boleh makan.'",
+        "options": [
+          "図書館で 食べては いけません",
+          "図書館で 食べて もいいです",
+          "図書館で 食べて ください",
+          "図書館で 食べない ください"
+        ],
+        "answer": "図書館で 食べては いけません",
+        "explanation": "Tabete (Bentuk te) + wa + ikemasen (Tidak boleh)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-15-1",
+    "level": "N5",
+    "chapter": 15,
+    "pattern": "V ています (Kondisi/Kebiasaan)",
+    "title_id": "V ています (Kondisi/Kebiasaan)",
+    "formation": [
+      {
+        "type": "State / Habit",
+        "rule": "V-te + います",
+        "example": "わたし は 大阪 に 住んで います"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "東京に住んでいます。",
+        "romaji": "Toukyou ni sunde imasu.",
+        "meaning": "Tinggal di Tokyo."
+      },
+      {
+        "japanese": "銀行で働いています。",
+        "romaji": "Ginkou de hataraite imasu.",
+        "meaning": "Bekerja di bank."
+      }
+    ],
+    "notes": "Selain untuk 'sedang melakukan', pola 'V-te imasu' juga digunakan untuk KONDISI (sudah menikah, tahu/mengenal, tinggal di suatu tempat) atau KEBIASAAN/Profesi yang rutin dilakukan.",
+    "common_mistakes": "Menggunakan V-masu biasa. Contoh: 'Kekkon shimasu' (Artinya: Saya AKAN menikah). Jika maksudnya 'sudah menikah (status berkeluarga)', harus menggunakan 'Kekkon shite imasu'.",
+    "quiz": [
+      {
+        "question": "'Saya kenal/tahu tentang Yamada.'",
+        "options": [
+          "山田さんを 知ります",
+          "山田さんを 知っています",
+          "山田さんを 知りました",
+          "山田さんを 知ってです"
+        ],
+        "answer": "山田さんを 知っています",
+        "explanation": "Kata kerja Shirimasu (tahu) dalam arti 'mengenal' selalu menggunakan bentuk Te-imasu (Shitte imasu)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-15-2",
+    "level": "N5",
+    "chapter": 15,
+    "pattern": "Tanya arah: まっすぐ行って、〜を曲がって",
+    "title_id": "Tanya arah: まっすぐ行って、〜を曲がって",
+    "formation": [
+      {
+        "type": "Giving Directions",
+        "rule": "Kalimat A(Te-form) + Kalimat B(Masu-form)",
+        "example": "信号 を 右へ 曲がって、まっすぐ 行きます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "まっすぐ行って、次の交差点を右に曲がってください。",
+        "romaji": "Massugu itte, tsugi no kousaten o migi ni magatte kudasai.",
+        "meaning": "Jalan lurus, belok kanan di persimpangan berikutnya."
+      }
+    ],
+    "notes": "Pola penyambungan kalimat (Bentuk Te) khusus untuk memberikan petunjuk arah beruntun.",
+    "common_mistakes": "Menggunakan partikel 'に' untuk berbelok. Titik/benda yang di-belok-i/dilewati menggunakan partikel 'を'. (Contoh: Kado o magatte = berbelok di sudut).",
+    "quiz": [
+      {
+        "question": "Berbelok ke kiri di lampu merah.",
+        "options": [
+          "信号に 左へ 曲がります",
+          "信号で 左へ 曲がります",
+          "信号を 左へ 曲がります",
+          "信号が 左へ 曲がります"
+        ],
+        "answer": "信号を 左へ 曲がります",
+        "explanation": "Menikung/melewati suatu titik (lampu merah) ditandai dengan partikel 'を'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-16-1",
+    "level": "N5",
+    "chapter": 16,
+    "pattern": "V1て、V2て、V3ます (Urutan kegiatan)",
+    "title_id": "V1て、V2て、V3ます (Urutan kegiatan)",
+    "formation": [
+      {
+        "type": "Sequential Action",
+        "rule": "V1-te + V2-te + V3-masu/mashita",
+        "example": "朝 ６時に 起きて、シャワーを 浴びて、ごはんを 食べます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "朝起きて、顔を洗って、朝ご飯を食べます。",
+        "romaji": "Asa okite, kao o aratte, asagohan o tabemasu.",
+        "meaning": "Pagi bangun, cuci muka, makan sarapan."
+      }
+    ],
+    "notes": "Merangkai beberapa aktivitas berurutan ('Lakukan A, lalu lakukan B, lalu lakukan C'). Semua kata kerja di awal menggunakan bentuk TE, dan kata kerja PALING AKHIR menentukan tenses-nya (sekarang/lampau).",
+    "common_mistakes": "Mencoba men-tense-kan (melampaukan) kata kerja pertama dan kedua. (Contoh salah: Okimashita, abite...). Semua wajib bentuk TE, hanya yang terakhir yang dikonjugasikan.",
+    "quiz": [
+      {
+        "question": "'Tadi pagi saya berlari, mandi, lalu pergi ke sekolah.' (Kalimat lampau)",
+        "options": [
+          "走って、浴びて、学校へ行きました",
+          "走りました、浴びて、学校へ行きました",
+          "走って、浴びました、学校へ行きました",
+          "走る、浴びる、学校へ行きました"
+        ],
+        "answer": "走って、浴びて、学校へ行きました",
+        "explanation": "Dua kerja awal di-Te-kan (hashitte, abite), yang terakhir menjadi lampau (ikimashita)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-16-2",
+    "level": "N5",
+    "chapter": 16,
+    "pattern": "Adj-i くて / Adj-na で (Menyambung kata sifat)",
+    "title_id": "Adj-i くて / Adj-na で (Menyambung kata sifat)",
+    "formation": [
+      {
+        "type": "I-Adj",
+        "rule": "I-Adj(buang i) + くて",
+        "example": "安くて、おいしいです (Murah dan enak)"
+      },
+      {
+        "type": "Na-Adj",
+        "rule": "Na-Adj + で",
+        "example": "静かで、きれいです (Sepi dan bersih)"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "ミラーさんは若くて、きれいです。",
+        "romaji": "Miraa-san wa wakakute, kirei desu.",
+        "meaning": "Miller muda dan cantik."
+      },
+      {
+        "japanese": "この部屋は静かで、広いです。",
+        "romaji": "Kono heya wa shizuka de, hiroi desu.",
+        "meaning": "Kamar ini tenang dan luas."
+      }
+    ],
+    "notes": "Menyambung DUA KATA SIFAT atau lebih dalam satu kalimat ('dan'). I-Adj: hilangkan 'i' ganti 'kute'. Na-Adj: tambah 'de'. Noun: tambah 'de'.",
+    "common_mistakes": "Menyambung dengan kata 'と' (to). 'と' hanya untuk menyambung Kata Benda murni, tidak bisa untuk Kata Sifat.",
+    "quiz": [
+      {
+        "question": "Kamar saya luas dan bersih.",
+        "options": [
+          "わたしの部屋は 広くて、きれいです",
+          "わたしの部屋は 広いと、きれいです",
+          "わたしの部屋は 広いして、きれいです",
+          "わたしの部屋は 広いで、きれいです"
+        ],
+        "answer": "わたしの部屋は 広くて、きれいです",
+        "explanation": "Hiroi (I-Adj) -> Hirokute (Luas dan...)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-17-1",
+    "level": "N5",
+    "chapter": 17,
+    "pattern": "V ないでください (Jangan ~)",
+    "title_id": "V ないでください (Jangan ~)",
+    "formation": [
+      {
+        "type": "Negative Request",
+        "rule": "V-nai + で ください",
+        "example": "ここで 写真を 撮らないで ください"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "ここで写真を撮らないでください。",
+        "romaji": "Koko de shashin o toranaide kudasai.",
+        "meaning": "Jangan ambil foto di sini."
+      }
+    ],
+    "notes": "Meminta seseorang UNTUK TIDAK melakukan sesuatu ('Tolong jangan...'). Kata kerja harus diubah ke BENTUK NAI (V-nai).",
+    "common_mistakes": "Lupa mengubah ke bentuk Nai dengan benar (golongan 1: vokal u menjadi a, contoh: Kaku -> Kakanai).",
+    "quiz": [
+      {
+        "question": "Tolong jangan masuk.",
+        "options": [
+          "はいらないで ください",
+          "はいないで ください",
+          "はいれないで ください",
+          "はいいないで ください"
+        ],
+        "answer": "はいらないで ください",
+        "explanation": "Hairimasu (Masuk) adalah golongan 1 (pengecualian), bentuk nai-nya adalah Hairanai."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-17-2",
+    "level": "N5",
+    "chapter": 17,
+    "pattern": "V なければなりません (Harus ~)",
+    "title_id": "V なければなりません (Harus ~)",
+    "formation": [
+      {
+        "type": "Obligation",
+        "rule": "V-nai (buang nai) + なければ なりません",
+        "example": "薬 を 飲まなければ なりません"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "薬を飲まなければなりません。",
+        "romaji": "Kusuri o nomanakereba narimasen.",
+        "meaning": "Harus minum obat."
+      }
+    ],
+    "notes": "Menyatakan KEWAJIBAN atau KEHARUSAN ('Harus... / Must'). Kata kerja bentuk NAI, 'nai' nya dihilangkan, lalu ditambah 'nakereba narimasen'.",
+    "common_mistakes": "Pola kalimat ini sangat panjang dan kaku, sering terpeleset membacanya. Secara literal artinya 'Jika tidak dilakukan, tidak akan jadi (benar)'.",
+    "quiz": [
+      {
+        "question": "'Saya harus pulang.'",
+        "options": [
+          "帰らなれば なりません",
+          "帰らないければ なりません",
+          "帰らなければ なりません",
+          "帰りなければ なりません"
+        ],
+        "answer": "帰らなければ なりません",
+        "explanation": "Kaeranai -> buang nai -> Kaeranakereba + narimasen."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-17-3",
+    "level": "N5",
+    "chapter": 17,
+    "pattern": "V なくてもいいです (Tidak perlu ~)",
+    "title_id": "V なくてもいいです (Tidak perlu ~)",
+    "formation": [
+      {
+        "type": "No Obligation",
+        "rule": "V-nai (buang nai) + なくても いいです",
+        "example": "明日 は 来なくても いいです"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "明日来なくてもいいです。",
+        "romaji": "Ashita konakute mo ii desu.",
+        "meaning": "Besok tidak perlu datang."
+      }
+    ],
+    "notes": "Menyatakan KETIDAKHARUSAN ('Tidak perlu... / Tidak usah...'). Kata kerja bentuk NAI, 'nai' nya dihilangkan, ditambah 'nakutemo ii desu'.",
+    "common_mistakes": "Sering salah artikan sebagai 'Tidak boleh'. Ingat: 'Tidak boleh' pakai V-te wa ikemasen. 'Tidak perlu' pakai V-nakutemo ii desu.",
+    "quiz": [
+      {
+        "question": "Hari ini adalah hari libur. 'Tidak perlu bekerja.'",
+        "options": [
+          "働いては いけません",
+          "働かなくても いいです",
+          "働かないで ください",
+          "働かなければ なりません"
+        ],
+        "answer": "働かなくても いいです",
+        "explanation": "Hatarakanai -> Hatarakanakutemo ii desu (Tidak perlu bekerja)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-18-1",
+    "level": "N5",
+    "chapter": 18,
+    "pattern": "V (dict.form) ことができます",
+    "title_id": "V (dict.form) ことができます",
+    "formation": [
+      {
+        "type": "Ability",
+        "rule": "V-(bentuk kamus) + こと が できます",
+        "example": "漢字 を 読む こと が できます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "ピアノを弾くことができます。",
+        "romaji": "Piano o hiku koto ga dekimasu.",
+        "meaning": "Saya bisa bermain piano."
+      },
+      {
+        "japanese": "日本語を話すことができます。",
+        "romaji": "Nihongo o hanasu koto ga dekimasu.",
+        "meaning": "Saya bisa berbicara bahasa Jepang."
+      }
+    ],
+    "notes": "Menyatakan KEMAMPUAN ('Bisa / Dapat'). Kata kerja harus diubah ke BENTUK KAMUS (Dictionary form / V-ru), ditambah 'koto ga dekimasu'.",
+    "common_mistakes": "Lupa menyisipkan 'こと' (koto). Kata kerja tidak bisa langsung bertemu 'が'. 'こと' berfungsi men-kata-benda-kan kata kerja.",
+    "quiz": [
+      {
+        "question": "Saya bisa mengendarai mobil.",
+        "options": [
+          "車を 運転するが できます",
+          "車を 運転するが できます",
+          "車を 運転すること が できます",
+          "車を 運転しますこと が できます"
+        ],
+        "answer": "車を 運転すること が できます",
+        "explanation": "Untensuru (bentuk kamus) + koto ga dekimasu."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-18-2",
+    "level": "N5",
+    "chapter": 18,
+    "pattern": "V (dict.form) 前に、V ます",
+    "title_id": "V (dict.form) 前に、V ます",
+    "formation": [
+      {
+        "type": "Before doing",
+        "rule": "V-(bentuk kamus) + 前(まえ) に、V2",
+        "example": "寝る 前に、本 を 読みます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "寝る前に、本を読みます。",
+        "romaji": "Neru mae ni, hon o yomimasu.",
+        "meaning": "Sebelum tidur, membaca buku."
+      }
+    ],
+    "notes": "Menyatakan URUTAN MUNDUR ('Sebelum melakukan A, saya melakukan B'). Aksi yang belum terjadi (A) HARUS selalu dalam Bentuk Kamus (walaupun B-nya lampau).",
+    "common_mistakes": "Menggunakan bentuk V-masu atau Lampau sebelum 'mae ni'. (Salah: 寝ました前に). Apapun tense-nya, kata kerja sebelum 'mae ni' WAJIB bentuk kamus dasar.",
+    "quiz": [
+      {
+        "question": "'Kemarin, sebelum makan saya mencuci tangan.'",
+        "options": [
+          "食べる 前に、手を 洗いました",
+          "食べた 前に、手を 洗いました",
+          "食べます 前に、手を 洗いました",
+          "食べて 前に、手を 洗いました"
+        ],
+        "answer": "食べる 前に、手を 洗いました",
+        "explanation": "Meskipun lampau (kemarin), sebelum 'mae ni' tetap pakai bentuk kamus (taberu)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-18-3",
+    "level": "N5",
+    "chapter": 18,
+    "pattern": "趣味は V (dict.form) ことです",
+    "title_id": "趣味は V (dict.form) ことです",
+    "formation": [
+      {
+        "type": "Hobby",
+        "rule": "趣味(shumi) は + V-(bentuk kamus) + こと です",
+        "example": "趣味 は 映画 を 見る こと です"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "趣味は写真を撮ることです。",
+        "romaji": "Shumi wa shashin o toru koto desu.",
+        "meaning": "Hobi saya adalah mengambil foto."
+      }
+    ],
+    "notes": "Menjelaskan HOBI ('Hobi saya adalah melakukan...'). Kata kerjanya juga HARUS BENTUK KAMUS ditambah 'koto desu'.",
+    "common_mistakes": "Hanya bilang 'Shumi wa eiga o mimasu' (Salah tatanan). Kalimat nominal N1 wa N2 desu menuntut sisi kanan berupa Kata Benda. Penambahan 'koto desu' membuatnya sah.",
+    "quiz": [
+      {
+        "question": "Hobi saya adalah memotret foto.",
+        "options": [
+          "わたしの趣味は 写真を 撮るです",
+          "わたしの趣味は 写真を 撮るの です",
+          "わたしの趣味は 写真を 撮ること です",
+          "わたしの趣味は 写真を 撮ります です"
+        ],
+        "answer": "わたしの趣味は 写真を 撮ること です",
+        "explanation": "Bentuk kamus (toru) + koto desu."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-19-1",
+    "level": "N5",
+    "chapter": 19,
+    "pattern": "V た ことがあります (Pernah ~)",
+    "title_id": "V た ことがあります (Pernah ~)",
+    "formation": [
+      {
+        "type": "Experience",
+        "rule": "V-ta + こと が あります",
+        "example": "日本 へ 行った こと が あります"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "富士山に登ったことがあります。",
+        "romaji": "Fujisan ni nobotta koto ga arimasu.",
+        "meaning": "Pernah mendaki Gunung Fuji."
+      },
+      {
+        "japanese": "着物を着たことがありません。",
+        "romaji": "Kimono o kita koto ga arimasen.",
+        "meaning": "Belum pernah memakai kimono."
+      }
+    ],
+    "notes": "Menyatakan PENGALAMAN ('Pernah...'). Kata kerja HARUS diubah ke BENTUK TA (Lampau), lalu ditambah 'koto ga arimasu'.",
+    "common_mistakes": "Menggunakan bentuk kamus/sekarang (V-ru). (Contoh salah: 行くことがあります). Jika menggunakan bentuk sekarang, artinya berubah total menjadi 'Terkadang saya melakukan...' (Ini pola N4/N3). Untuk 'Pernah', wajib bentuk TA.",
+    "quiz": [
+      {
+        "question": "'Saya pernah makan sushi.'",
+        "options": [
+          "すしを 食べる ことがあります",
+          "すしを 食べます ことがあります",
+          "すしを 食べて ことがあります",
+          "すしを 食べた ことがあります"
+        ],
+        "answer": "すしを 食べた ことがあります",
+        "explanation": "Taberu diubah menjadi bentuk lampau (Tabeta) + koto ga arimasu."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-19-2",
+    "level": "N5",
+    "chapter": 19,
+    "pattern": "V たり V たり します (Melakukan ini dan itu)",
+    "title_id": "V たり V たり します (Melakukan ini dan itu)",
+    "formation": [
+      {
+        "type": "Representative Actions",
+        "rule": "V1-tari, V2-tari + します",
+        "example": "日曜日 は 掃除したり、本を 読んだり します"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "休みの日は本を読んだり、映画を見たりします。",
+        "romaji": "Yasumi no hi wa hon o yondari, eiga o mitari shimasu.",
+        "meaning": "Hari libur membaca buku, menonton film, dan sebagainya."
+      }
+    ],
+    "notes": "Penyebutan beberapa aktivitas yang TIDAK berurutan ('Melakukan (seperti) A, B, dsb'). Diakhiri dengan kata kerja 'します' (shimasu).",
+    "common_mistakes": "Lupa menambahkan 'します' di akhir kalimat. Atau menggunakan pola V-te, V-te (yang mana berarti aktivitas harus berurutan secara kronologis). Pola -tari bebas urutannya.",
+    "quiz": [
+      {
+        "question": "'Di akhir pekan saya menonton TV, mendengarkan musik, dsb.'",
+        "options": [
+          "テレビを 見て、音楽を 聞きます",
+          "テレビを 見たり、音楽を 聞きたり します",
+          "テレビを 見たり、音楽を 聞いたり します",
+          "テレビを 見たり、音楽を 聞いたり です"
+        ],
+        "answer": "テレビを 見たり、音楽を 聞いたり します",
+        "explanation": "Mimasu -> Mitari. Kikimasu -> Kiitari + shimasu."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-19-3",
+    "level": "N5",
+    "chapter": 19,
+    "pattern": "Adj-i → Adj-ku なります / Adj-na に なります",
+    "title_id": "Adj-i → Adj-ku なります / Adj-na に なります",
+    "formation": [
+      {
+        "type": "I-Adj",
+        "rule": "I-Adj(buang i) + く + なります",
+        "example": "暖かく なります (Menjadi hangat)"
+      },
+      {
+        "type": "Na-Adj/Noun",
+        "rule": "Na-Adj/Noun + に + なります",
+        "example": "静かに なります (Menjadi sepi)"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "暖かくなりました。",
+        "romaji": "Atatakaku narimashita.",
+        "meaning": "Sudah menjadi hangat."
+      },
+      {
+        "japanese": "日本語が上手になりました。",
+        "romaji": "Nihongo ga jouzu ni narimashita.",
+        "meaning": "Sudah menjadi pandai bahasa Jepang."
+      }
+    ],
+    "notes": "Menyatakan PERUBAHAN ('Menjadi...'). I-Adj membuang 'い' diganti 'く' + なります. Na-Adj/Benda ditambah 'に' + なります.",
+    "common_mistakes": "Memasukkan partikel 'な' sebelum 'になります' pada Na-Adj. (Salah: 静かなになります). Ingat: 'な' nya dicoret, diganti 'に'.",
+    "quiz": [
+      {
+        "question": "'Anak saya menjadi dokter.'",
+        "options": [
+          "子供は 医者く なりました",
+          "子供は 医者に なりました",
+          "子供は 医者な なりました",
+          "子供は 医者の なりました"
+        ],
+        "answer": "子供は 医者に なりました",
+        "explanation": "Dokter (Isha) adalah kata benda, maka disambung dengan partikel 'に' + narimasu/narimashita."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-20-1",
+    "level": "N5",
+    "chapter": 20,
+    "pattern": "Plain Form (Informal)",
+    "title_id": "Plain Form (Informal)",
+    "formation": [
+      {
+        "type": "Plain Form",
+        "rule": "V-ru / V-nai / V-ta / V-nakatta",
+        "example": "食べる (taberu) / 食べない (tabenai) / 食べた (tabeta) / 食べなかった (tabenakatta)"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "食べる (taberu) ← 食べます",
+        "romaji": "taberu ← tabemasu",
+        "meaning": "Makan (informal ← formal)"
+      },
+      {
+        "japanese": "食べない (tabenai) ← 食べません",
+        "romaji": "tabenai ← tabemasen",
+        "meaning": "Tidak makan (informal ← formal)"
+      }
+    ],
+    "notes": "Bentuk biasa/santai (Futsuukei / Plain form) digunakan saat berbicara dengan teman sebaya atau keluarga. Tidak memakai 'desu' atau 'masu'.",
+    "common_mistakes": "Menggunakan bentuk informal kepada atasan atau orang yang baru dikenal, yang dianggap sangat tidak sopan dalam budaya Jepang.",
+    "quiz": [
+      {
+        "question": "Apa bentuk informal dari '飲みません' (Tidak minum)?",
+        "options": [
+          "飲む",
+          "飲んだ",
+          "飲まない",
+          "飲まなかった"
+        ],
+        "answer": "飲まない",
+        "explanation": "'Nomimasen' adalah bentuk negatif sekarang. Bentuk informalnya adalah 'Nomanai'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-20-2",
+    "level": "N5",
+    "chapter": 20,
+    "pattern": "V / Adj (plain) と思います",
+    "title_id": "V / Adj (plain) と思います",
+    "formation": [
+      {
+        "type": "Opinion",
+        "rule": "Kalimat(Plain form) + と思います",
+        "example": "明日 は 雨 が 降る と 思います"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "明日は雨だと思います。",
+        "romaji": "Ashita wa ame da to omoimasu.",
+        "meaning": "Saya pikir besok hujan."
+      },
+      {
+        "japanese": "日本語は難しいと思います。",
+        "romaji": "Nihongo wa muzukashii to omoimasu.",
+        "meaning": "Saya pikir bahasa Jepang sulit."
+      }
+    ],
+    "notes": "Menyatakan PENDAPAT PRIBADI ('Saya pikir/menurut saya...'). Semua elemen SEBELUM 'と思います' HARUS dalam bentuk biasa (Plain Form).",
+    "common_mistakes": "Menggunakan bentuk 'masu' / 'desu' sebelum 'to omoimasu'. (Salah: 降りますと思います). Wajib diubah ke bentuk biasa (Furu). Pada kata benda/Na-Adj, wajib ditambah 'だ' (da).",
+    "quiz": [
+      {
+        "question": "'Saya pikir Tanaka tidak akan datang.'",
+        "options": [
+          "田中さんは 来ません と 思います",
+          "田中さんは 来ない と 思います",
+          "田中さんは 来ない と 思いません",
+          "田中さんは 来ると 思いません"
+        ],
+        "answer": "田中さんは 来ない と 思います",
+        "explanation": "Kimasen (Tidak datang) -> bentuk biasanya adalah 'Konai' (atau di sini 'Konai' karena pengecualian, Kuru -> Konai)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-20-3",
+    "level": "N5",
+    "chapter": 20,
+    "pattern": "V / Adj (plain) と言いました",
+    "title_id": "V / Adj (plain) と言いました",
+    "formation": [
+      {
+        "type": "Quotation",
+        "rule": "Orang は + Kalimat(Plain form) + と 言いました",
+        "example": "田中さん は 明日 休む と 言いました"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "先生は明日テストがあると言いました。",
+        "romaji": "Sensei wa ashita tesuto ga aru to iimashita.",
+        "meaning": "Guru bilang besok ada tes."
+      }
+    ],
+    "notes": "Mengutip perkataan ('Orang berkata bahwa...'). Polanya sama persis dengan 'to omoimasu', kalimat yang dikutip wajib dalam Plain Form.",
+    "common_mistakes": "Sama seperti 'to omoimasu', kesalahan utamanya adalah lupa mengubah kalimat kutipan ke bentuk informal. (Terkecuali jika mengutip kalimat LANGSUNG menggunakan tanda kutip 「」).",
+    "quiz": [
+      {
+        "question": "Budi berkata bahwa dia akan pulang jam 5.",
+        "options": [
+          "ブディさんは ５時に帰る と言いました",
+          "ブディさんは ５時に帰ります と言いました",
+          "ブディさんは ５時に帰って と言いました",
+          "ブディさんは ５時に帰った と言いました"
+        ],
+        "answer": "ブディさんは ５時に帰る と言いました",
+        "explanation": "Kaerimasu diubah ke plain form (Kaeru) + to iimashita."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-21-1",
+    "level": "N5",
+    "chapter": 21,
+    "pattern": "Plain form + でしょう",
+    "title_id": "Plain form + でしょう",
+    "formation": [
+      {
+        "type": "Conjecture",
+        "rule": "Plain form (tanpa da untuk Noun/Na-Adj) + でしょう",
+        "example": "明日は 晴れる でしょう"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "明日はいい天気でしょう。",
+        "romaji": "Ashita wa ii tenki deshou.",
+        "meaning": "Besok mungkin cuaca bagus."
+      }
+    ],
+    "notes": "Menyatakan DUGAAN/PERKIRAAN ('Mungkin... / Sepertinya...'). Kata sebelumnya harus dalam Plain form. (Untuk Na-Adj dan Noun, buang 'da').",
+    "common_mistakes": "Membawa partikel 'だ' pada kata benda. (Salah: 雨だでしょう). Yang benar: '雨でしょう'.",
+    "quiz": [
+      {
+        "question": "Mungkin besok cuacanya dingin.",
+        "options": [
+          "明日は 寒いですでしょう",
+          "明日は 寒いだでしょう",
+          "明日は 寒いでしょう",
+          "明日は 寒くでしょう"
+        ],
+        "answer": "明日は 寒いでしょう",
+        "explanation": "Samui (I-Adj) bisa langsung ditempelkan dengan 'deshou'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-21-2",
+    "level": "N5",
+    "chapter": 21,
+    "pattern": "Plain form + かもしれません",
+    "title_id": "Plain form + かもしれません",
+    "formation": [
+      {
+        "type": "Possibility",
+        "rule": "Plain form (tanpa da untuk Noun/Na-Adj) + かもしれません",
+        "example": "午後から 雨が 降る かもしれません"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "ミラーさんは来ないかもしれません。",
+        "romaji": "Miraa-san wa konai kamoshiremasen.",
+        "meaning": "Miller mungkin saja tidak datang."
+      }
+    ],
+    "notes": "Tingkat kepastian lebih rendah dari 'deshou' ('Mungkin saja / Bisa jadi'). Aturan penggabungannya sama persis dengan 'deshou'.",
+    "common_mistakes": "Menambahkan 'da' pada kata benda/Na-Adj. Ingat: langsung tempelkan! (Suki kamoshiremasen, Biki kamoshiremasen).",
+    "quiz": [
+      {
+        "question": "'Orang itu mungkin adalah guru.'",
+        "options": [
+          "あの人は 先生だ かもしれません",
+          "あの人は 先生な かもしれません",
+          "あの人は 先生 かもしれません",
+          "あの人は 先生の かもしれません"
+        ],
+        "answer": "あの人は 先生 かもしれません",
+        "explanation": "Sensei (Kata Benda) langsung bertemu dengan kamoshiremasen."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-21-3",
+    "level": "N5",
+    "chapter": 21,
+    "pattern": "Plain form + と思います (review)",
+    "title_id": "Plain form + と思います (review)",
+    "formation": [
+      {
+        "type": "Asking Opinion",
+        "rule": "〜について どう 思いますか",
+        "example": "日本の アニメ について どう 思いますか"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "この映画はおもしろいと思います。",
+        "romaji": "Kono eiga wa omoshiroi to omoimasu.",
+        "meaning": "Saya rasa film ini menarik."
+      }
+    ],
+    "notes": "Review pendalaman 'to omoimasu'. Sering digunakan bersama dengan kata tanya (misal: Bagaimana pendapatmu? -> どう思いますか).",
+    "common_mistakes": "Menjawab dengan 'to omoimasu' tapi keliru bentuk subjek-objek. Subjek kalimat utama adalah SAYA, jadi aksi yang dipikirkan ada di anak kalimat.",
+    "quiz": [
+      {
+        "question": "Q: この本について どう思いますか。 A: ＿＿＿。",
+        "options": [
+          "いい本だと 思います",
+          "いい本を 思います",
+          "いい本に 思います",
+          "いい本で 思います"
+        ],
+        "answer": "いい本だと 思います",
+        "explanation": "Kata benda (Hon) wajib ditambah 'da' menjadi 'Hon da' sebelum 'to omoimasu'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-22-1",
+    "level": "N5",
+    "chapter": 22,
+    "pattern": "V (plain) + N (Kalimat modifikasi)",
+    "title_id": "V (plain) + N (Kalimat modifikasi)",
+    "formation": [
+      {
+        "type": "Noun Modification",
+        "rule": "V(Plain form) + Kata Benda",
+        "example": "わたし が 買った 本 (Buku yang saya beli)"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "あそこにいる人はミラーさんです。",
+        "romaji": "Asoko ni iru hito wa Miraa-san desu.",
+        "meaning": "Orang yang ada di sana adalah Miller."
+      },
+      {
+        "japanese": "昨日買った本はおもしろいです。",
+        "romaji": "Kinou katta hon wa omoshiroi desu.",
+        "meaning": "Buku yang saya beli kemarin menarik."
+      }
+    ],
+    "notes": "Anak kalimat yang MENERANGKAN kata benda. Di bahasa Indonesia menggunakan 'YANG'. (Contoh: Buku YANG saya beli). Dalam bahasa Jepang, kata kerjanya DIBALIK letaknya ke DEPAN benda (Bentuk Plain).",
+    "common_mistakes": "Memasukkan partikel 'の' antara kata kerja dan kata benda. (Salah: 買ったの本). Seharusnya langsung saja ditempel '買った本'. Subjek di dalam anak kalimat ditandai dengan 'が', bukan 'は'.",
+    "quiz": [
+      {
+        "question": "Orang yang memakai kacamata (めがねをかけます).",
+        "options": [
+          "めがねを かけるの 人",
+          "めがねを かけたの 人",
+          "めがねを かけている 人",
+          "めがねを かけます 人"
+        ],
+        "answer": "めがねを かけている 人",
+        "explanation": "Keadaan memakai kacamata (Kakete iru/imasu) diubah ke plain -> Kakete iru + Hito (Orang)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-22-2",
+    "level": "N5",
+    "chapter": 22,
+    "pattern": "V ている人 (Orang yang sedang ~)",
+    "title_id": "V ている人 (Orang yang sedang ~)",
+    "formation": [
+      {
+        "type": "Describing People",
+        "rule": "V-te iru + 人(hito)",
+        "example": "赤い シャツ を 着ている 人"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "赤いセーターを着ている人はだれですか。",
+        "romaji": "Akai seetaa o kite iru hito wa dare desu ka.",
+        "meaning": "Orang yang memakai sweater merah siapa?"
+      }
+    ],
+    "notes": "Fokus mendeskripsikan ciri-ciri orang yang sedang melakukan suatu hal atau menggunakan pakaian tertentu.",
+    "common_mistakes": "Menggunakan kata kerja biasa (kiru hito) yang berarti 'orang yang (akan) memakai'. Jika maksudnya 'yang (sedang/sudah) memakai', harus 'kite iru'.",
+    "quiz": [
+      {
+        "question": "'Siapa orang yang sedang membaca buku itu?'",
+        "options": [
+          "本を読む 人は だれですか",
+          "本を読んで 人は だれですか",
+          "本を読んでいる 人は だれですか",
+          "本を読みの人 は だれですか"
+        ],
+        "answer": "本を読んでいる 人は だれですか",
+        "explanation": "Yonde iru (sedang membaca) + hito (orang)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-23-1",
+    "level": "N5",
+    "chapter": 23,
+    "pattern": "V (plain) とき、~ (Ketika ~)",
+    "title_id": "V (plain) とき、~ (Ketika ~)",
+    "formation": [
+      {
+        "type": "Verb",
+        "rule": "V-ru / V-ta / V-nai + とき",
+        "example": "道 を 渡る とき、注意してください"
+      },
+      {
+        "type": "Noun",
+        "rule": "Noun + の + とき",
+        "example": "子供 の とき"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "国へ帰るとき、お土産を買います。",
+        "romaji": "Kuni e kaeru toki, omiyage o kaimasu.",
+        "meaning": "Ketika pulang ke negara asal, membeli oleh-oleh."
+      },
+      {
+        "japanese": "わからないとき、先生に聞きます。",
+        "romaji": "Wakaranai toki, sensei ni kikimasu.",
+        "meaning": "Ketika tidak mengerti, bertanya kepada guru."
+      }
+    ],
+    "notes": "Menyatakan WAKTU ('Ketika / Saat'). Sebelum kata 'とき' (toki), digunakan bentuk Plain untuk Verba, I-Adj. Untuk Na-Adj tambah 'な', untuk Noun tambah 'の'.",
+    "common_mistakes": "Bingung menggunakan V-ru atau V-ta sebelum 'toki'. Ingat: V-ru dipakai jika aksinya BELUM SELESAI (misal: Saat mau pergi ke Jepang, beli koper). V-ta jika SUDAH SELESAI (misal: Saat (sudah) sampai di Jepang, beli payung).",
+    "quiz": [
+      {
+        "question": "Saat (masih) anak-anak, saya sering berenang.",
+        "options": [
+          "子供とき、よく泳ぎました",
+          "子供なとき、よく泳ぎました",
+          "子供のとき、よく泳ぎました",
+          "子供でとき、よく泳ぎました"
+        ],
+        "answer": "子供のとき、よく泳ぎました",
+        "explanation": "Kodomo adalah kata benda, maka wajib ditambah partikel 'の' sebelum 'とき'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-23-2",
+    "level": "N5",
+    "chapter": 23,
+    "pattern": "V た ら、~ (Jika/Setelah ~)",
+    "title_id": "V た ら、~ (Jika/Setelah ~)",
+    "formation": [
+      {
+        "type": "Conditional",
+        "rule": "V-ta + ら",
+        "example": "雨 が 降ったら、行きません (Kalau hujan, tidak pergi)"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "お金があったら、旅行します。",
+        "romaji": "Okane ga attara, ryokou shimasu.",
+        "meaning": "Jika ada uang, saya akan berwisata."
+      },
+      {
+        "japanese": "家に帰ったら、すぐシャワーを浴びます。",
+        "romaji": "Ie ni kaettara, sugu shawaa o abimasu.",
+        "meaning": "Setelah pulang ke rumah, langsung mandi."
+      }
+    ],
+    "notes": "Menyatakan SYARAT ('Jika / Kalau') atau urutan waktu mutlak ('Setelah selesai...'). Diperoleh dengan mengubah ke bentuk TA, lalu ditambah 'ら' (ra).",
+    "common_mistakes": "Mengartikannya hanya sebagai 'jika'. Padahal '-tara' juga sering berarti 'Setelah'. (Contoh: Gohan o tabetara, ikimasu = Setelah makan, saya akan pergi).",
+    "quiz": [
+      {
+        "question": "'Jika punya uang (お金が あります), ingin pergi keliling dunia.'",
+        "options": [
+          "お金が あってら、",
+          "お金が あるら、",
+          "お金が あったら、",
+          "お金が あればら、"
+        ],
+        "answer": "お金が あったら、",
+        "explanation": "Arimasu -> bentuk Ta nya adalah 'Atta'. Ditambah 'ra' menjadi 'Attara'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-24-1",
+    "level": "N5",
+    "chapter": 24,
+    "pattern": "V てあげます (Melakukan ~ untuk orang lain)",
+    "title_id": "V てあげます (Melakukan ~ untuk orang lain)",
+    "formation": [
+      {
+        "type": "Giving favor",
+        "rule": "V-te + あげます",
+        "example": "友達 の 荷物 を 持って あげます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "友達に日本語を教えてあげます。",
+        "romaji": "Tomodachi ni nihongo o oshiete agemasu.",
+        "meaning": "Saya mengajarkan bahasa Jepang kepada teman."
+      }
+    ],
+    "notes": "Melakukan kebaikan/jasa UNTUK ORANG LAIN. Digunakan ketika subjek (biasanya Saya) membantu pihak ketiga.",
+    "common_mistakes": "Menggunakan pola ini langsung kepada atasan/guru ('Sensei, saya bawakan tasnya ya' -> Mote agete... SALAH! Sangat tidak sopan). Untuk atasan, gunakan kalimat tawaran seperti 'Mochimashou ka?'.",
+    "quiz": [
+      {
+        "question": "Saya meminjamkan payung kepada Kimura.",
+        "options": [
+          "木村さんに 傘を 貸してあげました",
+          "木村さんに 傘を 貸してもらいました",
+          "木村さんに 傘を 貸してくれました",
+          "木村さんに 傘を 借りてあげました"
+        ],
+        "answer": "木村さんに 傘を 貸してあげました",
+        "explanation": "SAYA meminjamkan (kashite) UNTUK Kimura (agemashita)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-24-2",
+    "level": "N5",
+    "chapter": 24,
+    "pattern": "V てもらいます (Menerima jasa dari orang lain)",
+    "title_id": "V てもらいます (Menerima jasa dari orang lain)",
+    "formation": [
+      {
+        "type": "Receiving favor",
+        "rule": "Subjek + は + Pemberi + に + V-te + もらいます",
+        "example": "わたし は 山田さん に 英語 を 教えて もらいました"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "友達に駅まで送ってもらいました。",
+        "romaji": "Tomodachi ni eki made okutte moraimashita.",
+        "meaning": "Saya diantar oleh teman sampai stasiun."
+      }
+    ],
+    "notes": "MENERIMA kebaikan/jasa dari orang lain. Fokus subjek kalimat ini adalah SI PENERIMA (biasanya Saya). Artinya 'Saya dibuatkan... / dibantu...'.",
+    "common_mistakes": "Lupa menaruh 'に' pada nama orang yang membantu kita. (Salah: Yamada-san wa oshiete moraimashita).",
+    "quiz": [
+      {
+        "question": "Saya diajari bahasa Jepang oleh Guru.",
+        "options": [
+          "わたしは 先生に 日本語を 教えてもらいました",
+          "先生は わたしに 日本語を 教えてもらいました",
+          "わたしは 先生に 日本語を 教えてくれました",
+          "先生は わたしに 日本語を 教えてあげました"
+        ],
+        "answer": "わたしは 先生に 日本語を 教えてもらいました",
+        "explanation": "SAYA (Watashi wa) MENERIMA jasa diajari (Oshiete moraimashita) DARI guru (Sensei ni)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-24-3",
+    "level": "N5",
+    "chapter": 24,
+    "pattern": "V てくれます (Orang lain melakukan ~ untuk saya)",
+    "title_id": "V てくれます (Orang lain melakukan ~ untuk saya)",
+    "formation": [
+      {
+        "type": "Someone gives favor to me",
+        "rule": "Pemberi + は/が + (わたしに) + V-te + くれます",
+        "example": "山田さん が (わたしに) 本 を 貸して くれました"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "母がお菓子を送ってくれました。",
+        "romaji": "Haha ga okashi o okutte kuremashita.",
+        "meaning": "Ibu mengirimkan kue untuk saya."
+      }
+    ],
+    "notes": "Orang lain melakukan kebaikan UNTUK SAYA. Bedanya dengan 'moraimasu': Di pola ini, SUBJEK KALIMAT adalah SI PEMBERI JASA.",
+    "common_mistakes": "Tertukar dengan 'agemasu'. Agemasu = SAYA memberi. Kuremasu = ORANG LAIN memberi ke SAYA.",
+    "quiz": [
+      {
+        "question": "Ibu membelikan (membeli untuk saya) kemeja.",
+        "options": [
+          "母は シャツを 買ってあげました",
+          "母は シャツを 買ってもらいました",
+          "母は シャツを 買ってくれました",
+          "わたしは 母に シャツを 買ってくれました"
+        ],
+        "answer": "母は シャツを 買ってくれました",
+        "explanation": "IBU yang menjadi subjek (Haha wa) dan dia memberi aksi ke saya (Katte kuremashita)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-25-1",
+    "level": "N5",
+    "chapter": 25,
+    "pattern": "V ても、~ (Meskipun ~)",
+    "title_id": "V ても、~ (Meskipun ~)",
+    "formation": [
+      {
+        "type": "Even if",
+        "rule": "V-te / Adj-kute / N-de + も",
+        "example": "雨 が 降って も、サッカー を します"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "薬を飲んでも、熱が下がりません。",
+        "romaji": "Kusuri o nondemo, netsu ga sagarimasen.",
+        "meaning": "Meskipun minum obat, demamnya tidak turun."
+      },
+      {
+        "japanese": "たくさん勉強しても、テストが難しかったです。",
+        "romaji": "Takusan benkyou shitemo, tesuto ga muzukashikatta desu.",
+        "meaning": "Walaupun banyak belajar, tesnya sulit."
+      }
+    ],
+    "notes": "Menyatakan pertentangan/syarat terbalik ('Meskipun / Walaupun'). V-te + も (mo). Untuk I-Adj: kute + mo. Na-Adj/Noun: de + mo.",
+    "common_mistakes": "Sering lupa mengubah I-Adj dengan benar. 'Tinggi' (Takai) menjadi 'Meskipun mahal' -> Takakutemo (bukan Takaimo atau Takai demo).",
+    "quiz": [
+      {
+        "question": "Meskipun murah, saya tidak mau beli.",
+        "options": [
+          "安いでも、買いません",
+          "安くても、買いません",
+          "安いも、買いません",
+          "安いくても、買いません"
+        ],
+        "answer": "安くても、買いません",
+        "explanation": "Yasui (murah, I-adj) -> Yasukute + mo."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-25-2",
+    "level": "N5",
+    "chapter": 25,
+    "pattern": "もし V たら、~ (Seandainya ~)",
+    "title_id": "もし V たら、~ (Seandainya ~)",
+    "formation": [
+      {
+        "type": "Emphasis on condition",
+        "rule": "もし + Kalimat(-tara)",
+        "example": "もし 一億円 あったら、家を 買います"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "もし百万円あったら、世界旅行をしたいです。",
+        "romaji": "Moshi hyakuman en attara, sekai ryokou o shitai desu.",
+        "meaning": "Seandainya punya 1 juta yen, ingin keliling dunia."
+      }
+    ],
+    "notes": "Menebalkan makna pengandaian. Menambahkan kata 'もし' (moshi) di depan kalimat '-tara'. Jika '-tara' berdiri sendiri bisa berarti 'setelah', penambahan 'moshi' menegaskan bahwa itu 100% adalah 'JIKA/Seandainya'.",
+    "common_mistakes": "Menggunakan 'moshi' tapi melupakan pasangan '-tara' di belakangnya. Keduanya adalah paket komplit (Moshi... -tara / Moshi... -te mo).",
+    "quiz": [
+      {
+        "question": "Seandainya tidak mengerti, bertanyalah pada guru.",
+        "options": [
+          "もし わからない、先生に 聞いてください",
+          "もし わからなかったら、先生に 聞いてください",
+          "もし わからなく、先生に 聞いてください",
+          "もし わからないたら、先生に 聞いてください"
+        ],
+        "answer": "もし わからなかったら、先生に 聞いてください",
+        "explanation": "Wakaranai -> bentuk ta-nya adalah Wakaranakatta + ra -> Wakaranakattara."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-25-3",
+    "level": "N5",
+    "chapter": 25,
+    "pattern": "V (plain) + のに、~ (Padahal ~)",
+    "title_id": "V (plain) + のに、~ (Padahal ~)",
+    "formation": [
+      {
+        "type": "Even though (Regret)",
+        "rule": "Plain form + のに",
+        "example": "勉強した のに、テストの 点が 悪かったです"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "約束したのに、来ませんでした。",
+        "romaji": "Yakusoku shita noni, kimasen deshita.",
+        "meaning": "Padahal sudah berjanji, dia tidak datang."
+      }
+    ],
+    "notes": "Menyatakan penyesalan/keheranan ('Padahal...'). Beda dengan '-te mo' (meskipun) yang lebih netral. 'Non i' mengandung emosi kecewa pembicara.",
+    "common_mistakes": "Digunakan di kalimat permintaan atau perintah. (Salah: Hujan turun padahal, ayo pulang). 'Noni' HANYA BOLEH dipakai untuk fakta/kenyataan yang sudah terjadi dan disesali.",
+    "quiz": [
+      {
+        "question": "Padahal janji jam 2, (dia) tidak datang-datang.",
+        "options": [
+          "２時の 約束のに、来ません",
+          "２時の 約束な のに、来ません",
+          "２時の 約束だ のに、来ません",
+          "２時の 約束だて のに、来ません"
+        ],
+        "answer": "２時の 約束な のに、来ません",
+        "explanation": "Kata benda (Yakusoku) + na + noni."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-26-1",
+    "level": "N4",
+    "chapter": 26,
+    "pattern": "Bentuk ~んです (Penekanan/Alasan)",
+    "title_id": "Bentuk ~んです (Penekanan/Alasan)",
+    "formation": [
+      {
+        "type": "Ndesu",
+        "rule": "Plain Form + んです (Untuk Na-Adj & Noun: + なんです)",
+        "example": "どうして 遅れたんですか。"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "どうして遅れたんですか。",
+        "romaji": "Doushite okureta n desu ka.",
+        "meaning": "Mengapa kamu terlambat? (Meminta penjelasan)"
+      },
+      {
+        "japanese": "バスが来なかったんです。",
+        "romaji": "Basu ga konakatta n desu.",
+        "meaning": "Busnya tidak datang. (Memberi alasan)"
+      }
+    ],
+    "notes": "Pola ~んです (~ndesu) / ~のです (~nodesu) digunakan untuk memberi penekanan, menjelaskan alasan, meminta penjelasan, atau mengonfirmasi sesuatu. Bentuk ini lebih luwes dan komunikatif daripada 'desu' biasa.",
+    "common_mistakes": "Lupa menambahkan 'な' pada Kata Benda dan Na-Adj. Contoh salah: '病気んです'. Benar: '病気なんです'.",
+    "quiz": [
+      {
+        "question": "Q: Bagaimana kamu berangkat? A: Naik bus. (penekanan)",
+        "options": [
+          "バスで行くんです",
+          "バスで行きますんです",
+          "バスで行くのんです",
+          "バスで行かんです"
+        ],
+        "answer": "バスで行くんです",
+        "explanation": "Kata kerja diubah ke plain form (行く) ditambah んです."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-26-2",
+    "level": "N4",
+    "chapter": 26,
+    "pattern": "~ていただけませんか (Meminta Tolong Sopan)",
+    "title_id": "~ていただけませんか (Meminta Tolong Sopan)",
+    "formation": [
+      {
+        "type": "Polite Request",
+        "rule": "V-te + いただけませんか",
+        "example": "これを 教えて いただけませんか"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "日本語がわからないんですが、教えていただけませんか。",
+        "romaji": "Nihongo ga wakaranai n desu ga, oshiete itadakemasen ka.",
+        "meaning": "Saya tidak mengerti bahasa Jepang, bisakah Anda mengajari saya?"
+      }
+    ],
+    "notes": "Pola sangat sopan untuk MEMINTA TOLONG ('Sudikah Anda...?'). Derajat kesopanannya jauh lebih tinggi daripada '~て ください'. Sering digunakan kepada atasan atau orang yang baru dikenal.",
+    "common_mistakes": "Salah mengkonjugasi bentuk te, atau tertukar dengan 'もらえませんか'. 'Itadakemasen ka' adalah bentuk paling merendah diri (kenjougo).",
+    "quiz": [
+      {
+        "question": "Tolong tuliskan (dengan sopan) nama Anda di sini.",
+        "options": [
+          "ここに 名前を 書いて もらいませんか",
+          "ここに 名前を 書いて いただけませんか",
+          "ここに 名前を 書いて くださいませんか",
+          "ここに 名前を 書い いただけませんか"
+        ],
+        "answer": "ここに 名前を 書いて いただけませんか",
+        "explanation": "Kaite (Bentuk te) + itadakemasen ka."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-27-1",
+    "level": "N4",
+    "chapter": 27,
+    "pattern": "Bentuk Potensial (Kanoukei)",
+    "title_id": "Bentuk Potensial (Kanoukei)",
+    "formation": [
+      {
+        "type": "Potential Form",
+        "rule": "V-potensial",
+        "example": "漢字 が 書けます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "私は刺身が食べられます。",
+        "romaji": "Watashi wa sashimi ga taberaremasu.",
+        "meaning": "Saya bisa makan sashimi."
+      },
+      {
+        "japanese": "漢字が読めますか。",
+        "romaji": "Kanji ga yomemasu ka.",
+        "meaning": "Apakah bisa membaca kanji?"
+      }
+    ],
+    "notes": "Bentuk Potensial (Bisa / Dapat). Mengubah langsung kata kerja ke bentuk kemampuannya, tanpa 'koto ga dekimasu'. \nGol 1: Akhiran 'u' menjadi 'eru' (書く->書ける).\nGol 2: 'ru' menjadi 'rareru' (食べる->食べられる).\nGol 3: 来る->来られる, する->できる.",
+    "common_mistakes": "Lupa mengubah partikel objek 'を' menjadi 'が'. Pada bentuk potensial, objek kalimat ditandai dengan 'が'. (Contoh: 漢字を書けます -> SALAH. 漢字が書けます -> BENAR).",
+    "quiz": [
+      {
+        "question": "Saya bisa berbicara bahasa Jepang.",
+        "options": [
+          "日本語を 話せます",
+          "日本語が 話せます",
+          "日本語が 話します",
+          "日本語を 話します"
+        ],
+        "answer": "日本語が 話せます",
+        "explanation": "Objek menjadi 'が', dan Hanasu menjadi Hanasemasu."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-27-2",
+    "level": "N4",
+    "chapter": 27,
+    "pattern": "見えます & 聞こえます",
+    "title_id": "見えます & 聞こえます",
+    "formation": [
+      {
+        "type": "Natural Perception",
+        "rule": "Objek + が + 見えます / 聞こえます",
+        "example": "山 が 見えます (Gunung terlihat)"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "ここから富士山が見えます。",
+        "romaji": "Koko kara Fujisan ga miemasu.",
+        "meaning": "Dari sini gunung Fuji terlihat."
+      }
+    ],
+    "notes": "見えます (Miemasu) berarti 'terlihat secara alami'. 聞こえます (Kikoemasu) berarti 'terdengar secara alami'. Beda dengan bentuk potensial (見られる/聞ける) yang bermakna 'bisa melihat/mendengar karena usaha/kesempatan'.",
+    "common_mistakes": "Tertukar dengan '見られる' (bisa menonton). Jika bisa melihat pemandangan dari jendela tanpa disengaja, gunakan '見えます'. Jika bisa menonton film karena punya tiket, gunakan '見られます'.",
+    "quiz": [
+      {
+        "question": "Dari jendela kamarku, terdengar suara burung.",
+        "options": [
+          "鳥の声が 聞けます",
+          "鳥の声が 聞こえます",
+          "鳥の声を 聞けます",
+          "鳥の声を 聞こえます"
+        ],
+        "answer": "鳥の声が 聞こえます",
+        "explanation": "Suara burung masuk ke telinga secara alami -> Kikoemasu."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-28-1",
+    "level": "N4",
+    "chapter": 28,
+    "pattern": "Kata Kerja + ~ながら (Sambil)",
+    "title_id": "Kata Kerja + ~ながら (Sambil)",
+    "formation": [
+      {
+        "type": "Simultaneous Action",
+        "rule": "V1-masu (buang masu) + ながら、V2",
+        "example": "音楽を 聞きながら、勉強します"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "音楽を聞きながら勉強します。",
+        "romaji": "Ongaku o kikinagara benkyou shimasu.",
+        "meaning": "Saya belajar sambil mendengarkan musik."
+      }
+    ],
+    "notes": "Pola 'Sambil...'. Menyatakan dua tindakan yang dilakukan bersamaan. Tindakan UTAMA diletakkan di kalimat bagian BELAKANG.",
+    "common_mistakes": "Lupa membuang 'masu'. (Salah: 聞きますながら). Selain itu, sering terbalik menempatkan tindakan utama. (Jika niat utamanya belajar, maka 'belajar' ditaruh di akhir kalimat).",
+    "quiz": [
+      {
+        "question": "Berjalan sambil bernyanyi.",
+        "options": [
+          "歌いながら、歩きます",
+          "歩きながら、歌います",
+          "歌ってながら、歩きます",
+          "歩いてながら、歌います"
+        ],
+        "answer": "歌いながら、歩きます",
+        "explanation": "Utaimasu -> Utai + nagara + Arukimasu."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-28-2",
+    "level": "N4",
+    "chapter": 28,
+    "pattern": "~し、~し (Menyebutkan sifat/alasan)",
+    "title_id": "~し、~し (Menyebutkan sifat/alasan)",
+    "formation": [
+      {
+        "type": "Multiple reasons/traits",
+        "rule": "Plain Form + し、Plain Form + し",
+        "example": "この店は 安いし、おいしいです"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "山田先生は優しいし、面白いし、学生に人気があります。",
+        "romaji": "Yamada sensei wa yasashii shi, omoshiroi shi, gakusei ni ninki ga arimasu.",
+        "meaning": "Guru Yamada itu baik, lucu, dan populer di kalangan siswa."
+      }
+    ],
+    "notes": "Pola '~shi, ~shi' digunakan untuk menyebutkan beberapa sifat, alasan, atau keadaan secara sejajar ('Sudah... ditambah lagi...'). Semua unsur sebelum 'shi' berwujud Plain Form.",
+    "common_mistakes": "Menggunakan bentuk Masu/Desu sebelum 'shi' (contoh: 安いですし). Walau kadang terdengar di percakapan, secara tata bahasa baku harus Plain Form (安いし). Noun/Na-Adj ditambah 'だ' (だし).",
+    "quiz": [
+      {
+        "question": "Kamar ini sempit, gelap, dan...",
+        "options": [
+          "狭いし、暗いし、",
+          "狭くし、暗くし、",
+          "狭くてし、暗くてし、",
+          "狭いだし、暗いだし、"
+        ],
+        "answer": "狭いし、暗いし、",
+        "explanation": "I-Adj (semai, kurai) langsung ditempel 'shi'."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-29-1",
+    "level": "N4",
+    "chapter": 29,
+    "pattern": "Kata Kerja Intransitif + ています",
+    "title_id": "Kata Kerja Intransitif + ています",
+    "formation": [
+      {
+        "type": "State from Intransitive Verb",
+        "rule": "Subjek + が + V-intransitif-te + います",
+        "example": "ドア が 開いています"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "窓が閉まっています。",
+        "romaji": "Mado ga shimatte imasu.",
+        "meaning": "Jendelanya dalam keadaan tertutup."
+      },
+      {
+        "japanese": "テレビが壊れています。",
+        "romaji": "Terebi ga kowarete imasu.",
+        "meaning": "TV-nya dalam keadaan rusak."
+      }
+    ],
+    "notes": "Kata Kerja Intransitif (Jidoushi) + ています menyatakan KONDISI yang tersisa dari sebuah kejadian alami di masa lalu. (Misal: Pintu (dalam keadaan) terbuka).",
+    "common_mistakes": "Tertukar partikel 'を'. Karena intransitif, subjek yang mengalami keadaan tersebut ditandai dengan 'が'. Jangan pakai 'を' (Salah: ドアを開いています).",
+    "quiz": [
+      {
+        "question": "Lampu listrik (dalam keadaan) mati.",
+        "options": [
+          "電気が 消しています",
+          "電気が 消えています",
+          "電気を 消しています",
+          "電気を 消えています"
+        ],
+        "answer": "電気が 消えています",
+        "explanation": "Kiemasu (mati - intransitif) -> Kiete imasu. Subjek pakai 'ga'."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-29-2",
+    "level": "N4",
+    "chapter": 29,
+    "pattern": "~てしまいます / ~てしまいました",
+    "title_id": "~てしまいます / ~てしまいました",
+    "formation": [
+      {
+        "type": "Completion / Regret",
+        "rule": "V-te + しまいます / しまいました",
+        "example": "パスポート を なくして しまいました"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "パスポートを落としてしまいました。",
+        "romaji": "Pasupooto o otoshite shimaimashita.",
+        "meaning": "Saya (tanpa sengaja) telah menjatuhkan paspor. (Penyesalan)"
+      },
+      {
+        "japanese": "この本は全部読んでしまいました。",
+        "romaji": "Kono hon wa zenbu yonde shimaimashita.",
+        "meaning": "Buku ini telah selesai kubaca seluruhnya. (Selesai total)"
+      }
+    ],
+    "notes": "Pola '~te shimaimasu/shimaimashita' memiliki dua makna:\n1. Sesuatu SELesai/TUNTAS dilakukan.\n2. Penyesalan/Ketidaksengajaan atas suatu kejadian ('Aduh, ter...').",
+    "common_mistakes": "Hanya terpaku pada makna 'penyesalan'. Padahal bisa juga bermakna positif, misal: 'Saya akan menyelesaikan membaca buku ini sampai besok' (明日までに 読んでしまいます).",
+    "quiz": [
+      {
+        "question": "Aduh, kopinya tumpah (こぼれる).",
+        "options": [
+          "コーヒーが こぼして しまいました",
+          "コーヒーが こぼれて しまいました",
+          "コーヒーが こぼれて います",
+          "コーヒーが こぼして います"
+        ],
+        "answer": "コーヒーが こぼれて しまいました",
+        "explanation": "Koboreru (tumpah tak disengaja) + te shimaimashita (menyatakan penyesalan/keterlanjuran)."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-30-1",
+    "level": "N4",
+    "chapter": 30,
+    "pattern": "Kata Kerja Transitif + てあります",
+    "title_id": "Kata Kerja Transitif + てあります",
+    "formation": [
+      {
+        "type": "State from Intentional Action",
+        "rule": "Benda + が + V-transitif-te + あります",
+        "example": "カレンダー が 掛けてあります"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "壁にカレンダーが掛けてあります。",
+        "romaji": "Kabe ni karendaa ga kakete arimasu.",
+        "meaning": "Kalender digantungkan (oleh seseorang) di dinding."
+      }
+    ],
+    "notes": "Kata Kerja Transitif (Tadoushi) + てあります menyatakan KONDISI yang tercipta karena 'Ada seseorang yang sengaja melakukannya'.",
+    "common_mistakes": "Berbeda tajam dengan Jidoushi+te imasu. 'Pintu (sengaja) dibuka' = ドアが開けてあります (Akete arimasu). 'Pintu (kebetulan) terbuka' = ドアが開いています (Aite imasu).",
+    "quiz": [
+      {
+        "question": "Nama sudah ditulis (oleh seseorang) di buku.",
+        "options": [
+          "名前が 書いて います",
+          "名前が 書いて あります",
+          "名前が 書かれて います",
+          "名前が 書かせて あります"
+        ],
+        "answer": "名前が 書いて あります",
+        "explanation": "Kaku (menulis - transitif) + te arimasu = Ada keadaan sudah ditulis."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-30-2",
+    "level": "N4",
+    "chapter": 30,
+    "pattern": "~ておきます",
+    "title_id": "~ておきます",
+    "formation": [
+      {
+        "type": "Preparation / Leaving as is",
+        "rule": "V-te + おきます",
+        "example": "旅行の前に、チケットを 買っておきます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "明日会議がありますから、いすを並べておきます。",
+        "romaji": "Ashita kaigi ga arimasu kara, isu o narabete okimasu.",
+        "meaning": "Karena besok ada rapat, saya susun (persiapkan) kursinya dari sekarang."
+      },
+      {
+        "japanese": "窓を開けておいてください。",
+        "romaji": "Mado o akete oite kudasai.",
+        "meaning": "Biarkan jendelanya tetap terbuka."
+      }
+    ],
+    "notes": "Pola '~te okimasu' menyatakan tindakan PERSIAPAN untuk masa depan, atau MEMBIARKAN keadaan seperti semula.",
+    "common_mistakes": "Sering disingkat menjadi '~toku' dalam percakapan kasual (Kaite okimasu -> Kaitoku). Lupa bahwa objek tetap ditandai 'を' seperti biasa.",
+    "quiz": [
+      {
+        "question": "Tolong biarkan jendelanya terbuka (jangan ditutup).",
+        "options": [
+          "窓を 開けて ください",
+          "窓を 開けて おいてください",
+          "窓を 開けて あります",
+          "窓を 開けて しまいます"
+        ],
+        "answer": "窓を 開けて おいてください",
+        "explanation": "Akete oku + kudasai = Tolong biarkan dalam keadaan terbuka."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-31-1",
+    "level": "N4",
+    "chapter": 31,
+    "pattern": "Bentuk Maksud (Ikoukei) & ~と思っています",
+    "title_id": "Bentuk Maksud (Ikoukei) & ~と思っています",
+    "formation": [
+      {
+        "type": "Volitional + I think",
+        "rule": "V-ikou + と思っています",
+        "example": "日本へ 行こう と思っています"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "週末は海へ行こうと思っています。",
+        "romaji": "Shuumatsu wa umi e ikou to omotte imasu.",
+        "meaning": "Akhir pekan ini saya berniat mau pergi ke laut."
+      }
+    ],
+    "notes": "Bentuk Maksud (Ikoukei) adalah versi informal dari '~mashou'. \nGol 1: u -> ou (書く->書こう). \nGol 2: ru -> you (食べる->食べよう). \nDitambah 'to omoimasu' menyatakan niat yang baru dipikirkan saat ini.",
+    "common_mistakes": "Beda 'to omoimasu' dan 'to omotte imasu'. 'to omoimasu' (niat dadakan). 'to omotte imasu' (niat yang sudah direncanakan dari lama).",
+    "quiz": [
+      {
+        "question": "Saya berniat (sudah dari lama) membeli mobil.",
+        "options": [
+          "車を 買おうと 思います",
+          "車を 買おうと 思っています",
+          "車を 買うと 思います",
+          "車を 買うと 思っています"
+        ],
+        "answer": "車を 買おうと 思っています",
+        "explanation": "Kaou (Ikoukei) + to omotte imasu (Niat yang terencana)."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-31-2",
+    "level": "N4",
+    "chapter": 31,
+    "pattern": "~つもりです & ~予定です",
+    "title_id": "~つもりです & ~予定です",
+    "formation": [
+      {
+        "type": "Intention / Plan",
+        "rule": "V-ru / V-nai + つもりです",
+        "example": "明日、休む つもりです"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "私は来年日本へ行くつもりです。",
+        "romaji": "Watashi wa rainen Nihon e iku tsumori desu.",
+        "meaning": "Saya berencana (punya tekad) pergi ke Jepang tahun depan."
+      },
+      {
+        "japanese": "会議は午後3時までの予定です。",
+        "romaji": "Kaigi wa gogo san-ji made no yotei desu.",
+        "meaning": "Rapatnya dijadwalkan sampai jam 3 sore."
+      }
+    ],
+    "notes": "'つもり' (Tsumori) berarti Niat Kuat. '予定' (Yotei) berarti Jadwal/Rencana yang sudah pasti. Keduanya dihubungkan dengan Plain Form (Verb) atau Partikel の (Noun).",
+    "common_mistakes": "Menggunakan bentuk Lampau (V-ta) sebelum Tsumori. Ingat: Niat selalu untuk masa depan, jadi wajib menggunakan V-ru atau V-nai.",
+    "quiz": [
+      {
+        "question": "Rencananya saya tidak akan pergi.",
+        "options": [
+          "行かない つもりです",
+          "行かなかった つもりです",
+          "行くない つもりです",
+          "行きます つもりです"
+        ],
+        "answer": "行かない つもりです",
+        "explanation": "Ikanai (Bentuk Nai) + Tsumori desu."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-32-1",
+    "level": "N4",
+    "chapter": 32,
+    "pattern": "Kata Kerja (Ta/Nai) + ほうがいいです",
+    "title_id": "Kata Kerja (Ta/Nai) + ほうがいいです",
+    "formation": [
+      {
+        "type": "Advice",
+        "rule": "V-ta / V-nai + ほうがいいです",
+        "example": "薬を 飲んだ ほうがいいです"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "毎日運動したほうがいいですよ。",
+        "romaji": "Mainichi undou shita hou ga ii desu yo.",
+        "meaning": "Sebaiknya Anda berolahraga setiap hari lho."
+      },
+      {
+        "japanese": "お酒を飲まないほうがいいです。",
+        "romaji": "Osake o nomanai hou ga ii desu.",
+        "meaning": "Sebaiknya Anda tidak minum alkohol."
+      }
+    ],
+    "notes": "Pola untuk MEMBERI SARAN ('Sebaiknya...'). Jika sarannya POSITIF gunakan V-ta. Jika NEGATIF gunakan V-nai. Ditambah 'hou ga ii desu'.",
+    "common_mistakes": "Untuk saran positif, WAJIB V-ta (lampau). Menggunakan V-ru (飲むほうがいい) terdengar kurang wajar dalam bahasa Jepang baku untuk saran langsung.",
+    "quiz": [
+      {
+        "question": "Sebaiknya kamu segera tidur.",
+        "options": [
+          "早く 寝る ほうがいいです",
+          "早く 寝た ほうがいいです",
+          "早く 寝て ほうがいいです",
+          "早く 寝ない ほうがいいです"
+        ],
+        "answer": "早く 寝た ほうがいいです",
+        "explanation": "Saran positif wajib pakai V-ta (Neta) + hou ga ii desu."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-32-2",
+    "level": "N4",
+    "chapter": 32,
+    "pattern": "~でしょう & ~かもしれません",
+    "title_id": "~でしょう & ~かもしれません",
+    "formation": [
+      {
+        "type": "Probability",
+        "rule": "Plain Form + でしょう / かもしれません",
+        "example": "明日は 雨が 降るでしょう"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "明日は雨が降るでしょう。",
+        "romaji": "Ashita wa ame ga furu deshou.",
+        "meaning": "Besok mungkin akan hujan."
+      },
+      {
+        "japanese": "午後は雪になるかもしれません。",
+        "romaji": "Gogo wa yuki ni naru kamo shiremasen.",
+        "meaning": "Siang nanti bisa jadi akan turun salju."
+      }
+    ],
+    "notes": "Pengulangan materi dugaan (N5), namun lebih difokuskan pada perbedaan nuansa probabilitas. でしょう (~80% yakin), かもしれません (~50% yakin).",
+    "common_mistakes": "Salah menempatkan intonasi. Jika intonasi 'deshou' meninggi (deshou?), artinya menuntut persetujuan pendengar ('...kan?'). Jika menurun, murni tebakan.",
+    "quiz": [
+      {
+        "question": "Mungkin saja besok libur (peluang 50-50).",
+        "options": [
+          "明日は 休みでしょう",
+          "明日は 休みかもしれません",
+          "明日は 休みの かもしれません",
+          "明日は 休みだ かもしれません"
+        ],
+        "answer": "明日は 休みかもしれません",
+        "explanation": "Kata Benda (Yasumi) langsung ditempel 'kamoshiremasen'."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-33-1",
+    "level": "N4",
+    "chapter": 33,
+    "pattern": "Bentuk Perintah (Meireikei) & Larangan (Kinshikei)",
+    "title_id": "Bentuk Perintah (Meireikei) & Larangan (Kinshikei)",
+    "formation": [
+      {
+        "type": "Imperative / Prohibition",
+        "rule": "Meireikei / V-ru + な",
+        "example": "走れ！ / 走るな！"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "危ない！逃げろ！",
+        "romaji": "Abunai! Nigero!",
+        "meaning": "Bahaya! Lari!"
+      },
+      {
+        "japanese": "ここに入るな！",
+        "romaji": "Koko ni hairu na!",
+        "meaning": "Jangan masuk ke sini!"
+      }
+    ],
+    "notes": "Bentuk Perintah (Keras). Sering dipakai pria atau pada rambu-rambu. \nPerintah positif (Meireikei): Gol 1: u -> e (書け). Gol 2: ru -> ro (食べろ). \nPerintah negatif (Larangan): V-ru + な (書くな, 食べるな).",
+    "common_mistakes": "Menggunakan bentuk larangan (V-ru + な) kepada orang yang dihormati. Sangat tabu! Hanya untuk keadaan darurat, komando militer, atau teman akrab pria.",
+    "quiz": [
+      {
+        "question": "Bentuk perintah (keras) dari '行く' dan '見る'.",
+        "options": [
+          "行きえ / 見え",
+          "行か / 見よ",
+          "行け / 見ろ",
+          "行こ / 見れ"
+        ],
+        "answer": "行け / 見ろ",
+        "explanation": "Iku (Gol 1) -> Ike. Miru (Gol 2) -> Miro."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-33-2",
+    "level": "N4",
+    "chapter": 33,
+    "pattern": "~と書いてあります & ~という意味です",
+    "title_id": "~と書いてあります & ~という意味です",
+    "formation": [
+      {
+        "type": "Written state / Meaning",
+        "rule": "~と書いてあります / ~という意味です",
+        "example": "あそこに「止まれ」と書いてあります"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "あそこに「止まれ」と書いてあります。",
+        "romaji": "Asoko ni 'Tomare' to kaite arimasu.",
+        "meaning": "Di sana tertulis 'Berhenti'."
+      },
+      {
+        "japanese": "このマークは洗濯機で洗えるという意味です。",
+        "romaji": "Kono maaku wa sentakuki de araeru to iu imi desu.",
+        "meaning": "Tanda ini berarti boleh dicuci dengan mesin cuci."
+      }
+    ],
+    "notes": "'Xと 書いてあります' = Tertulis X. \n'Xは Yという 意味です' = X artinya Y. Sangat berguna saat bertanya rambu atau kanji.",
+    "common_mistakes": "Lupa bahwa mengutip tulisan wajib menggunakan partikel 'と' (to).",
+    "quiz": [
+      {
+        "question": "Ini artinya 'Dilarang masuk'.",
+        "options": [
+          "「入るな」と 意味です",
+          "「入るな」という 意味です",
+          "「入るな」って 意味です",
+          "B dan C benar"
+        ],
+        "answer": "B dan C benar",
+        "explanation": "Tanda kutip dihubungkan dengan 'to iu imi desu' atau dalam percakapan kasual 'tte imi desu'."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-34-1",
+    "level": "N4",
+    "chapter": 34,
+    "pattern": "~とおりに (Sesuai dengan / Seperti yang)",
+    "title_id": "~とおりに (Sesuai dengan / Seperti yang)",
+    "formation": [
+      {
+        "type": "In accordance with",
+        "rule": "V-ru/ta + とおりに / Noun + の + とおりに",
+        "example": "私が 言う とおりに 書いてください"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "私が言うとおりに、書いてください。",
+        "romaji": "Watashi ga iu toori ni, kaite kudasai.",
+        "meaning": "Tolong tulis sesuai dengan apa yang saya katakan."
+      },
+      {
+        "japanese": "説明書のとおりに、組み立てます。",
+        "romaji": "Setsumeisho no toori ni, kumitatemasu.",
+        "meaning": "Saya merakitnya sesuai dengan buku petunjuk."
+      }
+    ],
+    "notes": "Pola '~toori ni' berarti 'Sesuai dengan / Mengikuti'. Jika sebelum toori adalah Kata Kerja, gunakan V-ru / V-ta. Jika Kata Benda, gunakan N + の.",
+    "common_mistakes": "Untuk kata benda bisa dibaca 'doori' tanpa partikel の. Misal: 予想どおり (Yosou-doori = Sesuai dugaan). Hati-hati antara Toori dan Doori.",
+    "quiz": [
+      {
+        "question": "Lakukanlah Sesuai Buku.",
+        "options": [
+          "本の とおりに してください",
+          "本 とおりに してください",
+          "本どおりに してください",
+          "A dan C benar"
+        ],
+        "answer": "A dan C benar",
+        "explanation": "Hon no toori ni = Hon doori ni. Keduanya bisa dipakai."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-34-2",
+    "level": "N4",
+    "chapter": 34,
+    "pattern": "Verb 1 て / ないで、 Verb 2",
+    "title_id": "Verb 1 て / ないで、 Verb 2",
+    "formation": [
+      {
+        "type": "Without doing",
+        "rule": "V-nai + で、~",
+        "example": "朝ごはんを 食べないで、学校へ行きます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "しょうゆをつけて食べます。",
+        "romaji": "Shouyu o tsukete tabemasu.",
+        "meaning": "Saya makan (dengan) mencelupkan kecap asin."
+      },
+      {
+        "japanese": "砂糖を入れないで、コーヒーを飲みます。",
+        "romaji": "Satou o irenaide, koohii o nomimasu.",
+        "meaning": "Saya minum kopi tanpa memasukkan gula."
+      }
+    ],
+    "notes": "Menyatakan dua aksi berlawanan yang tidak bisa dilakukan bersama. Pola V-nai de berarti 'Tanpa melakukan V'. (Misal: Pergi tanpa sarapan).",
+    "common_mistakes": "Tertukar dengan 'V-nakute'. 'Nakute' artinya 'Karena tidak...' atau 'Tidak A melainkan B'. Sedangkan 'Naide' artinya 'Tanpa melakukan A, saya melakukan B'.",
+    "quiz": [
+      {
+        "question": "Saya tidur tanpa menyalakan AC.",
+        "options": [
+          "エアコンを つけなくて、寝ました",
+          "エアコンを つけないで、寝ました",
+          "エアコンを つけないと、寝ました",
+          "エアコンを つけなかったら、寝ました"
+        ],
+        "answer": "エアコンを つけないで、寝ました",
+        "explanation": "Menyatakan 'tanpa melakukan' menggunakan bentuk V-nai + de (Tsukenaide)."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-35-1",
+    "level": "N4",
+    "chapter": 35,
+    "pattern": "Bentuk Syarat (~ば / Joukenkei)",
+    "title_id": "Bentuk Syarat (~ば / Joukenkei)",
+    "formation": [
+      {
+        "type": "Conditional ~ba",
+        "rule": "V-ba / Adj-kereba",
+        "example": "雨が 降れば、涼しくなります"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "春になれば、桜が咲きます。",
+        "romaji": "Haru ni nareba, sakura ga sakimasu.",
+        "meaning": "Kalau (jika) menjadi musim semi, sakura akan mekar."
+      },
+      {
+        "japanese": "安ければ、買います。",
+        "romaji": "Yasukereba, kaimasu.",
+        "meaning": "Kalau murah, saya beli. (Sifat-i -> kereba)"
+      }
+    ],
+    "notes": "Bentuk Syarat (~ば / Joukenkei). Digunakan untuk pengandaian jika A terjadi maka B. \nGol 1: u -> eba (書けば).\nGol 2: ru -> reba (食べれば). \nI-Adj: i -> kereba (安ければ).",
+    "common_mistakes": "Mencampur dengan '-tara'. Bentuk '~ば' tidak bisa digunakan jika kalimat utamanya (bagian belakang) adalah Perintah, Keinginan, atau Ajakan. (Kecuali kata kerjanya statis/kata sifat).",
+    "quiz": [
+      {
+        "question": "Bentuk ~ba dari '安い' (murah) dan '来る' (datang).",
+        "options": [
+          "安えば / 来れば",
+          "安ければ / 来れば",
+          "安ければ / くれば",
+          "安ければ / すれば"
+        ],
+        "answer": "安ければ / くれば",
+        "explanation": "Yasui -> Yasukereba. Kuru (Gol 3) -> Kureba."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-35-2",
+    "level": "N4",
+    "chapter": 35,
+    "pattern": "Kata Tanya + Verb (~ば) いいですか",
+    "title_id": "Kata Tanya + Verb (~ば) いいですか",
+    "formation": [
+      {
+        "type": "Asking advice",
+        "rule": "Kata tanya + V-ba + いいですか",
+        "example": "どこで 買えば いいですか"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "道に迷ったんですが、どうすればいいですか。",
+        "romaji": "Michi ni mayotta n desu ga, dou sureba ii desu ka.",
+        "meaning": "Saya tersesat, sebaiknya bagaimana?"
+      }
+    ],
+    "notes": "Pola meminta saran/petunjuk secara sopan. 'Kapan/Di mana/Apa yang sebaiknya saya lakukan?'.",
+    "common_mistakes": "Bisa juga menggunakan '~たら いいですか', maknanya sama persis. Jangan tertukar polanya.",
+    "quiz": [
+      {
+        "question": "Siapa yang sebaiknya saya tanya?",
+        "options": [
+          "だれに 聞けば いいですか",
+          "だれに 聞いたら いいですか",
+          "A dan B benar",
+          "だれに 聞くば いいですか"
+        ],
+        "answer": "A dan B benar",
+        "explanation": "Kikeba ii desu ka (bentuk ba) sama artinya dengan Kiitara ii desu ka (bentuk tara)."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-36-1",
+    "level": "N4",
+    "chapter": 36,
+    "pattern": "Verb 1 (Kamus/Nai) + ように、Verb 2",
+    "title_id": "Verb 1 (Kamus/Nai) + ように、Verb 2",
+    "formation": [
+      {
+        "type": "So that",
+        "rule": "V-ru(Potensial) / V-nai + ように、~",
+        "example": "早く 泳げる ように、毎日 練習します"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "日本語が話せるように、毎日練習します。",
+        "romaji": "Nihongo ga hanaseru you ni, mainichi renshuu shimasu.",
+        "meaning": "Saya berlatih setiap hari agar bisa berbicara bahasa Jepang."
+      },
+      {
+        "japanese": "風邪を引かないように、コートを着ます。",
+        "romaji": "Kaze o hikanai you ni, kooto o kimasu.",
+        "meaning": "Saya memakai mantel agar tidak masuk angin."
+      }
+    ],
+    "notes": "Pola '~youni' berarti 'Supaya / Agar'. Kata kerja sebelumnya harus menunjukkan KEADAAN (biasanya Bentuk Potensial atau Bentuk Nai). Tujuannya agar kondisi itu terwujud.",
+    "common_mistakes": "Tertukar dengan '~tame ni' (Demi/Untuk). Tame ni dipakai untuk kata kerja AKSI yang ada niat kuatnya (Rumah o kau tame ni = Demi membeli rumah). Youni untuk KONDISI (Bisa berenang, tidak sakit, dll).",
+    "quiz": [
+      {
+        "question": "Agar tidak lupa, saya mencatat di buku.",
+        "options": [
+          "忘れない ように、メモします",
+          "忘れる ように、メモします",
+          "忘れない ために、メモします",
+          "忘れる ために、メモします"
+        ],
+        "answer": "忘れない ように、メモします",
+        "explanation": "Tidak lupa (Wasurenai) adalah sebuah kondisi pasif, maka pakai 'youni'."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-36-2",
+    "level": "N4",
+    "chapter": 36,
+    "pattern": "~ようになります / ~ようにします",
+    "title_id": "~ようになります / ~ようにします",
+    "formation": [
+      {
+        "type": "Change of state / Effort",
+        "rule": "V-ru + ようになります / ようにします",
+        "example": "日本語が 話せる ように なりました"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "漢字が読めるようになりました。",
+        "romaji": "Kanji ga yomeru you ni narimashita.",
+        "meaning": "Saya sudah menjadi bisa membaca kanji."
+      },
+      {
+        "japanese": "毎日運動するようにしています。",
+        "romaji": "Mainichi undou suru you ni shite imasu.",
+        "meaning": "Saya (sedang) berusaha untuk berolahraga setiap hari."
+      }
+    ],
+    "notes": "Youni narimasu = 'Menjadi bisa / Kondisinya berubah'. \nYouni shimasu = 'Berusaha untuk...'.",
+    "common_mistakes": "Lupa mengubah ke bentuk potensial untuk 'Youni narimasu'. (Salah: 日本語を話すようになりました). (Benar: 日本語が話せるようになりました - Menjadi BISA berbicara).",
+    "quiz": [
+      {
+        "question": "Saya berusaha untuk makan banyak sayur setiap hari.",
+        "options": [
+          "野菜を食べる ようにします",
+          "野菜を食べる ようになります",
+          "野菜を食べる ようにあります",
+          "野菜を食べる ようにいます"
+        ],
+        "answer": "野菜を食べる ようにします",
+        "explanation": "'Youni shimasu' menyatakan usaha keras dari subjek untuk membiasakan diri."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-37-1",
+    "level": "N4",
+    "chapter": 37,
+    "pattern": "Bentuk Pasif (Ukemikei)",
+    "title_id": "Bentuk Pasif (Ukemikei)",
+    "formation": [
+      {
+        "type": "Passive Voice",
+        "rule": "Korban + は + Pelaku + に + V-pasif",
+        "example": "わたし は 先生 に 褒められました (Saya dipuji oleh guru)"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "私は先生に褒められました。",
+        "romaji": "Watashi wa sensei ni homeraremashita.",
+        "meaning": "Saya dipuji oleh guru."
+      },
+      {
+        "japanese": "私は犬に手をかまれました。",
+        "romaji": "Watashi wa inu ni te o kamaremashita.",
+        "meaning": "Tangan saya digigit anjing. (Pasif penderitaan)"
+      }
+    ],
+    "notes": "Bentuk Pasif (Di-). \nGol 1: u -> areru (叱る -> 叱られる). \nGol 2: ru -> rareru (褒める -> 褒められる).\nSubjek utama adalah KORBAN (Orang yang menerima aksi). Pelakunya ditandai dengan partikel 'に'.",
+    "common_mistakes": "Di bahasa Jepang, bentuk pasif sering mengandung nuansa MERUGIKAN/MENDERITA (Meiwaku ukemi). Misal 'Saya diduduki teman', 'Saya dituruni hujan'.",
+    "quiz": [
+      {
+        "question": "Saya digigit oleh anjing peliharaan saya.",
+        "options": [
+          "わたしは 犬を 噛みました",
+          "わたしは 犬に 噛まれました",
+          "犬は わたしに 噛まれました",
+          "わたしは 犬が 噛ませました"
+        ],
+        "answer": "わたしは 犬に 噛まれました",
+        "explanation": "Saya (korban) + wa + Anjing (Pelaku) + ni + Digigit (Kamareru -> Kamaremashita)."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-37-2",
+    "level": "N4",
+    "chapter": 37,
+    "pattern": "Pasif untuk Benda/Fakta Sejarah",
+    "title_id": "Pasif untuk Benda/Fakta Sejarah",
+    "formation": [
+      {
+        "type": "Impersonal Passive",
+        "rule": "Benda + が/は + V-pasif",
+        "example": "この本 は 世界中 で 読まれています"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "この家は200年前に建てられました。",
+        "romaji": "Kono ie wa ni-hyaku nen mae ni tateraremashita.",
+        "meaning": "Rumah ini dibangun 200 tahun yang lalu."
+      }
+    ],
+    "notes": "Pasif untuk menyebutkan Fakta / Sejarah / Benda, di mana Pelakunya tidak penting (Anonim). Subjeknya adalah Benda. Pelaku tidak disebutkan.",
+    "common_mistakes": "Masih mencoba mencari-cari siapa pelakunya. Jika pelakunya masyarakat umum, cukup gunakan Benda + Pasif.",
+    "quiz": [
+      {
+        "question": "Gedung ini dibangun 100 tahun yang lalu.",
+        "options": [
+          "このビルは 建てました",
+          "このビルは 建てられました",
+          "このビルが 建ちました",
+          "このビルを 建てました"
+        ],
+        "answer": "このビルは 建てられました",
+        "explanation": "Gedung (Benda) + wa + Dibangun (Taterareru / Tateraremashita)."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-38-1",
+    "level": "N4",
+    "chapter": 38,
+    "pattern": "Verb Kamus + のは / のが",
+    "title_id": "Verb Kamus + のは / のが",
+    "formation": [
+      {
+        "type": "Nominalization",
+        "rule": "V-Plain + の + は / が",
+        "example": "音楽 を 聞くの が 好きです"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "音楽を聞くのは楽しいです。",
+        "romaji": "Ongaku o kiku no wa tanoshii desu.",
+        "meaning": "Mendengarkan musik itu menyenangkan."
+      },
+      {
+        "japanese": "私は絵を描くのが好きです。",
+        "romaji": "Watashi wa e o kaku no ga suki desu.",
+        "meaning": "Saya suka menggambar."
+      }
+    ],
+    "notes": "Menjadikan Kata Kerja sebagai Kata Benda dengan menambahkan partikel 'の'. Mirip dengan 'to + verb' atau 'verb+ing' dalam bahasa Inggris. 'Noha' untuk mendeskripsikan sifat, 'Noga' jika diikuti kata Suki/Heta/Jouzu.",
+    "common_mistakes": "Lupa menyisipkan 'の' dan langsung menempel kata sifat ke kata kerja. (Salah: 聞くが好き).",
+    "quiz": [
+      {
+        "question": "Belajar sendirian itu membosankan (tsumaranai).",
+        "options": [
+          "一人で 勉強するは つまらないです",
+          "一人で 勉強するのは つまらないです",
+          "一人で 勉強するが つまらないです",
+          "一人で 勉強するのが つまらないです"
+        ],
+        "answer": "一人で 勉強するのは つまらないです",
+        "explanation": "Menerangkan sifat dari sebuah kegiatan -> V-ru + no + wa + Sifat."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-38-2",
+    "level": "N4",
+    "chapter": 38,
+    "pattern": "Verb Kamus + のを 忘れました / 知っていますか",
+    "title_id": "Verb Kamus + のを 忘れました / 知っていますか",
+    "formation": [
+      {
+        "type": "Object Nominalization",
+        "rule": "V-ru / Plain form + のを + 忘れました / 知っていますか",
+        "example": "薬を 飲む のを 忘れました"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "薬を飲むのを忘れました。",
+        "romaji": "Kusuri o nomu no o wasuremashita.",
+        "meaning": "Saya lupa meminum obat."
+      },
+      {
+        "japanese": "彼が結婚したのを知っていますか。",
+        "romaji": "Kare ga kekkon shita no o shitte imasu ka.",
+        "meaning": "Tahukah kamu bahwa dia sudah menikah? (Gunakan bentuk Ta karena masa lampau)"
+      }
+    ],
+    "notes": "Menjadikan kalimat kerja sebagai objek untuk 'wasaremashita' (lupa melakukan/membawa) dan 'shitte imasuka' (apakah kamu tahu bahwa...).",
+    "common_mistakes": "Lupa menyisipkan partikel 'の'. Menggabungkan kata kerja dasar langsung dengan 'を' adalah hal yang tabu. (Salah: 飲むを忘れました). Harus dijadikan nomina (benda) dulu dengan 'の'.",
+    "quiz": [
+      {
+        "question": "Apakah kamu tahu bahwa Tanaka sudah menikah?",
+        "options": [
+          "田中さんが 結婚したのが 知っていますか",
+          "田中さんが 結婚したのを知っていますか",
+          "田中さんが 結婚するのを知っていますか",
+          "田中さんが 結婚したを知っていますか"
+        ],
+        "answer": "田中さんが 結婚したのを知っていますか",
+        "explanation": "Telah menikah (kekkon shita) + no o + shitte imasuka."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-39-1",
+    "level": "N4",
+    "chapter": 39,
+    "pattern": "Verb/Adj + て (Alasan Perasaan/Potensial/Situasi)",
+    "title_id": "Verb/Adj + て (Alasan Perasaan/Potensial/Situasi)",
+    "formation": [
+      {
+        "type": "Reason (Limited)",
+        "rule": "V-te / Adj-te / N-de + Perasaan/Situasi",
+        "example": "ニュース を 聞いて、びっくりしました"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "ニュースを聞いて、びっくりしました。",
+        "romaji": "Nyuusu o kiite, bikkuri shimashita.",
+        "meaning": "Saya terkejut KARENA mendengar berita itu."
+      },
+      {
+        "japanese": "漢字が難しくて、読めません。",
+        "romaji": "Kanji ga muzukashikute, yomemasen.",
+        "meaning": "Karena kanjinya sulit, saya tidak bisa membacanya."
+      }
+    ],
+    "notes": "Partikel 'te' (V-te/Adj-kute/Noun-de) bisa berfungsi sebagai 'KARENA', tetapi terbatas HANYA untuk 3 kondisi: 1. Alasan yang memicu perasaan (Kaget karena...), 2. Alasan potensial/kemampuan (Tidak bisa tidur karena bising), 3. Situasi tak terhindarkan (Tumbang karena gempa).",
+    "common_mistakes": "Memakai '-te' untuk alasan aksi sadar. (Salah: Hujan turun KARENA ITU ayo pulang -> 雨が降って、帰りましょう). Untuk ajakan/perintah/aksi sadar, harus menggunakan 'kara' atau 'node'.",
+    "quiz": [
+      {
+        "question": "Saya sedih karena peliharaan saya mati.",
+        "options": [
+          "ペットが 死んだから、悲しいです",
+          "ペットが 死んで、悲しいです",
+          "A dan B benar",
+          "ペットが 死んだので、悲しいです"
+        ],
+        "answer": "A dan B benar",
+        "explanation": "Alasan untuk perasaan (Kanashii/sedih) bisa memakai -te (Shinde) maupun kara/node."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-39-2",
+    "level": "N4",
+    "chapter": 39,
+    "pattern": "Noun + で (Alasan Bencana/Insiden)",
+    "title_id": "Noun + で (Alasan Bencana/Insiden)",
+    "formation": [
+      {
+        "type": "Cause (Noun)",
+        "rule": "Bencana/Kecelakaan + で",
+        "example": "地震 で ビル が 倒れました"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "地震で、ビルが倒れました。",
+        "romaji": "Jishin de, biru ga taoremashita.",
+        "meaning": "Karena gempa, gedung rubuh."
+      }
+    ],
+    "notes": "Kondisi khusus partikel 'で' (de). Jika diikuti oleh bencana alam (gempa, tsunami), penyakit, atau kecelakaan, 'で' bermakna 'Akibat / Karena'.",
+    "common_mistakes": "Menggunakan 'から'. 'Jishin kara...' terdengar seperti 'Mulai dari gempa...'. Untuk menyebut bencana/insiden sebagai sebab, gunakan partikel 'で'.",
+    "quiz": [
+      {
+        "question": "Terlambat karena kecelakaan.",
+        "options": [
+          "事故で 遅れました",
+          "事故に 遅れました",
+          "事故を 遅れました",
+          "事故から 遅れました"
+        ],
+        "answer": "事故で 遅れました",
+        "explanation": "Kecelakaan (jiko) adalah insiden, maka menggunakan 'de'."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-40-1",
+    "level": "N4",
+    "chapter": 40,
+    "pattern": "Kata Tanya + Bentuk Biasa + か、~",
+    "title_id": "Kata Tanya + Bentuk Biasa + か、~",
+    "formation": [
+      {
+        "type": "Embedded Question",
+        "rule": "Kata Tanya + Plain Form + か、~",
+        "example": "いつ 行くか、わかりません"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "会議は何時に終わるか、わかりません。",
+        "romaji": "Kaigi wa nan-ji ni owaru ka, wakarimasen.",
+        "meaning": "Saya tidak tahu jam berapa rapatnya selesai."
+      },
+      {
+        "japanese": "箱の中に何が入っているか、見てください。",
+        "romaji": "Hako no naka ni nani ga haitte iru ka, mite kudasai.",
+        "meaning": "Tolong lihat apa yang ada di dalam kotak."
+      }
+    ],
+    "notes": "Menyisipkan kalimat tanya ('Kapan, Siapa, Di mana') ke dalam kalimat utama. Kalimat tanya tersebut wajib diubah ke Plain Form dan diakhiri dengan 'か'.",
+    "common_mistakes": "Masih menyisakan kata 'desu/masu' di tengah kalimat. (Salah: いつ行きますか、わかりません).",
+    "quiz": [
+      {
+        "question": "Tolong hitung berapa orang yang ada.",
+        "options": [
+          "何人が いるか、数えてください",
+          "何人が いますか、数えてください",
+          "何人が いるか、数えてます",
+          "何人が いるだか、数えてください"
+        ],
+        "answer": "何人が いるか、数えてください",
+        "explanation": "Berapa orang yang ada (Nannin ga iru) + ka + tolong hitung (kazoete kudasai)."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-40-2",
+    "level": "N4",
+    "chapter": 40,
+    "pattern": "Bentuk Biasa + かどうか、~",
+    "title_id": "Bentuk Biasa + かどうか、~",
+    "formation": [
+      {
+        "type": "Whether or not",
+        "rule": "Plain Form + かどうか、~",
+        "example": "おいしい かどうか、食べてみます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "その話が本当かどうか、確かめます。",
+        "romaji": "Sono hanashi ga hontou ka dou ka, tashikamemasu.",
+        "meaning": "Saya akan memastikan apakah cerita itu benar atau tidak."
+      },
+      {
+        "japanese": "この靴が合うかどうか、はいてみます。",
+        "romaji": "Kono kutsu ga au ka dou ka, haite mimasu.",
+        "meaning": "Saya akan mencoba memakai sepatu ini untuk melihat apakah pas atau tidak."
+      }
+    ],
+    "notes": "Sama seperti 40-1, namun digunakan untuk pertanyaan 'Iya atau Tidak' (Tidak ada kata tanya seperti Kapan/Siapa). Partikel yang dipakai adalah 'かどうか' (Apakah... atau tidak).",
+    "common_mistakes": "Lupa menghapus 'だ' pada Kata Benda dan Na-Adj sebelum 'ka dou ka'. (Salah: 本当だかどうか). Benar: 本当かどうか (Apakah benar atau tidak).",
+    "quiz": [
+      {
+        "question": "Saya tidak tahu apakah dia akan datang atau tidak.",
+        "options": [
+          "来るか どうか、わかりません",
+          "来るか、わかりません",
+          "来るかどうかを、わかりません",
+          "来ますかどうか、わかりません"
+        ],
+        "answer": "来るか どうか、わかりません",
+        "explanation": "Kuru (Akan datang) + ka dou ka + Wakarimasen."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-41-1",
+    "level": "N4",
+    "chapter": 41,
+    "pattern": "いただきます / くださいます / やります",
+    "title_id": "いただきます / くださいます / やります",
+    "formation": [
+      {
+        "type": "Polite Giving/Receiving",
+        "rule": "いただきます / くださいます / やります",
+        "example": "先生 に 本 を いただきました"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "私は社長にお土産をいただきました。",
+        "romaji": "Watashi wa shachou ni omiyage o itadakimashita.",
+        "meaning": "Saya menerima oleh-oleh dari direktur."
+      },
+      {
+        "japanese": "先生が本をくださいました。",
+        "romaji": "Sensei ga hon o kudasaimashita.",
+        "meaning": "Guru memberikan buku kepada saya."
+      },
+      {
+        "japanese": "私は犬にえさをやります。",
+        "romaji": "Watashi wa inu ni esa o yarimasu.",
+        "meaning": "Saya memberi makan anjing."
+      }
+    ],
+    "notes": "Tingkatan sopan dari Memberi (Ageru) dan Menerima (Morau). \n貰う (Menerima) -> いただく (Itadaku).\nくれる (Memberi ke saya) -> くださる (Kudasaru).\nやる (Memberi ke bawahan/hewan) -> Yarimasu.",
+    "common_mistakes": "Menggunakan 'kudasaimasu' ketika subjeknya adalah diri sendiri. Ingat: Kudasaru adalah SENSEI yang memberi. Itadaku adalah SAYA yang menerima.",
+    "quiz": [
+      {
+        "question": "Saya memberi makan kepada anjing.",
+        "options": [
+          "犬に えさを あげます",
+          "犬に えさを やります",
+          "犬に えさを いただきます",
+          "A dan B benar"
+        ],
+        "answer": "A dan B benar",
+        "explanation": "Ageru bisa dipakai, tapi 'Yaru/Yarimasu' lebih spesifik untuk memberi ke bawahan mutlak/hewan/tanaman."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-41-2",
+    "level": "N4",
+    "chapter": 41,
+    "pattern": "~ていただきます / ~てくださいます",
+    "title_id": "~ていただきます / ~てくださいます",
+    "formation": [
+      {
+        "type": "Polite Favor",
+        "rule": "V-te いただきます / V-te くださいます",
+        "example": "社長 が 案内 して くださいました"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "私は課長に手紙の間違いを直していただきました。",
+        "romaji": "Watashi wa kachou ni tegami no machigai o naoshite itadakimashita.",
+        "meaning": "Saya dibantu memperbaiki kesalahan surat oleh kepala bagian."
+      },
+      {
+        "japanese": "部長が駅まで送ってくださいました。",
+        "romaji": "Buchou ga eki made okutte kudasaimashita.",
+        "meaning": "Manajer mengantar saya sampai stasiun."
+      }
+    ],
+    "notes": "Sama seperti 41-1, namun digunakan untuk JASA/Tindakan (V-te). \nV-te Itadakimasu = Saya menerima jasa dari atasan.\nV-te Kudasaimasu = Atasan memberikan jasa ke saya.",
+    "common_mistakes": "Salah menentukan subjek. Jika kalimatnya 'Watashi wa (Saya)', pasangannya 'Itadakimasu'. Jika 'Shachou wa/ga (Bos)', pasangannya 'Kudasaimasu'.",
+    "quiz": [
+      {
+        "question": "Saya dibantu (diperiksa laporannya) oleh manajer.",
+        "options": [
+          "わたしは 部長に レポートを 見ていただきました",
+          "わたしは 部長に レポートを 見てくださいました",
+          "部長は わたしに レポートを 見ていただきました",
+          "部長は わたしに レポートを 見てあげました"
+        ],
+        "answer": "わたしは 部長に レポートを 見ていただきました",
+        "explanation": "Subjek adalah Saya (Watashi wa) + Menerima jasa dari atasan (Itadakimashita)."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-42-1",
+    "level": "N4",
+    "chapter": 42,
+    "pattern": "Verb Kamus / Noun の + ために (Tujuan Murni)",
+    "title_id": "Verb Kamus / Noun の + ために (Tujuan Murni)",
+    "formation": [
+      {
+        "type": "Purpose (Active)",
+        "rule": "V-ru / Noun + の + ために",
+        "example": "家族 の ために 働きます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "自分の店を持つために、貯金しています。",
+        "romaji": "Jibun no mise o motsu tame ni, chokin shite imasu.",
+        "meaning": "Saya menabung DEMI memiliki toko sendiri."
+      },
+      {
+        "japanese": "健康のために、毎日走っています。",
+        "romaji": "Kenkou no tame ni, mainichi hashitte imasu.",
+        "meaning": "Saya berlari setiap hari demi kesehatan."
+      }
+    ],
+    "notes": "Pola 'tame ni' untuk menyatakan TUJUAN KUAT ('Demi / Untuk'). Diikuti oleh kata kerja yang berniat (Aksi aktif), bukan kondisi pasif.",
+    "common_mistakes": "Menggabungkannya dengan kata kerja potensial. (Salah: 日本語が話せるために - Untuk bisa bicara Jepang). Karena 'Bisa' adalah kondisi pasif, harusnya menggunakan 'Youni', bukan 'Tame ni'.",
+    "quiz": [
+      {
+        "question": "Menabung demi membeli rumah.",
+        "options": [
+          "家を買うために、貯金します",
+          "家を買うように、貯金します",
+          "家が買えるために、貯金します",
+          "家を買うのに、貯金します"
+        ],
+        "answer": "家を買うために、貯金します",
+        "explanation": "'Membeli' adalah aksi kuat dengan niat, maka wajib 'Tame ni'."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-42-2",
+    "level": "N4",
+    "chapter": 42,
+    "pattern": "Verb Kamus / Noun + に + 使う/役に立つ/いい (Kegunaan)",
+    "title_id": "Verb Kamus / Noun + に + 使う/役に立つ/いい (Kegunaan)",
+    "formation": [
+      {
+        "type": "Usage / Good for",
+        "rule": "V-ru / Noun + のに + 使う/いい",
+        "example": "この はさみは 花 を 切る のに 使います"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "このはさみは花を切るのに使います。",
+        "romaji": "Kono hasami wa hana o kiru no ni tsukaimasu.",
+        "meaning": "Gunting ini digunakan UNTUK memotong bunga."
+      }
+    ],
+    "notes": "Pola '〜のに' (noni). Mirip dengan 'tame ni', tetapi khusus dipasangkan dengan kata 'Tsukaimasu' (Menggunakan), 'Yaku ni tachimasu' (Bermanfaat), atau 'Ii/Warui' (Bagus untuk).",
+    "common_mistakes": "Tertukar dengan 'noni' (Padahal). Konteks kalimat ini berbeda. Jika diikuti kata-kata fungsi (tsukau, ii, yaku ni tatsu), artinya adalah 'Untuk (digunakan/bermanfaat)'.",
+    "quiz": [
+      {
+        "question": "Buku ini bermanfaat untuk belajar sejarah.",
+        "options": [
+          "歴史を勉強するのに 役に立ちます",
+          "歴史を勉強するために 役に立ちます",
+          "歴史を勉強するに 役に立ちます",
+          "歴史を勉強するように 役に立ちます"
+        ],
+        "answer": "歴史を勉強するのに 役に立ちます",
+        "explanation": "Pasangan mutlak 'Yaku ni tachimasu' adalah partikel '〜のに'."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-43-1",
+    "level": "N4",
+    "chapter": 43,
+    "pattern": "Verb Masu (coret masu) / Adj (coret i/na) + そうです",
+    "title_id": "Verb Masu (coret masu) / Adj (coret i/na) + そうです",
+    "formation": [
+      {
+        "type": "Visual Impression",
+        "rule": "V-(buang masu) / Adj-(buang i/na) + そうです",
+        "example": "この ケーキは おいしそうです"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "今にも雨が降りそうです。",
+        "romaji": "Ima ni mo ame ga furisou desu.",
+        "meaning": "Kelihatannya akan turun hujan sebentar lagi."
+      },
+      {
+        "japanese": "このケーキはとてもおいしそうです。",
+        "romaji": "Kono keeki wa totemo oishisou desu.",
+        "meaning": "Kue ini kelihatannya sangat lezat."
+      }
+    ],
+    "notes": "Pola Sou desu (Kesan/Tebakan Visual). Artinya 'Kelihatannya... / Sepertinya...'. V-masu dan Adj membuang akhiran (-masu / -i / -na) lalu ditempel 'sou desu'.",
+    "common_mistakes": "Langsung menempelkan ke Noun. Pola 'Sou desu' kelihatannya TIDAK BISA dipasang ke kata benda. Pengecualian: 'いい' (bagus) menjadi 'よさそうです' (kelihatannya bagus).",
+    "quiz": [
+      {
+        "question": "Hari ini sepertinya (akan) turun hujan. (Melihat awan mendung)",
+        "options": [
+          "雨が 降るそうです",
+          "雨が 降りそうです",
+          "雨が 降ってそうです",
+          "雨が 降らないそうです"
+        ],
+        "answer": "雨が 降りそうです",
+        "explanation": "Furimasu -> Furi + Sou desu (Akan/Kelihatannya turun)."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-43-2",
+    "level": "N4",
+    "chapter": 43,
+    "pattern": "Verb て + 来ます",
+    "title_id": "Verb て + 来ます",
+    "formation": [
+      {
+        "type": "Action and return",
+        "rule": "V-te + 来ます",
+        "example": "ちょっと 切手 を 買って 来ます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "ちょっとたばこを買って来ます。",
+        "romaji": "Chotto tabako o katte kimasu.",
+        "meaning": "Saya pergi beli rokok sebentar (lalu kembali ke sini)."
+      }
+    ],
+    "notes": "Kata kerja bentuk te + 来ます (Kimasu). Menunjukkan bahwa subjek pergi melakukan suatu aksi, lalu akan KEMBALI lagi ke tempat semula.",
+    "common_mistakes": "Hanya berarti 'Datang'. V-te kimasu lebih berfokus pada proses 'Pergi (melakukan sesuatu) dan kembali lagi (datang)'.",
+    "quiz": [
+      {
+        "question": "Saya pergi sebentar untuk mencuci tangan (lalu akan kembali ke sini).",
+        "options": [
+          "手を 洗って きます",
+          "手を 洗って いきます",
+          "手を 洗って 帰ります",
+          "手を 洗いに きます"
+        ],
+        "answer": "手を 洗って きます",
+        "explanation": "Aksi (Araimasu -> Aratte) + Kimasu (dan akan kembali)."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-44-1",
+    "level": "N4",
+    "chapter": 44,
+    "pattern": "Verb Masu (coret masu) / Adj (coret i/na) + すぎます",
+    "title_id": "Verb Masu (coret masu) / Adj (coret i/na) + すぎます",
+    "formation": [
+      {
+        "type": "Too much",
+        "rule": "V-(buang masu) / Adj-(buang i/na) + すぎます",
+        "example": "この シャツは 大きすぎます"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "昨日の夜はお酒を飲みすぎました。",
+        "romaji": "Kinou no yoru wa osake o nomisugimashita.",
+        "meaning": "Tadi malam saya terlalu banyak minum alkohol."
+      },
+      {
+        "japanese": "この問題は複雑すぎます。",
+        "romaji": "Kono mondai wa fukuzatsu sugimasu.",
+        "meaning": "Masalah ini terlalu rumit."
+      }
+    ],
+    "notes": "Menyatakan kondisi yang TERLALU / BERLEBIHAN (Too much). Akhiran -masu / -i / -na dibuang, lalu ditambah 'sugimasu'. Sifatnya seringkali mengarah pada hal negatif.",
+    "common_mistakes": "Lupa membuang akhiran 'i'. (Salah: 高いすぎます). (Benar: 高すぎます). 'Sugimasu' sendiri adalah kata kerja Gol 2, sehingga bisa dikonjugasikan (Sugita, Suginai).",
+    "quiz": [
+      {
+        "question": "Kemarin malam, saya minum (alkohol) terlalu banyak.",
+        "options": [
+          "飲みすぎます",
+          "飲みすぎました",
+          "飲むすぎました",
+          "飲んですぎました"
+        ],
+        "answer": "飲みすぎました",
+        "explanation": "Nomimasu -> Nomi + sugimashita (lampau)."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-44-2",
+    "level": "N4",
+    "chapter": 44,
+    "pattern": "Verb Masu (coret masu) + やすいです / にくいです",
+    "title_id": "Verb Masu (coret masu) + やすいです / にくいです",
+    "formation": [
+      {
+        "type": "Easy/Hard to do",
+        "rule": "V-(buang masu) + やすい / にくい",
+        "example": "この 薬は 飲みやすいです"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "この薬は甘くて飲みやすいです。",
+        "romaji": "Kono kusuri wa amakute nomiyasui desu.",
+        "meaning": "Obat ini manis dan mudah diminum."
+      },
+      {
+        "japanese": "このグラスは割れにくいです。",
+        "romaji": "Kono gurasu wa warenikui desu.",
+        "meaning": "Gelas ini sulit pecah."
+      }
+    ],
+    "notes": "Yasuidesu = 'Mudah (di)lakukan'. Nikuidesu = 'Sulit/Susah (di)lakukan'. Menggunakan akar kata kerja (V-masu tanpa masu). Gabungan ini akan berubah sifat menjadi I-Adj.",
+    "common_mistakes": "Tertukar dengan 'Yasuidesu' (Murah). 'Yasuidesu' yang digabung dengan kata kerja artinya bukan murah, melainkan mudah.",
+    "quiz": [
+      {
+        "question": "Kanji ini sulit ditulis.",
+        "options": [
+          "この漢字は 書くにくいです",
+          "この漢字は 書きにくいです",
+          "この漢字は むずかしい書きます",
+          "この漢字は 書かないです"
+        ],
+        "answer": "この漢字は 書きにくいです",
+        "explanation": "Kakimasu -> Kaki + Nikuidesu."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-45-1",
+    "level": "N4",
+    "chapter": 45,
+    "pattern": "Bentuk Biasa + 場合は (Dalam kasus / Apabila)",
+    "title_id": "Bentuk Biasa + 場合は (Dalam kasus / Apabila)",
+    "formation": [
+      {
+        "type": "In case of",
+        "rule": "Plain Form + 場合は",
+        "example": "火事 の 場合は、逃げてください"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "火事の場合は、エレベーターを使わないでください。",
+        "romaji": "Kaji no baai wa, erebeetaa o tsukawanaide kudasai.",
+        "meaning": "Dalam kasus kebakaran, tolong jangan menggunakan lift."
+      },
+      {
+        "japanese": "遅れる場合は、電話してください。",
+        "romaji": "Okureru baai wa, denwa shite kudasai.",
+        "meaning": "Apabila terlambat, tolong telepon."
+      }
+    ],
+    "notes": "Pola 'Baai wa' (Dalam kasus... / Seandainya). Bersifat lebih formal daripada '-tara' atau '-ba'. Biasanya dipakai pada manual, pengumuman darurat, atau peraturan.",
+    "common_mistakes": "Menggunakan bentuk Noun tanpa partikel 'の'. (Salah: 火事場合は). Baai adalah kata benda, jadi harus memakai hukum penggabungan kata benda (Kaji NO baai).",
+    "quiz": [
+      {
+        "question": "Dalam kasus (mesin) tidak berfungsi, silakan hubungi staf.",
+        "options": [
+          "動かない場合は、",
+          "動く場合は、",
+          "動かなかった場合は、",
+          "動かないの 場合は、"
+        ],
+        "answer": "動かない場合は、",
+        "explanation": "Ugokanai (V-nai plain) + Baai wa."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-45-2",
+    "level": "N4",
+    "chapter": 45,
+    "pattern": "Bentuk Biasa + のに (Padahal / Walaupun)",
+    "title_id": "Bentuk Biasa + のに (Padahal / Walaupun)",
+    "formation": [
+      {
+        "type": "Even though (Deepened)",
+        "rule": "Plain Form + のに",
+        "example": "約束をした のに、彼 は 来ませんでした"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "薬を飲んだのに、まだ熱が下がりません。",
+        "romaji": "Kusuri o nonda noni, mada netsu ga sagarimasen.",
+        "meaning": "Padahal sudah minum obat, tapi demamnya belum turun."
+      }
+    ],
+    "notes": "Pola 'noni' (Padahal) dari modul N5 kembali diulas, namun digabung dengan Plain Form secara meluas (Verb, Adj, Noun).",
+    "common_mistakes": "Lupa memasang 'な' (na) pada Noun dan Na-Adj. (Salah: 日曜日のに). (Benar: 日曜日なのに - Padahal hari Minggu).",
+    "quiz": [
+      {
+        "question": "Padahal cuaca sedang bagus, saya tidak kemana-mana.",
+        "options": [
+          "いい天気のに、",
+          "いい天気の のに、",
+          "いい天気な のに、",
+          "いい天気だ のに、"
+        ],
+        "answer": "いい天気な のに、",
+        "explanation": "Tenki (Benda) + na + noni."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-46-1",
+    "level": "N4",
+    "chapter": 46,
+    "pattern": "~ところです (Waktu Pelaksanaan Aksi)",
+    "title_id": "~ところです (Waktu Pelaksanaan Aksi)",
+    "formation": [
+      {
+        "type": "Exact point in time",
+        "rule": "V-ru / V-te iru / V-ta + ところです",
+        "example": "今 から 食べる ところです (Baru saja mau makan)"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "これから会議が始まるところです。",
+        "romaji": "Korekara kaigi ga hajimaru tokoro desu.",
+        "meaning": "Rapatnya baru saja AKAN dimulai."
+      },
+      {
+        "japanese": "今、資料をコピーしているところです。",
+        "romaji": "Ima, shiryou o kopii shite iru tokoro desu.",
+        "meaning": "Sekarang SEDANG proses memfotokopi dokumen."
+      },
+      {
+        "japanese": "たった今バスが出たところです。",
+        "romaji": "Tatta ima basu ga deta tokoro desu.",
+        "meaning": "Busnya BARU SAJA berangkat."
+      }
+    ],
+    "notes": "'Tokoro desu' berfokus pada DETIK PELAKSANAAN sebuah aksi. \nV-ru tokoro (Baru saja AKAN mulai). \nV-te iru tokoro (SEDANG benar-benar dilakukan sekarang). \nV-ta tokoro (BARU SAJA 1 detik yang lalu selesai).",
+    "common_mistakes": "Menyamakannya dengan kalimat 'baru saja' (V-ta bakari). 'Bakari' adalah perasaan pembicara (Bisa 1 hari/1 bulan yang lalu dirasa 'baru saja'). Tapi 'ta tokoro' wajib benar-benar baru kelar detik ini juga.",
+    "quiz": [
+      {
+        "question": "Busnya baru saja (detik ini) berangkat.",
+        "options": [
+          "バスは 出発した ところです",
+          "バスは 出発する ところです",
+          "バスは 出発している ところです",
+          "バスは 出発した ばかりです"
+        ],
+        "answer": "バスは 出発した ところです",
+        "explanation": "Shuppatsu shita (lampau) + tokoro desu (baru saja)."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-46-2",
+    "level": "N4",
+    "chapter": 46,
+    "pattern": "Bentuk Biasa + はずです (Pasti / Seharusnya)",
+    "title_id": "Bentuk Biasa + はずです (Pasti / Seharusnya)",
+    "formation": [
+      {
+        "type": "Logical expectation",
+        "rule": "Plain Form + はずです",
+        "example": "彼は 10年 日本に 住んでいますから、日本語が 上手な はずです"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "彼は10年も日本に住んでいたから、日本語が上手なはずです。",
+        "romaji": "Kare wa juu-nen mo Nihon ni sunde ita kara, Nihongo ga jouzu na hazu desu.",
+        "meaning": "Karena dia tinggal di Jepang selama 10 tahun, dia PASTI/SEHARUSNYA pintar bahasa Jepang."
+      }
+    ],
+    "notes": "Menyatakan KEPASTIAN LOGIS ('Pasti... / Seharusnya...'). Kesimpulan ini ditarik karena ada bukti yang logis. Gabungan dengan kata Benda memakai 'の'.",
+    "common_mistakes": "Lupa menyisipkan 'な' pada Na-Adj dan 'の' pada Noun. (Jouzu NA hazu desu).",
+    "quiz": [
+      {
+        "question": "Kunci itu pasti ada di dalam tas.",
+        "options": [
+          "かばんの中に あるはずです",
+          "かばんの中に いるはずです",
+          "かばんの中に あったはずです",
+          "かばんの中に あってはずです"
+        ],
+        "answer": "かばんの中に あるはずです",
+        "explanation": "Aru (bentuk kamus) + hazu desu."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-47-1",
+    "level": "N4",
+    "chapter": 47,
+    "pattern": "Bentuk Biasa + そうです (Rumor / Katanya)",
+    "title_id": "Bentuk Biasa + そうです (Rumor / Katanya)",
+    "formation": [
+      {
+        "type": "Hearsay",
+        "rule": "Plain Form + そうです",
+        "example": "天気予報に よると、明日は 雨だ そうです"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "天気予報によると、明日は寒くなるそうです。",
+        "romaji": "Tenki yohou ni yoru to, ashita wa samuku naru sou desu.",
+        "meaning": "Menurut prakiraan cuaca, besok (katanya) akan menjadi dingin."
+      },
+      {
+        "japanese": "山田さんは会社を辞めるそうです。",
+        "romaji": "Yamada san wa kaisha o yameru sou desu.",
+        "meaning": "Katanya Pak Yamada akan berhenti dari perusahaan."
+      }
+    ],
+    "notes": "Pola Sou desu (RUMOR). Beda jauh dengan Sou desu (Tebakan 43-1). Di sini, artinya 'Katanya / Kudengar'. Kata yang menempel adalah Plain Form LENGKAP (termasuk 'da' untuk Noun/Na-Adj).",
+    "common_mistakes": "Salah bentuk penggabungan! 'Ame sou desu' = Kelihatannya akan hujan (Tebakan visual Noun tidak sah). 'Ame DA sou desu' = KATANYA akan hujan (Rumor yang kudengar dari luar).",
+    "quiz": [
+      {
+        "question": "Katanya Pak Guru (kemarin) sakit.",
+        "options": [
+          "先生は 病気だったそうです",
+          "先生は 病気なそうです",
+          "先生は 病気だそうです",
+          "先生は 病気だったそうです (A)"
+        ],
+        "answer": "先生は 病気だったそうです",
+        "explanation": "Sakit di masa lampau (Byouki datta) + sou desu."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-47-2",
+    "level": "N4",
+    "chapter": 47,
+    "pattern": "Bentuk Biasa + ようです (Sepertinya)",
+    "title_id": "Bentuk Biasa + ようです (Sepertinya)",
+    "formation": [
+      {
+        "type": "Deduction",
+        "rule": "Plain Form + ようです",
+        "example": "道路が 濡れています。雨が 降った ようです"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "変な音がしますね。隣の部屋で誰かけんかしているようです。",
+        "romaji": "Hen na oto ga shimasu ne. Tonari no heya de dareka kenka shite iru you desu.",
+        "meaning": "Terdengar suara aneh ya. Sepertinya ada yang sedang bertengkar di kamar sebelah."
+      }
+    ],
+    "notes": "You desu (Sepertinya). Kesimpulan kuat hasil analisis berbagai panca indera, bukan sekadar melihat sekilas. Noun dipasang pakai 'の', Na-Adj pakai 'な'.",
+    "common_mistakes": "Tertukar partikel. 'You desu' pada Noun memakai 'の' (Byouki NO you desu). 'Sou desu (rumor)' memakai 'だ' (Byouki DA sou desu).",
+    "quiz": [
+      {
+        "question": "(Melihat banyak orang tertawa di sana). Sepertinya ada sesuatu yang menarik.",
+        "options": [
+          "おもしろい ようです",
+          "おもしろそうな ようです",
+          "おもしろかった ようです",
+          "おもしろいな ようです"
+        ],
+        "answer": "おもしろい ようです",
+        "explanation": "Omoshiroi (Plain form I-adj) + You desu."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-48-1",
+    "level": "N4",
+    "chapter": 48,
+    "pattern": "Bentuk Kausatif (Shiekikei)",
+    "title_id": "Bentuk Kausatif (Shiekikei)",
+    "formation": [
+      {
+        "type": "Causative Form",
+        "rule": "Subjek penyuruh + は + Objek yang disuruh + に/を + V-kausatif",
+        "example": "先生は 生徒に 本を 読ませました"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "先生は学生に漢字を書かせました。",
+        "romaji": "Sensei wa gakusei ni kanji o kakasemashita.",
+        "meaning": "Guru menyuruh siswa menulis kanji."
+      },
+      {
+        "japanese": "母は子供を遊ばせました。",
+        "romaji": "Haha wa kodomo o asobasemashita.",
+        "meaning": "Ibu membiarkan anaknya bermain. (Intransitif pakai を)"
+      }
+    ],
+    "notes": "Bentuk Kausatif (Membiarkan / Menyuruh / Membuat orang lain melakukan aksi). \nGol 1: u -> aseru (行く -> 行かせる).\nGol 2: ru -> saseru (食べる -> 食べさせる).",
+    "common_mistakes": "Pola partikel membingungkan. Jika kata kerjanya punya objek (Membaca BUKU), maka orang yang disuruh ditandai partikel 'に' (Seito NI hon o yomaseru). Jika kata kerja intransitif (Berjalan), orang yang disuruh ditandai partikel 'を' (Kodomo O arukaseru).",
+    "quiz": [
+      {
+        "question": "Ibu menyuruh (membuat) anak makan sayur.",
+        "options": [
+          "母は 子供に 野菜を 食べさせました",
+          "母は 子供を 野菜を 食べさせました",
+          "子供は 母に 野菜を 食べさせました",
+          "母は 子供に 野菜を 食べられました"
+        ],
+        "answer": "母は 子供に 野菜を 食べさせました",
+        "explanation": "Karena ada objek 'Sayur (o)', maka si Anak menggunakan partikel 'ni'."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-48-2",
+    "level": "N4",
+    "chapter": 48,
+    "pattern": "Kausatif + ていただけませんか",
+    "title_id": "Kausatif + ていただけませんか",
+    "formation": [
+      {
+        "type": "Asking permission politely",
+        "rule": "V-(saseru -> sasete) + いただけませんか",
+        "example": "明日 休ませて いただけませんか"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "気分が悪いので、早く帰らせていただけませんか。",
+        "romaji": "Kibun ga warui node, hayaku kaerasete itadakemasen ka.",
+        "meaning": "Karena saya merasa kurang sehat, bolehkah saya (diizinkan) pulang lebih awal?"
+      }
+    ],
+    "notes": "Bentuk Kausatif + Itadakemasen ka ('Bolehkah SAYA diizinkan melakukan...?'). Ini adalah ungkapan yang sangat amat sopan untuk meminta izin atasan.",
+    "common_mistakes": "Tertukar dengan 'Yasunde itadakemasen ka' (Maukah Anda yang libur). 'Yasumasete' berarti 'Bolehkah SAYA dibuat/diizinkan libur'.",
+    "quiz": [
+      {
+        "question": "'Tolong izinkan saya pulang lebih awal.'",
+        "options": [
+          "早く 帰らせて いただけませんか",
+          "早く 帰って いただけませんか",
+          "早く 帰らされて いただけませんか",
+          "早く 帰りさせて いただけませんか"
+        ],
+        "answer": "早く 帰らせて いただけませんか",
+        "explanation": "Kaeru -> Kaeraseru -> Kaerasete + itadakemasen ka."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-49-1",
+    "level": "N4",
+    "chapter": 49,
+    "pattern": "Kata Kerja Khusus Sonkeigo",
+    "title_id": "Kata Kerja Khusus Sonkeigo",
+    "formation": [
+      {
+        "type": "Respectful Verbs (Special)",
+        "rule": "Kata Kerja Khusus Sonkeigo",
+        "example": "社長 は もう 帰られました"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "社長はもう帰られました。（お帰りになりました）",
+        "romaji": "Shachou wa mou kaeraremashita. (O-kaeri ni narimashita).",
+        "meaning": "Presiden direktur sudah pulang."
+      },
+      {
+        "japanese": "先生は何を召し上がりますか。",
+        "romaji": "Sensei wa nani o meshiagarimasu ka.",
+        "meaning": "Guru akan makan/minum apa?"
+      }
+    ],
+    "notes": "Sonkeigo (Bentuk Hormat). Dipakai untuk menghormati AKSI ATASAN/ORANG LAIN, bukan aksi diri sendiri. Kata kerja khusus: \n行く/来る/いる -> いらっしゃいます\n食べる/飲む -> めしあがります\n言う -> おっしゃいます.",
+    "common_mistakes": "Menggunakan Sonkeigo untuk diri sendiri. (Salah besar: Watashi wa meshiagarimasu). Watashi (Saya) dilarang mutlak diangkat memakai Sonkeigo.",
+    "quiz": [
+      {
+        "question": "Sensei, (Anda) apa yang akan dimakan?",
+        "options": [
+          "先生、何を 食べられますか",
+          "先生、何を めしあがりますか",
+          "A dan B benar",
+          "先生、何を いただきますか"
+        ],
+        "answer": "A dan B benar",
+        "explanation": "Taberareru (Pasif yang jadi hormat) dan Meshiagaru (Hormat mutlak) dua-duanya adalah Sonkeigo. IKU/TABERU memiliki kata khusus."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-49-2",
+    "level": "N4",
+    "chapter": 49,
+    "pattern": "お + Verb Masu (coret) + になります",
+    "title_id": "お + Verb Masu (coret) + になります",
+    "formation": [
+      {
+        "type": "Respectful Verbs (Pattern)",
+        "rule": "お + V-masu(stem) + に なります",
+        "example": "社長は 新しい車に お乗りに なりました"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "いつお帰りになりますか。",
+        "romaji": "Itsu okaeri ni narimasu ka.",
+        "meaning": "Kapan Anda akan pulang?"
+      }
+    ],
+    "notes": "Sonkeigo pola sisipan. Digunakan untuk kata kerja yang TIDAK PUNYA kata ganti khusus di modul 49-1. \nPolanya: お + V-masu (buang masu) + に なります.",
+    "common_mistakes": "Lupa memasang 'に なります'. (Hanya Ohairi... desu -> salah, kecuali memakai pola pasif O-hairi desu). Pola lengkapnya O ~ Ni Narimasu.",
+    "quiz": [
+      {
+        "question": "Bapak Kepala Sekolah sedang membaca buku.",
+        "options": [
+          "校長先生は 本を お読みに なります",
+          "校長先生は 本を 読まれます",
+          "A dan B benar",
+          "校長先生は 本を お読みします"
+        ],
+        "answer": "A dan B benar",
+        "explanation": "O-yomi-ni narimasu (pola O~ni narimasu) atau Yomareru (pola pasif hormat) keduanya benar."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-50-1",
+    "level": "N4",
+    "chapter": 50,
+    "pattern": "Kata Kerja Khusus Kenjougo",
+    "title_id": "Kata Kerja Khusus Kenjougo",
+    "formation": [
+      {
+        "type": "Humble Verbs (Special)",
+        "rule": "Kata Kerja Khusus Kenjougo",
+        "example": "わたし が まいります (Saya yang akan pergi)"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "私はマイクと申します。",
+        "romaji": "Watashi wa Maiku to moushimasu.",
+        "meaning": "Nama saya (hamba bernama) Mike."
+      },
+      {
+        "japanese": "明日、先生のお宅へ参ります。",
+        "romaji": "Ashita, sensei no otaku e mairimasu.",
+        "meaning": "Besok saya akan pergi ke rumah guru."
+      }
+    ],
+    "notes": "Kenjougo (Bentuk Merendah). Berbeda total dari Sonkeigo, Kenjougo digunakan khusus untuk AKSI DIRI SENDIRI demi merendahkan diri dan meninggikan lawan bicara. \n行く/来る -> まいります\nいる -> おります\n食べる/飲む/もらう -> いただきます.",
+    "common_mistakes": "Menggunakan Kenjougo untuk Atasan. (Salah besar: Shachou ga mairimasu). Mairimasu hanya untuk diri sendiri atau kolega satu perusahaan saat berbicara dengan pihak luar.",
+    "quiz": [
+      {
+        "question": "'Saya (dengan rendah hati) adalah Miller.'",
+        "options": [
+          "わたしは ミラーと おっしゃいます",
+          "わたしは ミラーと いらっしゃいます",
+          "わたしは ミラーと もうします",
+          "わたしは ミラーと いいます"
+        ],
+        "answer": "わたしは ミラーと もうします",
+        "explanation": "Iimasu (berkata/bernama) -> Moushimasu (Bentuk Kenjougo untuk diri sendiri)."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-50-2",
+    "level": "N4",
+    "chapter": 50,
+    "pattern": "お + Verb Masu (coret) + します",
+    "title_id": "お + Verb Masu (coret) + します",
+    "formation": [
+      {
+        "type": "Humble Verbs (Pattern)",
+        "rule": "お + V-masu(stem) + します",
+        "example": "わたし が お持ち します (Saya akan bawakan)"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "私が荷物をお持ちします。",
+        "romaji": "Watashi ga nimotsu o omochi shimasu.",
+        "meaning": "Biar saya yang membawa barang bawaannya."
+      }
+    ],
+    "notes": "Kenjougo pola sisipan. Untuk kata kerja biasa yang tidak punya bentuk khusus. Polanya adalah: お/ご + V-masu(stem) + します.",
+    "common_mistakes": "Tertukar dengan O ~ ni narimasu (Sonkeigo). \nIngat: O ~ shimasu (Saya yang melakukan - Kenjougo). O ~ ni narimasu (Atasan yang melakukan - Sonkeigo).",
+    "quiz": [
+      {
+        "question": "'Biar saya yang membantumu.' (Merendah)",
+        "options": [
+          "わたしが お手伝いに なります",
+          "わたしが お手伝い します",
+          "わたしが お手伝い させます",
+          "わたしが 手伝わさせていただきます"
+        ],
+        "answer": "わたしが お手伝い します",
+        "explanation": "Tetsudaimasu -> O-tetsudai shimasu (Pola Kenjougo)."
+      }
+    ]
+  }
+]

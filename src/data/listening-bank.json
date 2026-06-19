@@ -1,0 +1,1350 @@
+[
+  {
+    "id": "listen-n4-01",
+    "level": "N4",
+    "scenario": "Di telepon",
+    "transcript": [
+      {
+        "speaker": "男の人",
+        "jp": "もしもし、山田ですが、鈴木さんはいますか。",
+        "kana": "もしもし、 やまだ ですが、 すずきさんは いますか。",
+        "id": "Halo, dengan Yamada, apakah ada Suzuki-san?"
+      },
+      {
+        "speaker": "女の人",
+        "jp": "申し訳ありません。鈴木は今、会議中です。３時ごろ終わる予定です。",
+        "kana": "もうしわけありません。 すずきは いま、 かいぎちゅう です。 さんじごろ おわる よていです。",
+        "id": "Mohon maaf. Suzuki sekarang sedang rapat. Rencananya akan selesai sekitar jam 3."
+      },
+      {
+        "speaker": "男の人",
+        "jp": "分かりました。じゃあ、３時半にもう一度電話します。",
+        "kana": "わかりました。 じゃあ、 さんじはんに もういちど でんわします。",
+        "id": "Saya mengerti. Kalau begitu, saya akan menelepon lagi jam 3.30."
+      }
+    ],
+    "questions": [
+      {
+        "question": "男の人は次にいつ電話をしますか。",
+        "options": [
+          "今すぐ",
+          "会議のあとすぐ",
+          "３時",
+          "３時半"
+        ],
+        "answer": "３時半",
+        "explanation": "Laki-laki itu berkata 'じゃあ、３時半にもう一度電話します' yang berarti akan menelepon lagi pada pukul tiga setengah (3:30)."
+      }
+    ]
+  },
+  {
+    "id": "listen-n4-02",
+    "level": "N4",
+    "scenario": "Di kantor",
+    "transcript": [
+      {
+        "speaker": "部長",
+        "jp": "田中君、この資料をコピーしておいてくれないか。会議は３時からだから、それまでに頼むよ。",
+        "kana": "たなかくん、 この しりょうを コピーして おいて くれないか。 かいぎは さんじから だから、 それまでに たのむよ。",
+        "id": "Tanaka, bisakah kamu memfotokopi dokumen ini (sebagai persiapan). Rapatnya dari jam 3, jadi tolong selesai sebelum itu."
+      },
+      {
+        "speaker": "田中",
+        "jp": "はい、わかりました。何部コピーしましょうか。",
+        "kana": "はい、 わかりました。 なんぶ コピーしましょうか。",
+        "id": "Baik, saya mengerti. Mau difotokopi berapa rangkap?"
+      },
+      {
+        "speaker": "部長",
+        "jp": "ええと、会議に出る人は全部で８人だけど、予備として２部多くコピーしておいて。",
+        "kana": "ええと、 かいぎに でるひとは ぜんぶで はちにん だけど、 よびとして にぶ おおく コピーして おいて。",
+        "id": "Uhm, orang yang ikut rapat totalnya 8 orang, tapi sebagai cadangan tolong fotokopi lebihkan 2 rangkap."
+      },
+      {
+        "speaker": "田中",
+        "jp": "はい、１０部ですね。すぐにやります。",
+        "kana": "はい、 じゅうぶ ですね。 すぐに やります。",
+        "id": "Baik, 10 rangkap ya. Akan segera saya kerjakan."
+      }
+    ],
+    "questions": [
+      {
+        "question": "田中さんは資料を何部コピーしますか。",
+        "options": [
+          "２部",
+          "３部",
+          "８部",
+          "１０部"
+        ],
+        "answer": "１０部",
+        "explanation": "Peserta rapat 8 orang ditambah cadangan (yobi) 2 rangkap, jadi total 10 rangkap (10部)."
+      }
+    ]
+  },
+  {
+    "id": "listen-n4-03",
+    "level": "N4",
+    "scenario": "Di toko elektronik",
+    "transcript": [
+      {
+        "speaker": "客",
+        "jp": "すみません、このパソコンはいくらですか。",
+        "kana": "すみません、 この パソコンは いくらですか。",
+        "id": "Permisi, laptop ini berapa harganya?"
+      },
+      {
+        "speaker": "店員",
+        "jp": "こちらは１０万円でございます。",
+        "kana": "こちらは じゅうまんえんで ございます。",
+        "id": "Yang ini harganya 100 ribu yen."
+      },
+      {
+        "speaker": "客",
+        "jp": "うーん、少し高いですね。もうすこし安くなりませんか。",
+        "kana": "うーん、 すこし たかいですね。 もうすこし やすく なりませんか。",
+        "id": "Hmm, sedikit mahal ya. Tidak bisakah lebih murah sedikit?"
+      },
+      {
+        "speaker": "店員",
+        "jp": "そうですね…では、特別に１０％引きにいたしましょう。それならいかがですか。",
+        "kana": "そうですね… では、 とくべつに じゅっぱーせんと びきに いたしましょう。 それなら いかがですか。",
+        "id": "Hmm begitu ya... kalau begitu, spesial akan saya potong diskon 10%. Kalau begitu bagaimana?"
+      },
+      {
+        "speaker": "客",
+        "jp": "本当ですか？じゃあ、買います。",
+        "kana": "ほんとうですか？ じゃあ、 かいます。",
+        "id": "Benarkah? Kalau begitu saya beli."
+      }
+    ],
+    "questions": [
+      {
+        "question": "客はパソコンをいくらで買いますか。",
+        "options": [
+          "１０万円",
+          "９万円",
+          "１万円",
+          "１１万円"
+        ],
+        "answer": "９万円",
+        "explanation": "Harga asli 100 ribu yen (10万円). Diskon 10% berarti potong 1万円. Jadi harga akhirnya 9万円 (90 ribu yen)."
+      }
+    ]
+  },
+  {
+    "id": "listen-n4-04",
+    "level": "N4",
+    "scenario": "Meninggalkan pesan suara (Ansuwaringu mashin)",
+    "transcript": [
+      {
+        "speaker": "録音の声",
+        "jp": "ただいま留守にしております。ピーという発信音のあとにメッセージをお願いします。",
+        "kana": "ただいま るすに しております。 ピーという はっしんおんの あとに メッセージを おねがいします。",
+        "id": "Saat ini saya sedang tidak ada. Tolong tinggalkan pesan setelah nada 'piip'."
+      },
+      {
+        "speaker": "男の人",
+        "jp": "（ピー）もしもし、佐藤です。今日の夕食の約束ですが、仕事が遅くなりそうなので、７時の約束を８時に変更してもらえませんか。またあとで電話します。",
+        "kana": "（ピー） もしもし、 さとうです。 きょうの ゆうしょくの やくそくですが、 しごとが おそく なりそうなので、 しちじの やくそくを はちじに へんこうして もらえませんか。 また あとで でんわします。",
+        "id": "(Piip) Halo, ini Sato. Mengenai janji makan malam hari ini, sepertinya pekerjaan saya akan selesainya telat, bisakah mengubah janji dari jam 7 menjadi jam 8? Nanti saya akan telepon lagi."
+      }
+    ],
+    "questions": [
+      {
+        "question": "男の人は何と言っていますか。",
+        "options": [
+          "約束の時間を遅くしてほしい",
+          "約束の時間を早くしてほしい",
+          "約束をキャンセルしてほしい",
+          "今日の夕食は行かない"
+        ],
+        "answer": "約束の時間を遅くしてほしい",
+        "explanation": "Sato meminta agar waktunya diundur (diubah dari jam 7 ke jam 8) karena pekerjaannya selesai lambat. (遅くしてほしい = Ingin dimundurkan waktunya)."
+      }
+    ]
+  },
+  {
+    "id": "listen-n4-05",
+    "level": "N4",
+    "scenario": "Rencana Liburan Musim Panas",
+    "transcript": [
+      {
+        "speaker": "男の人",
+        "jp": "もうすぐ夏休みですね。どこかへ行きますか。",
+        "kana": "もうすぐ なつやすみ ですね。 どこかへ いきますか。",
+        "id": "Sebentar lagi libur musim panas ya. Apakah pergi ke suatu tempat?"
+      },
+      {
+        "speaker": "女の人",
+        "jp": "北海道へ行くつもりです。涼しいところを旅行したいですから。",
+        "kana": "ほっかいどうへ いく つもりです。 すずしい ところを りょこう したいですから。",
+        "id": "Saya berencana pergi ke Hokkaido. Karena saya ingin bepergian ke tempat yang sejuk."
+      },
+      {
+        "speaker": "男の人",
+        "jp": "いいですね。私は実家に帰って、のんびりします。",
+        "kana": "いいですね。 わたしは じっかに かえって、 のんびり します。",
+        "id": "Bagus ya. Saya akan pulang ke kampung halaman dan bersantai."
+      }
+    ],
+    "questions": [
+      {
+        "question": "女の人はなぜ北海道へ行きますか。",
+        "options": [
+          "実家があるから",
+          "涼しいところだから",
+          "夏休みだから",
+          " there is a festival"
+        ],
+        "answer": "涼しいところだから",
+        "explanation": "Wanita itu mengatakan '涼しいところを旅行したいですから' (karena ingin berlibur ke tempat yang sejuk)."
+      }
+    ]
+  },
+  {
+    "id": "listen-n4-06",
+    "level": "N4",
+    "scenario": "Di klinik / Petunjuk dokter",
+    "transcript": [
+      {
+        "speaker": "医師",
+        "jp": "熱が３８度ありますね。風邪でしょう。",
+        "kana": "ねつが さんじゅうはちど ありますね。 かぜ でしょう。",
+        "id": "Suhunya 38 derajat ya. Ini masuk angin."
+      },
+      {
+        "speaker": "患者",
+        "jp": "薬はどのように飲めばいいですか。",
+        "kana": "くすりは どのように のめば いいですか。",
+        "id": "Bagaimana saya harus minum obatnya?"
+      },
+      {
+        "speaker": "医師",
+        "jp": "この白い薬は朝と晩、ご飯を食べたあとに飲んでください。青い薬は熱が高いときだけ飲んでください。",
+        "kana": "この しろい くすりは あさと ばん、 ごはんを たべた あとに のんでください。 あおい くすりは ねつが たかい ときだけ のんでください。",
+        "id": "Obat putih ini diminum pagi dan malam setelah makan. Obat biru diminum hanya saat demamnya tinggi."
+      }
+    ],
+    "questions": [
+      {
+        "question": "青い薬はいつ飲みますか。",
+        "options": [
+          "朝と晩のご飯のあと",
+          "毎食後",
+          "熱が高いときだけ",
+          "寝る前"
+        ],
+        "answer": "熱が高いときだけ",
+        "explanation": "Dokter menjelaskan bahwa obat biru diminum hanya bila suhu tubuh/demam sedang tinggi saja ('熱が高いときだけ')."
+      }
+    ]
+  },
+  {
+    "id": "listen-n4-07",
+    "level": "N4",
+    "scenario": "Pengumuman Kereta Terlambat",
+    "transcript": [
+      {
+        "speaker": "アナウンス",
+        "jp": "お客様にお知らせいたします。ただいま事故のため、中央線は運転を見合わせております。運転再開は１２時半ごろの予定です。",
+        "kana": "おきゃくさまに おしらせ いたします。 ただいま じこのため、 ちゅうおうせんは うんてんを みあわせて おります。 うんてんさいかいは じゅうにじはんごろの よていです。",
+        "id": "Informasi kepada pelanggan. Saat ini karena kecelakaan, Jalur Chuo dihentikan sementara. Rencananya operasional berjalan kembali sekitar jam 12:30."
+      },
+      {
+        "speaker": "男の人",
+        "jp": "ええっ、今１２時だから、あと３０分も待たなければならないのか。",
+        "kana": "ええっ、 いま じゅうにじ だから、 あと さんじゅっぷんも またなければ ならないのか。",
+        "id": "Eh, karena sekarang jam 12, berarti harus menunggu 30 menit lagi ya."
+      }
+    ],
+    "questions": [
+      {
+        "question": "電車はいつから動きそうですか。",
+        "options": [
+          "今すぐ",
+          "１２時",
+          "１２時半",
+          "１時"
+        ],
+        "answer": "１２時半",
+        "explanation": "Pengumuman stasiun menyebutkan operasional direncanakan berjalan kembali sekitar jam 12:30 ('運転再開は１２時半ごろの予定')."
+      }
+    ]
+  },
+  {
+    "id": "listen-n4-08",
+    "level": "N4",
+    "scenario": "Meminjam Barang",
+    "transcript": [
+      {
+        "speaker": "男の人",
+        "jp": "木村さん、ハサミを貸してもらえませんか。",
+        "kana": "きむらさん、 ハサミを かして もらえませんか。",
+        "id": "Kimura-san, bolehkah saya meminjam gunting?"
+      },
+      {
+        "speaker": "木村",
+        "jp": "すみません、今使っているんです。となりの鈴木さんが持っていると思いますよ。",
+        "kana": "すみません、 いま つかって いるんです。 となりの すずきさんが もっていると おもいますよ。",
+        "id": "Maaf, sekarang saya sedang memakainya. Saya rasa Suzuki-san di sebelah punya."
+      },
+      {
+        "speaker": "男の人",
+        "jp": "わかりました。鈴木さんに聞いてみます。",
+        "kana": "わかりました。 すずきさんに きいてみます。",
+        "id": "Baik. Saya coba tanyakan ke Suzuki-san."
+      }
+    ],
+    "questions": [
+      {
+        "question": "男の人は次に何をしますか。",
+        "options": [
+          "木村さんにハサミを貸す",
+          "鈴木さんにハサミを借りに行く",
+          "ハサミを買いに行く",
+          "木村さんのハサミを使う"
+        ],
+        "answer": "鈴木さんにハサミを借りに行く",
+        "explanation": "Karena gunting Kimura sedang dipakai, pria tersebut pergi menemui Suzuki-san untuk meminjam gunting."
+      }
+    ]
+  },
+  {
+    "id": "listen-n4-09",
+    "level": "N4",
+    "scenario": "Di toko baju",
+    "transcript": [
+      {
+        "speaker": "店員",
+        "jp": "いらっしゃいませ。何かお探しですか。",
+        "kana": "いらっしゃいませ。 なにか おさがしですか。",
+        "id": "Selamat datang. Apakah sedang mencari sesuatu?"
+      },
+      {
+        "speaker": "客",
+        "jp": "あの、このセーターの青いのはありませんか。",
+        "kana": "あの、 この セーターの あおいのは ありませんか。",
+        "id": "Anu, apakah ada sweter yang berwarna biru ini?"
+      },
+      {
+        "speaker": "店員",
+        "jp": "青いセーターですね。少々お待ちください。…あいにく青は売り切れてしまいまして、赤と白しか残っていません。",
+        "kana": "あおい セーターですね。 しょうしょう おまちください。 …あいにく あおは うりきれて しまいまして、 あかと しろしか のこっていません。",
+        "id": "Sweter biru ya. Tolong tunggu sebentar. ...Sayang sekali warna biru sudah habis terjual, hanya tersisa merah dan putih."
+      },
+      {
+        "speaker": "客",
+        "jp": "そうですか。じゃあ、白いほうを試着してもいいですか。",
+        "kana": "そうですか。 じゃあ、 しろいほうを ししゃく しても いいですか。",
+        "id": "Begitu ya. Kalau begitu, bolehkah saya mencoba yang putih?"
+      }
+    ],
+    "questions": [
+      {
+        "question": "この店に今あるセーターの色は何色ですか。",
+        "options": [
+          "青と赤",
+          "青と白",
+          "赤と白",
+          "青だけ"
+        ],
+        "answer": "赤と白",
+        "explanation": "Penjaga toko menyatakan warna biru telah habis terjual, dan yang tersisa hanyalah merah dan putih ('赤と白しか残っていません')."
+      }
+    ]
+  },
+  {
+    "id": "listen-n4-10",
+    "level": "N4",
+    "scenario": "Instruksi Kerja Part-time",
+    "transcript": [
+      {
+        "speaker": "店長",
+        "jp": "田中君、今日の仕事のやり方を説明するね。まず、テーブルをきれいに拭いてから、お皿を並べて。そのあと、スプーンとフォークを置いてね。",
+        "kana": "たなかくん、 きょうの しごとの やりかたを せつめい するね。 まず、 テーブルを きれいに ふいてから、 おさらを ならべて。 そのあと、 スプーンと フォークを おいてね。",
+        "id": "Tanaka, saya jelaskan cara kerja hari ini ya. Pertama, lap meja dengan bersih dulu, baru tata piringnya. Setelah itu, letakkan sendok dan garpunya."
+      },
+      {
+        "speaker": "田中",
+        "jp": "はい、わかりました。テーブルを拭いて、お皿を置いて、それからスプーンとフォークですね。",
+        "kana": "はい、 わかりました。 テーブルを ふいて、 おさらを おいて、 それから スプーンと フォークですね。",
+        "id": "Baik, saya mengerti. Lap meja, taruh piring, lalu sendok dan garpu ya."
+      }
+    ],
+    "questions": [
+      {
+        "question": "田中君は最初に何をしなければなりませんか。",
+        "options": [
+          "お皿を並べる",
+          "テーブルを拭く",
+          "スプーンを置く",
+          "フォークを並べる"
+        ],
+        "answer": "テーブルを拭く",
+        "explanation": "Langkah pertama yang harus dilakukan adalah mengelap meja terlebih dahulu sebelum menaruh piring ('まず、テーブルをきれいに拭いてから')."
+      }
+    ]
+  },
+  {
+    "id": "listen-n4-11",
+    "level": "N4",
+    "scenario": "Instruksi kerja di restoran",
+    "transcript": [
+      {
+        "speaker": "先輩",
+        "jp": "リーさん、お客様が来たら、まずお水を運んで。そのあと、注文を聞いてね。料理を運んだら、最後にレシートを渡すのを忘れないでね。",
+        "kana": "リーさん、 おきゃくさまが きたら、 まず おみずを はこんで。 そのあと、 ちゅうもんを きいてね。 りょうりを はこんだら、 さいごに レシートを わたすのを わすれないでね。",
+        "id": "Lee, kalau ada pelanggan datang, pertama antarkan air dulu. Setelah itu, dengarkan pesanannya. Setelah mengantarkan makanan, terakhir jangan lupa serahkan struk belanja ya."
+      },
+      {
+        "speaker": "リー",
+        "jp": "はい、わかりました。料理のあとにレシートですね。",
+        "kana": "はい、 わかりました。 りょうりの あとに レシートですね。",
+        "id": "Baik, saya mengerti. Struk belanja setelah makanan ya."
+      }
+    ],
+    "questions": [
+      {
+        "question": "料理を運んだあと、リーさんは何をしなければなりませんか。",
+        "options": [
+          "注文を聞く",
+          "レシートを渡す",
+          "お水を運ぶ",
+          "テーブルをきれいに拭く"
+        ],
+        "answer": "レシートを渡す",
+        "explanation": "Instruksi menyebutkan setelah mengantarkan hidangan, langkah terakhir adalah memberikan struk belanja ('料理を運んだら、最後にレシートを渡す')."
+      }
+    ]
+  },
+  {
+    "id": "listen-n4-12",
+    "level": "N4",
+    "scenario": "Di kantor / Janjian meeting",
+    "transcript": [
+      {
+        "speaker": "男の人",
+        "jp": "木村さん、明日の会議は何時からですか。",
+        "kana": "きむらさん、 あしたの かいぎは なんじから ですか。",
+        "id": "Kimura-san, rapat besok mulai jam berapa?"
+      },
+      {
+        "speaker": "木村",
+        "jp": "当初は１０時からの予定でしたが、社長のご都合で１１時に変更になりました。場所は３階の会議室です。",
+        "kana": "とうしょは じゅうじからの よていでしたが、 しゃちょうの ごつごうで じゅういちじに へんこうに なりました。 ばしょは さんがいの かいぎしつです。",
+        "id": "Awalnya direncanakan jam 10, tapi karena jadwal Presiden Direktur diubah menjadi jam 11. Tempatnya di ruang rapat lantai 3."
+      },
+      {
+        "speaker": "男の人",
+        "jp": "わかりました。１１時ですね。準備しておきます。",
+        "kana": "わかりました。 じゅういちじですね。 じゅんび しておきます。",
+        "id": "Mengerti. Jam 11 ya. Saya persiapkan."
+      }
+    ],
+    "questions": [
+      {
+        "question": "会議は何時から始まりますか。",
+        "options": [
+          "１０時",
+          "１０時半",
+          "１１時",
+          "３時"
+        ],
+        "answer": "１１時",
+        "explanation": "Rapat diubah pelaksanaannya dari jam 10 menjadi jam 11 siang karena menyesuaikan jadwal presiden direktur ('社長のご都合で１１時に変更になりました')."
+      }
+    ]
+  },
+  {
+    "id": "listen-n4-13",
+    "level": "N4",
+    "scenario": "Membicarakan hobi / Akhir pekan",
+    "transcript": [
+      {
+        "speaker": "女の人",
+        "jp": "山田さんは週末、いつも何をしていますか。",
+        "kana": "やまださんは しゅうまつ、 いつも なにを していますか。",
+        "id": "Yamada-san biasanya ngapain kalau akhir pekan?"
+      },
+      {
+        "speaker": "山田",
+        "jp": "私は山に登るのが好きなので、天気が良ければだいたい山へ行きます。雨なら、家で映画のDVDを見て過ごします。",
+        "kana": "わたしは やまに のぼるのが すきなので、 てんきが よければ だいたい やまへ いきます。 あめなら、 いえで えいがの ディーブイディーを みて すごします。",
+        "id": "Karena saya suka mendaki gunung, kalau cuacanya bagus saya biasanya pergi ke gunung. Kalau hujan, saya menghabiskan waktu dengan menonton DVD film di rumah."
+      },
+      {
+        "speaker": "女の人",
+        "jp": "明日は雨が降るそうですよ。",
+        "kana": "あしたは あめが ふる そうですよ。",
+        "id": "Katanya besok akan turun hujan lho."
+      },
+      {
+        "speaker": "山田",
+        "jp": "そうですか。じゃあ、明日はおとなしく家で過ごします。",
+        "kana": "そうですか。 じゃあ、 あしたは おとなしく いえで すごします。",
+        "id": "Begitu ya. Kalau begitu, besok saya akan santai di rumah saja."
+      }
+    ],
+    "questions": [
+      {
+        "question": "山田さんは明日何をする予定ですか。",
+        "options": [
+          "山に登る",
+          "映画を観る",
+          "友達と買い物に行く",
+          "仕事をする"
+        ],
+        "answer": "映画を観る",
+        "explanation": "Besok diramalkan hujan ('明日は雨'). Karena ia biasa menghabiskan waktu dengan menonton film di rumah jika hari hujan, maka besok ia akan menonton film."
+      }
+    ]
+  },
+  {
+    "id": "listen-n4-14",
+    "level": "N4",
+    "scenario": "Membuat janji temu di restoran",
+    "transcript": [
+      {
+        "speaker": "男の人",
+        "jp": "もしもし、山田さん。今日の夕食の場所ですが、「さくら寿司」に変更してもいいですか。",
+        "kana": "もしもし、 やまださん。 きょうの ゆうしょくの ばしょ ですが、「さくらずし」に へんこう しても いいですか。",
+        "id": "Halo, Yamada-san. Untuk tempat makan malam hari ini, bolehkah diubah ke 'Sakura Sushi'?"
+      },
+      {
+        "speaker": "山田",
+        "jp": "さくら寿司ですね。わかりました。時間は７時で変わりありませんか。",
+        "kana": "さくらずし ですね。 わかりました。 じかんは しちじで かわりありませんか。",
+        "id": "Sakura Sushi ya. Baik. Waktunya jam 7, tidak ada perubahan kan?"
+      },
+      {
+        "speaker": "男の人",
+        "jp": "はい、時間は７時のままです。駅の北口で待ち合わせましょう。",
+        "kana": "はい、 じかんは しちじのままです。 えきの きたぐちで まちあわせましょう。",
+        "id": "Ya, waktunya tetap jam 7. Mari bertemu di pintu keluar utara stasiun."
+      }
+    ],
+    "questions": [
+      {
+        "question": "二人はどこで待ち合わせますか。",
+        "options": [
+          "さくら寿司の前",
+          "駅の南口",
+          "駅の北口",
+          "山田さんの家"
+        ],
+        "answer": "駅の北口",
+        "explanation": "Mereka bersepakat untuk saling menunggu/bertemu di pintu stasiun sebelah utara ('駅の北口で待ち合わせましょう')."
+      }
+    ]
+  },
+  {
+    "id": "listen-n4-15",
+    "level": "N4",
+    "scenario": "Instruksi membuat laporan kerja",
+    "transcript": [
+      {
+        "speaker": "上司",
+        "jp": "佐藤さん、この会議のレポート、今日の夕方５時までに書き終えて提出してくれる？",
+        "kana": "さとうさん、 この かいぎの レポート、 きょうの ゆうがた ごじまでに かきおえて ていしゅつ してくれる？",
+        "id": "Sato-san, laporan rapat ini, bisakah kamu selesai menulis dan mengumpulkannya sebelum jam 5 sore hari ini?"
+      },
+      {
+        "speaker": "佐藤",
+        "jp": "５時までですね。グラフも付けたほうがいいですか。",
+        "kana": "ごじ までですね。 グラフも つけたほうが いいですか。",
+        "id": "Sebelum jam 5 ya. Apakah lebih baik melampirkan grafik juga?"
+      },
+      {
+        "speaker": "上司",
+        "jp": "うん、グラフがあると分かりやすいから、お願いね。",
+        "kana": "うん、 グラフが あると わかりやすいから、 おねがいね。",
+        "id": "Ya, karena kalau ada grafik jadi mudah dipahami, tolong ya."
+      }
+    ],
+    "questions": [
+      {
+        "question": "佐藤さんは今日何をしなければなりませんか。",
+        "options": [
+          "明日までにレポートを出す",
+          "５時までにグラフ付きのレポートを出す",
+          "会議に出席する",
+          "社長に電話をする"
+        ],
+        "answer": "５時までにグラフ付きのレポートを出す",
+        "explanation": "Sato ditugaskan menyerahkan laporan rapat lengkap dengan grafik visual paling lambat jam 5 sore hari ini ('今日の夕方５時までに...提出して')."
+      }
+    ]
+  },
+  {
+    "id": "listen-n4-16",
+    "level": "N4",
+    "scenario": "Membicarakan barang hilang",
+    "transcript": [
+      {
+        "speaker": "男の人",
+        "jp": "すみません、昨日この電車に傘を忘れてしまったのですが。",
+        "kana": "すみません、 きのう この でんしゃに かさを わすれて しまったのですが。",
+        "id": "Permisi, kemarin saya meninggalkan payung di kereta ini."
+      },
+      {
+        "speaker": "駅員",
+        "jp": "どのような傘ですか。",
+        "kana": "どのような かさ ですか。",
+        "id": "Payung seperti apa?"
+      },
+      {
+        "speaker": "男の人",
+        "jp": "黒い傘で、持ち手の部分が木でできています。",
+        "kana": "くろい かさで、 もちての ぶぶんが きで できています。",
+        "id": "Payung hitam, dengan bagian pegangannya terbuat dari kayu."
+      },
+      {
+        "speaker": "駅員",
+        "jp": "少々お待ちください。…あ、こちらに届いていますよ。",
+        "kana": "しょうしょう おまちください。 …あ、 こちらに とどいて いますよ。",
+        "id": "Tolong tunggu sebentar. ...Ah, payung itu telah diserahkan di sini."
+      }
+    ],
+    "questions": [
+      {
+        "question": "男の人の傘はどのような特徴ですか。",
+        "options": [
+          "青くて長い傘",
+          "黒くて持ち手が木製の傘",
+          "白くて折りたたみ式の傘",
+          "環境に優しい紙の傘"
+        ],
+        "answer": "黒くて持ち手が木製の傘",
+        "explanation": "Laki-laki itu mendeskripsikan payungnya berwarna hitam dengan pegangan kayu ('黒い傘で、持ち手の部分が木でできています')."
+      }
+    ]
+  },
+  {
+    "id": "listen-n4-17",
+    "level": "N4",
+    "scenario": "Di rumah sakit / Janji periksa",
+    "transcript": [
+      {
+        "speaker": "患者",
+        "jp": "すみません、来週の検診の予約の日を変更したいのですが。",
+        "kana": "すみません、 らいしゅうの けんしんの よやくの ひを へんこう したいのですが。",
+        "id": "Permisi, saya ingin mengubah hari janji pemeriksaan kesehatan minggu depan."
+      },
+      {
+        "speaker": "受付",
+        "jp": "はい。当初は木曜日の午前１０時でしたが、いつがよろしいですか。",
+        "kana": "はい。 とうしょは もくようびの ごぜん じゅうじ でしたが、 いつが よろしいですか。",
+        "id": "Baik. Awalnya hari Kamis jam 10 pagi, kapan yang Anda inginkan?"
+      },
+      {
+        "speaker": "患者",
+        "jp": "金曜日の同じ時間にお願いします。",
+        "kana": "きんようびの おなじ じかんに おねがいします。",
+        "id": "Hari Jumat di jam yang sama tolong."
+      },
+      {
+        "speaker": "受付",
+        "jp": "かしこまりました。では、金曜日の午前１０時に変更いたしました。",
+        "kana": "かしこまりました。 では、 きんようびの ごぜん じゅうじに へんこう いたしました。",
+        "id": "Baik. Kalau begitu, diubah menjadi hari Jumat jam 10 pagi."
+      }
+    ],
+    "questions": [
+      {
+        "question": "新しい予約はいつですか。",
+        "options": [
+          "木曜日の午前１０時",
+          "金曜日の午前１０時",
+          "木曜日の午後２時",
+          "金曜日の午後２時"
+        ],
+        "answer": "金曜日の午前１０時",
+        "explanation": "Jadwal pemeriksaan kesehatan diubah ke hari Jumat pada jam yang sama, yaitu jam 10 pagi ('金曜日の同じ時間')."
+      }
+    ]
+  },
+  {
+    "id": "listen-n4-18",
+    "level": "N4",
+    "scenario": "Meminta bantuan memindahkan meja",
+    "transcript": [
+      {
+        "speaker": "男の人",
+        "jp": "山田君、ちょっと手伝ってくれない？この重い机を隣の部屋に運びたいんだ。",
+        "kana": "やまだくん、 ちょっと てつだって くれない？ この おもい つくえを となりの へやに はこびたいんだ。",
+        "id": "Yamada, bisa bantu sebentar? Saya ingin memindahkan meja berat ini ke kamar sebelah."
+      },
+      {
+        "speaker": "山田",
+        "jp": "いいですよ。でも二人では重いですね。鈴木君も呼びましょうか。",
+        "kana": "いいですよ。 でも ふたりでは おもいですね。 すずきくんも よびましょうか。",
+        "id": "Boleh. Tapi berdua saja berat ya. Maukah kita panggil Suzuki juga?"
+      },
+      {
+        "speaker": "男の人",
+        "jp": "そうだね。彼にも手伝ってもらおう。",
+        "kana": "そうだね。 かれにも てつだって もらおう。",
+        "id": "Benar juga. Mari minta dia bantu juga."
+      }
+    ],
+    "questions": [
+      {
+        "question": "机を何人で運びますか。",
+        "options": [
+          "１人",
+          "２人",
+          "３人",
+          "４人"
+        ],
+        "answer": "３人",
+        "explanation": "Laki-laki pertama, Yamada, dan kemudian Suzuki akan ikut membantu memindahkan meja tersebut, sehingga totalnya digotong oleh 3 orang ('彼にも手伝ってもらおう')."
+      }
+    ]
+  },
+  {
+    "id": "listen-n5-01",
+    "level": "N5",
+    "scenario": "Di restoran",
+    "transcript": [
+      {
+        "speaker": "男の人",
+        "jp": "すみません、メニューをお願いします。",
+        "kana": "すみません、 メニューを おねがいします。",
+        "id": "Permisi, tolong menunya."
+      },
+      {
+        "speaker": "女の人",
+        "jp": "はい、どうぞ。お飲み物は何にしますか。",
+        "kana": "はい、 どうぞ。 おのみものは なにに しますか。",
+        "id": "Ya, silakan. Minumannya mau apa?"
+      },
+      {
+        "speaker": "男の人",
+        "jp": "コーヒーを二つと、紅茶を一つお願いします。",
+        "kana": "コーヒーを ふたつと、 こうちゃを ひとつ おねがいします。",
+        "id": "Tolong kopi dua dan teh hitam satu."
+      }
+    ],
+    "questions": [
+      {
+        "question": "男の人は何を注文しますか。",
+        "options": [
+          "コーヒー一つと紅茶一つ",
+          "コーヒー二つと紅茶一つ",
+          "コーヒー一つと紅茶二つ",
+          "コーヒー二つと紅茶二つ"
+        ],
+        "answer": "コーヒー二つと紅茶一つ",
+        "explanation": "Laki-laki tersebut berkata 'コーヒーを二つと、紅茶を一つお願いします' (Kopi dua dan teh hitam satu)."
+      }
+    ]
+  },
+  {
+    "id": "listen-n5-02",
+    "level": "N5",
+    "scenario": "Di stasiun kereta",
+    "transcript": [
+      {
+        "speaker": "男の人",
+        "jp": "すみません。東京駅までの切符はいくらですか。",
+        "kana": "すみません。 とうきょうえき までの きっぷは いくらですか。",
+        "id": "Permisi. Tiket sampai stasiun Tokyo berapa harganya?"
+      },
+      {
+        "speaker": "駅員",
+        "jp": "東京駅ですね。大人は５００円、子供は２５０円です。",
+        "kana": "とうきょうえき ですね。 おとなは ごひゃくえん、 こどもは にひゃくごじゅうえんです。",
+        "id": "Stasiun Tokyo ya. Dewasa 500 yen, anak-anak 250 yen."
+      },
+      {
+        "speaker": "男の人",
+        "jp": "じゃあ、大人一枚と子供二枚お願いします。",
+        "kana": "じゃあ、 おとな いちまいと こども にまい おねがいします。",
+        "id": "Kalau begitu, tolong dewasa satu lembar dan anak dua lembar."
+      }
+    ],
+    "questions": [
+      {
+        "question": "男の人はいくら払いますか。",
+        "options": [
+          "７５０円",
+          "１０００円",
+          "１２５０円",
+          "５００円"
+        ],
+        "answer": "１０００円",
+        "explanation": "Laki-laki itu membeli Dewasa 1 (500 yen) dan Anak 2 (2 x 250 yen = 500 yen). Totalnya 1000 yen."
+      }
+    ]
+  },
+  {
+    "id": "listen-n5-03",
+    "level": "N5",
+    "scenario": "Telepon janjian bertemu",
+    "transcript": [
+      {
+        "speaker": "女の人",
+        "jp": "もしもし、山田さん。明日、何時に会いましょうか。",
+        "kana": "もしもし、 やまださん。 あした、 なんじに あいましょうか。",
+        "id": "Halo, Yamada-san. Besok, kita mau bertemu jam berapa?"
+      },
+      {
+        "speaker": "山田",
+        "jp": "うーん、私は午前中、用事がありますから、午後２時はどうですか。",
+        "kana": "うーん、 わたしは ごぜんちゅう、 ようじが ありますから、 ごご にじは どうですか。",
+        "id": "Hmm, saya pagi harinya ada urusan, jadi bagaimana kalau jam 2 siang?"
+      },
+      {
+        "speaker": "女の人",
+        "jp": "２時ですね。わかりました。駅の前で待っています。",
+        "kana": "にじ ですね。 わかりました。 えきの まえで まっています。",
+        "id": "Jam 2 ya. Mengerti. Saya akan menunggu di depan stasiun."
+      }
+    ],
+    "questions": [
+      {
+        "question": "二人はいつ会いますか。",
+        "options": [
+          "明日の午前中",
+          "明日の午後２時",
+          "明日の午前２時",
+          "今日の午後２時"
+        ],
+        "answer": "明日の午後２時",
+        "explanation": "Mereka sepakat bertemu besok siang jam 2 ('あしたの午後２時')."
+      }
+    ]
+  },
+  {
+    "id": "listen-n5-04",
+    "level": "N5",
+    "scenario": "Tanya jalan ke pos polisi",
+    "transcript": [
+      {
+        "speaker": "男の人",
+        "jp": "すみません、交番はどこですか。",
+        "kana": "すみません、 こうばん は どこですか。",
+        "id": "Permisi, pos polisi di mana?"
+      },
+      {
+        "speaker": "女の人",
+        "jp": "あそこの角を右に曲がって、まっすぐ行くと、左側にありますよ。",
+        "kana": "あそこの かどを みぎに まがって、 まっすぐ いくと、 ひだりがわに ありますよ。",
+        "id": "Belok kanan di sudut sana, lalu jalan lurus, ada di sebelah kiri."
+      },
+      {
+        "speaker": "男の人",
+        "jp": "ありがとうございます。",
+        "kana": "ありがとうございます。",
+        "id": "Terima kasih."
+      }
+    ],
+    "questions": [
+      {
+        "question": "交番はどこにありますか。",
+        "options": [
+          "角の手前",
+          "角を右に曲がって左側",
+          "角を左に曲がって右側",
+          "まっすぐ行って右側"
+        ],
+        "answer": "角を右に曲がって左側",
+        "explanation": "Orang kedua memberitahukan '角を右に曲がって' (belok kanan di sudut) lalu '左側にあります' (ada di sebelah kiri)."
+      }
+    ]
+  },
+  {
+    "id": "listen-n5-05",
+    "level": "N5",
+    "scenario": "Membicarakan cuaca",
+    "transcript": [
+      {
+        "speaker": "男の人",
+        "jp": "今日はいい天気ですね。",
+        "kana": "きょうは いい てんき ですね。",
+        "id": "Hari ini cuacanya bagus ya."
+      },
+      {
+        "speaker": "女の人",
+        "jp": "ええ、でも明日は雨が降るそうですよ。",
+        "kana": "ええ、 でも あしたは あめが ふる そうですよ。",
+        "id": "Iya, tapi katanya besok akan turun hujan."
+      },
+      {
+        "speaker": "男の人",
+        "jp": "ええっ、そうですか。傘を持って行かなければなりませんね。",
+        "kana": "ええっ、 そうですか。 かさを もっていかなければ なりませんね。",
+        "id": "Eh, begitu ya. Berarti harus membawa payung ya."
+      }
+    ],
+    "questions": [
+      {
+        "question": "明日の天気はどうですか。",
+        "options": [
+          "いい天気",
+          "雨",
+          "くもり",
+          "雪"
+        ],
+        "answer": "雨",
+        "explanation": "Wanita itu mengatakan '明日は雨が降るそうですよ' yang berarti besok diramalkan akan turun hujan."
+      }
+    ]
+  },
+  {
+    "id": "listen-n5-06",
+    "level": "N5",
+    "scenario": "Tanya jam keberangkatan bus",
+    "transcript": [
+      {
+        "speaker": "男の人",
+        "jp": "すみません、京都行きのバスは何時に出ますか。",
+        "kana": "すみません、 きょうとゆきの バスは なんじに でますか。",
+        "id": "Permisi, bus tujuan Kyoto berangkat jam berapa?"
+      },
+      {
+        "speaker": "駅員",
+        "jp": "次のバスは１０時１５分です。その次は１０時４５分です。",
+        "kana": "つぎの バスは じゅうじ じゅうごふん です。 そのつぎは じゅうじ よんじゅうごふん です。",
+        "id": "Bus berikutnya jam 10:15. Setelah itu jam 10:45."
+      },
+      {
+        "speaker": "男の人",
+        "jp": "今、１０時１０分ですね。次のバスに乗ります。",
+        "kana": "いま、 じゅうじ じゅっぷん ですね。 つぎの バスに のります。",
+        "id": "Sekaurang jam 10:10 ya. Saya naik bus berikutnya."
+      }
+    ],
+    "questions": [
+      {
+        "question": "男の人は何時のバスに乗りますか。",
+        "options": [
+          "１０時１０分",
+          "１０時１５分",
+          "１０時４５分",
+          "１１時"
+        ],
+        "answer": "１０時１５分",
+        "explanation": "Sekarang jam 10:10 dan dia ingin naik bus berikutnya (次のバス) yang terdekat, yaitu jadwal jam 10:15."
+      }
+    ]
+  },
+  {
+    "id": "listen-n5-07",
+    "level": "N5",
+    "scenario": "Di supermarket",
+    "transcript": [
+      {
+        "speaker": "男の人",
+        "jp": "りんごは一ついくらですか。",
+        "kana": "りんごは ひとつ いくらですか。",
+        "id": "Apel satu harganya berapa?"
+      },
+      {
+        "speaker": "店員",
+        "jp": "一つ１５０円です。三つで４００円ですよ。",
+        "kana": "ひとつ ひゃくごじゅうえん です。 みっつで よんひゃくえん ですよ。",
+        "id": "Satu 150 yen. Kalau tiga 400 yen lho."
+      },
+      {
+        "speaker": "男の人",
+        "jp": "じゃあ、三つください。",
+        "kana": "じゃあ、 みっつ ください。",
+        "id": "Kalau begitu, tolong tiga buah."
+      }
+    ],
+    "questions": [
+      {
+        "question": "男の人はいくら払いますか。",
+        "options": [
+          "１５０円",
+          "３００円",
+          "４００円",
+          "４５０円"
+        ],
+        "answer": "４００円",
+        "explanation": "Satu buah apel seharga 150 yen, tetapi ada paket promo tiga buah seharga 400 yen. Karena laki-laki itu membeli tiga buah, dia membayar 400 yen."
+      }
+    ]
+  },
+  {
+    "id": "listen-n5-08",
+    "level": "N5",
+    "scenario": "Di perpustakaan",
+    "transcript": [
+      {
+        "speaker": "男の人",
+        "jp": "すみません、この本はいつまで借りることができますか。",
+        "kana": "すみません、 この ほんは いつまで かりることが できますか。",
+        "id": "Permisi, buku ini bisa dipinjam sampai kapan?"
+      },
+      {
+        "speaker": "司書",
+        "jp": "二週間借りることができますよ。",
+        "kana": "にしゅうかん かりることが できますよ。",
+        "id": "Bisa dipinjam selama dua minggu."
+      },
+      {
+        "speaker": "男の人",
+        "jp": "今日は６月１日ですね。わかりました。",
+        "kana": "きょうは ろくがつ ついたち ですね。 わかりました。",
+        "id": "Hari ini 1 Juni ya. Baik."
+      }
+    ],
+    "questions": [
+      {
+        "question": "本はいつまでに返さなければなりませんか。",
+        "options": [
+          "６月２日",
+          "６月８日",
+          "６月１５日",
+          "６月３０日"
+        ],
+        "answer": "６月１５日",
+        "explanation": "Hari ini tanggal 1 Juni dan durasi pinjam adalah 2 minggu (14 hari), jadi batas pengembaliannya adalah tanggal 15 Juni."
+      }
+    ]
+  },
+  {
+    "id": "listen-n5-09",
+    "level": "N5",
+    "scenario": "Makanan kesukaan",
+    "transcript": [
+      {
+        "speaker": "女の人",
+        "jp": "山田さんはどんな食べ物が好きですか。",
+        "kana": "やまださんは どんな たべものが すきですか。",
+        "id": "Yamada-san suka makanan apa?"
+      },
+      {
+        "speaker": "山田",
+        "jp": "私は肉が好きです。特に牛肉が好きです。魚はあまり好きではありません。",
+        "kana": "わたしは にくが すきです。 とくに ぎゅうにくが すきです。 さかなは あまり すきでは ありません。",
+        "id": "Saya suka daging. Terutama daging sapi. Saya tidak begitu suka ikan."
+      },
+      {
+        "speaker": "女の人",
+        "jp": "そうですか。今日の晩ご飯はすき焼きにしましょう。",
+        "kana": "そうですか。 きょうの ばんごはんは すきやきに しましょう。",
+        "id": "Begitu ya. Makan malam hari ini kita makan sukiyaki saja."
+      }
+    ],
+    "questions": [
+      {
+        "question": "山田さんは何が好きですか。",
+        "options": [
+          "魚",
+          "野菜",
+          "牛肉",
+          "果物"
+        ],
+        "answer": "牛肉",
+        "explanation": "Yamada menyebutkan bahwa dia sangat menyukai daging, khususnya daging sapi ('特に牛肉が好きです')."
+      }
+    ]
+  },
+  {
+    "id": "listen-n5-10",
+    "level": "N5",
+    "scenario": "Janjian nonton bioskop",
+    "transcript": [
+      {
+        "speaker": "男の人",
+        "jp": "サクラさん、今週の土曜日に一緒に映画を見に行きませんか。",
+        "kana": "サクラさん、 こんしゅうの どようびに いっしょに えいがを みに いきませんか。",
+        "id": "Sakura-san, maukah pergi menonton film bersama Sabtu ini?"
+      },
+      {
+        "speaker": "サクラ",
+        "jp": "土曜日ですか。すみません、土曜日はアルバイトがあります。日曜日なら大丈夫です。",
+        "kana": "どようび ですか。 すみません、 どようびは アルバイトが あります。 にちようびなら だいじょうぶです。",
+        "id": "Hari Sabtu ya? Maaf, Sabtu saya ada kerja sambilan. Kalau Minggu tidak apa-apa."
+      },
+      {
+        "speaker": "男の人",
+        "jp": "じゃあ、日曜日にしましょう。新宿駅で１時に会いましょう。",
+        "kana": "じゃあ、 にちようびに しましょう。 しんじゅくえきで いちじに あいましょう。",
+        "id": "Kalau begitu, mari hari Minggu saja. Mari bertemu di stasiun Shinjuku jam 1."
+      }
+    ],
+    "questions": [
+      {
+        "question": "二人はいつ会いますか。",
+        "options": [
+          "土曜日の１時",
+          "日曜日の１時",
+          "土曜日の２時",
+          "日曜日の２時"
+        ],
+        "answer": "日曜日の１時",
+        "explanation": "Sakura tidak bisa hari Sabtu karena ada kerja part-time, sehingga mereka sepakat bertemu hari Minggu jam 1 siang ('日曜日の１時に会いましょう')."
+      }
+    ]
+  },
+  {
+    "id": "listen-n5-11",
+    "level": "N5",
+    "scenario": "Di dalam kelas",
+    "transcript": [
+      {
+        "speaker": "教師",
+        "jp": "みなさん、今日の宿題は教科書の５０ページから５２ページまでです。明日持ってきてください。",
+        "kana": "みなさん、 きょうの しゅくだいは きょうかしょの ごじゅっぺーじから ごじゅうにぺーじ までです。 あした もってきて ください。",
+        "id": "Semuanya, PR hari ini adalah dari halaman 50 sampai 52 di buku cetak. Tolong bawa besok."
+      },
+      {
+        "speaker": "生徒",
+        "jp": "先生、５３ページはやりませんか。",
+        "kana": "せんせい、 ごじゅうさんぺーじは やりませんか。",
+        "id": "Guru, halaman 53 tidak dikerjakan?"
+      },
+      {
+        "speaker": "教師",
+        "jp": "はい、そこは来週やりますから、やらなくてもいいです。",
+        "kana": "はい、 そこは らいしゅう やりますから、 やらなくても いいです。",
+        "id": "Ya, karena bagian itu akan dikerjakan minggu depan, tidak usah dikerjakan."
+      }
+    ],
+    "questions": [
+      {
+        "question": "今日の宿題はどこですか。",
+        "options": [
+          "５０ページから５２ページまで",
+          "５０ページから５３ページまで",
+          "５３ページだけ",
+          "宿題はありません"
+        ],
+        "answer": "５０ページから５２ページまで",
+        "explanation": "Guru mengumumkan bahwa PR-nya adalah halaman 50 sampai 52 ('５０ページから５２ページまで'), sedangkan halaman 53 tidak perlu dikerjakan karena untuk minggu depan."
+      }
+    ]
+  },
+  {
+    "id": "listen-n5-12",
+    "level": "N5",
+    "scenario": "Di toko sepatu",
+    "transcript": [
+      {
+        "speaker": "男の人",
+        "jp": "すみません、この黒い靴は２６センチのはありますか。",
+        "kana": "すみません、 この くろい くつは にじゅうろくせんちのは ありますか。",
+        "id": "Permisi, apakah sepatu hitam ini ada yang ukuran 26 cm?"
+      },
+      {
+        "speaker": "店員",
+        "jp": "はい、ありますよ。少々お待ちください。",
+        "kana": "はい、 ありますよ。 しょうしょう おまちください。",
+        "id": "Ya, ada. Tolong tunggu sebentar."
+      },
+      {
+        "speaker": "男の人",
+        "jp": "じゃあ、それを試着させてください。",
+        "kana": "じゃあ、 それを ししゃく させてください。",
+        "id": "Kalau begitu, tolong izinkan saya mencobanya."
+      }
+    ],
+    "questions": [
+      {
+        "question": "男の人は何を頼みましたか。",
+        "options": [
+          "靴を買うこと",
+          "２６センチの黒い靴を履いてみること",
+          "青い靴を見ること",
+          "別の店に行くこと"
+        ],
+        "answer": "２６センチ of 黒い靴を履いてみること",
+        "explanation": "Laki-laki tersebut meminta izin untuk mencoba menggunakan sepatu hitam berukuran 26 cm tersebut ('それを試着させてください')."
+      }
+    ]
+  },
+  {
+    "id": "listen-n5-13",
+    "level": "N5",
+    "scenario": "Membeli buah di toko buah",
+    "transcript": [
+      {
+        "speaker": "男の人",
+        "jp": "すみません、このバナナは一房いくらですか。",
+        "kana": "すみません、 この バナナは ひとふさ いくらですか。",
+        "id": "Permisi, pisang ini satu sisir harganya berapa?"
+      },
+      {
+        "speaker": "店員",
+        "jp": "それは３５０円です。あちらの小さいのは２００円ですよ。",
+        "kana": "それは さんびゃくごじゅうえん です。 あちらの ちいさいのは にひゃくえん ですよ。",
+        "id": "Itu 350 yen. Yang kecil di sebelah sana 200 yen lho."
+      },
+      {
+        "speaker": "男の人",
+        "jp": "じゃあ、その２００円のを一つください。",
+        "kana": "じゃあ、 その にひゃくえんのを ひとつ ください。",
+        "id": "Kalau begitu, tolong beri saya yang 200 yen satu."
+      }
+    ],
+    "questions": [
+      {
+        "question": "男の人はどのバナナを買いましたか。",
+        "options": [
+          "３５０円のバナナ",
+          "２００円の小さいバナナ",
+          "両方のバナナ",
+          "何も買わなかった"
+        ],
+        "answer": "２００円の小さいバナナ",
+        "explanation": "Laki-laki itu memilih membeli pisang ukuran kecil yang seharga 200 yen ('その２００円のを一つください')."
+      }
+    ]
+  },
+  {
+    "id": "listen-n5-14",
+    "level": "N5",
+    "scenario": "Membicarakan rencana besok",
+    "transcript": [
+      {
+        "speaker": "男の人",
+        "jp": "田中さん、明日は日曜日ですね。どこかへ行きますか。",
+        "kana": "たなかさん、 あしたは にちようび ですね。 どこかへ いきますか。",
+        "id": "Tanaka-san, besok hari Minggu ya. Pergi ke suatu tempat?"
+      },
+      {
+        "speaker": "田中",
+        "jp": "いいえ、明日は家でゆっくり休みます。月曜日からまた忙しいですから。",
+        "kana": "いいえ、 あしたは いえで ゆっくり やすみます。 げつようびから また いそがしい ですから。",
+        "id": "Tidak, besok saya akan istirahat santai di rumah. Karena mulai hari Senin akan sibuk lagi."
+      },
+      {
+        "speaker": "男の人",
+        "jp": "そうですか。私は友達と映画を見に行きます。",
+        "kana": "そうですか。 わたしは ともだちと えいがを みに いきます。",
+        "id": "Begitu ya. Saya akan pergi menonton film bersama teman."
+      }
+    ],
+    "questions": [
+      {
+        "question": "田中さんは明日何をしますか。",
+        "options": [
+          "友達と映画を見る",
+          "家で休む",
+          "会社で働く",
+          "買い物に行く"
+        ],
+        "answer": "家で休む",
+        "explanation": "Tanaka menerangkan bahwa rencananya besok di hari Minggu adalah beristirahat santai di rumah saja ('明日は家でゆっくり休みます')."
+      }
+    ]
+  },
+  {
+    "id": "listen-n5-15",
+    "level": "N5",
+    "scenario": "Di kamar tidur",
+    "transcript": [
+      {
+        "speaker": "娘",
+        "jp": "お母さん、私の青いペンはどこにあるか知ってる？",
+        "kana": "おかあさん、 わたしの あおい ペンは どこに あるか しってる？",
+        "id": "Ibu, tahu tidak pulpen biru saya ada di mana?"
+      },
+      {
+        "speaker": "母親",
+        "jp": "あなたの机の引き出しの中にあるんじゃない？",
+        "kana": "あなたの つくえの ひきだしの なかに あるんじゃない？",
+        "id": "Bukannya ada di laci mejamu?"
+      },
+      {
+        "speaker": "娘",
+        "jp": "引き出しの中にはないよ。あ、本棚の上にあった！",
+        "kana": "ひきだしの なかには ないよ。 あ、 ほんだなの うえに あった！",
+        "id": "Di dalam laci tidak ada. Oh, ternyata ada di atas rak buku!"
+      }
+    ],
+    "questions": [
+      {
+        "question": "青いペンはどこにありましたか。",
+        "options": [
+          "机の上",
+          "引き出しの中",
+          "本棚の上",
+          "ベッドの下"
+        ],
+        "answer": "本棚の上",
+        "explanation": "Pulpen biru milik anak tersebut ditemukan di bagian atas rak buku ('本棚の上にあった')."
+      }
+    ]
+  },
+  {
+    "id": "listen-n5-16",
+    "level": "N5",
+    "scenario": "Membicarakan binatang peliharaan",
+    "transcript": [
+      {
+        "speaker": "男の人",
+        "jp": "木村さんは猫を飼っていますか。",
+        "kana": "きむらはん は ねこを かっていますか。",
+        "id": "Kimura-san, apakah kamu memelihara kucing?"
+      },
+      {
+        "speaker": "木村",
+        "jp": "いいえ、私は犬を飼っています。白い小さな犬です。猫は姉が飼っていますよ。",
+        "kana": "いいえ、 わたしは いぬを かっています。 しろい ちいさな いぬです。 ねこは あねが かっていますよ。",
+        "id": "Tidak, saya memelihara anjing. Anjing kecil berwarna putih. Kakak perempuan saya memelihara kucing lho."
+      },
+      {
+        "speaker": "男の人",
+        "jp": "そうですか。私も犬が欲しいです。",
+        "kana": "そうですか。 わたしも いぬが ほしいです。",
+        "id": "Begitu ya. Saya juga ingin anjing."
+      }
+    ],
+    "questions": [
+      {
+        "question": "木村さんは何を飼っていますか。",
+        "options": [
+          "白い小さな犬",
+          "黒い猫",
+          "犬と猫の両方",
+          "何も飼っていない"
+        ],
+        "answer": "白い小さな犬",
+        "explanation": "Kimura menjelaskan bahwa ia memelihara seekor anjing kecil yang berwarna putih ('私は犬を飼っています。白い小さな犬です')."
+      }
+    ]
+  },
+  {
+    "id": "listen-n5-17",
+    "level": "N5",
+    "scenario": "Di kafe / Memesan minuman",
+    "transcript": [
+      {
+        "speaker": "店員",
+        "jp": "いらっしゃいませ。ご注文はお決まりですか。",
+        "kana": "いらっしゃいませ。 ごちゅうもんは おきまりですか。",
+        "id": "Selamat datang. Apakah sudah menentukan pesanan?"
+      },
+      {
+        "speaker": "男の人",
+        "jp": "ホットコーヒーを二つと、アイスティーを一つください。",
+        "kana": "ほっとこーひーを ふたつと、 あいすてぃーを ひとつ ください。",
+        "id": "Tolong kopi panas dua dan teh es satu."
+      },
+      {
+        "speaker": "店員",
+        "jp": "かしこまりました。コーヒー二つとアイスティー一つですね。",
+        "kana": "かしこまりました。 こーひー ふたつと あいすてぃー ひとつですね。",
+        "id": "Baik. Dua kopi dan satu teh es ya."
+      }
+    ],
+    "questions": [
+      {
+        "question": "男の人は luxury な飲み物をいくつ注文しましたか。ではなく、男の人は飲み物をいくつ注文しましたか。",
+        "options": [
+          "２つ",
+          "３つ",
+          "４つ",
+          "５つ"
+        ],
+        "answer": "３つ",
+        "explanation": "Pria tersebut memesan 2 kopi panas dan 1 teh es, sehingga total pesanan minumannya adalah 3 gelas ('ホットコーヒーを二つと、アイスティーを一つ')."
+      }
+    ]
+  }
+]

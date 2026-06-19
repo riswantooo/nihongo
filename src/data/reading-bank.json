@@ -1,0 +1,1345 @@
+[
+  {
+    "id": "read-n4-01",
+    "level": "N4",
+    "title": "手紙 (Surat)",
+    "passage": [
+      {
+        "jp": "田中さん、お元気ですか。私は今、京都に住んでいます。京都は古いお寺がたくさんあって、とても静かな町です。",
+        "kana": "たなかさん、 おげんきですか。 わたしは いま、 きょうとに すんでいます。 きょうとは ふるい おてらが たくさん あって、 とても しずかな まち です。",
+        "id": "Tanaka-san, apakah Anda sehat? Saya sekarang tinggal di Kyoto. Kyoto adalah kota yang sangat sepi dan memiliki banyak kuil tua."
+      },
+      {
+        "jp": "来週の日曜日に、友達と映画を見に行くつもりです。田中さんも時間が合えば、一緒にどうですか。お返事を待っています。",
+        "kana": "らいしゅうの にちようびに、 ともだちと えいがを みにいく つもりです。 たなかさんも じかんが あえば、 いっしょに どうですか。 おへんじを まっています。",
+        "id": "Hari Minggu minggu depan, saya berencana pergi menonton film bersama teman. Jika Tanaka-san punya waktu yang pas, bagaimana kalau (pergi) bersama? Saya menunggu balasannya."
+      }
+    ],
+    "questions": [
+      {
+        "question": "手紙を書いた人は今どこに住んでいますか。",
+        "options": [
+          "東京",
+          "京都",
+          "大阪",
+          "古いお寺"
+        ],
+        "answer": "京都",
+        "explanation": "Penulis surat mengatakan '私は今、京都に住んでいます' (Saya sekarang tinggal di Kyoto)."
+      },
+      {
+        "question": "手紙を書いた人は、田中さんに何をしてほしいですか。",
+        "options": [
+          "京都に住んでほしい",
+          "お寺を見てほしい",
+          "一緒に映画を見てほしい",
+          "日曜日を休んでほしい"
+        ],
+        "answer": "一緒に映画を見てほしい",
+        "explanation": "Penulis mengajak '一緒にどうですか' setelah menyebutkan akan pergi menonton film."
+      }
+    ]
+  },
+  {
+    "id": "read-n4-02",
+    "level": "N4",
+    "title": "メール：パーティーの招待 (Email: Undangan Pesta)",
+    "passage": [
+      {
+        "jp": "田中さんへ\n来週の土曜日に、私の家でパーティーをします。午後６時から始まります。飲み物は私が買っておきますが、食べ物は自分の好きな物を持ってきてください。山田さんも来ますよ。来ることができるかどうか、木曜日までに教えてください。",
+        "kana": "たなかさんへ\nらいしゅうの どようびに、 わたしの いえで パーティーを します。 ごご ろくじから はじまります。 のみものは わたしが かっておきますが、 たべものは じぶんの すきなものを もってきて ください。 やまださんも きますよ。 くる ことが できるか どうか、 もくようび までに おしえて ください。",
+        "id": "Kepada Tanaka\nHari Sabtu minggu depan, saya akan mengadakan pesta di rumah saya. Mulai dari jam 6 sore. Minuman sudah akan saya belikan, tetapi untuk makanan tolong bawa sendiri barang yang kalian suka. Yamada juga akan datang lho. Beritahu saya paling lambat hari Kamis apakah bisa datang atau tidak."
+      }
+    ],
+    "questions": [
+      {
+        "question": "パーティーに行く人は何を持って行かなければなりませんか。",
+        "options": [
+          "飲み物",
+          "食べ物",
+          "飲み物と食べ物",
+          "何も持って行かなくてもいいです"
+        ],
+        "answer": "食べ物",
+        "explanation": "Pengirim pesan berkata '食べ物は自分の好きな物を持ってきてください' (Tolong bawa makanan kesukaan sendiri)."
+      },
+      {
+        "question": "田中さんはいつまでに返事をしなければなりませんか。",
+        "options": [
+          "土曜日まで",
+          "木曜日まで",
+          "今日まで",
+          "来週まで"
+        ],
+        "answer": "木曜日まで",
+        "explanation": "Di kalimat terakhir tertulis '木曜日までに教えてください' (Beritahu saya paling lambat hari Kamis)."
+      }
+    ]
+  },
+  {
+    "id": "read-n4-03",
+    "level": "N4",
+    "title": "私の趣味 (Hobi Saya)",
+    "passage": [
+      {
+        "jp": "私の趣味は旅行です。先月、一人で京都へ行きました。京都には古いお寺がたくさんあります。一日目に金閣寺を見に行きました。とても綺麗でした。",
+        "kana": "わたしの しゅみは りょこうです。 せんげつ、 ひとりで きょうとへ いきました。 きょうとには ふるい おてらが たくさん あります。 いちにちめに きんかくじを みに いきました。 とても きれいでした。",
+        "id": "Hobi saya adalah jalan-jalan. Bulan lalu, saya pergi ke Kyoto sendirian. Di Kyoto ada banyak kuil Buddha yang kuno. Di hari pertama saya pergi melihat Kinkakuji. Sangat indah."
+      },
+      {
+        "jp": "二日目は着物を着て、町を歩きました。外国人がたくさんいて、英語で道をよく聞かれました。疲れたけれど、楽しかったです。来年は北海道に行きたいと思っています。",
+        "kana": "ふつかめは きものを きて、 まちを あるきました。 がいこくじんが たくさん いて、 えいごで みちを よく きかれました。 つかれたけれど、 たのしかったです。 らいねんは ほっかいどうに いきたいと おもっています。",
+        "id": "Hari kedua saya memakai kimono dan berjalan di kota. Ada banyak orang asing, saya sering ditanyai jalan dalam bahasa Inggris. Memang lelah, tapi menyenangkan. Tahun depan saya berencana ingin pergi ke Hokkaido."
+      }
+    ],
+    "questions": [
+      {
+        "question": "この人は京都で何をしましたか。",
+        "options": [
+          "一日目に着物を着ました",
+          "二日目に金閣寺に行きました",
+          "外国人に道を教えました",
+          "外国人と英語を勉強しました"
+        ],
+        "answer": "外国人に道を教えました",
+        "explanation": "Teks berbunyi '外国人がたくさんいて、英語で道をよく聞かれました' (Banyak orang asing, saya ditanyai jalan dalam bahasa inggris). Ini mengimplikasikan dia memberitahu/menunjukkan jalan."
+      },
+      {
+        "question": "この人は来年どこへ行くつもりですか。",
+        "options": [
+          "京都",
+          "北海道",
+          "外国",
+          "お寺"
+        ],
+        "answer": "北海道",
+        "explanation": "Kalimat terakhir: '来年は北海道に行きたいと思っています' (Tahun depan berencana ingin ke Hokkaido)."
+      }
+    ]
+  },
+  {
+    "id": "read-n4-04",
+    "level": "N4",
+    "title": "病院の注意書き (Peringatan Rumah Sakit)",
+    "passage": [
+      {
+        "jp": "薬の飲み方\n・一日三回、朝・昼・晩のご飯のあとに飲んでください。\n・もし、熱が下がったら、白い薬は飲まないでください。\n・お酒と一緒に薬を絶対に飲まないようにしてください。",
+        "kana": "くすりの のみかた\n・いちにち さんかい、 あさ・ひる・ばんの ごはんの あとに のんで ください。\n・もし、 ねつが さがったら、 しろい くすりは のまないで ください。\n・おさけと いっしょに くすりを ぜったいに のまない ように して ください。",
+        "id": "Cara meminum obat\n- Sehari 3 kali, tolong minum sesudah makan pagi, siang, dan malam.\n- Jika demam sudah turun, tolong JANGAN minum obat yang berwarna putih.\n- Tolong pastikan untuk mutlak tidak meminum obat bersama dengan alkohol."
+      }
+    ],
+    "questions": [
+      {
+        "question": "熱がない時、どうしなければなりませんか。",
+        "options": [
+          "薬を全部飲みません",
+          "白い薬を飲みません",
+          "白い薬だけ飲みます",
+          "ご飯のあとに飲みません"
+        ],
+        "answer": "白い薬を飲みません",
+        "explanation": "Aturan kedua: 'もし、熱が下がったら、白い薬は飲まないでください' (Jika demam turun/tidak ada panas, jangan minum obat putih)."
+      }
+    ]
+  },
+  {
+    "id": "read-n4-05",
+    "level": "N4",
+    "title": "雨の日の過ごし方 (Cara Menghabiskan Hari Hujan)",
+    "passage": [
+      {
+        "jp": "私は雨の日が好きではありません。外で遊ぶことができませんし、買い物に行くのも大変だからです。",
+        "kana": "わたしは あめのひが すきでは ありません。 そとで あそぶ ことが できませんし、 かいものに いくのも たいへん だからです。",
+        "id": "Saya tidak suka hari hujan. Karena tidak bisa bermain di luar, dan pergi berbelanja juga sulit."
+      },
+      {
+        "jp": "しかし、雨の日には家でゆっくり本を読むことができます。私は小説が好きで、先週の土曜日も一日中家で小説を読んでいました。最近読んだ本は、とても感動的で少し泣いてしまいました。皆さんは雨の日に何をしますか。",
+        "kana": "しかし、 あめのひには いえで ゆっくり ほんを よむ ことが できます。 わたしは しょうせつが すきで、 せんしゅうの どようびも いちにちじゅう いえで しょうせつを よんでいました。 さいきん よんだ ほんは、 とても かんどうてきで すこし ないて しまいました。 みなさんは あめのひに なにを しますか。",
+        "id": "Namun, di hari hujan kita bisa membaca buku dengan tenang di rumah. Saya suka novel, dan Sabtu minggu lalu saya membaca novel seharian di rumah. Buku yang baru-baru ini saya baca sangat mengharukan dan membuat saya sedikit menangis. Apa yang kalian lakukan di hari hujan?"
+      }
+    ],
+    "questions": [
+      {
+        "question": "筆者が雨の日が好きではない理由は何ですか。",
+        "options": [
+          "本が読めないから",
+          "外で遊べず、買い物も大変だから",
+          "小説がつまらないから",
+          "家が狭いから"
+        ],
+        "answer": "外で遊べず、買い物 juga susah",
+        "explanation": "Penulis menyatakan tidak suka hari hujan karena tidak bisa bermain di luar dan pergi belanja pun menjadi repot ('外で遊ぶことができませんし、買い物に行くのも大変だからです')."
+      },
+      {
+        "question": "先週の土曜日に筆者は何をしましたか。",
+        "options": [
+          "友達と買い物に行った",
+          "家で一日中小説を読んだ",
+          "外で運動をした",
+          "図書館へ本を借りに行った"
+        ],
+        "answer": "家で一日中小説を読んだ",
+        "explanation": "Teks menyatakan pada hari Sabtu lalu ia menghabiskan waktu seharian membaca novel di rumah ('先週の土曜日も一日中家で小説を読んでいました')."
+      }
+    ]
+  },
+  {
+    "id": "read-n4-06",
+    "level": "N4",
+    "title": "健康と運動 (Kesehatan dan Olahraga)",
+    "passage": [
+      {
+        "jp": "健康のために、毎日運動をすることはとても大切です。しかし、忙しくて運動をする時間がない人も多いでしょう。",
+        "kana": "けんこうのために、 まいにち うんどうを することは とても たいせつ です。 しかし、 いそがしくて うんどうを する じかんが ない ひとも おおいでしょう。",
+        "id": "Untuk kesehatan, berolahraga setiap hari adalah hal yang sangat penting. Namun, mungkin banyak juga orang yang sibuk dan tidak punya waktu untuk berolahraga."
+      },
+      {
+        "jp": "私も以前は全く運動をしていませんでしたが、最近は一駅手前で電車を降りて、会社まで歩くようにしています。毎日２０分ほど歩くだけですが、体が軽くなって、風邪もひきにくくなりました。皆さんも少しずつ始めてみませんか。",
+        "kana": "わたしも いぜんは まったく うんどうを していませんでしたが、 さいきんは ひとえきてまえで でんしゃを おりて、 かいしゃまで あるくように しています。 まいにち にじゅっぷんほど あるくだけですが、 からだが かるくなって、 かぜも ひきにくく なりました。 みなさんも すこしずつ はじめて みませんか。",
+        "id": "Saya juga sebelumnya sama sekali tidak berolahraga, tetapi baru-baru ini saya turun dari kereta satu stasiun sebelum stasiun tujuan dan membiasakan berjalan kaki sampai kantor. Hanya berjalan sekitar 20 menit setiap hari, tetapi tubuh menjadi terasa ringan, dan menjadi sulit terkena masuk angin. Tidakkah kalian juga ingin memulainya sedikit demi sedikit?"
+      }
+    ],
+    "questions": [
+      {
+        "question": "筆者は最近どのような運動をしていますか。",
+        "options": [
+          "毎日ジムに通っている",
+          "一駅手前で降りて会社まで歩いている",
+          "週末に走っている",
+          "ヨガを習っている"
+        ],
+        "answer": "一駅手前で降りて会社まで歩いている",
+        "explanation": "Penulis membiasakan turun dari kereta satu stasiun sebelum tujuan lalu berjalan kaki menuju kantor ('一駅手前で電車を降りて、会社まで歩くようにしています')."
+      },
+      {
+        "question": "運動を始めてからどのような変化がありましたか。",
+        "options": [
+          "忙しくなった",
+          "風邪をひきにくくなった",
+          "電車に乗り遅れるようになった",
+          "体が重くなった"
+        ],
+        "answer": "風邪をひきにくくなった",
+        "explanation": "Efek positif setelah berolahraga adalah tubuhnya menjadi ringan dan jadi jarang terkena masuk angin ('体が軽くなって、風邪もひきにくくなりました')."
+      }
+    ]
+  },
+  {
+    "id": "read-n4-07",
+    "level": "N4",
+    "title": "お礼の手紙 (Surat Terima Kasih)",
+    "passage": [
+      {
+        "jp": "山田先生へ\n先週は美味しい夕食にご招待いただき、本当にありがとうございました。先生のご家族と一緒に楽しい時間を過ごすことができて、とても嬉しかったです。",
+        "kana": "やまだせんせいへ\nせんしゅうは おいしい ゆうしょくに ごしょうたい いただき、 ほんとうに ありがとうございました。 せんせいの ごかぞくと いっしょに たのしい じかんを すごす ことが できて、 とても うれしかったです。",
+        "id": "Kepada Guru Yamada\nTerima kasih banyak atas undangan makan malam yang lezat minggu lalu. Saya sangat senang bisa menghabiskan waktu yang menyenangkan bersama keluarga Guru."
+      },
+      {
+        "jp": "奥様の手料理はどれも美味しかったですが、特に日本のカレーは初めてで感動しました。来月、私は国へ帰りますが、日本での素晴らしい思い出を忘れません。先生もお体に気をつけてお過ごしください。\nリーより",
+        "kana": "おくさまの てりょうりは どれも おいしかったですが、 とくに にほんの カレーは はじめてで かんどうしました。 らいげつ、 わたしは くにへ かえりますが、 にほんでの すばらしい おもいでを わすれません。 せんせいも おからだに きをつけて おすごしください。\nリーより",
+        "id": "Masakan istri Guru semuanya enak, tetapi terutama kari Jepang, ini adalah pertama kalinya bagi saya dan saya sangat terkesan. Bulan depan saya akan kembali ke negara saya, tetapi saya tidak akan melupakan kenangan indah di Jepang. Guru juga tolong jaga kesehatan.\nDari Lee"
+      }
+    ],
+    "questions": [
+      {
+        "question": "リーさんはなぜこの手紙を書きましたか。",
+        "options": [
+          "カレーの作り方を聞くため",
+          "夕食の招待へのお礼を言うため",
+          "来月の予定を相談するため",
+          "病気の先生を心配するため"
+        ],
+        "answer": "夕食の招待へのお礼を言うため",
+        "explanation": "Lee menulis surat ini sebagai ucapan terima kasih atas undangan makan malam dari Yamada-sensei ('ご招待いただき、本当にありがとうございました')."
+      },
+      {
+        "question": "リーさんは日本のカレーについてどう言っていますか。",
+        "options": [
+          "あまり好きではなかった",
+          "辛すぎて食べられなかった",
+          "初めて食べて感動した",
+          "国でもよく食べている"
+        ],
+        "answer": "初めて食べて感動した",
+        "explanation": "Lee terkesan dengan rasa kari Jepang yang merupakan pengalaman pertamanya makan hidangan tersebut ('特に日本のカレーは初めてで感動しました')."
+      }
+    ]
+  },
+  {
+    "id": "read-n4-08",
+    "level": "N4",
+    "title": "週末の旅行計画 (Rencana Perjalanan Akhir Pekan)",
+    "passage": [
+      {
+        "jp": "私たちは来週の土曜日に、車で富士山へ行く計画を立てています。朝富士山の近くの温泉に入ってから、美味しい湖の魚を食べる予定です。",
+        "kana": "わたしたちは らいしゅうの どようびに、 くるまで ふじさんへ いく けいかくを たてています。 あさ ふじさんの ちかくの おんせんに はいってから、 おいしい みずうみの さかなを たべる よていです。",
+        "id": "Kami merencanakan pergi ke Gunung Fuji naik mobil hari Sabtu minggu depan. Rencananya adalah mandi di onsen (sumber air panas) dekat Gunung Fuji, lalu makan ikan danau yang lezat."
+      },
+      {
+        "jp": "もし雨が降ったら、富士山には行かないで、横浜の美術館へ行くつもりです。どちらになっても、富士山での旅行は久しぶりなのでとても楽しみにしています。",
+        "kana": "もし あめが ふったら、 ふじさんには いかないで、 よこはまの びじゅつかんへ いく つもりです。 どちらに なっても、 ふじさんでの りょこうは ひさしぶり なので とても たのしみに しています。",
+        "id": "Jika turun hujan, kami berencana tidak pergi ke Gunung Fuji melainkan pergi ke museum seni di Yokohama. Manapun jadinya, karena ini perjalanan setelah sekian lama, saya sangat menantikannya."
+      }
+    ],
+    "questions": [
+      {
+        "question": "雨が降ったら、二人はどこへ行きますか。",
+        "options": [
+          "富士山",
+          "温泉",
+          "横浜の美術館",
+          "湖"
+        ],
+        "answer": "横浜の美術館",
+        "explanation": "Teks menyatakan apabila hari hujan rencana dialihkan ke museum seni di Yokohama ('もし雨が降ったら...横浜の美術館へ行くつもりです')."
+      }
+    ]
+  },
+  {
+    "id": "read-n4-09",
+    "level": "N4",
+    "title": "日本の寿司 (Sushi Jepang)",
+    "passage": [
+      {
+        "jp": "寿司は日本を代表する料理として、世界中で知られています。元々は魚を保存するための方法から始まりました。",
+        "kana": "すしは にほんを だいひょうする りょうりとして、 せかいじゅうで しられています。 もともとは さかなを ほぞんする ための ほうほうから はじまりました。",
+        "id": "Sushi dikenal di seluruh dunia sebagai hidangan perwakilan Jepang. Awal mulanya bermula sebagai metode untuk mengawetkan ikan."
+      },
+      {
+        "jp": "現在の寿司は、酢を混ぜたご飯の上に、新鮮な生の魚やエビなどをのせて食べます。日本では昔、お祝いのときなど特別な日にしか食べられませんでしたが、今は回転寿司などで安く手軽に食べられるようになりました。",
+        "kana": "げんざいの すしは、 すを まぜた ごはんの うえに、 しんせんな なまの さかなや エビなどを のせて たべます。 にほんでは むかし、 おいわいの ときなど とくべつな ひにしか たべられませんでしたが、 いまは かいてんずしなどで やすく てがるに たべられるように なりました。",
+        "id": "Sushi saat ini dimakan dengan menaruh ikan mentah segar atau udang di atas nasi yang dicampur cuka. Dulu di Jepang, sushi hanya dimakan pada hari-hari spesial seperti perayaan, tetapi sekarang sudah bisa dimakan dengan murah dan mudah di restoran sushi berputar."
+      }
+    ],
+    "questions": [
+      {
+        "question": "現在の寿司はどのように作られますか。",
+        "options": [
+          "酢を混ぜたご飯に魚などをのせる",
+          "魚を長期間塩で保存する",
+          "ご飯と魚を煮込んで作る",
+          "パンの上に野菜をのせる"
+        ],
+        "answer": "酢を混ぜたご飯に魚などをのせる",
+        "explanation": "Sesuai penjelasan teks: '現在の寿司は、酢を混ぜたご飯の上に、新鮮な生の魚やエビなどをのせて食べます'."
+      },
+      {
+        "question": "昔と今の寿司の違いについて、正しいものはどれですか。",
+        "options": [
+          "昔の方が安く食べられた",
+          "今は特別な日にしか食べられない",
+          "昔は特別な日だけ、今は安く手軽に食べられる",
+          "昔も今も全く変わらない"
+        ],
+        "answer": "昔は特別な日だけ、今は安く手軽に食べられる",
+        "explanation": "Dulu dimakan hanya pada momen perayaan spesial, namun sekarang siapa saja bisa menikmatinya dengan harga murah dan mudah berkat adanya restoran sushi berputar (kaitenzushi)."
+      }
+    ]
+  },
+  {
+    "id": "read-n4-10",
+    "level": "N4",
+    "title": "インターネットと生活 (Internet dan Kehidupan)",
+    "passage": [
+      {
+        "jp": "インターネットの普及によって、私たちの生活はとても便利になりました。スマートフォンを使えば、いつでもどこでもニュースを読んだり、買い物をしたりできます。",
+        "kana": "インターネットの ふきゅうによって、 わたしたちの せいかつは とても べんりになりました。 スマートフォンを つかえば、 いつでも どこでも ニュースを よんだり、 かいものを したり できます。",
+        "id": "Dengan penyebaran internet, kehidupan kita menjadi sangat nyaman. Jika menggunakan smartphone, kapan saja dan di mana saja kita bisa membaca berita atau berbelanja."
+      },
+      {
+        "jp": "しかし、便利になった一方で、スマートフォンの使いすぎによる睡眠不足や、インターネット上の嘘の情報に騙されるといった問題も増えています。技術を正しく使う力を身につけることが求められています。",
+        "kana": "しかし、 べんりになった いっぽうで、 スマートフォンの つかいすぎによる すいみんぶそくや、 インターネットじょうの うその じょうほうに だまされるといった もんだいも ふえています。 ぎじゅつを ただしく つかう ちからを みにつける ことが もとめられています。",
+        "id": "Namun, di sisi kenyamanan tersebut, masalah seperti kurang tidur akibat penggunaan smartphone yang berlebihan, atau tertipu oleh informasi palsu di internet juga meningkat."
+      }
+    ],
+    "questions": [
+      {
+        "question": "インターネットが便利になったことで、できるようになったことは何ですか。",
+        "options": [
+          "いつでもどこでもニュースや買い物ができ、顔を見て話せる",
+          "睡眠時間が長くなる",
+          "嘘の情報が完全になくなる",
+          "スマートフォンの使用を禁止する"
+        ],
+        "answer": "いつでもどこでもニュースや買い物ができ、顔を見て話せる",
+        "explanation": "Smartphone membuat kita bisa membaca berita dan belanja dari mana saja dan kapan saja ('いつでもどこでもニュースを読んだり、買い物をしたり...できます')."
+      },
+      {
+        "question": "技術の普及に伴って増えている問題は何ですか。",
+        "options": [
+          "友達との連絡が取れなくなること",
+          "スマートフォンの使いすぎによる睡眠不足や嘘の情報",
+          "本を読む人が増えすぎること",
+          "電車の運休が増えること"
+        ],
+        "answer": "スマートフォンの使いすぎによる睡眠不足や嘘の情報",
+        "explanation": "Teks menyebutkan salah satu dampak negatif internet adalah kurang tidur akibat terlalu lama menggunakan ponsel dan risiko penipuan informasi hoaks ('スマートフォンの使いすぎによる睡眠不足や、インターネット上の嘘の情報に騙される...')."
+      }
+    ]
+  },
+  {
+    "id": "read-n4-11",
+    "level": "N4",
+    "title": "北海道での自転車旅行 (Perjalanan Bersepeda di Hokkaido)",
+    "passage": [
+      {
+        "jp": "私は去年の夏、１週間かけて自転車で北海道を旅行しました。北海道は道が広くて平らな場所が多く、景色も美しいため、サイクリングには最高の場所です。",
+        "kana": "わたしは きょねんの なつ、 いっしゅうかん かけて じてんしゃで ほっかいどうを りょこうしました。 ほっかいどうは みちが ひろくて たいらな ばしょが おおく、 けしきも うつくしいため、 サイクリングには さいこうの ばしょです。",
+        "id": "Musim panas lalu, saya bepergian ke Hokkaido bersepeda selama 1 minggu. Hokkaido memiliki jalan yang lebar, banyak tempat datar, dan pemandangan yang indah, sehingga merupakan tempat terbaik untuk bersepeda."
+      },
+      {
+        "jp": "途中で強い雨が降って大変な日もありましたが、地元の人たちが温かく声をかけてくれたり、美味しい食べ物を紹介してくれたりしたおかげで、無事に走りきることができました。",
+        "kana": "とちゅうで つよい あめが ふって たいへんな ひも ありましたが、 じもとの ひとたちが あたたかく こえを かけてくれたり、 おいしい たべものを しょうかいして くれたりした おかげで、 ぶじに はしりきることが できました。",
+        "id": "Di tengah jalan ada hari yang berat karena hujan lebat, tetapi berkat penduduk setempat yang menyapa dengan ramah dan memperkenalkan makanan enak, saya bisa menyelesaikannya dengan selamat."
+      }
+    ],
+    "questions": [
+      {
+        "question": "筆者が北海道はサイクリングに最高だと思った理由は何ですか。",
+        "options": [
+          "雨が全く降らないから",
+          "道が広くて平らで、景色が美しいから",
+          "自転車が安く買えるから",
+          "人が少なくて静かだから"
+        ],
+        "answer": "道が広くて平らで、景色が美しいから",
+        "explanation": "Alasan utamanya adalah karena jalannya lebar, permukaan tanahnya datar, serta memiliki pemandangan yang sangat indah ('道が広くて平らな場所が多く、景色も美しいため')."
+      }
+    ]
+  },
+  {
+    "id": "read-n4-12",
+    "level": "N4",
+    "title": "日本の温泉文化 (Budaya Onsen Jepang)",
+    "passage": [
+      {
+        "jp": "日本には全国にたくさんの温泉があります。火山が多いため、温かいお湯が自然に湧き出ているのです。昔から温泉は、病気や怪我を治す場所として親しまれてきました。",
+        "kana": "にほんには ぜんこくに たくさんの おんせんが あります。 かざんが おおいため、 あたたかい おゆが しぜんに わきでているのです。 むかしから おんせんは、 びょうきや けがを なおす ばしょとして したしまれてきました。",
+        "id": "Jepang memiliki banyak onsen (pemandian air panas) di seluruh negeri. Karena terdapat banyak gunung berapi, air hangat menyembur secara alami dari bumi. Sejak dulu onsen telah populer sebagai tempat untuk menyembuhkan penyakit dan luka."
+      },
+      {
+        "jp": "温泉に入る前には、必ず体をきれいに洗ってから湯船に入らなければなりません。また、タオルを湯船の中に入れないなど、みんなが気持ちよく使うためのルールがあります。",
+        "kana": "おんせんに はいうまえには、 かならず からだを きれいに あらってから ゆぶねに はいらなければなりません。 また、 タオルを ゆぶねの なかに いれないなど、 みんなが きもちよく つかうための ルールが あります。",
+        "id": "Sebelum masuk ke onsen, Anda harus mencuci tubuh dengan bersih terlebih dahulu sebelum masuk ke kolam pemandian. Selain itu, ada aturan agar semua orang dapat menggunakannya dengan nyaman, seperti tidak memasukkan handuk ke dalam kolam pemandian."
+      }
+    ],
+    "questions": [
+      {
+        "question": "温泉に入る前の正しいマナーはどれですか。",
+        "options": [
+          "タオルを湯船の中で洗う",
+          "先に体をきれいに洗う",
+          "服を着たまま入る",
+          "お湯の中で泳ぐ"
+        ],
+        "answer": "先に体をきれいに洗う",
+        "explanation": "Aturan mandi onsen mengharuskan pembasuhan badan hingga bersih sebelum masuk bak berendam ('必ず体をきれいに洗ってから湯船に入らなければなりません')."
+      },
+      {
+        "question": "日本に温泉が多い地理的な理由は何ですか。",
+        "options": [
+          "火山が多いから",
+          "雨がたくさん降るから",
+          "海に囲まれているから",
+          "山が低いから"
+        ],
+        "answer": "火山が多いから",
+        "explanation": "Banyaknya onsen disebabkan karena struktur geografi Jepang memiliki banyak gunung berapi ('火山が多いため')."
+      }
+    ]
+  },
+  {
+    "id": "read-n4-13",
+    "level": "N4",
+    "title": "長寿の国、日本 (Jepang, Negara Berumur Panjang)",
+    "passage": [
+      {
+        "jp": "日本は世界で最も平均寿命が長い国の一つとして知られています。その理由には、健康的な食生活や医療制度の充実が挙げられます。",
+        "kana": "にほんは せかいで もっとも へいきんじゅみょうが ながい くにの ひとつとして しられています。 その りゆうには、 けんこうてきな しょくせいかつや いりょうせいどの じゅうじつが あげられます。",
+        "id": "Jepang dikenal sebagai salah satu negara dengan harapan hidup rata-rata tertinggi di dunia. Alasannya meliputi pola makan yang sehat dan sistem medis yang memadai."
+      },
+      {
+        "jp": "伝統的な日本食（和食）は、魚や豆腐、野菜を多く使い、油が少ないため健康に良いとされています。また、多くの高齢者が退職後も活発に活動していることも、長生きの秘诀と言われています。",
+        "kana": "でんとうてきな にほんしょく（わしょく）は、 さかなや とうふ、 やさいを おおく つかい、 あぶらが すくないため けんこうに よいと されています。 また、 おおくの こうれいしゃが たいしょくごも かっぱつに かつどうしていることも、 ながいきの ひけつと いわれています。",
+        "id": "Makanan tradisional Jepang (Washoku) banyak menggunakan ikan, tahu, dan sayuran, serta rendah minyak sehingga dianggap baik untuk kesehatan. Selain itu, rahasia umur panjang lainnya adalah lansia yang tetap aktif setelah pensiun."
+      }
+    ],
+    "questions": [
+      {
+        "question": "和食が健康に良いとされる理由は何ですか。",
+        "options": [
+          "肉をたくさん使うから",
+          "魚や野菜が多く、油が少ないから",
+          "味がとても濃いから",
+          "外国の食材を多く使うから"
+        ],
+        "answer": "魚や野菜が多く、油が少ないから",
+        "explanation": "Washoku sehat karena menggunakan ikan, tahu, sayuran, dan sedikit minyak ('魚や豆腐、野菜を多く使い、油が少ない')."
+      },
+      {
+        "question": "高齢者の長生きの秘訣として、食事以外に何が挙げられていますか。",
+        "options": [
+          "毎日仕事を続けること",
+          "退職後もアクティブに地域活動や趣味を楽しむこと",
+          "一日中家で寝ていること",
+          "海外旅行に頻繁に行くこと"
+        ],
+        "answer": "退職後もアクティブに地域活動 atau kegiatan lainnya",
+        "explanation": "Lansia di Jepang memiliki rahasia umur panjang karena tetap bergerak aktif bahkan setelah masa pensiun ('多くの高齢者が退職後も活発に活動している')."
+      }
+    ]
+  },
+  {
+    "id": "read-n4-14",
+    "level": "N4",
+    "title": "日本のごみ分別 (Pilah Sampah di Jepang)",
+    "passage": [
+      {
+        "jp": "日本では、ごみを出すときに細かく分別しなければなりません。燃えるごみ、燃えないごみ、プラスチック、缶やペットボトルなどに分けます。地域によってごみを出す曜日や時間が決められており、指定された袋に入れて出します。",
+        "kana": "にほんでは、 ごみを だすときに こまかく ぶんべつ しなければなりません。 もえるごみ、 もえないごみ、 プラスチック、 かんや ペットボトルなどに わけます。 ちいきによって ごみを だす ようびや じかんが きめられており、 していされた ふくろに いれて だします。",
+        "id": "Di Jepang, ketika membuang sampah, kita harus memilahnya secara terperinci. Sampah dipisah menjadi sampah mudah terbakar, sampah tidak mudah terbakar, plastik, kaleng/botol plastik, dll. Hari dan waktu pembuangan ditentukan oleh masing-masing wilayah, dan dibuang menggunakan kantong plastik khusus."
+      },
+      {
+        "jp": "外国から来た人の中には、このルールが複雑で最初は戸惑う人も多いです。しかし、ごみを資源として再利用し、環境を守るためには非常に重要な習慣です。",
+        "kana": "がいこくから きた ひとの なかには、 この ルールが ふくざつで さいしょは とまどう ひとも おおいでの。 しかし、 ごみを しげんとして さいりようし、 かんきょうを まもるためには ひじょうに じゅうような しゅうかんです。",
+        "id": "Beberapa orang asing merasa aturan ini rumit dan bingung di awal. Namun, ini adalah kebiasaan yang sangat penting untuk mendaur ulang sampah sebagai sumber daya dan melindungi lingkungan."
+      }
+    ],
+    "questions": [
+      {
+        "question": "ごみを出すときのルールについて、正しい記述はどれですか。",
+        "options": [
+          "いつでも好きな時に出してよい",
+          "地域で決められた日時と分別方法に従う",
+          "すべてのゴミを一つの袋にまとめる",
+          "ゴミ袋はどんなものを使ってもよい"
+        ],
+        "answer": "地域で決められた日時と分別方法に従う",
+        "explanation": "Pembuangan sampah diatur ketat berdasarkan hari/jam spesifik per wilayah serta jenis kategori sampahnya masing-masing ('地域によってごみを出す曜日や時間が決められており...')."
+      }
+    ]
+  },
+  {
+    "id": "read-n4-15",
+    "level": "N4",
+    "title": "朝のラジオ体操 (Senam Radio Pagi)",
+    "passage": [
+      {
+        "jp": "日本には「ラジオ体操」という習慣があります。毎朝、ラジオから流れる音楽に合わせて行う簡単な体操です。夏休みになると、小学生が近くの公園に集まって行います。",
+        "kana": "にほんには「ラジオたいそう」という しゅうかんが あります。 まいあさ、 ラジオから ながれる おんがくに あわせて おこなう かんたんな たいそう です。 なつやすみに なると、 しょうがくせい が ちかくの こうえんに あつまって おこないます。",
+        "id": "Di Jepang ada kebiasaan yang disebut 'Senam Radio' (Rajio Taisou). Ini adalah senam sederhana yang dilakukan mengikuti musik dari radio setiap pagi. Saat libur musim panas, anak-anak SD berkumpul di taman terdekat dan melakukannya."
+      },
+      {
+        "jp": "この体操は、体を温め、頭をすっきりさせる効果があります。大人にとっても健康を維持するために非常に良い習慣で、多くの会社でも仕事の前に行っています。",
+        "kana": "この たいそうは、 からだを あたため、 あたまを すっきり させる こうか が あります。 おとなに とっても けんこうを いじ するために ひじょうに よい しゅうかんで、 おおくの かいしゃ でも しごとの まえに おこなっています。",
+        "id": "Senam ini berefek menghangatkan tubuh dan menyegarkan pikiran. Bagi orang dewasa pun ini kebiasaan yang sangat baik untuk menjaga kesehatan, dan banyak perusahaan melakukannya sebelum bekerja."
+      }
+    ],
+    "questions": [
+      {
+        "question": "ラジオ体操はいつ行われますか。",
+        "options": [
+          "毎朝",
+          "毎週土曜日の夜",
+          "お昼ご飯のあと",
+          "寝る前"
+        ],
+        "answer": "毎朝",
+        "explanation": "Rajio Taisou dilakukan secara berkala setiap pagi hari ('毎朝、ラジオから流れる音楽に合わせて行う')."
+      },
+      {
+        "question": "ラジオ体操にはどのような効果がありますか。",
+        "options": [
+          "よく眠れるようになる効果",
+          "体を温め、頭をすっきりさせる効果",
+          "英語が上手になる効果",
+          "走るのが速くなる効果"
+        ],
+        "answer": "体を温め、頭をすっきりさせる効果",
+        "explanation": "Senam ini bermanfaat untuk pemanasan fisik serta menyegarkan pikiran di pagi hari ('体を温め、頭をすっきりさせる効果があります')."
+      }
+    ]
+  },
+  {
+    "id": "read-n4-16",
+    "level": "N4",
+    "title": "年賀状の習慣 (Kebiasaan Nengajo)",
+    "passage": [
+      {
+        "jp": "日本では、お正月に「年賀状」という特別なハガキを送る習慣があります。これは、日頃お世話になっている人や友達に、新年の挨拶と感謝を伝えるためのものです。",
+        "kana": "にほんでは、 おしょうがつに「ねんがじょう」という とくべつな ハガキを おくる しゅうかんが あります。 これは、 ひごろ おせわに なっている ひとや ともだちに、 しんねんの あいさつと かんしゃを つたえる ための ものです。",
+        "id": "Di Jepang, ada kebiasaan mengirim kartu pos spesial bernama 'Nengajo' pada tahun baru. Ini ditujukan untuk menyampaikan salam tahun baru dan terima kasih kepada orang-orang yang berjasa sehari-hari atau teman."
+      },
+      {
+        "jp": "年賀状には、その年の干支（動物）のイラストを描いたりします。郵便局は、１月１日の元旦に必ず届くように、１２月中に投函することを呼びかけています。最近はメールやSNSで済ませる人も増えています。",
+        "kana": "ねんがじょうには、 その としの えと（どうぶつ）の イラストを えがいたり します。 ゆうびんきょくは、 いちがつ ついたちの がんたんに かならず とどくように、 じゅうにがつちゅうに とうかん するこを よびかけています。 さいきんは メールや エスエヌエスで すませる ひとも ふえています。",
+        "id": "Di Nengajo, digambar ilustrasi shio (hewan) tahun tersebut. Kantor pos menghimbau agar surat dikirim selama bulan Desember agar pasti tiba pada tanggal 1 Januari (Gantan). Akhir-akhir ini orang yang melakukannya via email atau media sosial meningkat."
+      }
+    ],
+    "questions": [
+      {
+        "question": "年賀状を送る目的は何ですか。",
+        "options": [
+          "誕生日を祝うため",
+          "新年の挨拶と感謝を伝えるため",
+          "プレゼントをねだるため",
+          "仕事を依頼するため"
+        ],
+        "answer": "新年の挨拶と感謝を伝えるため",
+        "explanation": "Tujuan utama pengiriman Nengajo adalah bersilaturahmi dan berterima kasih ('新年の挨拶と感謝を伝えるためのものです')."
+      },
+      {
+        "question": "郵便局はいつ年賀状を出すことを勧めていますか。",
+        "options": [
+          "１月１日になってから",
+          "１２月中",
+          "いつでもよい",
+          "１１月の初め"
+        ],
+        "answer": "１２月中",
+        "explanation": "Kantor pos menyarankan pengiriman dilakukan sepanjang bulan Desember agar surat tersebut tiba tepat pada tanggal 1 Januari ('１２月中に投函することを呼びかけています')."
+      }
+    ]
+  },
+  {
+    "id": "read-n4-17",
+    "level": "N4",
+    "title": "成人式 (Upacara Kedewasaan / Seijin-shiki)",
+    "passage": [
+      {
+        "jp": "日本では、毎年１月の第２月曜日に「成人の日」という国民の祝日があります。この日、２０歳になった若者たちを祝うために、各地の自治体で「成人式」が行われます。",
+        "kana": "にほんでは、 まいとし いちがつの だいにげつようびに「せいじんのひ」という こくみんの しゅくじつが あります。 このひ、 にじゅっさいに なった わかものたちを いわうために、 かくちの じちたいで「せいじんしき」が おこなわれます。",
+        "id": "Di Jepang, setiap hari Senin kedua di bulan Januari ada hari libur nasional yang disebut 'Hari Kedewasaan' (Seijin no Hi). Di hari ini, untuk merayakan para pemuda yang telah berusia 20 tahun, diadakan 'Seijin-shiki' (Upacara Kedewasaan) di berbagai pemerintah daerah."
+      },
+      {
+        "jp": "参加する若者たちは、男性はスーツ、女性は「振袖」という美しい着物を着ることが多いです。式典の後は、久しぶりに会った友達と写真を撮ったり、食事に行ったりします。",
+        "kana": "さんかする わかものたちは、 だんせいは スーツ、 じょせいは「ふりそで」という うつくしい きものを きることが おおいです。 しきてんの あとは、 ひさしぶりに あった ともだちと しゃしんを とったり、 しょくじに いったり します。",
+        "id": "Pemuda yang berpartisipasi biasanya mengenakan jas untuk pria, dan kimono indah bernama 'Furisode' untuk wanita. Setelah upacara, mereka berfoto bersama teman-teman yang sudah lama tidak bertemu atau makan bersama."
+      }
+    ],
+    "questions": [
+      {
+        "question": "成人式は誰のために行われますか。",
+        "options": [
+          "小学生のため",
+          "２０歳になった若者のため",
+          "お年寄りのため",
+          "新入社員のため"
+        ],
+        "answer": "２０歳になった若者のため",
+        "explanation": "Upacara ini ditujukan khusus bagi pemuda yang menginjak usia dewasa yaitu 20 tahun ('２０歳になった若者たちを祝うために')."
+      },
+      {
+        "question": "成人式で多くの女性が着る衣服は何ですか。",
+        "options": [
+          "ドレス",
+          "振袖という着物",
+          "ビジネススーツ",
+          "普段着"
+        ],
+        "answer": "振袖という着物",
+        "explanation": "Mayoritas remaja wanita mengenakan pakaian adat kimono formal berjenis Furisode ('女性は「振袖」という美しい着物を着ることが多い')."
+      }
+    ]
+  },
+  {
+    "id": "read-n4-18",
+    "level": "N4",
+    "title": "お辞儀の文化 (Budaya Membungkuk / Ojigi)",
+    "passage": [
+      {
+        "jp": "日本の社会において、「お辞儀」は挨拶や感謝、謝罪を表すための非常に重要なマナーです。人と会ったときだけでなく、お礼を言うときや謝るときにも行います。",
+        "kana": "にほんの しゃかいにおいて、「おじぎ」は あいさつや かんしゃ、 しゃざいを あらわすための ひじょうに じゅうような マナーです。 ひとと あったときだけでなく、 おれいを いうときや あやまるときにも おこないます。",
+        "id": "Di masyarakat Jepang, membungkuk (ojigi) adalah tata krama yang sangat penting untuk mengekspresikan salam, terima kasih, atau permintaan maaf. Dilakukan tidak hanya saat bertemu orang, tetapi juga saat berterima kasih atau meminta maaf."
+      },
+      {
+        "jp": "お辞儀をする角度には意味があり、軽い挨拶では１５度、一般的な挨拶や感謝では３０度、深い謝罪や敬意を表すときは４５度頭を下げます。頭を下げるときは目線も下に落とすのがマナーです。",
+        "kana": "おじぎを する かくどには いみがあり、 かるい あいさつでは じゅうごど、 いっぱんてきな あいさつや かんしゃでは さんじゅうど、 ふかい しゃざいや けいいを あらわすときは よんじゅうごど あたまを さげます。 あたまを さげるときは めせんも したに おとすのが マナーです。",
+        "id": "Sudut membungkuk memiliki arti tersendiri: salam ringan membungkuk 15 derajat, salam umum/terima kasih 30 derajat, dan permintaan maaf mendalam/rasa hormat 45 derajat. Etikanya adalah mengarahkan pandangan mata ke bawah saat membungkuk."
+      }
+    ],
+    "questions": [
+      {
+        "question": "一般的な挨拶や感謝の気持ちを表す場合、何度の角度で頭を下げますか。",
+        "options": [
+          "１５度",
+          "３０度",
+          "４５度",
+          "９０度"
+        ],
+        "answer": "３０度",
+        "explanation": "Untuk kepentingan salam biasa dan mengungkapkan terima kasih, kepala ditundukkan sekitar 30 derajat ('一般的な挨拶や感謝では３０度')."
+      },
+      {
+        "question": "お辞儀をするときの正しい目線はどこですか。",
+        "options": [
+          "相手の顔をじっと見る",
+          "目線も下に落とす",
+          "空を見上げる",
+          "目を閉じる"
+        ],
+        "answer": "目線も下に落とす",
+        "explanation": "Etika menunduk menganjurkan agar pandangan mata ikut diarahkan ke arah bawah ('頭を下げるときは目線も下に落とすのがマナー')."
+      }
+    ]
+  },
+  {
+    "id": "read-n5-01",
+    "level": "N5",
+    "title": "私の一日 (Keseharian Saya)",
+    "passage": [
+      {
+        "jp": "私は毎日７時に起きます。朝ごはんを食べてから、８時に学校へ行きます。学校は９時から３時までです。",
+        "kana": "わたしは まいにち しちじに おきます。 あさごはんを たべてから、 はちじに がっこうへ いきます。 がっこうは くじから さんじまで です。",
+        "id": "Saya setiap hari bangun jam 7. Setelah makan sarapan, jam 8 pergi ke sekolah. Sekolah dari jam 9 sampai jam 3."
+      },
+      {
+        "jp": "学校のあと、図書館で本を読みます。５時ごろ家に帰ります。夜はテレビを見たり、勉強したりします。１１時に寝ます。",
+        "kana": "がっこうの あと、 としょかんで ほんを よみます。 ごじごろ いえに かえります。 よるは テレビを みたり、 べんきょうしたり します。 じゅういちじに ねます。",
+        "id": "Setelah sekolah, saya membaca buku di perpustakaan. Sekitar jam 5 pulang ke rumah. Malam hari menonton TV atau belajar. Jam 11 saya tidur."
+      }
+    ],
+    "questions": [
+      {
+        "question": "この人は何時に学校へ行きますか。",
+        "options": [
+          "７時",
+          "８時",
+          "９時",
+          "３時"
+        ],
+        "answer": "８時",
+        "explanation": "Pada teks disebutkan '８時に学校へ行きます' (jam 8 pergi ke sekolah)."
+      },
+      {
+        "question": "この人は学校のあとで何をしますか。",
+        "options": [
+          "テレビを見ます",
+          "家に帰ります",
+          "本を読みます",
+          "寝ます"
+        ],
+        "answer": "本を読みます",
+        "explanation": "Teks berbunyi '学校のあと、図書館で本を読みます' yang artinya membaca buku di perpustakaan setelah sekolah."
+      }
+    ]
+  },
+  {
+    "id": "read-n5-02",
+    "level": "N5",
+    "title": "休みの日の予定 (Rencana Hari Libur)",
+    "passage": [
+      {
+        "jp": "あしたは日曜日です。私は朝９時に起きます。それから、友達とデパートへ行きます。",
+        "kana": "あしたは にちようびです。 わたしは あさ くじに おきます。 それから、 ともだちと デパートへ いきます。",
+        "id": "Besok adalah hari Minggu. Saya bangun jam 9 pagi. Setelah itu, pergi ke toserba bersama teman."
+      },
+      {
+        "jp": "デパートで新しい靴を買います。昼ごはんはレストランで美味しいラーメンを食べます。午後は公園で写真を撮ります。",
+        "kana": "デパートで あたらしい くつを かいます。 ひるごはんは レストランで おいしい ラーメンを たべます。 ごごは こうえんで しゃしんを とります。",
+        "id": "Membeli sepatu baru di toserba. Makan siang makan ramen yang enak di restoran. Sore harinya memotret di taman."
+      }
+    ],
+    "questions": [
+      {
+        "question": "この人はデパートで何をしますか。",
+        "options": [
+          "靴を買います",
+          "ラーメンを食べます",
+          "写真を撮ります",
+          "友達に会います"
+        ],
+        "answer": "靴を買います",
+        "explanation": "Pada teks disebutkan 'デパートで新しい靴を買います' yang berarti 'Membeli sepatu baru di toserba'."
+      },
+      {
+        "question": "午後、どこへ行きますか。",
+        "options": [
+          "レストラン",
+          "デパート",
+          "公園",
+          "家"
+        ],
+        "answer": "公園",
+        "explanation": "Teks berbunyi '午後は公園で写真を撮ります' yang artinya 'Sore hari memotret di taman (kouen)'."
+      }
+    ]
+  },
+  {
+    "id": "read-n5-03",
+    "level": "N5",
+    "title": "掲示板のお知らせ (Pengumuman Papan Tulis)",
+    "passage": [
+      {
+        "jp": "（お知らせ）\n来週の月曜日は学校が休みです。火曜日はテストがあります。月曜日にしっかり勉強してください。テストは１０時からです。",
+        "kana": "（おしらせ）\nらいしゅうの げつようびは がっこうが やすみです。 かようびは テストが あります。 げつようびに しっかり べんきょうして ください。 テストは じゅうじからです。",
+        "id": "(Pengumuman)\nHari Senin minggu depan sekolah libur. Hari Selasa ada ujian. Tolong belajar dengan rajin di hari Senin. Ujian dimulai dari jam 10."
+      }
+    ],
+    "questions": [
+      {
+        "question": "テストはいつですか。",
+        "options": [
+          "今週の月曜日",
+          "今週の火曜日",
+          "来週の月曜日",
+          "来週の火曜日"
+        ],
+        "answer": "来週の火曜日",
+        "explanation": "Teks menyebutkan '来週の月曜日は...' (Senin minggu depan...), dan kelanjutannya '火曜日はテストがあります' (Selasa ada ujian). Berarti ujiannya Selasa minggu depan."
+      }
+    ]
+  },
+  {
+    "id": "read-n5-04",
+    "level": "N5",
+    "title": "私の家族 (Keluarga Saya)",
+    "passage": [
+      {
+        "jp": "私の家族は４人です。父と母と姉と私です。父は会社員で、毎日朝８時から夜６時まで働いています。",
+        "kana": "わたしのかぞくは よにんです。 ちちとははと あねとわたしです。 ちちはかいしゃいんで、 まいにち あさはちじから よるろくじまで はたらいています。",
+        "id": "Keluarga saya ada 4 orang. Ayah, ibu, kakak perempuan, dan saya. Ayah adalah karyawan perusahaan, bekerja dari jam 8 pagi sampai jam 6 sore setiap hari."
+      },
+      {
+        "jp": "母は家で仕事をしています。姉は大学生で、英語を勉強しています。私たちは猫を１匹飼っています。名前はタマです。とてもかわいいです。",
+        "kana": "はははいえで しごとをしています。 あねはだいがくせいで、 えいごをべんきょうしています。 わたしたちは ねこをいっぴき かっています。 なまえはタマです。 とてもかわいいです。",
+        "id": "Ibu bekerja di rumah. Kakak perempuan adalah mahasiswi, belajar bahasa Inggris. Kami memelihara 1 ekor kucing. Namanya Tama. Sangat lucu."
+      }
+    ],
+    "questions": [
+      {
+        "question": "姉は何をしていますか。",
+        "options": [
+          "会社で働いている",
+          "大学で勉強している",
+          "家で仕事をしている",
+          "猫と遊んでいる"
+        ],
+        "answer": "大学で勉強している",
+        "explanation": "Dalam bacaan disebutkan '姉は大学生で、英語を勉強しています' (Kakak perempuan adalah mahasiswi dan sedang belajar bahasa Inggris)."
+      },
+      {
+        "question": "タマは何ですか。",
+        "options": [
+          "お父さん",
+          "英語の先生",
+          "猫",
+          "会社員"
+        ],
+        "answer": "猫",
+        "explanation": "Pada bagian akhir tertulis bahwa mereka memelihara seekor kucing bernama Tama ('猫を１匹飼っています。名前はタマです')."
+      }
+    ]
+  },
+  {
+    "id": "read-n5-05",
+    "level": "N5",
+    "title": "京都旅行 (Wisata ke Kyoto)",
+    "passage": [
+      {
+        "jp": "私は先週の日曜日に、友達のリーさんと京都へ行きました。東京から京都まで新幹線で行きました。京都は古いお寺がたくさんあって、きれいな町でした。",
+        "kana": "わたしは せんしゅうの にちようびに、 ともだちの リーさんと きょうとへ いきました。 とうきょうから きょうとまで しんかんせんで いきました。 きょうとは ふるい おてらが たくさん あって、 きれいな まち でした。",
+        "id": "Saya minggu lalu hari Minggu pergi ke Kyoto bersama teman saya, Lee. Kami pergi dari Tokyo ke Kyoto naik Shinkansen. Kyoto adalah kota yang indah dan memiliki banyak kuil Buddha tua."
+      },
+      {
+        "jp": "私たちは写真をたくさん撮りました。お昼ご飯は天ぷらを食べました。とてもおいしかったです。夜８時に東京に帰りました。とても楽しかったです。",
+        "kana": "わたしたちは しゃしんを たくさん とりました。 おひるごはんは てんぷらを たべました。 とても おいしかったです。 よるはちじに とうきょうに かえりました。 とても たのしかったです。",
+        "id": "Kami mengambil banyak foto. Makan siangnya kami makan tempura. Sangat enak. Jam 8 malam kami kembali ke Tokyo. Sangat menyenangkan."
+      }
+    ],
+    "questions": [
+      {
+        "question": "二人はどうやって京都へ行きましたか。",
+        "options": [
+          "バス",
+          "電車（新幹線）",
+          "タクシー",
+          "飛行機"
+        ],
+        "answer": "電車（新幹線）",
+        "explanation": "Teks menyebutkan '新幹線で行きました' yang mana Shinkansen merupakan moda transportasi kereta cepat (densha)."
+      },
+      {
+        "question": "お昼ご飯に何を食べましたか。",
+        "options": [
+          "お寿司",
+          "天ぷら",
+          "ラーメン",
+          "カレー"
+        ],
+        "answer": "天ぷら",
+        "explanation": "Teks secara eksplisit menyatakan 'お昼ご飯は天ぷらを食べました' (makan siang makan tempura)."
+      }
+    ]
+  },
+  {
+    "id": "read-n5-06",
+    "level": "N5",
+    "title": "私の部屋 (Kamar Saya)",
+    "passage": [
+      {
+        "jp": "これは私の部屋です。あまり大きくないですが、とてもきれいです。部屋に机とベッドと本棚があります。机の上にパソコンと辞書があります。",
+        "kana": "これは わたしの へや です。 あまり おおきくない ですが、 とても きれい です。 へやに つくえと ベッドと ほんだなが あります。 つくえの うえに パソコンと じしょが あります。",
+        "id": "Ini adalah kamar saya. Tidak begitu besar, tetapi sangat bersih. Di kamar ada meja, kasur, dan rak buku. Di atas meja ada laptop dan kamus."
+      },
+      {
+        "jp": "ベッドの下に大きい箱があります。箱の中に古い服が入っています。壁にカレンダーが貼ってあります。",
+        "kana": "ベッドの したに おおきい はこが あります。 はこの なかに ふるい ふくが はいっています。 かべに カレンダーが はって あります。",
+        "id": "Di bawah kasur ada kotak besar. Di dalam kotak ada baju lama. Di dinding tertempel kalender."
+      }
+    ],
+    "questions": [
+      {
+        "question": "パソコンはどこにありますか。",
+        "options": [
+          "机の上",
+          "ベッドの下",
+          "本棚の中",
+          "箱 segregation"
+        ],
+        "answer": "机の上",
+        "explanation": "Paragraf pertama menyatakan '机の上にパソコンと辞書があります' (di atas meja ada laptop dan kamus)."
+      },
+      {
+        "question": "箱の中に何が入っていますか。",
+        "options": [
+          "辞書",
+          "本",
+          "古い服",
+          "カレンダー"
+        ],
+        "answer": "古い服",
+        "explanation": "Paragraf kedua menyebutkan '箱の中に古い服が入っています' (di dalam kotak terdapat pakaian-pakaian bekas/lama)."
+      }
+    ]
+  },
+  {
+    "id": "read-n5-07",
+    "level": "N5",
+    "title": "誕生日 (Ulang Tahun)",
+    "passage": [
+      {
+        "jp": "昨日は私の誕生日でした。友達のキムさんとサクラさんが私のうちに来ました。キムさんはきれいな花をくれました。",
+        "kana": "きのうは わたしの たんじょうび でした。 ともだちの キムさんと サクラさんが わたしの うちに きました。 キムさんは きれいな はなを くれました。",
+        "id": "Kemarin adalah hari ulang tahun saya. Teman saya, Kim-san dan Sakura-san datang ke rumah saya. Kim-san memberi bunga yang indah."
+      },
+      {
+        "jp": "サクラさんはおいしいケーキを買ってきてくれました。私たちは一緒に歌を歌ったり、ゲームをしたりしました。とても賑やかで楽しかったです。",
+        "kana": "サクラさんは おいしい ケーキを かってきて くれました。 わたしたちは いっしょに うたを うたったり、 ゲームを したり しました。 とても にぎやかで たのしかったです。",
+        "id": "Sakura-san membelikan kue yang enak. Kami menyanyi bersama, bermain game, dsb. Sangat ramai dan menyenangkan."
+      }
+    ],
+    "questions": [
+      {
+        "question": "サクラさんは何をくれましたか。",
+        "options": [
+          "きれいな花",
+          "ゲーム",
+          "おいしいケーキ",
+          "本"
+        ],
+        "answer": "おいしいケーキ",
+        "explanation": "Berdasarkan teks, Sakura membelikan kue yang lezat ('サクラさんはおいしいケーキを買ってきてくれました')."
+      },
+      {
+        "question": "昨日は何をしましたか。",
+        "options": [
+          "一人でケーキを食べた",
+          "みんなで歌を歌ったりゲームをした",
+          "花を買いに行った",
+          "学校へ勉強しに行った"
+        ],
+        "answer": "みんなで歌を歌ったりゲームをした",
+        "explanation": "Teks menyatakan '私たちは一緒に歌を歌ったり、ゲームをしたりしました' (Kami menyanyi bersama dan bermain game)."
+      }
+    ]
+  },
+  {
+    "id": "read-n5-08",
+    "level": "N5",
+    "title": "私の趣味 (Hobi Saya)",
+    "passage": [
+      {
+        "jp": "私の趣味は本を読むことです。特に日本の小説が好きです。私は毎週土曜日に図書館へ行って、本を３冊借ります。",
+        "kana": "わたしのしゅみは ほんをよむことです。 とくに にほんのしょうせつが すきです。 わたしは まいしゅう どようびに としょかんへ いって、 ほんをさんさつ かります。",
+        "id": "Hobi saya adalah membaca buku. Terutama menyukai novel Jepang. Saya pergi ke perpustakaan setiap hari Sabtu untuk meminjam 3 buah buku."
+      },
+      {
+        "jp": "日曜日に家で音楽を聞きながら読みます。先週読んだ本はとても面白かったです。来週もまた新しい本を借りに行きます。",
+        "kana": "にちようびに いえで おんがくを ききながら よみます。 せんしゅう よんだ ほんは とても おもしろかったです。 らいしゅうも また あたらしい ほんを かりに いきます。",
+        "id": "Saya membacanya di hari Minggu sambil mendengarkan musik di rumah. Buku yang dibaca minggu lalu sangat menarik. Minggu depan saya akan pergi meminjam buku baru lagi."
+      }
+    ],
+    "questions": [
+      {
+        "question": "座右の銘は何ですか。ではなく、筆者は毎週土曜日に何をしますか。",
+        "options": [
+          "映画を見に行く",
+          "図書館へ行って本を借りる",
+          "家で音楽を聞く",
+          "小説を書く"
+        ],
+        "answer": "図書館へ行って本を借りる",
+        "explanation": "Dalam teks disebutkan '私は毎週土曜日に図書館へ行って、本を３冊借ります' (pergi ke perpustakaan dan meminjam buku)."
+      },
+      {
+        "question": "本はいつ読みますか。",
+        "options": [
+          "土曜日",
+          "日曜日",
+          "毎日",
+          "来週"
+        ],
+        "answer": "日曜日",
+        "explanation": "Penulis menjelaskan bahwa ia membaca bukunya pada hari Minggu ('日曜日に家で音楽を聞きながら読みます')."
+      }
+    ]
+  },
+  {
+    "id": "read-n5-09",
+    "level": "N5",
+    "title": "花屋の仕事 (Pekerjaan Toko Bunga)",
+    "passage": [
+      {
+        "jp": "私は花屋で働いています。店は朝９時から夜７時まで開いています。赤いバラや黄色いひまわりなど、いろいろな花があります。",
+        "kana": "わたしは はなやで はたらいています。 みせは あさきゅうじから よるしちじまで あいています。 あかい バラや きいろい ひまわりなど、 いろいろな はなが あります。",
+        "id": "Saya bekerja di toko bunga. Toko buka dari jam 9 pagi sampai jam 7 malam. Ada berbagai macam bunga seperti mawar merah, bunga matahari kuning, dll."
+      },
+      {
+        "jp": "毎日たくさんのお客さんが来ます。母の日の前日はとても忙しいです。花を売る仕事は大変ですが、お客さんが喜んでくれるので嬉しいです。",
+        "kana": "まいにち たくさんの おきゃくさんが きます。 ははのひの ぜんじつは とても いそがしいです。 はなを うる しごとは たいへんですが、 おきゃくさんが よろこんで くれるので うれしいです。",
+        "id": "Menjual bunga adalah pekerjaan yang berat, tetapi saya senang karena pelanggan merasa gembira."
+      }
+    ],
+    "questions": [
+      {
+        "question": "店は何時に閉まりますか。",
+        "options": [
+          "朝９時",
+          "昼１２時",
+          "午後５時",
+          "夜７時"
+        ],
+        "answer": "夜７時",
+        "explanation": "Toko buka dari jam 9 pagi sampai jam 7 malam ('夜７時まで開いています'), sehingga tutup pada jam 7 malam."
+      },
+      {
+        "question": "いつ一番忙しいですか。",
+        "options": [
+          "毎日",
+          "母の日の前日",
+          "朝の９時",
+          "日曜日"
+        ],
+        "answer": "母の日の前日",
+        "explanation": "Teks menerangkan bahwa hari yang paling sibuk adalah sehari sebelum Hari Ibu ('母の日の前日はとても忙しいです')."
+      }
+    ]
+  },
+  {
+    "id": "read-n5-10",
+    "level": "N5",
+    "title": "私の犬 (Anjing Saya)",
+    "passage": [
+      {
+        "jp": "私は犬を飼っています。名前はポチです。白い犬で、耳が茶色いです。ポチは毎日朝と夕方に散歩に行きます。走るのがとても速いです。",
+        "kana": "わたしは いぬを かっています。 なまえは ポチです。 しろい いぬで、 みみが ちゃいろいです。 ポチは まいにち あさと ゆうがたに さんぽに いきます。 はしるのが とても はやいです。",
+        "id": "Saya memelihara anjing. Namanya Pochi. Anjing berwarna putih, dengan telinga cokelat. Pochi berjalan-jalan setiap hari pagi dan sore. Berlarinya sangat cepat."
+      },
+      {
+        "jp": "私のことが大好きで、私が学校から帰ると、嬉しそうに走ってきます。ポチは私の家族です。",
+        "kana": "わたしの ことが だいすきで、 わたしが がっこうから かえると、 うれしそうに はしってきます。 ポチは わたしの かぞくです。",
+        "id": "Dia sangat menyukai saya, dan ketika saya pulang dari sekolah, dia berlari menyongsong dengan gembira. Pochi adalah keluarga saya."
+      }
+    ],
+    "questions": [
+      {
+        "question": "ポチはどんな犬ですか。",
+        "options": [
+          "全部茶色い犬",
+          "白くて耳が茶色い犬",
+          "黒い犬",
+          "とても大きい犬"
+        ],
+        "answer": "白くて耳が茶色い犬",
+        "explanation": "Dalam teks disebutkan deskripsi Pochi adalah anjing putih dengan telinga yang berwarna cokelat ('白い犬で、耳が茶色いです')."
+      }
+    ]
+  },
+  {
+    "id": "read-n5-11",
+    "level": "N5",
+    "title": "料理の楽しみ (Kesenangan Memasak)",
+    "passage": [
+      {
+        "jp": "私は料理を作ることが好きです。毎週末、新しい料理に挑戦します。先週は日本の肉じゃがを作りました。",
+        "kana": "わたしは りょうりを つくることが すきです。 まいしゅうまつ、 あたらしい りょうりに ちょうせんします。 せんしゅうは にほんの にくじゃがを つくりました。",
+        "id": "Saya suka memasak. Setiap akhir pekan, saya mencoba masakan baru. Minggu lalu saya membuat Nikujaga Jepang."
+      },
+      {
+        "jp": "ジャガイモと牛肉を甘く煮た料理です。少し難しかったですが、とても美味しくできました。家族も「美味しい」と言って食べてくれたので嬉しかったです。",
+        "kana": "ジャガイモと ぎゅうにくを あまく にた りょうりです。 すこし むずかしかったですが、 とても おいしく できました。 かぞくも 「おいしい」と いって たべてくれたので うれしかったです。",
+        "id": "Itu adalah hidangan kentang dan daging sapi yang direbus manis. Sedikit sulit, tetapi rasanya sangat enak. Keluarga juga memakannya sambil berkata 'enak', jadi saya sangat senang."
+      }
+    ],
+    "questions": [
+      {
+        "question": "筆者が先週作った料理は何ですか。",
+        "options": [
+          "お寿司",
+          "肉じゃが",
+          "天ぷら",
+          "ラーメン"
+        ],
+        "answer": "肉じゃが",
+        "explanation": "Paragraf pertama menyatakan secara jelas: '先週は日本の肉じゃがを作りました' (minggu lalu membuat Nikujaga Jepang)."
+      },
+      {
+        "question": "肉じゃがはどのような料理ですか。",
+        "options": [
+          "魚を辛く焼いた料理",
+          "ジャガイモと牛肉を甘く煮た料理",
+          "野菜のスープ",
+          "ご飯の上に卵をのせた料理"
+        ],
+        "answer": "ジャガイモと牛肉を甘く煮た料理",
+        "explanation": "Definisi Nikujaga di paragraf kedua adalah 'ジャガイモと牛肉を甘く煮た料理です' (masakan kentang dan daging sapi rebus manis)."
+      }
+    ]
+  },
+  {
+    "id": "read-n5-12",
+    "level": "N5",
+    "title": "動物園 (Kebun Binatang)",
+    "passage": [
+      {
+        "jp": "私は昨日、妹と上野動物園へ行きました。たくさんの動物がいましたが、一番見たかったのはパンダです。",
+        "kana": "わたしは きのう、 いもうとと うえのどうぶつえんへ いきました。 たくさんの どうぶつが いましたが、 いちばん みたかったのは パンダです。",
+        "id": "Kemarin saya pergi ke Kebun Binatang Ueno bersama adik perempuan saya. Ada banyak hewan, tetapi yang paling ingin saya lihat adalah panda."
+      },
+      {
+        "jp": "パンダは笹の葉を食べていて、とてもかわいかったです。そのあと、大きな象やライオンも見ました。お土産にパンダの人形を買いました。",
+        "kana": "パンダは ささのはを たべていて、 とても かわいかったです。 そのあと、 おおきな ぞうや ライオンも みました。 おみやげに パンダの にんぎょうを かいました。",
+        "id": "Panda sedang memakan daun bambu, sangat lucu. Setelah itu, kami juga melihat gajah besar dan singa. Kami membeli boneka panda untuk oleh-oleh."
+      }
+    ],
+    "questions": [
+      {
+        "question": "筆者が動物園で一番見たかった動物は何ですか。",
+        "options": [
+          "ライオン",
+          "象",
+          "パンダ",
+          "キリン"
+        ],
+        "answer": "パンダ",
+        "explanation": "Penulis menuliskan: '一番見たかったのはパンダです' (yang paling ingin dilihat adalah panda)."
+      },
+      {
+        "question": "お土産に何を買いましたか。",
+        "options": [
+          "パンダの人形",
+          "象のTシャツ",
+          "お菓子",
+          "写真集"
+        ],
+        "answer": "パンダの人形",
+        "explanation": "Oleh-oleh yang dibeli adalah boneka mainan panda ('お土産にパンダの人形を買いました')."
+      }
+    ]
+  },
+  {
+    "id": "read-n5-13",
+    "level": "N5",
+    "title": "日本語の勉強 (Belajar Bahasa Jepang)",
+    "passage": [
+      {
+        "jp": "私は半年前から日本語を勉強しています。毎週月曜日と木曜日の夜に日本語の学校へ行っています。",
+        "kana": "わたしは はんとしまえから にほんごを べんきょうしています。 まいしゅう げつようびと もくようびの よるに にほんごの がっこうへ いっています。",
+        "id": "Saya sudah belajar bahasa Jepang sejak setengah tahun lalu. Saya pergi ke sekolah bahasa Jepang setiap hari Senin dan Kamis malam."
+      },
+      {
+        "jp": "学校にはいろいろな国からの留学生がいて、みんなで一緒に会話の練習をします。ひらがなとカタカナは簡単ですが、漢字は難しくて覚えるのが大変です。",
+        "kana": "がっこうには いろいろな くにからの りゅうがくせいが いて、 みんなで いっしょに かいわの れんしゅうを します。 ひらがなと カタカナは かんたんですが、 かんじは むずかしくて おぼえるのが たいへんです。",
+        "id": "Di sekolah ada mahasiswa asing dari berbagai negara, kami berlatih percakapan bersama. Hiragana dan Katakana mudah, tetapi Kanji sulit dan susah untuk dihafalkan."
+      }
+    ],
+    "questions": [
+      {
+        "question": "筆者は週に何回日本語の学校へ行きますか。",
+        "options": [
+          "１回",
+          "２回",
+          "３回",
+          "毎日"
+        ],
+        "answer": "２回",
+        "explanation": "Penulis pergi sekolah setiap Senin malam dan Kamis malam ('毎週月曜日と木曜日'), yang berarti 2 kali seminggu."
+      }
+    ]
+  },
+  {
+    "id": "read-n5-14",
+    "level": "N5",
+    "title": "朝の忙しい時間 (Waktu Pagi yang Sibuk)",
+    "passage": [
+      {
+        "jp": "私は毎朝６時に起きます。顔を洗ってから、朝御飯を食べます。朝御飯はいつもパンと卵とコーヒーです。それから新聞を読みます。",
+        "kana": "わたしは まいあさ ろくじに おきます。 かおを あらってから、 あさごはんを たべます。 あさごはんは いつも パンと たまごと コーヒー です。 それから しんぶんを よみます。",
+        "id": "Saya setiap pagi bangun jam 6. Setelah mencuci muka, saya sarapan. Sarapannya selalu roti, telur, dan kopi. Setelah itu membaca koran."
+      },
+      {
+        "jp": "７時半にうちを出て、会社へ行きます。会社まで歩いて２０分かかります。８時前に会社に着きます。毎日とても忙しいです。",
+        "kana": "しちじはんに うちを でて、 かいしゃへ いきます。 かいしゃまで あるいて にじゅっぷん かかります。 はちじまえに かいしゃに つきます。 まいにち とても いそがしい です。",
+        "id": "Jam 7:30 keluar rumah dan pergi ke kantor. Berjalan kaki ke kantor membutuhkan waktu 20 menit. Tiba di kantor sebelum jam 8. Setiap hari sangat sibuk."
+      }
+    ],
+    "questions": [
+      {
+        "question": "朝御飯に何を食べますか。",
+        "options": [
+          "ご飯と魚",
+          "パンと卵",
+          "果物だけ",
+          "何も食べない"
+        ],
+        "answer": "パンと卵",
+        "explanation": "Berdasarkan bacaan, menu sarapan penulis adalah roti, telur, dan kopi ('朝御飯はいつもパンと卵とコーヒーです')."
+      },
+      {
+        "question": "会社までどうやって行きますか。",
+        "options": [
+          "電車で２０分",
+          "車で２０分",
+          "歩いて２０分",
+          "バスで２０分"
+        ],
+        "answer": "歩いて２０分",
+        "explanation": "Penulis pergi ke kantor dengan berjalan kaki selama 20 menit ('会社まで歩いて２０分かかります')."
+      }
+    ]
+  },
+  {
+    "id": "read-n5-15",
+    "level": "N5",
+    "title": "私の好きな季節 (Musim Favorit Saya)",
+    "passage": [
+      {
+        "jp": "日本には四季があります。春、夏、秋、冬です。私は秋が一番好きです。秋は天気が良くて、あまり暑くないし、寒くもないからです。",
+        "kana": "にほんには しきが あります。 はる、 なつ、 あき、 ふゆ です。 わたしは あきが いちばん すきです。 あきは てんきが よくて、 あまり あつくないし、 さむくもない からです。",
+        "id": "Di Jepang ada empat musim. Semi, panas, gugur, dan dingin. Saya paling suka musim gugur. Karena di musim gugur cuacanya bagus, tidak begitu panas, dan juga tidak dingin."
+      },
+      {
+        "jp": "それに、紅葉がとてもきれいで、果物も美味しいです。私は今年の秋、友達と日光へ紅葉を見に行く予定です。とても楽しみにしています。",
+        "kana": "それに、 もみじが とても きれいで、 くだものも おいしいです。 わたしは ことしの あき、 ともだちと にっこうへ もみじを みにいく よていです。 とても たのしみに しています。",
+        "id": "Selain itu, daun-daun musim gugur (momiji) sangat indah, dan buah-buahan juga lezat. Saya musim gugur tahun ini berencana pergi ke Nikko melihat momiji bersama teman. Sangat menantikannya."
+      }
+    ],
+    "questions": [
+      {
+        "question": "筆者はなぜ秋が一番好きですか。",
+        "options": [
+          "雪が降るから",
+          "暑くも寒くもなく、紅葉や果物が良いから",
+          "夏休みがあるから",
+          "桜がきれいだから"
+        ],
+        "answer": "暑くも寒くもなく、紅葉や果物が良いから",
+        "explanation": "Alasannya karena cuaca musim gugur yang bersahabat (tidak panas/dingin), keindahan momiji, serta buah-buahan yang lezat."
+      },
+      {
+        "question": "今年の秋にどこへ行きますか。",
+        "options": [
+          "東京",
+          "日光",
+          "京都",
+          "北海道"
+        ],
+        "answer": "日光",
+        "explanation": "Penulis menjadwalkan perjalanan melihat momiji ke Nikko bersama temannya pada musim gugur kali ini ('友達と日光へ紅葉を見に行く予定です')."
+      }
+    ]
+  },
+  {
+    "id": "read-n5-16",
+    "level": "N5",
+    "title": "友達への手紙 (Surat untuk Teman)",
+    "passage": [
+      {
+        "jp": "アリさんへ\nお元気ですか。私は今、日本の大阪にいます。大阪はとても賑やかで、食べ物が美味しい街です。昨日、私はたこ焼きを食べました。とても安くて美味しかったです。",
+        "kana": "アリさんへ\nおげんきですか。 わたしは いま、 にほんの おおさかに います。 おおさかは とても にぎやかで、 たべものが おいしい まちです。 きのう、 わたしは たこやきを たべました。 とても やすくて おいしかったです。",
+        "id": "Kepada Ali\nApakah sehat? Saya sekarang ada di Osaka, Jepang. Osaka adalah kota yang sangat ramai dan makanannya enak. Kemarin, saya makan takoyaki. Sangat murah dan enak."
+      },
+      {
+        "jp": "来週の土曜日に、京都へ行く予定です。京都の写真を撮ったら、また送りますね。お返事を待っています。\nサクラより",
+        "kana": "らいしゅうの どようびに、 きょうとへ いく よていです。 きょうとの しゃしんを とったら、 また おくりますね。 おへんじを まっています。\nサクラより",
+        "id": "Sabtu depan saya berencana pergi ke Kyoto. Kalau sudah ambil foto di Kyoto, saya kirimkan lagi ya. Menunggu balasanmu.\nDari Sakura"
+      }
+    ],
+    "questions": [
+      {
+        "question": "サクラさんは今どこにいますか。",
+        "options": [
+          "東京",
+          "大阪",
+          "京都",
+          "インドネシア"
+        ],
+        "answer": "大阪",
+        "explanation": "Pada surat tertulis: '私は今、日本の大阪にいます' (Saya sekarang berada di Osaka, Jepang)."
+      },
+      {
+        "question": "来週の土曜日にどこへ行きますか。",
+        "options": [
+          "大阪",
+          "東京",
+          "京都",
+          "うち"
+        ],
+        "answer": "京都",
+        "explanation": "Rencana perjalanan Sakura untuk hari Sabtu depan adalah ke Kyoto ('来週の土曜日に、京都へ行く予定です')."
+      }
+    ]
+  },
+  {
+    "id": "read-n5-17",
+    "level": "N5",
+    "title": "本屋 (Toko Buku)",
+    "passage": [
+      {
+        "jp": "駅の近くに大きい本屋があります。名前は「さくら書房」です。この本屋には日本の本だけでなく、外国の英語の本や辞書もたくさんあります。",
+        "kana": "えきの ちかくに おおきい ほんやが あります。 なまえは「さくらしょぼう」です。 この ほんやには にほんの ほんだけでなく、 がいこくの えいごの ほんや じしょも たくさん あります。",
+        "id": "Di dekat stasiun ada toko buku besar. Namanya 'Sakura Shobo'. Di toko buku ini tidak hanya ada buku Jepang, tetapi juga buku bahasa Inggris asing dan kamus yang banyak."
+      },
+      {
+        "jp": "私は毎週金曜日にこの店に行って、新しい雑誌を買います。店員さんはいつも親切で、探している本をすぐに見つけてくれます。とても便利な本屋です。",
+        "kana": "わたしは まいしゅう きんようびに この みせに いって、 あたらしい ざっしを かいます。 てんいんさんは いつも しんせつで、 さがしている ほんを すぐに みつけてくれます。 とても べんりな ほんやです。",
+        "id": "Saya pergi ke toko ini setiap hari Jumat dan membeli majalah baru. Pelayannya selalu ramah, langsung mencarikan buku yang saya cari. Toko buku yang sangat praktis."
+      }
+    ],
+    "questions": [
+      {
+        "question": "この本屋にはどのような本がありますか。",
+        "options": [
+          "日本の本だけ",
+          "教科書だけ",
+          "日本の本、外国の本、辞書など",
+          "漫画だけ"
+        ],
+        "answer": "日本の本、外国の本、辞書など",
+        "explanation": "Toko buku tersebut memiliki koleksi buku lokal Jepang, buku berbahasa Inggris, dan juga berbagai jenis kamus ('日本の本だけでなく、外国の英語の本や辞書も...')."
+      },
+      {
+        "question": "座右の銘は...ではなく、筆者はいつこの本屋に行きますか。",
+        "options": [
+          "毎週月曜日",
+          "毎週金曜日",
+          "毎日",
+          "週末だけ"
+        ],
+        "answer": "毎週金曜日",
+        "explanation": "Penulis mengunjungi toko buku tersebut secara rutin setiap hari Jumat untuk membeli majalah baru ('私は毎週金曜日にこの店に行って...')."
+      }
+    ]
+  }
+]

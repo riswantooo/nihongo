@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "Partikel は (wa) dan desu",
+    "description": "Partikel は (ditulis dengan huruf 'ha' tapi dibaca 'wa' saat menjadi partikel) menandakan subjek atau topik utama dari sebuah kalimat. Kata 'desu' diletakkan di akhir kalimat nomina/kata sifat untuk membuatnya menjadi bentuk sopan formal.",
+    "examples": [
+      { "japanese": "私は学生です。", "romaji": "Watashi wa gakusei desu.", "meaning": "Saya adalah seorang murid." },
+      { "japanese": "これは本です。", "romaji": "Kore wa hon desu.", "meaning": "Ini adalah buku." }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Kalimat Tanya dengan か (ka)",
+    "description": "Dalam bahasa Jepang, Anda tidak memerlukan tanda tanya (?). Cukup tambahkan partikel か di akhir kalimat sopan (setelah desu/masu) dengan intonasi meninggi untuk mengubahnya menjadi kalimat interogatif.",
+    "examples": [
+      { "japanese": "あなたは先生ですか。", "romaji": "Anata wa sensei desu ka.", "meaning": "Apakah Anda seorang guru?" },
+      { "japanese": "それは何ですか。", "romaji": "Sore wa nan desu ka.", "meaning": "Itu apa?" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Partikel も (mo) - 'Juga'",
+    "description": "Partikel も digunakan untuk menyatakan arti 'juga' atau 'pun'. Partikel ini langsung MENGGANTIKAN posisi partikel は, が, atau を.",
+    "examples": [
+      { "japanese": "私も行きます。", "romaji": "Watashi mo ikimasu.", "meaning": "Saya juga akan pergi." },
+      { "japanese": "りんごが好きです。みかんも好きです。", "romaji": "Ringo ga suki desu. Mikan mo suki desu.", "meaning": "Saya suka apel. Saya juga suka jeruk." }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Partikel の (no) - Kepemilikan",
+    "description": "Partikel の digunakan untuk menghubungkan dua kata benda. Fungsinya sering kali berarti kepunyaan atau memberikan keterangan benda (Benda 1 の Benda 2 = Benda 2 milik/buatan/tentang Benda 1).",
+    "examples": [
+      { "japanese": "私の車", "romaji": "Watashi no kuruma", "meaning": "Mobil saya" },
+      { "japanese": "日本語の先生", "romaji": "Nihongo no sensei", "meaning": "Guru bahasa Jepang" },
+      { "japanese": "東京の大学", "romaji": "Toukyou no daigaku", "meaning": "Universitas (di) Tokyo" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Bentuk Kata Kerja Masu (Sopan)",
+    "description": "Struktur kalimat bahasa Jepang berbeda dengan Indonesia. Kata kerja SELALU diletakkan di AKHIR kalimat (Subjek - Objek - Predikat). Bentuk ~masu adalah bentuk kata kerja formal untuk kejadian masa kini atau masa depan (habitual/future).",
+    "examples": [
+      { "japanese": "私は毎日りんごを食べます。", "romaji": "Watashi wa mainichi ringo o tabemasu.", "meaning": "Saya setiap hari makan apel." },
+      { "japanese": "明日学校へ行きます。", "romaji": "Ashita gakkou e ikimasu.", "meaning": "Besok (saya) akan pergi ke sekolah." }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Bentuk Lampau (Mashita & Deshita)",
+    "description": "Untuk menyatakan kejadian di masa lalu (Past Tense), akhiran kata kerja '~masu' berubah menjadi '~mashita'. Untuk kata benda/sifat '~desu' berubah menjadi '~deshita'.",
+    "examples": [
+      { "japanese": "昨日、肉を食べました。", "romaji": "Kinou, niku o tabemashita.", "meaning": "Kemarin, (saya) telah makan daging." },
+      { "japanese": "昨日は雨でした。", "romaji": "Kinou wa ame deshita.", "meaning": "Kemarin (cuacanya) hujan." }
+    ]
+  }
+]
