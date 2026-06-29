@@ -1588,13 +1588,20 @@ hr,
 }
 .lesson-hero {
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
     align-items: flex-start;
     gap: var(--sp-6);
     flex-wrap: wrap;
+    text-align: left;
 }
 .lesson-hero-copy {
     flex: 1;
+    min-width: 0;
+}
+.lesson-hero-copy h1,
+.lesson-hero-copy p {
+    text-align: left;
 }
 .guide-card {
     margin-bottom: var(--sp-8);

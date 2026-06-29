@@ -471,6 +471,47 @@
     ]
   },
   {
+    "id": "n5-grammar-q-1",
+    "level": "N5",
+    "chapter": 3,
+    "pattern": "どれ / どの / 誰",
+    "title_id": "Kata Tanya Detail",
+    "formation": [
+      {
+        "type": "Demonstratif",
+        "rule": "どれ + 名詞 (pilihan dari 3+ opsi)",
+        "example": "どれ が いい です か"
+      },
+      {
+        "type": "Demonstratif",
+        "rule": "どの + 名詞 (memilih dari kelompok)",
+        "example": "どの ほん が いい です か"
+      },
+      {
+        "type": "Subjek",
+        "rule": "誰 が + Verb (siapa yang...)",
+        "example": "誰 が きました か"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "どれが一番安いですか。",
+        "romaji": "Dore ga ichiban yasui desu ka.",
+        "meaning": "Mana yang paling murah?"
+      },
+      {
+        "japanese": "どのお店がいいですか。",
+        "romaji": "Dono omise ga ii desu ka.",
+        "meaning": "Toko mana yang bagus?"
+      },
+      {
+        "japanese": "誰が来ましたか。",
+        "romaji": "Dare ga kimashita ka.",
+        "meaning": "Siapa yang datang?"
+      }
+    ]
+  },
+  {
     "id": "n5-grammar-4-1",
     "level": "N5",
     "chapter": 4,
@@ -636,6 +677,78 @@
         ],
         "answer": "会議 は １時 から ３時 まで です",
         "explanation": "'1-ji kara' (dari jam 1) '3-ji made' (sampai jam 3)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-10",
+    "level": "N5",
+    "chapter": 4,
+    "pattern": "N + 前に / N + 後で",
+    "title_id": "Sebelum / Sesudah",
+    "formation": [
+      {
+        "type": "前に",
+        "rule": "V-polos + 前に = sebelum",
+        "example": "たべる まえ に"
+      },
+      {
+        "type": "後で",
+        "rule": "V-te + 後で = sesudah",
+        "example": "たべて あと で"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "食べる前に手を洗います。",
+        "romaji": "Taberu mae ni te o araimasu.",
+        "meaning": "Saya cuci tangan sebelum makan."
+      },
+      {
+        "japanese": "仕事が終わった後で、飲みに行きましょう。",
+        "romaji": "Shigoto ga owatta ato de, nomi ni ikimashou.",
+        "meaning": "Setelah kerja selesai, ayo minum."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-14",
+    "level": "N5",
+    "chapter": 4,
+    "pattern": "Golongan Kata Kerja (1, 2, 3)",
+    "title_id": "3 Golongan Verb",
+    "formation": [
+      {
+        "type": "Gol I",
+        "rule": "Godan: berakhir -u (akhir ≠ -eru/-iru)",
+        "example": "かく、たべる(→II)"
+      },
+      {
+        "type": "Gol II",
+        "rule": "Ichidan: berakhir -eru / -iru (selalu -ru)",
+        "example": "たべる、みる"
+      },
+      {
+        "type": "Gol III",
+        "rule": "Tidak beraturan: する, くる",
+        "example": "べんきょうする、くる"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "書く (Gol I) - 書きます。",
+        "romaji": "Kaku (I) - kakimasu.",
+        "meaning": "Tulis."
+      },
+      {
+        "japanese": "食べる (Gol II) - 食べます。",
+        "romaji": "Taberu (II) - tabemasu.",
+        "meaning": "Makan."
+      },
+      {
+        "japanese": "勉強する (Gol III) - 勉強します。",
+        "romaji": "Benkyou suru (III) - benkyou shimasu.",
+        "meaning": "Belajar."
       }
     ]
   },
@@ -978,6 +1091,32 @@
     ]
   },
   {
+    "id": "n5-grammar-11",
+    "level": "N5",
+    "chapter": 6,
+    "pattern": "V-masu (stem) + に行く / 来る",
+    "title_id": "Pergi/Kemari untuk...",
+    "formation": [
+      {
+        "type": "目的",
+        "rule": "V-masu stem + に + 行きます / 来ます",
+        "example": "たべ に いく"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "昼ごはんを食べに行きます。",
+        "romaji": "Hirugohan o tabe ni ikimasu.",
+        "meaning": "Saya pergi makan siang."
+      },
+      {
+        "japanese": "友達が遊びに来ました。",
+        "romaji": "Tomodachi ga asobi ni kimashita.",
+        "meaning": "Teman datang main."
+      }
+    ]
+  },
+  {
     "id": "n5-grammar-7-1",
     "level": "N5",
     "chapter": 7,
@@ -1138,6 +1277,78 @@
         ],
         "answer": "まだ です",
         "explanation": "Jawaban singkat untuk 'belum' adalah 'まだです'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-13",
+    "level": "N5",
+    "chapter": 7,
+    "pattern": "もう / まだ + V / Negasi",
+    "title_id": "Sudah / Belum",
+    "formation": [
+      {
+        "type": "もう + Aff",
+        "rule": "もう + V-positif = sudah",
+        "example": "もう たべました"
+      },
+      {
+        "type": "まだ + Neg",
+        "rule": "まだ + V-negatif = belum",
+        "example": "まだ たべていません"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "もう昼ごはんを食べましたか。",
+        "romaji": "Mou hirugohan o tabemashita ka.",
+        "meaning": "Sudah makan siang?"
+      },
+      {
+        "japanese": "いいえ、まだです。",
+        "romaji": "Iie, mada desu.",
+        "meaning": "Belum."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-17",
+    "level": "N5",
+    "chapter": 7,
+    "pattern": "授受表現 (Sono 2: やる/くれる/もらう)",
+    "title_id": "Memberi / Menerima",
+    "formation": [
+      {
+        "type": "やる",
+        "rule": "Saya memberi ke bawahan/hewan",
+        "example": "犬 に えさを やる"
+      },
+      {
+        "type": "くれる",
+        "rule": "Orang lain memberi ke saya/keluarga",
+        "example": "田中さん が くれた"
+      },
+      {
+        "type": "もらう",
+        "rule": "Saya menerima dari orang lain",
+        "example": "友達 に もらった"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "友達に花をあげました。",
+        "romaji": "Tomodachi ni hana o agemashita.",
+        "meaning": "Saya beri bunga ke teman."
+      },
+      {
+        "japanese": "母が誕生日に指輪をくれました。",
+        "romaji": "Haha ga tanjoubi ni yubiwa o kuremashita.",
+        "meaning": "Ibu beri saya cincin di hari ulang tahun."
+      },
+      {
+        "japanese": "先生から本をいただきました。",
+        "romaji": "Sensei kara hon o itadakimashita.",
+        "meaning": "Saya terima buku dari guru."
       }
     ]
   },
@@ -1312,6 +1523,99 @@
         ],
         "answer": "その映画は おもしろくないです",
         "explanation": "Omoshiroi adalah I-Adj. 'i' dihilangkan lalu diganti 'kunai desu'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-7",
+    "level": "N5",
+    "chapter": 8,
+    "pattern": "Adj-i (stem) + すぎる / Adj-i + たい",
+    "title_id": "Adj-i Auxiliary",
+    "formation": [
+      {
+        "type": "~すぎる",
+        "rule": "Adj-i stem + すぎる = terlalu",
+        "example": "たか + すぎる (terlalu mahal)"
+      },
+      {
+        "type": "~たい",
+        "rule": "V-masu stem + たい = ingin",
+        "example": "たべ + たい"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "この料理は辛すぎます。",
+        "romaji": "Kono ryouri wa karasugimasu.",
+        "meaning": "Makanan ini terlalu pedas."
+      },
+      {
+        "japanese": "日本語を勉強したいです。",
+        "romaji": "Nihongo o benkyou shitai desu.",
+        "meaning": "Saya ingin belajar bahasa Jepang."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-12",
+    "level": "N5",
+    "chapter": 8,
+    "pattern": "Adj-na + にする / Adj-na + になる",
+    "title_id": "Menjadi / Mengubah",
+    "formation": [
+      {
+        "type": "にする",
+        "rule": "Adj-na + にする = mengubah menjadi",
+        "example": "きれい に する"
+      },
+      {
+        "type": "になる",
+        "rule": "Adj-na + になる = menjadi",
+        "example": "きれい に なる"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "部屋をきれいにしてください。",
+        "romaji": "Heya o kirei ni shite kudasai.",
+        "meaning": "Tolong bersihkan kamar."
+      },
+      {
+        "japanese": "部屋がきれいになりました。",
+        "romaji": "Heya ga kirei ni narimashita.",
+        "meaning": "Kamarnya jadi bersih."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-20",
+    "level": "N5",
+    "chapter": 8,
+    "pattern": "とても / とても + Adj",
+    "title_id": "Sangat",
+    "formation": [
+      {
+        "type": "とても",
+        "rule": "とても + Adj = sangat",
+        "example": "とても おおきい"
+      },
+      {
+        "type": "ちょっと",
+        "rule": "ちょっと + Adj = sedikit",
+        "example": "ちょっと たかい"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "とても寒いですね。",
+        "romaji": "Totemo samui desu ne.",
+        "meaning": "Sangat dingin ya."
+      },
+      {
+        "japanese": "ちょっと高いですね。",
+        "romaji": "Chotto takai desu ne.",
+        "meaning": "Agak mahal ya."
       }
     ]
   },
@@ -1655,6 +1959,63 @@
     ]
   },
   {
+    "id": "n5-grammar-5",
+    "level": "N5",
+    "chapter": 11,
+    "pattern": "N + だけ / N + しか + Negasi",
+    "title_id": "Hanya / Cuma",
+    "formation": [
+      {
+        "type": "だけ",
+        "rule": "N + だけ = hanya (positif)",
+        "example": "ひとつ だけ"
+      },
+      {
+        "type": "しか",
+        "rule": "N + しか + Verb-negatif = hanya...tidak ada lain",
+        "example": "ひとつ しか ない"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "りんごを一つだけ食べました。",
+        "romaji": "Ringo o hitotsu dake tabemashita.",
+        "meaning": "Saya cuma makan satu apel."
+      },
+      {
+        "japanese": "千円しかありません。",
+        "romaji": "Sen en shika arimasen.",
+        "meaning": "Saya cuma punya 1000 yen."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-8",
+    "level": "N5",
+    "chapter": 11,
+    "pattern": "N + Counter + も",
+    "title_id": "Counter + も (Sekian Banyaknya)",
+    "formation": [
+      {
+        "type": "Penekanan",
+        "rule": "Counter + も = penekanan jumlah (banyak!)",
+        "example": "さんにん も"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "五時間も勉強しました。",
+        "romaji": "Go jikan mo benkyou shimashita.",
+        "meaning": "Saya belajar sampai 5 jam lho."
+      },
+      {
+        "japanese": "三千円も使いました。",
+        "romaji": "San zen en mo tsukaimashita.",
+        "meaning": "Saya menghabiskan 3000 yen lho."
+      }
+    ]
+  },
+  {
     "id": "n5-grammar-12-1",
     "level": "N5",
     "chapter": 12,
@@ -1881,6 +2242,63 @@
     ]
   },
   {
+    "id": "n5-grammar-18",
+    "level": "N5",
+    "chapter": 13,
+    "pattern": "N + が + ほしいです",
+    "title_id": "Saya mau (Benda)",
+    "formation": [
+      {
+        "type": "ほしい",
+        "rule": "N + が + ほしいです = saya mau N",
+        "example": "くるま が ほしい"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "新しいパソコンがほしいです。",
+        "romaji": "Atarashii pasokon ga hoshii desu.",
+        "meaning": "Saya mau laptop baru."
+      },
+      {
+        "japanese": "冷たい水がほしいです。",
+        "romaji": "Tsumetai mizu ga hoshii desu.",
+        "meaning": "Saya mau air dingin."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-19",
+    "level": "N5",
+    "chapter": 13,
+    "pattern": "V-masu (stem) + ませんか / V + ましょう",
+    "title_id": "Ajakan",
+    "formation": [
+      {
+        "type": "Ajakan",
+        "rule": "V-masu stem + ませんか = mau tidak?",
+        "example": "たべ ませんか"
+      },
+      {
+        "type": "Ajak bersama",
+        "rule": "V-polos + ましょう = ayo (kita)",
+        "example": "たべ ましょう"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "一緒にコーヒーを飲みませんか。",
+        "romaji": "Issho ni koohii o nomimasen ka.",
+        "meaning": "Mau minum kopi bersama?"
+      },
+      {
+        "japanese": "さあ、始めましょう。",
+        "romaji": "Saa, hajimemashou.",
+        "meaning": "Ayo mulai."
+      }
+    ]
+  },
+  {
     "id": "n5-grammar-14-1",
     "level": "N5",
     "chapter": 14,
@@ -2030,6 +2448,32 @@
     ]
   },
   {
+    "id": "n5-grammar-6",
+    "level": "N5",
+    "chapter": 14,
+    "pattern": "V-te + います (Keadaan)",
+    "title_id": "~ています - Hasil/Keadaan",
+    "formation": [
+      {
+        "type": "Hasil",
+        "rule": "V-te + います = keadaan hasil dari aksi",
+        "example": "まど が あいて います (jendela terbuka)"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "結婚しています。",
+        "romaji": "Kekkon shite imasu.",
+        "meaning": "Saya sudah menikah (status)."
+      },
+      {
+        "japanese": "窓が開いています。",
+        "romaji": "Mado ga aite imasu.",
+        "meaning": "Jendelanya terbuka."
+      }
+    ]
+  },
+  {
     "id": "n5-grammar-15-1",
     "level": "N5",
     "chapter": 15,
@@ -2103,6 +2547,52 @@
         ],
         "answer": "信号を 左へ 曲がります",
         "explanation": "Menikung/melewati suatu titik (lampu merah) ditandai dengan partikel 'を'."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-15",
+    "level": "N5",
+    "chapter": 15,
+    "pattern": "Freq: いつも / よく / 時々 / あまり / 全然",
+    "title_id": "Adverb Frekuensi",
+    "formation": [
+      {
+        "type": "Selalu",
+        "rule": "いつも + Aff",
+        "example": "いつも"
+      },
+      {
+        "type": "Sering",
+        "rule": "よく + Aff",
+        "example": "よく"
+      },
+      {
+        "type": "Kadang",
+        "rule": "時々 + Aff",
+        "example": "ときどき"
+      },
+      {
+        "type": "Tidak terlalu",
+        "rule": "あまり + Negasi",
+        "example": "あまり ～ません"
+      },
+      {
+        "type": "Sama sekali",
+        "rule": "全然 + Negasi",
+        "example": "ぜんぜん ～ません"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "私はいつも朝六時に起きます。",
+        "romaji": "Watashi wa itsumo asa rokuji ni okimasu.",
+        "meaning": "Saya selalu bangun jam 6 pagi."
+      },
+      {
+        "japanese": "全然分かりません。",
+        "romaji": "Zenzen wakarimasen.",
+        "meaning": "Saya sama sekali tidak mengerti."
       }
     ]
   },
@@ -2185,6 +2675,32 @@
         ],
         "answer": "わたしの部屋は 広くて、きれいです",
         "explanation": "Hiroi (I-Adj) -> Hirokute (Luas dan...)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-16",
+    "level": "N5",
+    "chapter": 16,
+    "pattern": "V1 (stem) + ながら + V2",
+    "title_id": "Sambil / Sekaligus",
+    "formation": [
+      {
+        "type": "Simultan",
+        "rule": "V1-masu stem + ながら + V2 = V1 sambil V2",
+        "example": "たべ + ながら"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "音楽を聴きながら勉強します。",
+        "romaji": "Ongaku o kiki nagara benkyou shimasu.",
+        "meaning": "Belajar sambil dengarkan musik."
+      },
+      {
+        "japanese": "テレビを見ながら食べます。",
+        "romaji": "Terebi o minagara tabemasu.",
+        "meaning": "Makan sambil nonton TV."
       }
     ]
   },
@@ -2293,6 +2809,42 @@
         ],
         "answer": "働かなくても いいです",
         "explanation": "Hatarakanai -> Hatarakanakutemo ii desu (Tidak perlu bekerja)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-3",
+    "level": "N5",
+    "chapter": 17,
+    "pattern": "V / Adj + ので",
+    "title_id": "~ので (Karena - Formal)",
+    "formation": [
+      {
+        "type": "Verb",
+        "rule": "V-polos + ので",
+        "example": "雨 が ふる ので"
+      },
+      {
+        "type": "Adj-i",
+        "rule": "Adj-i (stem) + ので",
+        "example": "高い ので"
+      },
+      {
+        "type": "Adj-na",
+        "rule": "Adj-na + な + ので",
+        "example": "ひま な ので"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "雨が降ったので、出かけませんでした。",
+        "romaji": "Ame ga futta node, dekakemasen deshita.",
+        "meaning": "Karena hujan, saya tidak keluar."
+      },
+      {
+        "japanese": "高いので、買いませんでした。",
+        "romaji": "Takai node, kaimasen deshita.",
+        "meaning": "Karena mahal, saya tidak beli."
       }
     ]
   },
@@ -2759,6 +3311,78 @@
     ]
   },
   {
+    "id": "n5-grammar-4",
+    "level": "N5",
+    "chapter": 21,
+    "pattern": "Kalimat + ね / よ / な",
+    "title_id": "Partikel Akhir Kalimat",
+    "formation": [
+      {
+        "type": "ね",
+        "rule": "ね = minta persetujuan (kan? ya?)",
+        "example": "きれい ですね"
+      },
+      {
+        "type": "よ",
+        "rule": "よ = informasi baru (lo tau gak!)",
+        "example": "これ は ほん ですよ"
+      },
+      {
+        "type": "な",
+        "rule": "な = emosi/laki (casual, maskulin)",
+        "example": "すごい な"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "今日は暑いですね。",
+        "romaji": "Kyou wa atsui desu ne.",
+        "meaning": "Hari ini panas ya."
+      },
+      {
+        "japanese": "私も行きますよ。",
+        "romaji": "Watashi mo ikimasu yo.",
+        "meaning": "Saya juga pergi tau!"
+      },
+      {
+        "japanese": "すごいな。",
+        "romaji": "Sugoi na.",
+        "meaning": "Keren banget (emotional)."
+      }
+    ]
+  },
+  {
+    "id": "n5-grammar-9",
+    "level": "N5",
+    "chapter": 21,
+    "pattern": "〜のです / 〜んですか",
+    "title_id": "~んです (Penjelasan - Intro)",
+    "formation": [
+      {
+        "type": "Penjelasan",
+        "rule": "V-polos + のです = saya jelaskan...",
+        "example": "いく のです"
+      },
+      {
+        "type": "Tanya",
+        "rule": "V-polos + のですか = kenapa?",
+        "example": "いく のですか"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "今日、休みなんです。",
+        "romaji": "Kyou, yasumi nan desu.",
+        "meaning": "Hari ini saya libur (tau ya)."
+      },
+      {
+        "japanese": "どうしたんですか。",
+        "romaji": "Doushita n desu ka.",
+        "meaning": "Kenapa? (ada apa?)"
+      }
+    ]
+  },
+  {
     "id": "n5-grammar-22-1",
     "level": "N5",
     "chapter": 22,
@@ -3140,6 +3764,37 @@
         ],
         "answer": "２時の 約束な のに、来ません",
         "explanation": "Kata benda (Yakusoku) + na + noni."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e32",
+    "level": "N4",
+    "chapter": 14,
+    "pattern": "V-te + いく / くる (Timbul Perlahan)",
+    "title_id": "V-te + いく/くる - Perubahan Bertahap",
+    "formation": [
+      {
+        "type": "Perubahan bertahap",
+        "rule": "V-te + いく = makin... (ke arah depan)",
+        "example": "さむく なって いく"
+      },
+      {
+        "type": "Perubahan bertahap",
+        "rule": "V-te + くる = makin... (ke arah sini, baru mulai)",
+        "example": "さむく なって きた"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "寒くなっていきますね。",
+        "romaji": "Samuku natte ikimasu ne.",
+        "meaning": "Makin dingin ya (ke depan)."
+      },
+      {
+        "japanese": "最近太ってきました。",
+        "romaji": "Saikin futotte kimashita.",
+        "meaning": "Akhir-akhir ini saya makin gemuk."
       }
     ]
   },
@@ -3770,6 +4425,32 @@
     ]
   },
   {
+    "id": "n4-grammar-e29",
+    "level": "N4",
+    "chapter": 33,
+    "pattern": "V-masu stem + なさい",
+    "title_id": "~なさい (Perintah Lembut ke Anak)",
+    "formation": [
+      {
+        "type": "Perintah",
+        "rule": "V-masu stem + なさい = tolong (ke anak/diri sendiri)",
+        "example": "たべ + なさい"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "早く寝なさい。",
+        "romaji": "Hayaku nenasai.",
+        "meaning": "Tidur cepat."
+      },
+      {
+        "japanese": "よく勉強しなさい。",
+        "romaji": "Yoku benkyou shinasai.",
+        "meaning": "Belajar yang rajin."
+      }
+    ]
+  },
+  {
     "id": "n4-grammar-34-1",
     "level": "N4",
     "chapter": 34,
@@ -3929,6 +4610,63 @@
     ]
   },
   {
+    "id": "n4-grammar-e1",
+    "level": "N4",
+    "chapter": 35,
+    "pattern": "V / Adj + ば (Generalisasi)",
+    "title_id": "~ば untuk Generalisasi",
+    "formation": [
+      {
+        "type": "General",
+        "rule": "V-eba = kalau (umum, asumsi)",
+        "example": "やすく あれば"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "安ければ買います。",
+        "romaji": "Yasukereba kaimasu.",
+        "meaning": "Kalau murah, saya beli."
+      },
+      {
+        "japanese": "時間があれば、旅行したいです。",
+        "romaji": "Jikan ga areba, ryokou shitai desu.",
+        "meaning": "Kalau ada waktu, saya mau traveling."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e6",
+    "level": "N4",
+    "chapter": 35,
+    "pattern": "Sentence-end: よね / ね / な",
+    "title_id": "Partikel Akhir - Variasi",
+    "formation": [
+      {
+        "type": "よね",
+        "rule": "よね = minta persetujuan + info baru",
+        "example": "いい てんき ですよね"
+      },
+      {
+        "type": "よね (negatif)",
+        "rule": "～ない + よね = kan tidak?",
+        "example": "たかく ない ですよね"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "今日は金曜日ですよね。",
+        "romaji": "Kyou wa kinyoubi desu yo ne.",
+        "meaning": "Hari ini kan hari Jumat?"
+      },
+      {
+        "japanese": "安くないですよね。",
+        "romaji": "Yasukunai desu yo ne.",
+        "meaning": "Kan tidak murah?"
+      }
+    ]
+  },
+  {
     "id": "n4-grammar-36-1",
     "level": "N4",
     "chapter": 36,
@@ -4011,6 +4749,84 @@
     ]
   },
   {
+    "id": "n4-grammar-e5",
+    "level": "N4",
+    "chapter": 36,
+    "pattern": "V + ように (Berubah jadi bisa)",
+    "title_id": "~ようになる (Akuisisi kemampuan baru)",
+    "formation": [
+      {
+        "type": "Akuisisi",
+        "rule": "V-polos + ようになる = jadi bisa / jadi terbiasa",
+        "example": "わかる ように なった"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "日本語が話せるようになりました。",
+        "romaji": "Nihongo ga hanaseru you ni narimashita.",
+        "meaning": "Saya jadi bisa bicara bahasa Jepang."
+      },
+      {
+        "japanese": "毎日運動するようになりました。",
+        "romaji": "Mainichi undou suru you ni narimashita.",
+        "meaning": "Saya jadi terbiasa olahraga tiap hari."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e22",
+    "level": "N4",
+    "chapter": 36,
+    "pattern": "V-polos + ように言う/頼む",
+    "title_id": "Minta / Bilang Supaya",
+    "formation": [
+      {
+        "type": "Minta",
+        "rule": "V-polos + ように + 言う/頼む/お願いする",
+        "example": "まいにち べんきょう する ように"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "遅刻しないように言ってください。",
+        "romaji": "Chikoku shinai you ni itte kudasai.",
+        "meaning": "Tolong bilang supaya tidak terlambat."
+      },
+      {
+        "japanese": "薬を飲むようにお母さんに頼みました。",
+        "romaji": "Kusuri o nomu you ni okaasan ni tanomimashita.",
+        "meaning": "Saya minta ibu supaya minum obat."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e24",
+    "level": "N4",
+    "chapter": 36,
+    "pattern": "V + ようにする (Berupaya)",
+    "title_id": "~ようにする - Upaya Berkelanjutan",
+    "formation": [
+      {
+        "type": "Upaya",
+        "rule": "V-polos + ようにする = saya berusaha",
+        "example": "はやく ねる ように する"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "毎日野菜を食べるようにしています。",
+        "romaji": "Mainichi yasai o taberu you ni shite imasu.",
+        "meaning": "Saya berusaha makan sayur tiap hari."
+      },
+      {
+        "japanese": "遅刻しないようにしています。",
+        "romaji": "Chikoku shinai you ni shite imasu.",
+        "meaning": "Saya berusaha supaya tidak terlambat."
+      }
+    ]
+  },
+  {
     "id": "n4-grammar-37-1",
     "level": "N4",
     "chapter": 37,
@@ -4084,6 +4900,32 @@
         ],
         "answer": "このビルは 建てられました",
         "explanation": "Gedung (Benda) + wa + Dibangun (Taterareru / Tateraremashita)."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e2",
+    "level": "N4",
+    "chapter": 37,
+    "pattern": "Bentuk Pasif (Langsung)",
+    "title_id": "Pasif - Subjek menerima aksi",
+    "formation": [
+      {
+        "type": "Pasif langsung",
+        "rule": "Pelaku (に) + Target (は) + V-pasif",
+        "example": "私 は 先生 に しかられた"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "私は母に褒められました。",
+        "romaji": "Watashi wa haha ni homeraremashita.",
+        "meaning": "Saya dipuji ibu."
+      },
+      {
+        "japanese": "泥棒に財布を盗まれました。",
+        "romaji": "Dorobou ni saifu o nusumaremashita.",
+        "meaning": "Dompet saya dicuri pencuri."
       }
     ]
   },
@@ -4170,6 +5012,58 @@
     ]
   },
   {
+    "id": "n4-grammar-e8",
+    "level": "N4",
+    "chapter": 38,
+    "pattern": "Complex Noun Modifier (長い修飾語)",
+    "title_id": "Modifikasi Kata Benda Kompleks",
+    "formation": [
+      {
+        "type": "V / Adj + N + が + Adj",
+        "rule": "V / Adj frase panjang + 名詞",
+        "example": "先生が きのう かった ほん"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "昨日友達が作ったケーキを食べました。",
+        "romaji": "Kinou tomodachi ga tsukutta keeki o tabemashita.",
+        "meaning": "Saya makan kue yang dibuat teman kemarin."
+      },
+      {
+        "japanese": "田中さんが日本から持ってきたお土産です。",
+        "romaji": "Tanaka-san ga Nihon kara motte kita omiyage desu.",
+        "meaning": "Ini oleh-oleh yang dibawa Tanaka dari Jepang."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e16",
+    "level": "N4",
+    "chapter": 38,
+    "pattern": "V-polos + ことです (Anjuran)",
+    "title_id": "~ことだ (Lebih baik...)",
+    "formation": [
+      {
+        "type": "Anjuran",
+        "rule": "V-polos + ことです = lebih baik",
+        "example": "べんきょう する こと です"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "たくさん本を読むことです。",
+        "romaji": "Takusan hon o yomu koto desu.",
+        "meaning": "Lebih baik banyak baca buku."
+      },
+      {
+        "japanese": "毎日運動することです。",
+        "romaji": "Mainichi undou suru koto desu.",
+        "meaning": "Lebih baik olahraga setiap hari."
+      }
+    ]
+  },
+  {
     "id": "n4-grammar-39-1",
     "level": "N4",
     "chapter": 39,
@@ -4243,6 +5137,32 @@
         ],
         "answer": "事故で 遅れました",
         "explanation": "Kecelakaan (jiko) adalah insiden, maka menggunakan 'de'."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e25",
+    "level": "N4",
+    "chapter": 39,
+    "pattern": "V-te + 困ります / 困っています",
+    "title_id": "V-te + Bingung/Merepotkan",
+    "formation": [
+      {
+        "type": "Kerugian",
+        "rule": "V-te + 困る = kerepotan / kesulitan",
+        "example": "なく られて こまる"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "雨に降られて困りました。",
+        "romaji": "Ame ni furarete komarimashita.",
+        "meaning": "Saya kerepotan kehujanan."
+      },
+      {
+        "japanese": "彼に泣かれて、困っています。",
+        "romaji": "Kare ni nakarete, komatte imasu.",
+        "meaning": "Saya direpotkan karena dia menangis."
       }
     ]
   },
@@ -4325,6 +5245,32 @@
         ],
         "answer": "来るか どうか、わかりません",
         "explanation": "Kuru (Akan datang) + ka dou ka + Wakarimasen."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e31",
+    "level": "N4",
+    "chapter": 40,
+    "pattern": "疑問詞 + V-polos + か (Embedded Q)",
+    "title_id": "Embedded Question",
+    "formation": [
+      {
+        "type": "Tanya",
+        "rule": "Kata Tanya + V-polos + か = tanya yang dilekatkan",
+        "example": "どこ に いく か"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "彼がどこに住んでいるか、知っていますか。",
+        "romaji": "Kare ga doko ni sunde iru ka, shitte imasu ka.",
+        "meaning": "Apakah Anda tahu di mana dia tinggal?"
+      },
+      {
+        "japanese": "会議がいつ終わるか教えてください。",
+        "romaji": "Kaigi ga itsu owaru ka oshiete kudasai.",
+        "meaning": "Tolong beritahu kapan rapat selesai."
       }
     ]
   },
@@ -4493,6 +5439,58 @@
     ]
   },
   {
+    "id": "n4-grammar-e7",
+    "level": "N4",
+    "chapter": 42,
+    "pattern": "N + の + ために (Tujuan dari Posisi)",
+    "title_id": "~ために - Subjektif (Benda Abstrak)",
+    "formation": [
+      {
+        "type": "Tujuan subjektif",
+        "rule": "N + の + ために + V (target pembicara)",
+        "example": "けんこう の ために"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "家族のために働きます。",
+        "romaji": "Kazoku no tame ni hatarakimasu.",
+        "meaning": "Saya kerja untuk keluarga."
+      },
+      {
+        "japanese": "健康のために野菜を食べます。",
+        "romaji": "Kenkou no tame ni yasai o tabemasu.",
+        "meaning": "Saya makan sayur untuk kesehatan."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e9",
+    "level": "N4",
+    "chapter": 42,
+    "pattern": "ように (Bukan Subjek Pengendali)",
+    "title_id": "~ように - Tujuan Tidak Bisa Dikontrol",
+    "formation": [
+      {
+        "type": "Tidak bisa dikontrol",
+        "rule": "V-polos (non-volitional) + ように",
+        "example": "わかる ように"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "風邪を引かないように気をつけてください。",
+        "romaji": "Kaze o hikanai you ni ki o tsukete kudasai.",
+        "meaning": "Hati-hati supaya tidak masuk angin."
+      },
+      {
+        "japanese": "遅刻しないように早く起きます。",
+        "romaji": "Chikoku shinai you ni hayaku okimasu.",
+        "meaning": "Saya bangun cepat supaya tidak terlambat."
+      }
+    ]
+  },
+  {
     "id": "n4-grammar-43-1",
     "level": "N4",
     "chapter": 43,
@@ -4652,6 +5650,32 @@
     ]
   },
   {
+    "id": "n4-grammar-e28",
+    "level": "N4",
+    "chapter": 44,
+    "pattern": "V-masu stem + きれない",
+    "title_id": "~きれない (Tidak Selesai Semua)",
+    "formation": [
+      {
+        "type": "Tidak selesai",
+        "rule": "V-masu stem + きれない = tidak bisa habiskan",
+        "example": "たべ + きれない"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "食べきれないほど料理がありました。",
+        "romaji": "Tabekirenai hodo ryouri ga arimashita.",
+        "meaning": "Ada banyak makanan yang tidak habis dimakan."
+      },
+      {
+        "japanese": "言いきれない気持ちです。",
+        "romaji": "Iikirenai kimochi desu.",
+        "meaning": "Perasaan yang tidak bisa diucapkan semua."
+      }
+    ]
+  },
+  {
     "id": "n4-grammar-45-1",
     "level": "N4",
     "chapter": 45,
@@ -4725,6 +5749,84 @@
         ],
         "answer": "いい天気な のに、",
         "explanation": "Tenki (Benda) + na + noni."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e14",
+    "level": "N4",
+    "chapter": 45,
+    "pattern": "V / Adj + のに (Kontras Kuat)",
+    "title_id": "~のに - Meskipun / Padahal",
+    "formation": [
+      {
+        "type": "Kontras emosi",
+        "rule": "V-polos / Adj + のに (mengekspresikan kekecewaan)",
+        "example": "いく のに"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "薬を飲んだのに、まだ治りません。",
+        "romaji": "Kusuri o nonda noni, mada naorimasen.",
+        "meaning": "Padahal sudah minum obat, belum sembuh."
+      },
+      {
+        "japanese": "日曜日なのに、仕事をしています。",
+        "romaji": "Nichiyoubi na noni, shigoto o shite imasu.",
+        "meaning": "Padahal hari Minggu, saya tetap kerja."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e18",
+    "level": "N4",
+    "chapter": 45,
+    "pattern": "V-penuh + ながら (Padahal)",
+    "title_id": "~ながら - Padahal (Kontras)",
+    "formation": [
+      {
+        "type": "Kontras",
+        "rule": "V-penuh + ながら = padahal",
+        "example": "しって いる ながら"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "知っていながら、教えてくれませんでした。",
+        "romaji": "Shitte iru nagara, oshiete kuremashita.",
+        "meaning": "Padahal tahu, tidak kasih tau."
+      },
+      {
+        "japanese": "言いながら、本当は違う。",
+        "romaji": "Iinagara, hontou wa chigau.",
+        "meaning": "Padahal ngomong begitu, sebenarnya beda."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e21",
+    "level": "N4",
+    "chapter": 45,
+    "pattern": "V-eba + よかった",
+    "title_id": "~ばよかった (Andai Saja)",
+    "formation": [
+      {
+        "type": "Penyesalan",
+        "rule": "V-eba + よかった = andai (penyesalan)",
+        "example": "はやく いけば よかった"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "もっと勉強すればよかったです。",
+        "romaji": "Motto benkyou sureba yokatta desu.",
+        "meaning": "Andai saya belajar lebih giat."
+      },
+      {
+        "japanese": "早く行けばよかった。",
+        "romaji": "Hayaku ikeba yokatta.",
+        "meaning": "Andai saya pergi lebih awal."
       }
     ]
   },
@@ -4811,6 +5913,32 @@
     ]
   },
   {
+    "id": "n4-grammar-e27",
+    "level": "N4",
+    "chapter": 46,
+    "pattern": "V-polos + たびに",
+    "title_id": "~たびに (Setiap Kali)",
+    "formation": [
+      {
+        "type": "Frekuensi",
+        "rule": "V-polos + たびに = setiap kali",
+        "example": "いく たびに"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "日本に行くたびに、お土産を買います。",
+        "romaji": "Nihon ni iku tabi ni, omiyage o kaimasu.",
+        "meaning": "Setiap pergi ke Jepang, saya beli oleh-oleh."
+      },
+      {
+        "japanese": "会うたびに、綺麗になっています。",
+        "romaji": "Au tabi ni, kirei ni natte imasu.",
+        "meaning": "Setiap ketemu, (dia) makin cantik."
+      }
+    ]
+  },
+  {
     "id": "n4-grammar-47-1",
     "level": "N4",
     "chapter": 47,
@@ -4884,6 +6012,162 @@
         ],
         "answer": "おもしろい ようです",
         "explanation": "Omoshiroi (Plain form I-adj) + You desu."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e12",
+    "level": "N4",
+    "chapter": 47,
+    "pattern": "V / Adj / N + らしい",
+    "title_id": "~らしい (Tampaknya / Rumor)",
+    "formation": [
+      {
+        "type": "Rumor",
+        "rule": "V-polos / Adj / N + らしい",
+        "example": "あめ らしい"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "明日は雨らしいですよ。",
+        "romaji": "Ashita wa ame rashii desu yo.",
+        "meaning": "Konon besok hujan."
+      },
+      {
+        "japanese": "田中さんは来月結婚するらしい。",
+        "romaji": "Tanaka-san wa raigetsu kekkon suru rashii.",
+        "meaning": "Konon Tanaka bulan depan menikah."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e15",
+    "level": "N4",
+    "chapter": 47,
+    "pattern": "V-ta + まま + V",
+    "title_id": "~まま (Keadaan Tidak Berubah)",
+    "formation": [
+      {
+        "type": "Keadaan",
+        "rule": "V-ta / Adj-penuh + まま = dalam kondisi seperti itu",
+        "example": "はいた まま"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "靴を履いたまま部屋に入りました。",
+        "romaji": "Kutsu o haita mama heya ni hairimashita.",
+        "meaning": "Masuk kamar tanpa buka sepatu."
+      },
+      {
+        "japanese": "電気を付けたまま寝ました。",
+        "romaji": "Denki o tsuketa mama nemashita.",
+        "meaning": "Tidur dengan lampu masih menyala."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e17",
+    "level": "N4",
+    "chapter": 47,
+    "pattern": "V-masu stem + っぽい / Adj-stem + っぽい",
+    "title_id": "~っぽい (Cenderung / Mirip)",
+    "formation": [
+      {
+        "type": "Cenderung",
+        "rule": "V-masu stem + っぽい = cenderung",
+        "example": "わすれ + っぽい (pelupa)"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "彼は忘れっぽい人です。",
+        "romaji": "Kare wa wasureppoi hito desu.",
+        "meaning": "Dia orangnya pelupa."
+      },
+      {
+        "japanese": "この子供は怒りっぽいです。",
+        "romaji": "Kono kodomo wa okorippoi desu.",
+        "meaning": "Anak ini pemarah."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e19",
+    "level": "N4",
+    "chapter": 47,
+    "pattern": "V / Adj + に決まっている",
+    "title_id": "~に決まっている (Pasti...)",
+    "formation": [
+      {
+        "type": "Keyakinan",
+        "rule": "V-polos / Adj + にきまっている = sudah pasti",
+        "example": "あめ に きまっている"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "あの人は来るに決まっています。",
+        "romaji": "Ano hito wa kuru ni kimatte imasu.",
+        "meaning": "Pasti orang itu datang."
+      },
+      {
+        "japanese": "失敗するに決まっていますよ。",
+        "romaji": "Shippai suru ni kimatte imasu yo.",
+        "meaning": "Tentu akan gagal."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e26",
+    "level": "N4",
+    "chapter": 47,
+    "pattern": "V / Adj + かい (Tanya Kasual Laki)",
+    "title_id": "~かい (Tanya Informal)",
+    "formation": [
+      {
+        "type": "Tanya",
+        "rule": "V-polos / Adj + かい (sangat kasual, maskulin)",
+        "example": "いく かい"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "本当に来るかい？",
+        "romaji": "Hontou ni kuru kai?",
+        "meaning": "Beneran mau datang?"
+      },
+      {
+        "japanese": "それは本当かい？",
+        "romaji": "Sore wa hontou kai?",
+        "meaning": "Itu beneran?"
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e30",
+    "level": "N4",
+    "chapter": 47,
+    "pattern": "V-polos + ものがある",
+    "title_id": "~ものがある (Memiliki kesan)",
+    "formation": [
+      {
+        "type": "Kesan",
+        "rule": "V-polos + ものがある = ada kesan",
+        "example": "かんどう する もの が ある"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "彼女の歌には感動するものがある。",
+        "romaji": "Kanojo no uta ni wa kandou suru mono ga aru.",
+        "meaning": "Lagunya ada yang menyentuh."
+      },
+      {
+        "japanese": "彼の作品にはどこか懐かしいものがある。",
+        "romaji": "Kare no sakuhin ni wa doko ka natsukashii mono ga aru.",
+        "meaning": "Karyanya ada nuansa nostalgia."
       }
     ]
   },
@@ -4965,6 +6249,84 @@
     ]
   },
   {
+    "id": "n4-grammar-e3",
+    "level": "N4",
+    "chapter": 48,
+    "pattern": "Bentuk Kausatif (Wajib/Allow)",
+    "title_id": "Kausatif - Menyuruh",
+    "formation": [
+      {
+        "type": "Memaksa",
+        "rule": "私は + Orang (を/に) + V-kausatif",
+        "example": "子供 に 野菜 を たべさせる"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "母は私に野菜を食べさせました。",
+        "romaji": "Haha wa watashi ni yasai o tabesasemashita.",
+        "meaning": "Ibu menyuruh saya makan sayur."
+      },
+      {
+        "japanese": "先生は学生に宿題をさせました。",
+        "romaji": "Sensei wa gakusei ni shukudai o sasemashita.",
+        "meaning": "Guru menyuruh murid PR."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e4",
+    "level": "N4",
+    "chapter": 48,
+    "pattern": "Bentuk Kausatif-Pasif",
+    "title_id": "Dipaksa melakukan",
+    "formation": [
+      {
+        "type": "Kausatif-pasif",
+        "rule": "V-kausatif + られる = dipaksa",
+        "example": "たべ + させられる (dipaksa makan)"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "子供の頃、野菜を食べさせられました。",
+        "romaji": "Kodomo no koro, yasai o tabesaseraremashita.",
+        "meaning": "Waktu kecil, saya dipaksa makan sayur."
+      },
+      {
+        "japanese": "会議に出させられました。",
+        "romaji": "Kaigi ni dasaseraremashita.",
+        "meaning": "Saya dipaksa hadir rapat."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e13",
+    "level": "N4",
+    "chapter": 48,
+    "pattern": "V-polos + べき / べきだ",
+    "title_id": "~べき (Seharusnya)",
+    "formation": [
+      {
+        "type": "Kewajiban",
+        "rule": "V-polos + べき + です / だ",
+        "example": "いく べき"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "もっと早く寝るべきです。",
+        "romaji": "Motto hayaku neru beki desu.",
+        "meaning": "Seharusnya tidur lebih cepat."
+      },
+      {
+        "japanese": "約束は守るべきです。",
+        "romaji": "Yakusoku wa mamoru beki desu.",
+        "meaning": "Janji harus ditepati."
+      }
+    ]
+  },
+  {
     "id": "n4-grammar-49-1",
     "level": "N4",
     "chapter": 49,
@@ -5042,6 +6404,58 @@
     ]
   },
   {
+    "id": "n4-grammar-e10",
+    "level": "N4",
+    "chapter": 49,
+    "pattern": "お/ご + V-stem + になる (Sonkeigo)",
+    "title_id": "Sonkeigo - Umum",
+    "formation": [
+      {
+        "type": "Sonkeigo",
+        "rule": "お/ご + V-masu stem + になる",
+        "example": "おきになる (お起きになる = bangun hormat)"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "先生は何時にお帰りになりますか。",
+        "romaji": "Sensei wa nanji ni o-kaeri ni narimasu ka.",
+        "meaning": "Pukul berapa guru pulang?"
+      },
+      {
+        "japanese": "お客様は何をご注文になりましたか。",
+        "romaji": "Okyakusama wa nani o go-chuumon ni narimashita ka.",
+        "meaning": "Pelanggan pesan apa?"
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e23",
+    "level": "N4",
+    "chapter": 49,
+    "pattern": "V-te + さしあげる (Memberi Hormat)",
+    "title_id": "Memberi ke atasan (Sonkeigo)",
+    "formation": [
+      {
+        "type": "Memberi hormat",
+        "rule": "V-te + さしあげる = memberi ke atasan",
+        "example": "おわたし する / おわたし さしあげる"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "先生に花を差し上げました。",
+        "romaji": "Sensei ni hana o sashiagemashita.",
+        "meaning": "Saya memberi bunga ke guru."
+      },
+      {
+        "japanese": "資料をお送りさしあげます。",
+        "romaji": "Shiryou o o-okuri sashiagemasu.",
+        "meaning": "Saya kirim dokumen (ke atasan)."
+      }
+    ]
+  },
+  {
     "id": "n4-grammar-50-1",
     "level": "N4",
     "chapter": 50,
@@ -5115,6 +6529,58 @@
         ],
         "answer": "わたしが お手伝い します",
         "explanation": "Tetsudaimasu -> O-tetsudai shimasu (Pola Kenjougo)."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e11",
+    "level": "N4",
+    "chapter": 50,
+    "pattern": "お/ご + V-stem + する / いたす (Kenjougo)",
+    "title_id": "Kenjougo - Umum",
+    "formation": [
+      {
+        "type": "Kenjougo",
+        "rule": "お + V-masu stem + する / いたす",
+        "example": "おもちする (お持ちする = membawa hormat)"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "私が荷物をお持ちします。",
+        "romaji": "Watashi ga nimotsu o omochi shimasu.",
+        "meaning": "Saya yang bawa barang."
+      },
+      {
+        "japanese": "ご案内いたします。",
+        "romaji": "Go-annai itashimasu.",
+        "meaning": "Saya pandu (Anda)."
+      }
+    ]
+  },
+  {
+    "id": "n4-grammar-e20",
+    "level": "N4",
+    "chapter": 50,
+    "pattern": "お/ご + V-stem + いただく (Sangat Sopan)",
+    "title_id": "Sonkeigo + Kenjougo",
+    "formation": [
+      {
+        "type": "Super sopan",
+        "rule": "お + V-masu stem + いただく = sangat sopan",
+        "example": "おき + いただく"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "先生にお書きいただきました。",
+        "romaji": "Sensei ni o-kaki itadakimashita.",
+        "meaning": "Guru (hormat) sudah menulis untuk saya (rendah hati)."
+      },
+      {
+        "japanese": "ご説明いただきまして、ありがとうございました。",
+        "romaji": "Go-setsumei itadakimashite, arigatou gozaimashita.",
+        "meaning": "Terima kasih sudah menjelaskan."
       }
     ]
   }

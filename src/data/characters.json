@@ -2004,7 +2004,9 @@
       "romaji": "go",
       "audioText": "ご",
       "onyomi_kana": "ご",
-      "onyomi_romaji": "GO"
+      "onyomi_romaji": "GO",
+      "kunyomi_kana": "うま",
+      "kunyomi_romaji": "uma"
     },
     {
       "character": "国",
@@ -2180,7 +2182,9 @@
       "romaji": "ki",
       "audioText": "き",
       "onyomi_kana": "き",
-      "onyomi_romaji": "KI"
+      "onyomi_romaji": "KI",
+      "kunyomi_kana": "いき",
+      "kunyomi_romaji": "iki"
     },
     {
       "character": "空",
@@ -2361,6 +2365,576 @@
       "kunyomi_kana": "まる",
       "onyomi_romaji": "EN",
       "kunyomi_romaji": "maru"
+    },
+    {
+      "character": "個",
+      "meaning": "counter (umum)",
+      "romaji": "ko",
+      "audioText": "こ",
+      "onyomi_kana": "こ",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "KO",
+      "kunyomi_romaji": ""
+    },
+    {
+      "character": "枚",
+      "meaning": "counter (benda pipih)",
+      "romaji": "mai",
+      "audioText": "まい",
+      "onyomi_kana": "まい",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "MAI",
+      "kunyomi_romaji": ""
+    },
+    {
+      "character": "匹",
+      "meaning": "counter (hewan kecil)",
+      "romaji": "hiki",
+      "audioText": "ひき",
+      "onyomi_kana": "ひき",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "HIKI",
+      "kunyomi_romaji": ""
+    },
+    {
+      "character": "冊",
+      "meaning": "counter (buku)",
+      "romaji": "satsu",
+      "audioText": "さつ",
+      "onyomi_kana": "さつ",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "SATSU",
+      "kunyomi_romaji": ""
+    },
+    {
+      "character": "才",
+      "meaning": "usia (counter alternatif 歳)",
+      "romaji": "sai",
+      "audioText": "さい",
+      "onyomi_kana": "さい",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "SAI",
+      "kunyomi_romaji": ""
+    },
+    {
+      "character": "杯",
+      "meaning": "counter (gelas)",
+      "romaji": "hai",
+      "audioText": "はい",
+      "onyomi_kana": "はい",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "HAI",
+      "kunyomi_romaji": ""
+    },
+    {
+      "character": "階",
+      "meaning": "lantai (tingkat)",
+      "romaji": "kai",
+      "audioText": "かい",
+      "onyomi_kana": "かい",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "KAI",
+      "kunyomi_romaji": ""
+    },
+    {
+      "character": "番",
+      "meaning": "nomor, urutan",
+      "romaji": "ban",
+      "audioText": "ばん",
+      "onyomi_kana": "ばん",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "BAN",
+      "kunyomi_romaji": ""
+    },
+    {
+      "character": "鼻",
+      "meaning": "hidung",
+      "romaji": "bi",
+      "audioText": "び",
+      "onyomi_kana": "び",
+      "kunyomi_kana": "はな",
+      "onyomi_romaji": "BI",
+      "kunyomi_romaji": "hana"
+    },
+    {
+      "character": "晩",
+      "meaning": "malam",
+      "romaji": "ban",
+      "audioText": "ばん",
+      "onyomi_kana": "ばん",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "BAN",
+      "kunyomi_romaji": ""
+    },
+    {
+      "character": "俺",
+      "meaning": "saya (kasual, cowok)",
+      "romaji": "ore",
+      "audioText": "おれ",
+      "onyomi_kana": "",
+      "kunyomi_kana": "おれ",
+      "onyomi_romaji": "",
+      "kunyomi_romaji": "ore"
+    },
+    {
+      "character": "僕",
+      "meaning": "saya (kasual, cowok muda)",
+      "romaji": "boku",
+      "audioText": "ぼく",
+      "onyomi_kana": "ボク",
+      "kunyomi_kana": "ぼく",
+      "onyomi_romaji": "BOKU",
+      "kunyomi_romaji": "boku"
+    },
+    {
+      "character": "達",
+      "meaning": "akhiran jamak (私達)",
+      "romaji": "tachi",
+      "audioText": "たち",
+      "onyomi_kana": "たつ",
+      "kunyomi_kana": "たち",
+      "onyomi_romaji": "TATSU",
+      "kunyomi_romaji": "tachi"
+    },
+    {
+      "character": "皆",
+      "meaning": "semua orang",
+      "romaji": "minna",
+      "audioText": "みんな",
+      "onyomi_kana": "かい",
+      "kunyomi_kana": "みな",
+      "onyomi_romaji": "KAI",
+      "kunyomi_romaji": "mina"
+    },
+    {
+      "character": "頭",
+      "meaning": "kepala, counter (hewan besar)",
+      "romaji": "tou / atama",
+      "audioText": "とう、あたま",
+      "onyomi_kana": "とう",
+      "kunyomi_kana": "あたま",
+      "onyomi_romaji": "TOU",
+      "kunyomi_romaji": "atama"
+    },
+    {
+      "character": "歳",
+      "meaning": "usia, tahun (umur)",
+      "romaji": "sai",
+      "audioText": "さい",
+      "onyomi_kana": "さい",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "SAI",
+      "kunyomi_romaji": ""
+    },
+    {
+      "character": "歯",
+      "meaning": "gigi",
+      "romaji": "shi / ha",
+      "audioText": "し、は",
+      "onyomi_kana": "し",
+      "kunyomi_kana": "は",
+      "onyomi_romaji": "SHI",
+      "kunyomi_romaji": "ha"
+    },
+    {
+      "character": "昼",
+      "meaning": "siang, makan siang",
+      "romaji": "chuu / hiru",
+      "audioText": "ちゅう、ひる",
+      "onyomi_kana": "ちゅう",
+      "kunyomi_kana": "ひる",
+      "onyomi_romaji": "CHUU",
+      "kunyomi_romaji": "hiru"
+    },
+    {
+      "character": "助",
+      "meaning": "menolong",
+      "romaji": "jo / tasu(keru)",
+      "audioText": "じょ、たす(ける)",
+      "onyomi_kana": "じょ",
+      "kunyomi_kana": "たすける",
+      "onyomi_romaji": "JO",
+      "kunyomi_romaji": "tasukeru"
+    },
+    {
+      "character": "夫",
+      "meaning": "suami, laki-laki",
+      "romaji": "fu / otto",
+      "audioText": "ふ、おっと",
+      "onyomi_kana": "ふ",
+      "kunyomi_kana": "おっと",
+      "onyomi_romaji": "FU",
+      "kunyomi_romaji": "otto"
+    },
+    {
+      "character": "婦",
+      "meaning": "istri, wanita",
+      "romaji": "fu",
+      "audioText": "ふ",
+      "onyomi_kana": "ふ",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "FU",
+      "kunyomi_romaji": ""
+    },
+    {
+      "character": "様",
+      "meaning": "bentuk, cara, -san (hormat)",
+      "romaji": "you / sama",
+      "audioText": "よう、さま",
+      "onyomi_kana": "よう",
+      "kunyomi_kana": "さま",
+      "onyomi_romaji": "YOU",
+      "kunyomi_romaji": "sama"
+    },
+    {
+      "character": "苦",
+      "meaning": "pahit, menderita",
+      "romaji": "ku / kuru(shii)",
+      "audioText": "く、くる(しい)",
+      "onyomi_kana": "く",
+      "kunyomi_kana": "くるしい",
+      "onyomi_romaji": "KU",
+      "kunyomi_romaji": "kurushii"
+    },
+    {
+      "character": "迷",
+      "meaning": "bingung, tersesat",
+      "romaji": "mei / mayo(u)",
+      "audioText": "めい、まよ(う)",
+      "onyomi_kana": "めい",
+      "kunyomi_kana": "まよう",
+      "onyomi_romaji": "MEI",
+      "kunyomi_romaji": "mayou"
+    },
+    {
+      "character": "雷",
+      "meaning": "guntur, halilintar",
+      "romaji": "rai / kaminari",
+      "audioText": "らい、かみなり",
+      "onyomi_kana": "らい",
+      "kunyomi_kana": "かみなり",
+      "onyomi_romaji": "RAI",
+      "kunyomi_romaji": "kaminari"
+    },
+    {
+      "character": "氷",
+      "meaning": "es",
+      "romaji": "hyou / koori",
+      "audioText": "ひょう、こおり",
+      "onyomi_kana": "ひょう",
+      "kunyomi_kana": "こおり",
+      "onyomi_romaji": "HYOU",
+      "kunyomi_romaji": "koori"
+    },
+    {
+      "character": "素",
+      "meaning": "putih polos, sederhana",
+      "romaji": "so",
+      "audioText": "そ",
+      "onyomi_kana": "そ",
+      "kunyomi_kana": "もと",
+      "onyomi_romaji": "SO",
+      "kunyomi_romaji": "moto"
+    },
+    {
+      "character": "疲",
+      "meaning": "lelah",
+      "romaji": "hi / tsuka(reru)",
+      "audioText": "ひ、つか(れる)",
+      "onyomi_kana": "ひ",
+      "kunyomi_kana": "つかれる",
+      "onyomi_romaji": "HI",
+      "kunyomi_romaji": "tsukareru"
+    },
+    {
+      "character": "今",
+      "meaning": "sekarang",
+      "romaji": "Kon, ima",
+      "audioText": "コン、いま",
+      "onyomi_kana": "コン",
+      "kunyomi_kana": "いま",
+      "onyomi_romaji": "KON",
+      "kunyomi_romaji": "ima"
+    },
+    {
+      "character": "毎",
+      "meaning": "setiap",
+      "romaji": "Mai, goto",
+      "audioText": "マイ、ごと",
+      "onyomi_kana": "マイ",
+      "kunyomi_kana": "ごと",
+      "onyomi_romaji": "MAI",
+      "kunyomi_romaji": "goto"
+    },
+    {
+      "character": "肉",
+      "meaning": "daging",
+      "romaji": "Niku, shishi",
+      "audioText": "ニク、しし",
+      "onyomi_kana": "ニク",
+      "kunyomi_kana": "しし",
+      "onyomi_romaji": "NIKU",
+      "kunyomi_romaji": "shishi"
+    },
+    {
+      "character": "予",
+      "meaning": "sebelumnya",
+      "romaji": "Yo, arakajime",
+      "audioText": "ヨ、あらかじめ",
+      "onyomi_kana": "ヨ",
+      "kunyomi_kana": "あらかじめ",
+      "onyomi_romaji": "YO",
+      "kunyomi_romaji": "arakajime"
+    },
+    {
+      "character": "熱",
+      "meaning": "panas, demam",
+      "romaji": "Netsu, atsui",
+      "audioText": "ネツ、あつい",
+      "onyomi_kana": "ネツ",
+      "kunyomi_kana": "あつい",
+      "onyomi_romaji": "NETSU",
+      "kunyomi_romaji": "atsui"
+    },
+    {
+      "character": "部",
+      "meaning": "bagian, departemen",
+      "romaji": "Bu, he",
+      "audioText": "ブ、へ",
+      "onyomi_kana": "ブ",
+      "kunyomi_kana": "へ",
+      "onyomi_romaji": "BU",
+      "kunyomi_romaji": "he"
+    },
+    {
+      "character": "靴",
+      "meaning": "sepatu",
+      "romaji": "Ka, kutsu",
+      "audioText": "カ、くつ",
+      "onyomi_kana": "カ",
+      "kunyomi_kana": "くつ",
+      "onyomi_romaji": "KA",
+      "kunyomi_romaji": "kutsu"
+    },
+    {
+      "character": "情",
+      "meaning": "perasaan, emosi",
+      "romaji": "Jou, nasake",
+      "audioText": "ジョウ、なさけ",
+      "onyomi_kana": "ジョウ",
+      "kunyomi_kana": "なさけ",
+      "onyomi_romaji": "JOU",
+      "kunyomi_romaji": "nasake"
+    },
+    {
+      "character": "背",
+      "meaning": "punggung, tinggi badan",
+      "romaji": "Hai, se, sei",
+      "audioText": "ハイ、せ, せい",
+      "onyomi_kana": "ハイ",
+      "kunyomi_kana": "せ, せい",
+      "onyomi_romaji": "HAI",
+      "kunyomi_romaji": "se, sei"
+    },
+    {
+      "character": "法",
+      "meaning": "hukum, metode",
+      "romaji": "Hou, nori",
+      "audioText": "ホウ、のり",
+      "onyomi_kana": "ホウ",
+      "kunyomi_kana": "のり",
+      "onyomi_romaji": "HOU",
+      "kunyomi_romaji": "nori"
+    },
+    {
+      "character": "内",
+      "meaning": "dalam",
+      "romaji": "Nai, uchi",
+      "audioText": "ナイ、うち",
+      "onyomi_kana": "ナイ",
+      "kunyomi_kana": "うち",
+      "onyomi_romaji": "NAI",
+      "kunyomi_romaji": "uchi"
+    },
+    {
+      "character": "直",
+      "meaning": "lurus, memperbaiki",
+      "romaji": "Choku, naoru, naosu",
+      "audioText": "チョク、なおる, なおす",
+      "onyomi_kana": "チョク",
+      "kunyomi_kana": "なおる, なおす",
+      "onyomi_romaji": "CHOKU",
+      "kunyomi_romaji": "naoru, naosu"
+    },
+    {
+      "character": "布",
+      "meaning": "kain",
+      "romaji": "Fu, nuno",
+      "audioText": "フ、ぬの",
+      "onyomi_kana": "フ",
+      "kunyomi_kana": "ぬの",
+      "onyomi_romaji": "FU",
+      "kunyomi_romaji": "nuno"
+    },
+    {
+      "character": "葉",
+      "meaning": "daun",
+      "romaji": "You, ha",
+      "audioText": "ヨウ、は",
+      "onyomi_kana": "ヨウ",
+      "kunyomi_kana": "は",
+      "onyomi_romaji": "YOU",
+      "kunyomi_romaji": "ha"
+    },
+    {
+      "character": "市",
+      "meaning": "kota, pasar",
+      "romaji": "Shi, ichi",
+      "audioText": "シ、いち",
+      "onyomi_kana": "シ",
+      "kunyomi_kana": "いち",
+      "onyomi_romaji": "SHI",
+      "kunyomi_romaji": "ichi"
+    },
+    {
+      "character": "庭",
+      "meaning": "taman, halaman",
+      "romaji": "Tei, niwa",
+      "audioText": "テイ、にわ",
+      "onyomi_kana": "テイ",
+      "kunyomi_kana": "にわ",
+      "onyomi_romaji": "TEI",
+      "kunyomi_romaji": "niwa"
+    },
+    {
+      "character": "茶",
+      "meaning": "teh",
+      "romaji": "Cha",
+      "audioText": "チャ",
+      "onyomi_kana": "チャ",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "CHA",
+      "kunyomi_romaji": ""
+    },
+    {
+      "character": "服",
+      "meaning": "pakaian",
+      "romaji": "Fuku",
+      "audioText": "フク",
+      "onyomi_kana": "フク",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "FUKU",
+      "kunyomi_romaji": ""
+    },
+    {
+      "character": "全",
+      "meaning": "seluruh, semua",
+      "romaji": "Zen, mattaku",
+      "audioText": "ゼン、まったく",
+      "onyomi_kana": "ゼン",
+      "kunyomi_kana": "まったく",
+      "onyomi_romaji": "ZEN",
+      "kunyomi_romaji": "mattaku"
+    },
+    {
+      "character": "最",
+      "meaning": "paling",
+      "romaji": "Sai, motto",
+      "audioText": "サイ、もっと",
+      "onyomi_kana": "サイ",
+      "kunyomi_kana": "もっと",
+      "onyomi_romaji": "SAI",
+      "kunyomi_romaji": "motto"
+    },
+    {
+      "character": "報",
+      "meaning": "laporan, membalas",
+      "romaji": "Hou, mukuiru",
+      "audioText": "ホウ、むくいる",
+      "onyomi_kana": "ホウ",
+      "kunyomi_kana": "むくいる",
+      "onyomi_romaji": "HOU",
+      "kunyomi_romaji": "mukuiru"
+    },
+    {
+      "character": "彼",
+      "meaning": "dia (laki)",
+      "romaji": "Hi, kare",
+      "audioText": "ヒ、かれ",
+      "onyomi_kana": "ヒ",
+      "kunyomi_kana": "かれ",
+      "onyomi_romaji": "HI",
+      "kunyomi_romaji": "kare"
+    },
+    {
+      "character": "房",
+      "meaning": "ruangan, ruang",
+      "romaji": "Bou, fusa",
+      "audioText": "ボウ、ふさ",
+      "onyomi_kana": "ボウ",
+      "kunyomi_kana": "ふさ",
+      "onyomi_romaji": "BOU",
+      "kunyomi_romaji": "fusa"
+    },
+    {
+      "character": "鳥",
+      "meaning": "burung",
+      "romaji": "Chou, tori",
+      "audioText": "チョウ、とり",
+      "onyomi_kana": "チョウ",
+      "kunyomi_kana": "とり",
+      "onyomi_romaji": "CHOU",
+      "kunyomi_romaji": "tori"
+    },
+    {
+      "character": "踊",
+      "meaning": "menari",
+      "romaji": "You, odoru",
+      "audioText": "ヨウ、おどる",
+      "onyomi_kana": "ヨウ",
+      "kunyomi_kana": "おどる",
+      "onyomi_romaji": "YOU",
+      "kunyomi_romaji": "odoru"
+    },
+    {
+      "character": "飯",
+      "meaning": "nasi, makanan",
+      "romaji": "Han, meshi",
+      "audioText": "ハン、めし",
+      "onyomi_kana": "ハン",
+      "kunyomi_kana": "めし",
+      "onyomi_romaji": "HAN",
+      "kunyomi_romaji": "meshi"
+    },
+    {
+      "character": "単",
+      "meaning": "sederhana, tunggal",
+      "romaji": "Tan, hitoe",
+      "audioText": "タン、ひとえ",
+      "onyomi_kana": "タン",
+      "kunyomi_kana": "ひとえ",
+      "onyomi_romaji": "TAN",
+      "kunyomi_romaji": "hitoe"
+    },
+    {
+      "character": "習",
+      "meaning": "belajar",
+      "romaji": "Shuu, narau",
+      "audioText": "シュウ、ならう",
+      "onyomi_kana": "シュウ",
+      "kunyomi_kana": "ならう",
+      "onyomi_romaji": "SHUU",
+      "kunyomi_romaji": "narau"
+    },
+    {
+      "character": "都",
+      "meaning": "ibu kota, metropolis",
+      "romaji": "To, miyako",
+      "audioText": "ト、みやこ",
+      "onyomi_kana": "ト",
+      "kunyomi_kana": "みやこ",
+      "onyomi_romaji": "TO",
+      "kunyomi_romaji": "miyako"
     }
   ],
   "vocabulary_n5": [
@@ -12804,6 +13378,1821 @@
           "id": "Mengenakan celana panjang hitam."
         }
       ]
+    },
+    {
+      "id": "vocab-n5-missing-001",
+      "character": "個",
+      "romaji": "ko",
+      "meaning": "counter untuk benda kecil (umum)",
+      "kana": "こ",
+      "examples": [
+        {
+          "jp": "りんごを三個ください。",
+          "kana": "りんごをさんこください。",
+          "id": "Tolong tiga buah apel."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-002",
+      "character": "枚",
+      "romaji": "mai",
+      "meaning": "counter untuk benda pipih (kertas, piring, baju)",
+      "kana": "まい",
+      "examples": [
+        {
+          "jp": "紙を二枚使ってください。",
+          "kana": "かみをにまいつかってください。",
+          "id": "Tolong gunakan dua lembar kertas."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-003",
+      "character": "台",
+      "romaji": "dai",
+      "meaning": "counter untuk mesin/kendaraan (mobil, TV, kulkas)",
+      "kana": "だい",
+      "examples": [
+        {
+          "jp": "私の家には車が二台あります。",
+          "kana": "わたしのいえにはくるまがにだいあります。",
+          "id": "Di rumah saya ada dua mobil."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-004",
+      "character": "匹",
+      "romaji": "hiki",
+      "meaning": "counter untuk hewan kecil-menengah (kucing, anjing, ikan)",
+      "kana": "ひき",
+      "examples": [
+        {
+          "jp": "私は犬を一匹飼っています。",
+          "kana": "わたしはいぬをいっぴきかっています。",
+          "id": "Saya memelihara satu ekor anjing."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-006",
+      "character": "冊",
+      "romaji": "satsu",
+      "meaning": "counter untuk buku/majalah",
+      "kana": "さつ",
+      "examples": [
+        {
+          "jp": "今月、本を三冊読みました。",
+          "kana": "こんげつ、ほんをさんさつよみました。",
+          "id": "Bulan ini saya membaca tiga buku."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-007",
+      "character": "歳",
+      "romaji": "sai",
+      "meaning": "usia (untuk anak); counter untuk umur",
+      "kana": "さい",
+      "examples": [
+        {
+          "jp": "私の弟は八歳です。",
+          "kana": "わたしのおとうとははっさいです。",
+          "id": "Adik laki-laki saya usia 8 tahun."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-008",
+      "character": "才",
+      "romaji": "sai",
+      "meaning": "usia (penulisan alternatif dari 歳)",
+      "kana": "さい",
+      "examples": [
+        {
+          "jp": "二十才になりました。",
+          "kana": "はたちになりました。",
+          "id": "Saya jadi 20 tahun."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-009",
+      "character": "杯",
+      "romaji": "hai",
+      "meaning": "counter untuk gelas/cangkir (minuman)",
+      "kana": "はい",
+      "examples": [
+        {
+          "jp": "ビールを三杯飲みました。",
+          "kana": "ビールをさんばいのみました。",
+          "id": "Saya minum tiga gelas bir."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-010",
+      "character": "回",
+      "romaji": "kai",
+      "meaning": "counter untuk frekuensi/kali",
+      "kana": "かい",
+      "examples": [
+        {
+          "jp": "週に二回ジムに行きます。",
+          "kana": "しゅうにかいジムにいきます。",
+          "id": "Saya pergi gym dua kali seminggu."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-011",
+      "character": "度",
+      "romaji": "do",
+      "meaning": "counter untuk kali/derajat (suhu, pengalaman)",
+      "kana": "ど",
+      "examples": [
+        {
+          "jp": "この薬を一日三回飲んでください。",
+          "kana": "このくすりをいちにちさんかいのんでください。",
+          "id": "Minum obat ini 3x sehari."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-012",
+      "character": "階",
+      "romaji": "kai",
+      "meaning": "lantai (tingkat bangunan)",
+      "kana": "かい",
+      "examples": [
+        {
+          "jp": "デパートは五階建てです。",
+          "kana": "デパートはごかいだてです。",
+          "id": "Department store-nya 5 lantai."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-013",
+      "character": "番",
+      "romaji": "ban",
+      "meaning": "counter untuk nomor/urutan",
+      "kana": "ばん",
+      "examples": [
+        {
+          "jp": "一番好きな食べ物は何ですか。",
+          "kana": "いちばんすきなたべものはなんですか。",
+          "id": "Makanan favorit nomor satu apa?"
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-014",
+      "character": "週間",
+      "romaji": "shuukan",
+      "meaning": "counter untuk minggu (durasi)",
+      "kana": "しゅうかん",
+      "examples": [
+        {
+          "jp": "二週間旅行しました。",
+          "kana": "にしゅうかんりょこうしました。",
+          "id": "Saya traveling selama dua minggu."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-015",
+      "character": "か月",
+      "romaji": "kagetsu",
+      "meaning": "counter untuk bulan (durasi)",
+      "kana": "かげつ",
+      "examples": [
+        {
+          "jp": "日本語を三か月勉強しました。",
+          "kana": "にほんごをさんかげつべんきょうしました。",
+          "id": "Saya belajar bahasa Jepang tiga bulan."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-016",
+      "character": "ヶ月",
+      "romaji": "kagetsu",
+      "meaning": "counter untuk bulan (penulisan alternatif)",
+      "kana": "かげつ",
+      "examples": [
+        {
+          "jp": "東京に六ヶ月住んでいます。",
+          "kana": "とうきょうにろっかげつすんでいます。",
+          "id": "Saya tinggal di Tokyo 6 bulan."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-017",
+      "character": "年間",
+      "romaji": "nenkan",
+      "meaning": "counter untuk tahun (durasi)",
+      "kana": "ねんかん",
+      "examples": [
+        {
+          "jp": "ここで五年間働いています。",
+          "kana": "ここでごねんかんはたらいています。",
+          "id": "Saya kerja di sini 5 tahun."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-019",
+      "character": "目",
+      "romaji": "me",
+      "meaning": "mata",
+      "kana": "め",
+      "examples": [
+        {
+          "jp": "目が悪いですね。",
+          "kana": "めがわるいですね。",
+          "id": "Mata Anda kurang baik ya."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-020",
+      "character": "耳",
+      "romaji": "mimi",
+      "meaning": "telinga",
+      "kana": "みみ",
+      "examples": [
+        {
+          "jp": "耳が聞こえにくいです。",
+          "kana": "みみがきこえにくいです。",
+          "id": "Telinga saya sulit mendengar."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-021",
+      "character": "鼻",
+      "romaji": "hana",
+      "meaning": "hidung",
+      "kana": "はな",
+      "examples": [
+        {
+          "jp": "鼻がつまっています。",
+          "kana": "はながつまっています。",
+          "id": "Hidung saya tersumbat."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-022",
+      "character": "歯",
+      "romaji": "ha",
+      "meaning": "gigi",
+      "kana": "は",
+      "examples": [
+        {
+          "jp": "毎日歯を磨きます。",
+          "kana": "まいにちはをみがきます。",
+          "id": "Saya menggosok gigi setiap hari."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-023",
+      "character": "あなた",
+      "romaji": "anata",
+      "meaning": "Anda (formal/tapi jarang ke pasangan)",
+      "kana": "あなた",
+      "examples": [
+        {
+          "jp": "あなたは学生ですか。",
+          "kana": "あなたはがくせいですか。",
+          "id": "Apakah Anda mahasiswa?"
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-024",
+      "character": "私達",
+      "romaji": "watashitachi",
+      "meaning": "kami (jamak dari 私)",
+      "kana": "わたしたち",
+      "examples": [
+        {
+          "jp": "私達は毎日勉強します。",
+          "kana": "わたしたちはまいにちべんきょうします。",
+          "id": "Kami belajar setiap hari."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-026",
+      "character": "俺",
+      "romaji": "ore",
+      "meaning": "saya (kasual, cowok)",
+      "kana": "おれ",
+      "examples": [
+        {
+          "jp": "俺は日本に行きたい。",
+          "kana": "おれはにほんにいきたい。",
+          "id": "Saya (cowok) mau ke Jepang."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-028",
+      "character": "赤ちゃん",
+      "romaji": "akachan",
+      "meaning": "bayi",
+      "kana": "あかちゃん",
+      "examples": [
+        {
+          "jp": "赤ちゃんが笑っています。",
+          "kana": "あかちゃんがわらっています。",
+          "id": "Bayinya sedang tersenyum."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-029",
+      "character": "父",
+      "romaji": "chichi",
+      "meaning": "ayah saya (rendah hati, bicara sendiri)",
+      "kana": "ちち",
+      "examples": [
+        {
+          "jp": "私の父は先生です。",
+          "kana": "わたしのちちは先生です。",
+          "id": "Ayah saya adalah guru."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-030",
+      "character": "母",
+      "romaji": "haha",
+      "meaning": "ibu saya (rendah hati, bicara sendiri)",
+      "kana": "はは",
+      "examples": [
+        {
+          "jp": "私の母は優しいです。",
+          "kana": "わたしのははやさしいです。",
+          "id": "Ibu saya baik hati."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-033",
+      "character": "朝ごはん",
+      "romaji": "asagohan",
+      "meaning": "sarapan, makan pagi",
+      "kana": "あさごはん",
+      "examples": [
+        {
+          "jp": "毎日朝ごはんを食べます。",
+          "kana": "まいにちあさごはんをたべます。",
+          "id": "Saya sarapan setiap hari."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-034",
+      "character": "昼ごはん",
+      "romaji": "hirugohan",
+      "meaning": "makan siang",
+      "kana": "ひるごはん",
+      "examples": [
+        {
+          "jp": "昼ごはんはもう食べましたか。",
+          "kana": "ひるごはんはもうたべましたか。",
+          "id": "Sudah makan siang?"
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-035",
+      "character": "晩ごはん",
+      "romaji": "bangohan",
+      "meaning": "makan malam",
+      "kana": "ばんごはん",
+      "examples": [
+        {
+          "jp": "一緒に晩ごはんを食べませんか。",
+          "kana": "いっしょにばんごはんをたべませんか。",
+          "id": "Mau makan malam bersama?"
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-036",
+      "character": "五人",
+      "romaji": "gonin",
+      "meaning": "lima orang",
+      "kana": "ごにん",
+      "examples": [
+        {
+          "jp": "家族は五人です。",
+          "kana": "かぞくはごにんです。",
+          "id": "Keluarga saya beranggotakan lima orang."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-037",
+      "character": "六人",
+      "romaji": "rokunin",
+      "meaning": "enam orang",
+      "kana": "ろくにん",
+      "examples": [
+        {
+          "jp": "クラスの学生は六人です。",
+          "kana": "クラスのがくせいはろくにんです。",
+          "id": "Siswa di kelas ada enam orang."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-038",
+      "character": "七人",
+      "romaji": "nanamin / shichinin",
+      "meaning": "tujuh orang",
+      "kana": "ななにん / しちにん",
+      "examples": [
+        {
+          "jp": "七人の友達とパーティーをしました。",
+          "kana": "ななにんのともだちとパーティーをしました。",
+          "id": "Saya pesta dengan tujuh teman."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-039",
+      "character": "八人",
+      "romaji": "hachinin",
+      "meaning": "delapan orang",
+      "kana": "はちにん",
+      "examples": [
+        {
+          "jp": "兄弟が八人います。",
+          "kana": "きょうだいがはちにんいます。",
+          "id": "Saudara kandung ada delapan."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-040",
+      "character": "九人",
+      "romaji": "kujuu / kunin",
+      "meaning": "sembilan orang",
+      "kana": "きゅうにん",
+      "examples": [
+        {
+          "jp": "九人のグループで旅行しました。",
+          "kana": "きゅうにんのグループでりょこうしました。",
+          "id": "Kami traveling dengan kelompok sembilan orang."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-041",
+      "character": "十人",
+      "romaji": "juunin",
+      "meaning": "sepuluh orang",
+      "kana": "じゅうにん",
+      "examples": [
+        {
+          "jp": "教室に学生が十人います。",
+          "kana": "きょうしつにがくせいがじゅうにんいます。",
+          "id": "Di kelas ada sepuluh mahasiswa."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-042",
+      "character": "何人",
+      "romaji": "nannin",
+      "meaning": "berapa orang",
+      "kana": "なんにん",
+      "examples": [
+        {
+          "jp": "ご家族は何人ですか。",
+          "kana": "ごかぞくはなんにんですか。",
+          "id": "Keluarga Anda berapa orang?"
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-missing-047",
+      "character": "だいたい",
+      "romaji": "daitai",
+      "meaning": "kurang lebih, kira-kira",
+      "kana": "だいたい",
+      "examples": [
+        {
+          "jp": "だいたいいつ終わりますか。",
+          "kana": "だいたいいつおわりますか。",
+          "id": "Kira-kira selesai kapan?"
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-001",
+      "character": "お願いします",
+      "romaji": "onegaishimasu",
+      "meaning": "tolong / saya mohon (ungkapan sopan)",
+      "kana": "おねがいします",
+      "examples": [
+        {
+          "jp": " coffee を一つお願いします。",
+          "kana": "コーヒーをひとつおねがいします。",
+          "id": "Satu kopi, tolong."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-002",
+      "character": "よろしくお願いします",
+      "romaji": "yoroshiku onegaishimasu",
+      "meaning": "salam perkenalan/permohonan (biasa dipakai saat bertemu/surat)",
+      "kana": "よろしくおねがいします",
+      "examples": [
+        {
+          "jp": "初めまして、田中です。よろしくお願いします。",
+          "kana": "はじめまして、たなかです。よろしくおねがいします。",
+          "id": "Perkenalkan, saya Tanaka. Senang berkenalan."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-003",
+      "character": "お疲れ様",
+      "romaji": "otsukaresama",
+      "meaning": "selamat bekerja / bagus (ungkapan setelah kerja)",
+      "kana": "おつかれさま",
+      "examples": [
+        {
+          "jp": "今日は一日お疲れ様でした。",
+          "kana": "きょうはいちにちおつかれさまでした。",
+          "id": "Hari ini kerja bagus ya."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-004",
+      "character": "おやすみなさい",
+      "romaji": "oyasuminasai",
+      "meaning": "selamat malam / selamat istirahat (sebelum tidur)",
+      "kana": "おやすみなさい",
+      "examples": [
+        {
+          "jp": "もう遅いから、おやすみなさい。",
+          "kana": "もうおそいから、おやすみなさい。",
+          "id": "Sudah larut, selamat istirahat."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-005",
+      "character": "三日",
+      "romaji": "mikka",
+      "meaning": "tiga hari / tanggal tiga",
+      "kana": "みっか",
+      "examples": [
+        {
+          "jp": "会社に来て三日です。",
+          "kana": "かいしゃにきてみっかです。",
+          "id": "Sudah tiga hari bekerja di perusahaan."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-006",
+      "character": "十四日",
+      "romaji": "juuyokka",
+      "meaning": "empat belas hari / tanggal empat belas",
+      "kana": "じゅうよっか",
+      "examples": [
+        {
+          "jp": "誕生日は十四日です。",
+          "kana": "たんじょうびはじゅうよっかです。",
+          "id": "Ulang tahun saya tanggal 14."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-007",
+      "character": "でも",
+      "romaji": "demo",
+      "meaning": "tapi, namun (kontras)",
+      "kana": "でも",
+      "examples": [
+        {
+          "jp": "高いですよ。でも、品質がいいです。",
+          "kana": "たかいですよ。でも、ひんしつがいです。",
+          "id": "Mahal ya. Tapi kualitasnya bagus."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-008",
+      "character": "そこで",
+      "romaji": "sokode",
+      "meaning": "karena itu, lalu (penghubung urutan/alasan)",
+      "kana": "そこで",
+      "examples": [
+        {
+          "jp": "道に迷いました。そこで、警察に聞きました。",
+          "kana": "みちにまよいました。そこで、けいさつにききました。",
+          "id": "Saya tersesat. Lalu, saya tanya ke polisi."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-009",
+      "character": "夫婦",
+      "romaji": "fuufu",
+      "meaning": "suami-istri (pasangan)",
+      "kana": "ふうふ",
+      "examples": [
+        {
+          "jp": "田中さん夫婦は仲がいいです。",
+          "kana": "たなかさんふうふはなかがいいです。",
+          "id": "Pasangan Tanaka rukun."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-010",
+      "character": "親戚",
+      "romaji": "shinseki",
+      "meaning": "saudara jauh, kerabat",
+      "kana": "しんせき",
+      "examples": [
+        {
+          "jp": "正月に親戚の家に行きます。",
+          "kana": "しょうがつにしんせきのいえにいきます。",
+          "id": "Tahun baru pergi ke rumah kerabat."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-011",
+      "character": "孫",
+      "romaji": "mago",
+      "meaning": "cucu",
+      "kana": "まご",
+      "examples": [
+        {
+          "jp": "祖母は孫に会いたがっています。",
+          "kana": "そぼはまごにあいたがっています。",
+          "id": "Nenek ingin bertemu cucunya."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-012",
+      "character": "叔父",
+      "romaji": "oji",
+      "meaning": "paman (adik laki-laki ayah/ibu)",
+      "kana": "おじ",
+      "examples": [
+        {
+          "jp": "叔父は東京に住んでいます。",
+          "kana": "おじはとうきょうにすんでいます。",
+          "id": "Paman tinggal di Tokyo."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-013",
+      "character": "叔母",
+      "romaji": "oba",
+      "meaning": "bibi (adik perempuan ayah/ibu)",
+      "kana": "おば",
+      "examples": [
+        {
+          "jp": "叔母は料理が上手です。",
+          "kana": "おばはりょうりがじょうずです。",
+          "id": "Bibi pandai masak."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-014",
+      "character": "甥",
+      "romaji": "oi",
+      "meaning": "keponakan laki-laki (anak saudara)",
+      "kana": "おい",
+      "examples": [
+        {
+          "jp": "甥は来月から大学生になります。",
+          "kana": "おいはらいげつからだいがくせいになります。",
+          "id": "Keponakan laki-laki saya jadi mahasiswa bulan depan."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-015",
+      "character": "姪",
+      "romaji": "mei",
+      "meaning": "keponakan perempuan (anak saudara)",
+      "kana": "めい",
+      "examples": [
+        {
+          "jp": "姪はピアノを習っています。",
+          "kana": "めいはピアノをならっています。",
+          "id": "Keponakan perempuan sedang les piano."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-016",
+      "character": "新郎",
+      "romaji": "shinrou",
+      "meaning": "pengantin pria",
+      "kana": "しんろう",
+      "examples": [
+        {
+          "jp": "新郎新婦の入場です。",
+          "kana": "しんろうしんぷのにゅうじょうです。",
+          "id": "Masuknya pengantin pengantin."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-017",
+      "character": "新婦",
+      "romaji": "shinpu",
+      "meaning": "pengantin wanita",
+      "kana": "しんぷ",
+      "examples": [
+        {
+          "jp": "新婦は白いドレスを着ています。",
+          "kana": "しんぷはしろいドレスをきています。",
+          "id": "Pengantin wanita pakai gaun putih."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-018",
+      "character": "晴れ",
+      "romaji": "hare",
+      "meaning": "cerah",
+      "kana": "はれ",
+      "examples": [
+        {
+          "jp": "今日は一日中晴れです。",
+          "kana": "きょうはいちにちじゅうはれです。",
+          "id": "Hari ini cerah sepanjang hari."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-019",
+      "character": "雷",
+      "romaji": "kaminari",
+      "meaning": "guntur, halilintar",
+      "kana": "かみなり",
+      "examples": [
+        {
+          "jp": "夏には雷がよく鳴ります。",
+          "kana": "なつにはかみなりがよくなります。",
+          "id": "Musim panas banyak guntur."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-020",
+      "character": "津波",
+      "romaji": "tsunami",
+      "meaning": "tsunami, gelombang besar",
+      "kana": "つなみ",
+      "examples": [
+        {
+          "jp": "津波警報が出ました。",
+          "kana": "つなみけいほうがでました。",
+          "id": "Peringatan tsunami dikeluarkan."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-021",
+      "character": "霧",
+      "romaji": "kiri",
+      "meaning": "kabut",
+      "kana": "きり",
+      "examples": [
+        {
+          "jp": "朝は霧が深くて運転が危険です。",
+          "kana": "あさはきりがふかくてうんてんがきけんです。",
+          "id": "Pagi berkabut tebal, bahaya menyetir."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-022",
+      "character": "霜",
+      "romaji": "shimo",
+      "meaning": "embun beku",
+      "kana": "しも",
+      "examples": [
+        {
+          "jp": "冬になると、朝霜が降ります。",
+          "kana": "ふゆになると、あさしもがふります。",
+          "id": "Musim dingin, pagi ada embun beku."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-023",
+      "character": "氷",
+      "romaji": "koori",
+      "meaning": "es",
+      "kana": "こおり",
+      "examples": [
+        {
+          "jp": "冬は道に氷が張ります。",
+          "kana": "ふゆはみちにこおりがはります。",
+          "id": "Musim dingin, jalan ada es."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-024",
+      "character": "迷う",
+      "romaji": "mayou",
+      "meaning": "tersesat, bingung",
+      "kana": "まよう",
+      "examples": [
+        {
+          "jp": "道に迷って、遅れました。",
+          "kana": "みちにまよって、おくれました。",
+          "id": "Saya tersesat dan jadi terlambat."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-025",
+      "character": "助ける",
+      "romaji": "tasukeru",
+      "meaning": "menolong",
+      "kana": "たすける",
+      "examples": [
+        {
+          "jp": "溺れている人を助けました。",
+          "kana": "おぼれているひとをたすけました。",
+          "id": "Saya menolong orang yang tenggelam."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-026",
+      "character": "動かす",
+      "romaji": "ugokasu",
+      "meaning": "menggerakkan (transitif)",
+      "kana": "うごかす",
+      "examples": [
+        {
+          "jp": "この箱を動かさないでください。",
+          "kana": "このはこうごかさないでください。",
+          "id": "Tolong jangan gerakkan kotak ini."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-027",
+      "character": "苦しい",
+      "romaji": "kurushii",
+      "meaning": "menderitanya, sesak",
+      "kana": "くるしい",
+      "examples": [
+        {
+          "jp": "息が苦しくて病院に行きました。",
+          "kana": "いきがくるしくてびょういんにいきました。",
+          "id": "Nafas saya sesak, jadi ke RS."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-028",
+      "character": "素晴らしい",
+      "romaji": "subarashii",
+      "meaning": "luar biasa, hebat",
+      "kana": "すばらしい",
+      "examples": [
+        {
+          "jp": "彼女の演奏は素晴らしいです。",
+          "kana": "かのじょのえんそうはすばらしいです。",
+          "id": "Penampilannya luar biasa."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-029",
+      "character": "鋭い",
+      "romaji": "surudoi",
+      "meaning": "tajam (benda: pisau/penglihatan)",
+      "kana": "するどい",
+      "examples": [
+        {
+          "jp": "この包丁はとても鋭いです。",
+          "kana": "このほうちょうはするどいです。",
+          "id": "Pisau ini sangat tajam."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-v2-030",
+      "character": "鈍い",
+      "romaji": "nibui",
+      "meaning": "tumpul, lamban",
+      "kana": "にぶい",
+      "examples": [
+        {
+          "jp": "このナイフは鈍くて切れません。",
+          "kana": "このナイフはにぶくてきれません。",
+          "id": "Pisau ini tumpul, tidak bisa memotong."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-001",
+      "character": "一月",
+      "romaji": "ichigatsu",
+      "meaning": "bulan Januari",
+      "kana": "いちがつ",
+      "examples": [
+        {
+          "jp": "一月は寒いです。",
+          "kana": "いちがつはさむいです。",
+          "id": "Januari dingin."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-002",
+      "character": "二月",
+      "romaji": "nigatsu",
+      "meaning": "bulan Februari",
+      "kana": "にがつ",
+      "examples": [
+        {
+          "jp": "二月に試験があります。",
+          "kana": "にがつにしけんがあります。",
+          "id": "Ada ujian di bulan Februari."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-003",
+      "character": "三月",
+      "romaji": "sangatsu",
+      "meaning": "bulan Maret",
+      "kana": "さんがつ",
+      "examples": [
+        {
+          "jp": "三月は卒業の月です。",
+          "kana": "さんげつはそつぎょうのつきです。",
+          "id": "Maret adalah bulan kelulusan."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-004",
+      "character": "四月",
+      "romaji": "shigatsu",
+      "meaning": "bulan April",
+      "kana": "しがつ",
+      "examples": [
+        {
+          "jp": "四月から大学に入ります。",
+          "kana": "しがつからだいがくにはいります。",
+          "id": "Mulai April masuk universitas."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-005",
+      "character": "五月",
+      "romaji": "gogatsu",
+      "meaning": "bulan Mei",
+      "kana": "ごがつ",
+      "examples": [
+        {
+          "jp": "五月はゴールデンウィークです。",
+          "kana": "ごがつはゴールデンウィークです。",
+          "id": "Mei adalah Golden Week."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-006",
+      "character": "六月",
+      "romaji": "rokugatsu",
+      "meaning": "bulan Juni",
+      "kana": "ろくがつ",
+      "examples": [
+        {
+          "jp": "六月は雨が多いです。",
+          "kana": "ろくがちはあめがおおいです。",
+          "id": "Juni banyak hujan."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-007",
+      "character": "七月",
+      "romaji": "shichigatsu",
+      "meaning": "bulan Juli",
+      "kana": "しちがつ",
+      "examples": [
+        {
+          "jp": "七月は暑いです。",
+          "kana": "しちがつはあついです。",
+          "id": "Juli panas."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-008",
+      "character": "八月",
+      "romaji": "hachigatsu",
+      "meaning": "bulan Agustus",
+      "kana": "はちがつ",
+      "examples": [
+        {
+          "jp": "八月は夏休みです。",
+          "kana": "はちがつはなつやすみです。",
+          "id": "Agustus liburan musim panas."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-009",
+      "character": "九月",
+      "romaji": "kugatsu",
+      "meaning": "bulan September",
+      "kana": "くがつ",
+      "examples": [
+        {
+          "jp": "九月から新学期です。",
+          "kana": "くがつからしんがっきです。",
+          "id": "September awal semester baru."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-010",
+      "character": "十月",
+      "romaji": "juugatsu",
+      "meaning": "bulan Oktober",
+      "kana": "じゅうがつ",
+      "examples": [
+        {
+          "jp": "十月はスポーツの月です。",
+          "kana": "じゅうがつはスポーツのつきです。",
+          "id": "Oktober bulan olahraga."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-011",
+      "character": "十一月",
+      "romaji": "juuichigatsu",
+      "meaning": "bulan November",
+      "kana": "じゅういちがつ",
+      "examples": [
+        {
+          "jp": "十一月は紅葉がきれいです。",
+          "kana": "じゅういちがつはこうようがきれいです。",
+          "id": "November bagus untuk daun merah."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-012",
+      "character": "十二月",
+      "romaji": "juunigatsu",
+      "meaning": "bulan Desember",
+      "kana": "じゅうにがつ",
+      "examples": [
+        {
+          "jp": "十二月はクリスマスがあります。",
+          "kana": "じゅうにがつはクリスマスがあります。",
+          "id": "Desember ada Natal."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-013",
+      "character": "明け方",
+      "romaji": "akegata",
+      "meaning": "fajar, menjelang pagi",
+      "kana": "あけがた",
+      "examples": [
+        {
+          "jp": "明け方に出発しました。",
+          "kana": "あけがたにしゅっぱつしました。",
+          "id": "Berangkat menjelang pagi."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-014",
+      "character": "夜中",
+      "romaji": "yonaka",
+      "meaning": "tengah malam",
+      "kana": "よなか",
+      "examples": [
+        {
+          "jp": "夜中まで勉強しました。",
+          "kana": "よなかまでべんきょうしました。",
+          "id": "Belajar sampai tengah malam."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-015",
+      "character": "終日",
+      "romaji": "shuujitsu",
+      "meaning": "sepanjang hari",
+      "kana": "しゅうじつ",
+      "examples": [
+        {
+          "jp": "終日雨が降りました。",
+          "kana": "しゅうじつあめがふりました。",
+          "id": "Hujan sepanjang hari."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-016",
+      "character": "おととい",
+      "romaji": "ototoi",
+      "meaning": "kemarin dulu",
+      "kana": "おととい",
+      "examples": [
+        {
+          "jp": "おととい映画を見ました。",
+          "kana": "おとといえいがをみました。",
+          "id": "Kemarin dulu nonton film."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-017",
+      "character": "あさって",
+      "romaji": "asatte",
+      "meaning": "lusa",
+      "kana": "あさって",
+      "examples": [
+        {
+          "jp": "あさって友達と会います。",
+          "kana": "あさってともだちとあいます。",
+          "id": "Lusa ketemu teman."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-018",
+      "character": "腹",
+      "romaji": "hara",
+      "meaning": "perut",
+      "kana": "はら",
+      "examples": [
+        {
+          "jp": "腹が痛いです。",
+          "kana": "はらがいたいです。",
+          "id": "Perut saya sakit."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-019",
+      "character": "爪",
+      "romaji": "tsume",
+      "meaning": "kuku",
+      "kana": "つめ",
+      "examples": [
+        {
+          "jp": "爪が伸びました。",
+          "kana": "つめがのびました。",
+          "id": "Kuku saya panjang."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-020",
+      "character": "肌",
+      "romaji": "hada",
+      "meaning": "kulit",
+      "kana": "はだ",
+      "examples": [
+        {
+          "jp": "肌が乾燥しています。",
+          "kana": "はだがかんそうしています。",
+          "id": "Kulit kering."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-021",
+      "character": "骨",
+      "romaji": "hone",
+      "meaning": "tulang",
+      "kana": "ほね",
+      "examples": [
+        {
+          "jp": "犬が骨を噛んでいます。",
+          "kana": "いぬがほねをかんでいます。",
+          "id": "Anjing mengunyah tulang."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-022",
+      "character": "両親",
+      "romaji": "ryoushin",
+      "meaning": "kedua orang tua",
+      "kana": "りょうしん",
+      "examples": [
+        {
+          "jp": "私の両親は東京に住んでいます。",
+          "kana": "わたしのりょうしんはとうきょうにすんでいます。",
+          "id": "Orang tua saya tinggal di Tokyo."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-023",
+      "character": "祖父母",
+      "romaji": "sofubo",
+      "meaning": "kakek nenek",
+      "kana": "そふぼ",
+      "examples": [
+        {
+          "jp": "祖父母の家に遊びに行きます。",
+          "kana": "そふぼのいえにあそびにいきます。",
+          "id": "Pergi main ke rumah kakek nenek."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-024",
+      "character": "伯父",
+      "romaji": "oji",
+      "meaning": "paman (kakak ayah/ibu)",
+      "kana": "おじ",
+      "examples": [
+        {
+          "jp": "伯父は医者です。",
+          "kana": "おじはいしゃです。",
+          "id": "Paman adalah dokter."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-025",
+      "character": "伯母",
+      "romaji": "oba",
+      "meaning": "bibi (kakak ayah/ibu)",
+      "kana": "おば",
+      "examples": [
+        {
+          "jp": "伯母はケーキを作ります。",
+          "kana": "おばはケーキをつくります。",
+          "id": "Bibi membuat kue."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-026",
+      "character": "あの",
+      "romaji": "ano",
+      "meaning": "itu (modifier, jauh)",
+      "kana": "あの",
+      "examples": [
+        {
+          "jp": "あの人は誰ですか。",
+          "kana": "あのひとはだれですか。",
+          "id": "Orang itu siapa?"
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-027",
+      "character": "あそこ",
+      "romaji": "asoko",
+      "meaning": "di sana (jauh)",
+      "kana": "あそこ",
+      "examples": [
+        {
+          "jp": "あそこで待っています。",
+          "kana": "あそこでまっています。",
+          "id": "Menunggu di sana."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-028",
+      "character": "どの方",
+      "romaji": "donohou",
+      "meaning": "yang mana (hormat)",
+      "kana": "どのかた",
+      "examples": [
+        {
+          "jp": "どの方ですか。",
+          "kana": "どのかたですか。",
+          "id": "Yang mana (pak/bu)?"
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-029",
+      "character": "丸い",
+      "romaji": "marui",
+      "meaning": "bulat",
+      "kana": "まるい",
+      "examples": [
+        {
+          "jp": "丸いテーブルがあります。",
+          "kana": "まるいテーブルがあります。",
+          "id": "Ada meja bulat."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-030",
+      "character": "明るい",
+      "romaji": "akarui",
+      "meaning": "terang",
+      "kana": "あかるい",
+      "examples": [
+        {
+          "jp": "この部屋は明るいです。",
+          "kana": "このへやはあかるいです。",
+          "id": "Ruangan ini terang."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-031",
+      "character": "すごく",
+      "romaji": "sugoku",
+      "meaning": "sangat, banget (casual)",
+      "kana": "すごく",
+      "examples": [
+        {
+          "jp": "このケーキはすごくおいしいです。",
+          "kana": "このケーキはすごくおいしいです。",
+          "id": "Kue ini enak banget."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-032",
+      "character": "酒",
+      "romaji": "sake",
+      "meaning": "minuman beralkohol",
+      "kana": "さけ",
+      "examples": [
+        {
+          "jp": "お父さんは酒を飲みます。",
+          "kana": "おとうさんはさけをのみます。",
+          "id": "Ayah minum sake."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-033",
+      "character": "醤油",
+      "romaji": "shouyu",
+      "meaning": "kecap asin Jepang",
+      "kana": "しょうゆ",
+      "examples": [
+        {
+          "jp": "寿司に醤油をつけます。",
+          "kana": "すしにしょうゆをつけます。",
+          "id": "Celup sushi ke kecap."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-034",
+      "character": "すいか",
+      "romaji": "suika",
+      "meaning": "semangka",
+      "kana": "すいか",
+      "examples": [
+        {
+          "jp": "夏にはすいかを食べます。",
+          "kana": "なつにはすいかをたべます。",
+          "id": "Musim panas makan semangka."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-035",
+      "character": "うち",
+      "romaji": "uchi",
+      "meaning": "rumah (saya), kita",
+      "kana": "うち",
+      "examples": [
+        {
+          "jp": "明日うちに来てください。",
+          "kana": "あしたうちにきてください。",
+          "id": "Besok datang ke rumah ya."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-036",
+      "character": "美容院",
+      "romaji": "biyouin",
+      "meaning": "salon kecantikan",
+      "kana": "びよういん",
+      "examples": [
+        {
+          "jp": "母は美容院に行きます。",
+          "kana": "はははびよういんにいきます。",
+          "id": "Ibu ke salon."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-037",
+      "character": "劇場",
+      "romaji": "gekijo",
+      "meaning": "teater, gedung pertunjukan",
+      "kana": "げきじょう",
+      "examples": [
+        {
+          "jp": "劇場で映画を見ました。",
+          "kana": "げきじょうでえいがをみました。",
+          "id": "Nonton film di teater."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-038",
+      "character": "バイク",
+      "romaji": "baiku",
+      "meaning": "motor",
+      "kana": "バイク",
+      "examples": [
+        {
+          "jp": "バイクで学校に行きます。",
+          "kana": "バイクでがっこうにいきます。",
+          "id": "Pergi sekolah naik motor."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-039",
+      "character": "はがき",
+      "romaji": "hagaki",
+      "meaning": "kartu pos",
+      "kana": "はがき",
+      "examples": [
+        {
+          "jp": "友達にはがきを出します。",
+          "kana": "ともだちにはがきをだします。",
+          "id": "Kirim kartu pos ke teman."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-040",
+      "character": "扉",
+      "romaji": "tobira",
+      "meaning": "pintu (besar)",
+      "kana": "とびら",
+      "examples": [
+        {
+          "jp": "重い扉を開けます。",
+          "kana": "おもいとびらをあけます。",
+          "id": "Buka pintu berat."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-041",
+      "character": "かばん",
+      "romaji": "kaban",
+      "meaning": "tas",
+      "kana": "かばん",
+      "examples": [
+        {
+          "jp": "新しいかばんを買いました。",
+          "kana": "あたらしいかばんをかいました。",
+          "id": "Beli tas baru."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-042",
+      "character": "ベルト",
+      "romaji": "beruto",
+      "meaning": "ikat pinggang",
+      "kana": "ベルト",
+      "examples": [
+        {
+          "jp": "ベルトを締めます。",
+          "kana": "ベルトをしめます。",
+          "id": "Kencangkan ikat pinggang."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-044",
+      "character": "ようこそ",
+      "romaji": "youkoso",
+      "meaning": "selamat datang",
+      "kana": "ようこそ",
+      "examples": [
+        {
+          "jp": "日本へようこそ！",
+          "kana": "にほんへようこそ！",
+          "id": "Selamat datang di Jepang!"
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-045",
+      "character": "銀行員",
+      "romaji": "ginkouin",
+      "meaning": "pegawai bank",
+      "kana": "ぎんこういん",
+      "examples": [
+        {
+          "jp": "兄は銀行員です。",
+          "kana": "あにはぎんこういんです。",
+          "id": "Kakak saya pegawai bank."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-046",
+      "character": "研究者",
+      "romaji": "kenkyuusha",
+      "meaning": "peneliti",
+      "kana": "けんきゅうしゃ",
+      "examples": [
+        {
+          "jp": "彼女は研究者です。",
+          "kana": "かのじょはけんきゅうしゃです。",
+          "id": "Dia adalah peneliti."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-047",
+      "character": "教員",
+      "romaji": "kyouin",
+      "meaning": "guru, pengajar",
+      "kana": "きょういん",
+      "examples": [
+        {
+          "jp": "私は高校の教員です。",
+          "kana": "わたしはこうこうのきょういんです。",
+          "id": "Saya guru SMA."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-048",
+      "character": "エンジニア",
+      "romaji": "enjinia",
+      "meaning": "insinyur",
+      "kana": "エンジニア",
+      "examples": [
+        {
+          "jp": "兄はエンジニアです。",
+          "kana": "あにはエンジニアです。",
+          "id": "Kakak saya insinyur."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-049",
+      "character": "デザイナー",
+      "romaji": "dezainaa",
+      "meaning": "desainer",
+      "kana": "デザイナー",
+      "examples": [
+        {
+          "jp": "彼女はデザイナーとして働いています。",
+          "kana": "かのじょはデザイナーとしてはたらいています。",
+          "id": "Dia kerja sebagai desainer."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-050",
+      "character": "プログラマー",
+      "romaji": "puroguramaa",
+      "meaning": "programmer",
+      "kana": "プログラマー",
+      "examples": [
+        {
+          "jp": "弟はプログラマーになりたいです。",
+          "kana": "おとうとはプログラマーになりたいです。",
+          "id": "Adik mau jadi programmer."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-051",
+      "character": "コック",
+      "romaji": "kokku",
+      "meaning": "koki",
+      "kana": "コック",
+      "examples": [
+        {
+          "jp": "父はコックです。",
+          "kana": "ちちはコックです。",
+          "id": "Ayah adalah koki."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-052",
+      "character": "ウエイトレス",
+      "romaji": "ueitoresu",
+      "meaning": "pelayan wanita",
+      "kana": "ウエイトレス",
+      "examples": [
+        {
+          "jp": "姉はウエイトレスです。",
+          "kana": "あねはウエイトレスです。",
+          "id": "Kakak adalah pelayan."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-053",
+      "character": "作家",
+      "romaji": "sakka",
+      "meaning": "pengarang",
+      "kana": "さっか",
+      "examples": [
+        {
+          "jp": "有名な作家の小説を読みました。",
+          "kana": "ゆうめいなさっかのしょうせつをよみました。",
+          "id": "Membaca novel pengarang terkenal."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-054",
+      "character": "画家",
+      "romaji": "gaka",
+      "meaning": "pelukis",
+      "kana": "がか",
+      "examples": [
+        {
+          "jp": "ゴッホは有名な画家です。",
+          "kana": "ゴッホはゆうめいながかです。",
+          "id": "Van Gogh pelukis terkenal."
+        }
+      ],
+      "level": "N5"
+    },
+    {
+      "id": "vocab-n5-crit-055",
+      "character": "歌手",
+      "romaji": "kashu",
+      "meaning": "penyanyi",
+      "kana": "かしゅ",
+      "examples": [
+        {
+          "jp": "私の姉は歌手です。",
+          "kana": "わたしあねはかしゅです。",
+          "id": "Kakak saya penyanyi."
+        }
+      ],
+      "level": "N5"
     }
   ],
   "kanji_n4": [
@@ -12833,9 +15222,9 @@
       "meaning": "diri sendiri",
       "audioText": "じ、みずか",
       "onyomi_kana": "じ",
-      "kunyomi_kana": "みずか",
+      "kunyomi_kana": "みずから",
       "onyomi_romaji": "JI",
-      "kunyomi_romaji": "mizuka"
+      "kunyomi_romaji": "mizukara"
     },
     {
       "character": "発",
@@ -12843,9 +15232,9 @@
       "meaning": "memancarkan, berangkat",
       "audioText": "はつ、た",
       "onyomi_kana": "はつ",
-      "kunyomi_kana": "た",
+      "kunyomi_kana": "たつ",
       "onyomi_romaji": "HATSU",
-      "kunyomi_romaji": "ta"
+      "kunyomi_romaji": "tatsu"
     },
     {
       "character": "者",
@@ -12911,9 +15300,9 @@
       "meaning": "membuka",
       "audioText": "かい、あ",
       "onyomi_kana": "かい",
-      "kunyomi_kana": "あ",
+      "kunyomi_kana": "ひらく",
       "onyomi_romaji": "KAI",
-      "kunyomi_romaji": "a"
+      "kunyomi_romaji": "hiraku"
     },
     {
       "character": "力",
@@ -12931,9 +15320,9 @@
       "meaning": "pertanyaan",
       "audioText": "もん、と",
       "onyomi_kana": "もん",
-      "kunyomi_kana": "と",
+      "kunyomi_kana": "とう",
       "onyomi_romaji": "MON",
-      "kunyomi_romaji": "to"
+      "kunyomi_romaji": "tou"
     },
     {
       "character": "代",
@@ -12941,9 +15330,9 @@
       "meaning": "generasi, ganti",
       "audioText": "だい、か",
       "onyomi_kana": "だい",
-      "kunyomi_kana": "か",
+      "kunyomi_kana": "かわる",
       "onyomi_romaji": "DAI",
-      "kunyomi_romaji": "ka"
+      "kunyomi_romaji": "kawaru"
     },
     {
       "character": "動",
@@ -12951,9 +15340,9 @@
       "meaning": "bergerak",
       "audioText": "どう、うご",
       "onyomi_kana": "どう",
-      "kunyomi_kana": "うご",
+      "kunyomi_kana": "うごく",
       "onyomi_romaji": "DOU",
-      "kunyomi_romaji": "ugo"
+      "kunyomi_romaji": "ugoku"
     },
     {
       "character": "京",
@@ -12961,7 +15350,9 @@
       "meaning": "ibukota",
       "audioText": "きょう",
       "onyomi_kana": "きょう",
-      "onyomi_romaji": "KYOU"
+      "onyomi_romaji": "KYOU",
+      "kunyomi_kana": "みやこ",
+      "kunyomi_romaji": "miyako"
     },
     {
       "character": "通",
@@ -12969,9 +15360,9 @@
       "meaning": "melewati",
       "audioText": "つう、とお",
       "onyomi_kana": "つう",
-      "kunyomi_kana": "とお",
+      "kunyomi_kana": "とおる",
       "onyomi_romaji": "TSUU",
-      "kunyomi_romaji": "too"
+      "kunyomi_romaji": "tooru"
     },
     {
       "character": "言",
@@ -12979,9 +15370,9 @@
       "meaning": "berkata",
       "audioText": "げん、い",
       "onyomi_kana": "げん",
-      "kunyomi_kana": "い",
+      "kunyomi_kana": "いう",
       "onyomi_romaji": "GEN",
-      "kunyomi_romaji": "i"
+      "kunyomi_romaji": "iu"
     },
     {
       "character": "理",
@@ -13017,9 +15408,9 @@
       "meaning": "utama, tuan",
       "audioText": "しゅ、おも",
       "onyomi_kana": "しゅ",
-      "kunyomi_kana": "おも",
+      "kunyomi_kana": "おもな",
       "onyomi_romaji": "SHU",
-      "kunyomi_romaji": "omo"
+      "kunyomi_romaji": "omona"
     },
     {
       "character": "題",
@@ -13051,9 +15442,9 @@
       "meaning": "menggunakan",
       "audioText": "よう、もち",
       "onyomi_kana": "よう",
-      "kunyomi_kana": "もち",
+      "kunyomi_kana": "もちいる",
       "onyomi_romaji": "YOU",
-      "kunyomi_romaji": "mochi"
+      "kunyomi_romaji": "mochiiru"
     },
     {
       "character": "度",
@@ -13071,9 +15462,9 @@
       "meaning": "kuat",
       "audioText": "きょう、つよ",
       "onyomi_kana": "きょう",
-      "kunyomi_kana": "つよ",
+      "kunyomi_kana": "つよい",
       "onyomi_romaji": "KYOU",
-      "kunyomi_romaji": "tsuyo"
+      "kunyomi_romaji": "tsuyoi"
     },
     {
       "character": "公",
@@ -13091,9 +15482,9 @@
       "meaning": "membawa, memiliki, memegang",
       "audioText": "じ、も",
       "onyomi_kana": "じ",
-      "kunyomi_kana": "も",
+      "kunyomi_kana": "もつ",
       "onyomi_romaji": "JI",
-      "kunyomi_romaji": "mo"
+      "kunyomi_romaji": "motsu"
     },
     {
       "character": "野",
@@ -13119,9 +15510,9 @@
       "meaning": "berpikir",
       "audioText": "し、おも",
       "onyomi_kana": "し",
-      "kunyomi_kana": "おも",
+      "kunyomi_kana": "おもう",
       "onyomi_romaji": "SHI",
-      "kunyomi_romaji": "omo"
+      "kunyomi_romaji": "omou"
     },
     {
       "character": "家",
@@ -13175,9 +15566,9 @@
       "meaning": "mengajar",
       "audioText": "きょう、おし",
       "onyomi_kana": "きょう",
-      "kunyomi_kana": "おし",
+      "kunyomi_kana": "おしえる",
       "onyomi_romaji": "KYOU",
-      "kunyomi_romaji": "oshi"
+      "kunyomi_romaji": "oshieru"
     },
     {
       "character": "文",
@@ -13205,9 +15596,9 @@
       "meaning": "berat, tumpuk",
       "audioText": "じゅう、おも",
       "onyomi_kana": "じゅう",
-      "kunyomi_kana": "おも",
+      "kunyomi_kana": "おもい",
       "onyomi_romaji": "JUU",
-      "kunyomi_romaji": "omo"
+      "kunyomi_romaji": "omoi"
     },
     {
       "character": "近",
@@ -13215,9 +15606,9 @@
       "meaning": "dekat",
       "audioText": "きん、ちか",
       "onyomi_kana": "きん",
-      "kunyomi_kana": "ちか",
+      "kunyomi_kana": "ちかい",
       "onyomi_romaji": "KIN",
-      "kunyomi_romaji": "chika"
+      "kunyomi_romaji": "chikai"
     },
     {
       "character": "考",
@@ -13225,9 +15616,9 @@
       "meaning": "berpikir",
       "audioText": "こう、かんが",
       "onyomi_kana": "こう",
-      "kunyomi_kana": "かんが",
+      "kunyomi_kana": "かんがえる",
       "onyomi_romaji": "KOU",
-      "kunyomi_romaji": "kanga"
+      "kunyomi_romaji": "kangaeru"
     },
     {
       "character": "画",
@@ -13255,9 +15646,9 @@
       "meaning": "menjual",
       "audioText": "ばい、う",
       "onyomi_kana": "ばい",
-      "kunyomi_kana": "う",
+      "kunyomi_kana": "うる",
       "onyomi_romaji": "BAI",
-      "kunyomi_romaji": "u"
+      "kunyomi_romaji": "uru"
     },
     {
       "character": "知",
@@ -13265,9 +15656,9 @@
       "meaning": "tahu",
       "audioText": "ち、し",
       "onyomi_kana": "ち",
-      "kunyomi_kana": "し",
+      "kunyomi_kana": "しる",
       "onyomi_romaji": "CHI",
-      "kunyomi_romaji": "shi"
+      "kunyomi_romaji": "shiru"
     },
     {
       "character": "道",
@@ -13285,9 +15676,9 @@
       "meaning": "kumpul",
       "audioText": "しゅう、あつ",
       "onyomi_kana": "しゅう",
-      "kunyomi_kana": "あつ",
+      "kunyomi_kana": "あつめる",
       "onyomi_romaji": "SHUU",
-      "kunyomi_romaji": "atsu"
+      "kunyomi_romaji": "atsumeru"
     },
     {
       "character": "別",
@@ -13325,9 +15716,9 @@
       "meaning": "rencana",
       "audioText": "けい、はか",
       "onyomi_kana": "けい",
-      "kunyomi_kana": "はか",
+      "kunyomi_kana": "はかる",
       "onyomi_romaji": "KEI",
-      "kunyomi_romaji": "haka"
+      "kunyomi_romaji": "hakaru"
     },
     {
       "character": "死",
@@ -13335,9 +15726,9 @@
       "meaning": "mati",
       "audioText": "し、し",
       "onyomi_kana": "し",
-      "kunyomi_kana": "し",
+      "kunyomi_kana": "しぬ",
       "onyomi_romaji": "SHI",
-      "kunyomi_romaji": "shi"
+      "kunyomi_romaji": "shinu"
     },
     {
       "character": "特",
@@ -13353,9 +15744,9 @@
       "meaning": "mulai",
       "audioText": "し、はじ",
       "onyomi_kana": "し",
-      "kunyomi_kana": "はじ",
+      "kunyomi_kana": "はじまる",
       "onyomi_romaji": "SHI",
-      "kunyomi_romaji": "haji"
+      "kunyomi_romaji": "hajimaru"
     },
     {
       "character": "朝",
@@ -13383,9 +15774,9 @@
       "meaning": "akhir",
       "audioText": "しゅう、お",
       "onyomi_kana": "しゅう",
-      "kunyomi_kana": "お",
+      "kunyomi_kana": "おわる",
       "onyomi_romaji": "SHUU",
-      "kunyomi_romaji": "o"
+      "kunyomi_romaji": "owaru"
     },
     {
       "character": "台",
@@ -13401,9 +15792,9 @@
       "meaning": "luas, lebar",
       "audioText": "こう、ひろ",
       "onyomi_kana": "こう",
-      "kunyomi_kana": "ひろ",
+      "kunyomi_kana": "ひろい",
       "onyomi_romaji": "KOU",
-      "kunyomi_romaji": "hiro"
+      "kunyomi_romaji": "hiroi"
     },
     {
       "character": "住",
@@ -13411,9 +15802,9 @@
       "meaning": "tinggal",
       "audioText": "じゅう、す",
       "onyomi_kana": "じゅう",
-      "kunyomi_kana": "す",
+      "kunyomi_kana": "すむ",
       "onyomi_romaji": "JUU",
-      "kunyomi_romaji": "su"
+      "kunyomi_romaji": "sumu"
     },
     {
       "character": "無",
@@ -13421,9 +15812,9 @@
       "meaning": "tidak ada",
       "audioText": "む、な",
       "onyomi_kana": "む",
-      "kunyomi_kana": "な",
+      "kunyomi_kana": "ない",
       "onyomi_romaji": "MU",
-      "kunyomi_romaji": "na"
+      "kunyomi_romaji": "nai"
     },
     {
       "character": "真",
@@ -13441,9 +15832,9 @@
       "meaning": "ada",
       "audioText": "ゆう、あ",
       "onyomi_kana": "ゆう",
-      "kunyomi_kana": "あ",
+      "kunyomi_kana": "ある",
       "onyomi_romaji": "YUU",
-      "kunyomi_romaji": "a"
+      "kunyomi_romaji": "aru"
     },
     {
       "character": "町",
@@ -13477,9 +15868,9 @@
       "meaning": "membangun, mendirikan",
       "audioText": "けん、た",
       "onyomi_kana": "けん",
-      "kunyomi_kana": "たて",
+      "kunyomi_kana": "たてる",
       "onyomi_romaji": "KEN",
-      "kunyomi_romaji": "tate"
+      "kunyomi_romaji": "tateru"
     },
     {
       "character": "急",
@@ -13487,9 +15878,9 @@
       "meaning": "buru-buru, bergegas, cepat",
       "audioText": "きゅう、いそ",
       "onyomi_kana": "きゅう",
-      "kunyomi_kana": "いそ",
+      "kunyomi_kana": "いそぐ",
       "onyomi_romaji": "KYUU",
-      "kunyomi_romaji": "iso"
+      "kunyomi_romaji": "isogu"
     },
     {
       "character": "止",
@@ -13497,9 +15888,9 @@
       "meaning": "berhenti",
       "audioText": "し、と",
       "onyomi_kana": "し",
-      "kunyomi_kana": "と",
+      "kunyomi_kana": "とまる",
       "onyomi_romaji": "SHI",
-      "kunyomi_romaji": "to"
+      "kunyomi_romaji": "tomaru"
     },
     {
       "character": "送",
@@ -13507,9 +15898,9 @@
       "meaning": "kirim",
       "audioText": "そう、おく",
       "onyomi_kana": "そう",
-      "kunyomi_kana": "おく",
+      "kunyomi_kana": "おくる",
       "onyomi_romaji": "SOU",
-      "kunyomi_romaji": "oku"
+      "kunyomi_romaji": "okuru"
     },
     {
       "character": "切",
@@ -13517,9 +15908,9 @@
       "meaning": "potong",
       "audioText": "せつ、き",
       "onyomi_kana": "せつ",
-      "kunyomi_kana": "き",
+      "kunyomi_kana": "きる",
       "onyomi_romaji": "SETSU",
-      "kunyomi_romaji": "ki"
+      "kunyomi_romaji": "kiru"
     },
     {
       "character": "転",
@@ -13527,9 +15918,9 @@
       "meaning": "bergulir",
       "audioText": "てん、ころ",
       "onyomi_kana": "てん",
-      "kunyomi_kana": "ころ",
+      "kunyomi_kana": "ころがる",
       "onyomi_romaji": "TEN",
-      "kunyomi_romaji": "koro"
+      "kunyomi_romaji": "korogaru"
     },
     {
       "character": "研",
@@ -13537,9 +15928,9 @@
       "meaning": "asah",
       "audioText": "けん、と",
       "onyomi_kana": "けん",
-      "kunyomi_kana": "と",
+      "kunyomi_kana": "とぐ",
       "onyomi_romaji": "KEN",
-      "kunyomi_romaji": "to"
+      "kunyomi_romaji": "togu"
     },
     {
       "character": "究",
@@ -13547,9 +15938,9 @@
       "meaning": "teliti",
       "audioText": "きゅう、きわ",
       "onyomi_kana": "きゅう",
-      "kunyomi_kana": "きわ",
+      "kunyomi_kana": "きわめる",
       "onyomi_romaji": "KYUU",
-      "kunyomi_romaji": "kiwa"
+      "kunyomi_romaji": "kiwameru"
     },
     {
       "character": "楽",
@@ -13557,9 +15948,9 @@
       "meaning": "nyaman",
       "audioText": "らく、たの",
       "onyomi_kana": "らく",
-      "kunyomi_kana": "たの",
+      "kunyomi_kana": "たのしい",
       "onyomi_romaji": "RAKU",
-      "kunyomi_romaji": "tano"
+      "kunyomi_romaji": "tanoshii"
     },
     {
       "character": "起",
@@ -13567,9 +15958,9 @@
       "meaning": "bangun",
       "audioText": "き、お",
       "onyomi_kana": "き",
-      "kunyomi_kana": "お",
+      "kunyomi_kana": "おきる",
       "onyomi_romaji": "KI",
-      "kunyomi_romaji": "o"
+      "kunyomi_romaji": "okiru"
     },
     {
       "character": "着",
@@ -13577,9 +15968,9 @@
       "meaning": "tiba, pakai",
       "audioText": "ちゃく、き",
       "onyomi_kana": "ちゃく",
-      "kunyomi_kana": "き",
+      "kunyomi_kana": "きる",
       "onyomi_romaji": "CHAKU",
-      "kunyomi_romaji": "ki"
+      "kunyomi_romaji": "kiru"
     },
     {
       "character": "店",
@@ -13615,9 +16006,9 @@
       "meaning": "menunggu, menanti",
       "audioText": "たい、ま",
       "onyomi_kana": "たい",
-      "kunyomi_kana": "ま",
+      "kunyomi_kana": "まつ",
       "onyomi_romaji": "TAI",
-      "kunyomi_romaji": "ma"
+      "kunyomi_romaji": "matsu"
     },
     {
       "character": "試",
@@ -13625,9 +16016,9 @@
       "meaning": "coba",
       "audioText": "し、こころ",
       "onyomi_kana": "し",
-      "kunyomi_kana": "こころ",
+      "kunyomi_kana": "こころみる",
       "onyomi_romaji": "SHI",
-      "kunyomi_romaji": "kokoro"
+      "kunyomi_romaji": "kokoromiru"
     },
     {
       "character": "族",
@@ -13651,9 +16042,9 @@
       "meaning": "cepat, pagi-pagi",
       "audioText": "そう、はや",
       "onyomi_kana": "そう",
-      "kunyomi_kana": "はや",
+      "kunyomi_kana": "はやい",
       "onyomi_romaji": "SOU",
-      "kunyomi_romaji": "haya"
+      "kunyomi_romaji": "hayai"
     },
     {
       "character": "映",
@@ -13661,9 +16052,9 @@
       "meaning": "pantulan",
       "audioText": "えい、うつ",
       "onyomi_kana": "えい",
-      "kunyomi_kana": "うつ",
+      "kunyomi_kana": "うつる",
       "onyomi_romaji": "EI",
-      "kunyomi_romaji": "utsu"
+      "kunyomi_romaji": "utsuru"
     },
     {
       "character": "親",
@@ -13705,9 +16096,9 @@
       "meaning": "melayani",
       "audioText": "し、つか",
       "onyomi_kana": "し",
-      "kunyomi_kana": "つか",
+      "kunyomi_kana": "つかえる",
       "onyomi_romaji": "SHI",
-      "kunyomi_romaji": "tsuka"
+      "kunyomi_romaji": "tsukaeru"
     },
     {
       "character": "去",
@@ -13715,9 +16106,9 @@
       "meaning": "lalu, pergi",
       "audioText": "きょ、さ",
       "onyomi_kana": "きょ",
-      "kunyomi_kana": "さ",
+      "kunyomi_kana": "さる",
       "onyomi_romaji": "KYO",
-      "kunyomi_romaji": "sa"
+      "kunyomi_romaji": "saru"
     },
     {
       "character": "味",
@@ -13753,9 +16144,9 @@
       "meaning": "menjawab, jawaban",
       "audioText": "とう、こた",
       "onyomi_kana": "とう",
-      "kunyomi_kana": "こた",
+      "kunyomi_kana": "こたえる",
       "onyomi_romaji": "TOU",
-      "kunyomi_romaji": "kota"
+      "kunyomi_romaji": "kotaeru"
     },
     {
       "character": "夜",
@@ -13783,9 +16174,9 @@
       "meaning": "tuang",
       "audioText": "ちゅう、そそ",
       "onyomi_kana": "ちゅう",
-      "kunyomi_kana": "そそ",
+      "kunyomi_kana": "そそぐ",
       "onyomi_romaji": "CHUU",
-      "kunyomi_romaji": "soso"
+      "kunyomi_romaji": "sosogu"
     },
     {
       "character": "帰",
@@ -13793,9 +16184,9 @@
       "meaning": "pulang",
       "audioText": "き、かえ",
       "onyomi_kana": "き",
-      "kunyomi_kana": "かえ",
+      "kunyomi_kana": "かえる",
       "onyomi_romaji": "KI",
-      "kunyomi_romaji": "kae"
+      "kunyomi_romaji": "kaeru"
     },
     {
       "character": "歌",
@@ -13803,9 +16194,9 @@
       "meaning": "lagu",
       "audioText": "か、うた",
       "onyomi_kana": "か",
-      "kunyomi_kana": "うた",
+      "kunyomi_kana": "うたう",
       "onyomi_romaji": "KA",
-      "kunyomi_romaji": "uta"
+      "kunyomi_romaji": "utau"
     },
     {
       "character": "悪",
@@ -13813,9 +16204,9 @@
       "meaning": "buruk",
       "audioText": "あく、わる",
       "onyomi_kana": "あく",
-      "kunyomi_kana": "わる",
+      "kunyomi_kana": "わるい",
       "onyomi_romaji": "AKU",
-      "kunyomi_romaji": "waru"
+      "kunyomi_romaji": "warui"
     },
     {
       "character": "図",
@@ -13851,9 +16242,9 @@
       "meaning": "jalan",
       "audioText": "ほ、ある",
       "onyomi_kana": "ほ",
-      "kunyomi_kana": "ある",
+      "kunyomi_kana": "あるく",
       "onyomi_romaji": "HO",
-      "kunyomi_romaji": "aru"
+      "kunyomi_romaji": "aruku"
     },
     {
       "character": "風",
@@ -14009,9 +16400,9 @@
       "meaning": "mencuci",
       "audioText": "せん、あら",
       "onyomi_kana": "せん",
-      "kunyomi_kana": "あら",
+      "kunyomi_kana": "あらう",
       "onyomi_romaji": "SEN",
-      "kunyomi_romaji": "ara"
+      "kunyomi_romaji": "arau"
     },
     {
       "character": "借",
@@ -14019,9 +16410,9 @@
       "meaning": "meminjam",
       "audioText": "しゃく、か",
       "onyomi_kana": "しゃく",
-      "kunyomi_kana": "か",
+      "kunyomi_kana": "かりる",
       "onyomi_romaji": "SHAKU",
-      "kunyomi_romaji": "ka"
+      "kunyomi_romaji": "kariru"
     },
     {
       "character": "貸",
@@ -14029,9 +16420,9 @@
       "meaning": "meminjamkan",
       "audioText": "たい、か",
       "onyomi_kana": "たい",
-      "kunyomi_kana": "か",
+      "kunyomi_kana": "かす",
       "onyomi_romaji": "TAI",
-      "kunyomi_romaji": "ka"
+      "kunyomi_romaji": "kasu"
     },
     {
       "character": "走",
@@ -14039,9 +16430,9 @@
       "meaning": "berlari",
       "audioText": "そう、はし",
       "onyomi_kana": "そう",
-      "kunyomi_kana": "はし",
+      "kunyomi_kana": "はしる",
       "onyomi_romaji": "SOU",
-      "kunyomi_romaji": "hashi"
+      "kunyomi_romaji": "hashiru"
     },
     {
       "character": "勉",
@@ -14049,9 +16440,9 @@
       "meaning": "berusaha",
       "audioText": "べん、つと",
       "onyomi_kana": "べん",
-      "kunyomi_kana": "つと",
+      "kunyomi_kana": "つとめる",
       "onyomi_romaji": "BEN",
-      "kunyomi_romaji": "tsuto"
+      "kunyomi_romaji": "tsutomeru"
     },
     {
       "character": "軽",
@@ -14059,9 +16450,9 @@
       "meaning": "ringan",
       "audioText": "けい、かる",
       "onyomi_kana": "けい",
-      "kunyomi_kana": "かる",
+      "kunyomi_kana": "かるい",
       "onyomi_romaji": "KEI",
-      "kunyomi_romaji": "karu"
+      "kunyomi_romaji": "karui"
     },
     {
       "character": "遅",
@@ -14069,9 +16460,9 @@
       "meaning": "lambat",
       "audioText": "ち、おそ",
       "onyomi_kana": "ち",
-      "kunyomi_kana": "おそ",
+      "kunyomi_kana": "おそい",
       "onyomi_romaji": "CHI",
-      "kunyomi_romaji": "oso"
+      "kunyomi_romaji": "osoi"
     },
     {
       "character": "暗",
@@ -14079,9 +16470,9 @@
       "meaning": "gelap",
       "audioText": "あん、くら",
       "onyomi_kana": "あん",
-      "kunyomi_kana": "くら",
+      "kunyomi_kana": "くらい",
       "onyomi_romaji": "AN",
-      "kunyomi_romaji": "kura"
+      "kunyomi_romaji": "kurai"
     },
     {
       "character": "短",
@@ -14089,9 +16480,9 @@
       "meaning": "pendek",
       "audioText": "たん、みじか",
       "onyomi_kana": "たん",
-      "kunyomi_kana": "みじか",
+      "kunyomi_kana": "みじかい",
       "onyomi_romaji": "TAN",
-      "kunyomi_romaji": "mijika"
+      "kunyomi_romaji": "mijikai"
     },
     {
       "character": "丸",
@@ -14099,9 +16490,9 @@
       "meaning": "bulat",
       "audioText": "がん、まる",
       "onyomi_kana": "がん",
-      "kunyomi_kana": "まる",
+      "kunyomi_kana": "まるい",
       "onyomi_romaji": "GAN",
-      "kunyomi_romaji": "maru"
+      "kunyomi_romaji": "marui"
     },
     {
       "character": "交",
@@ -14109,9 +16500,9 @@
       "meaning": "bergiliran",
       "audioText": "こう、まじ",
       "onyomi_kana": "こう",
-      "kunyomi_kana": "まじ",
+      "kunyomi_kana": "まじる",
       "onyomi_romaji": "KOU",
-      "kunyomi_romaji": "maji"
+      "kunyomi_romaji": "majiru"
     },
     {
       "character": "太",
@@ -14119,9 +16510,9 @@
       "meaning": "gemuk",
       "audioText": "たい、ふと",
       "onyomi_kana": "たい",
-      "kunyomi_kana": "ふと",
+      "kunyomi_kana": "ふとい",
       "onyomi_romaji": "TAI",
-      "kunyomi_romaji": "futo"
+      "kunyomi_romaji": "futoi"
     },
     {
       "character": "引",
@@ -14129,9 +16520,9 @@
       "meaning": "menarik",
       "audioText": "いん、ひ",
       "onyomi_kana": "いん",
-      "kunyomi_kana": "ひ",
+      "kunyomi_kana": "ひく",
       "onyomi_romaji": "IN",
-      "kunyomi_romaji": "hi"
+      "kunyomi_romaji": "hiku"
     },
     {
       "character": "遠",
@@ -14139,9 +16530,9 @@
       "meaning": "jauh",
       "audioText": "えん、とお",
       "onyomi_kana": "えん",
-      "kunyomi_kana": "とお",
+      "kunyomi_kana": "とおい",
       "onyomi_romaji": "EN",
-      "kunyomi_romaji": "too"
+      "kunyomi_romaji": "tooi"
     },
     {
       "character": "回",
@@ -14149,9 +16540,9 @@
       "meaning": "berputar, kali",
       "audioText": "かい、まわ",
       "onyomi_kana": "かい",
-      "kunyomi_kana": "まわ",
+      "kunyomi_kana": "まわる",
       "onyomi_romaji": "KAI",
-      "kunyomi_romaji": "mawa"
+      "kunyomi_romaji": "mawaru"
     },
     {
       "character": "顔",
@@ -14239,9 +16630,9 @@
       "meaning": "turun",
       "audioText": "こう、ふ",
       "onyomi_kana": "こう",
-      "kunyomi_kana": "ふ",
+      "kunyomi_kana": "ふる",
       "onyomi_romaji": "KOU",
-      "kunyomi_romaji": "fu"
+      "kunyomi_romaji": "furu"
     },
     {
       "character": "号",
@@ -14259,9 +16650,9 @@
       "meaning": "cocok, bergabung",
       "audioText": "ごう、あ",
       "onyomi_kana": "ごう",
-      "kunyomi_kana": "あ",
+      "kunyomi_kana": "あう",
       "onyomi_romaji": "GOU",
-      "kunyomi_romaji": "a"
+      "kunyomi_romaji": "au"
     },
     {
       "character": "困",
@@ -14269,9 +16660,9 @@
       "meaning": "kesulitan",
       "audioText": "こん、こま",
       "onyomi_kana": "こん",
-      "kunyomi_kana": "こま",
+      "kunyomi_kana": "こまる",
       "onyomi_romaji": "KON",
-      "kunyomi_romaji": "koma"
+      "kunyomi_romaji": "komaru"
     },
     {
       "character": "婚",
@@ -14309,9 +16700,9 @@
       "meaning": "tersebar",
       "audioText": "さん、ち",
       "onyomi_kana": "さん",
-      "kunyomi_kana": "ち",
+      "kunyomi_kana": "ちる",
       "onyomi_romaji": "SAN",
-      "kunyomi_romaji": "chi"
+      "kunyomi_romaji": "chiru"
     },
     {
       "character": "残",
@@ -14319,9 +16710,9 @@
       "meaning": "tersisa",
       "audioText": "ざん、のこ",
       "onyomi_kana": "ざん",
-      "kunyomi_kana": "のこ",
+      "kunyomi_kana": "のこる",
       "onyomi_romaji": "ZAN",
-      "kunyomi_romaji": "noko"
+      "kunyomi_romaji": "nokoru"
     },
     {
       "character": "指",
@@ -14349,9 +16740,9 @@
       "meaning": "lemah",
       "audioText": "じゃく、よわ",
       "onyomi_kana": "じゃく",
-      "kunyomi_kana": "よわ",
+      "kunyomi_kana": "よわい",
       "onyomi_romaji": "JAKU",
-      "kunyomi_romaji": "yowa"
+      "kunyomi_romaji": "yowai"
     },
     {
       "character": "首",
@@ -14369,9 +16760,9 @@
       "meaning": "penginapan",
       "audioText": "しゅく、やど",
       "onyomi_kana": "しゅく",
-      "kunyomi_kana": "やど",
+      "kunyomi_kana": "やどる",
       "onyomi_romaji": "SHUKU",
-      "kunyomi_romaji": "yado"
+      "kunyomi_romaji": "yadoru"
     },
     {
       "character": "術",
@@ -14389,9 +16780,9 @@
       "meaning": "awal, pertama",
       "audioText": "しょ、はじ",
       "onyomi_kana": "しょ",
-      "kunyomi_kana": "はじ",
+      "kunyomi_kana": "はじめて",
       "onyomi_romaji": "SHO",
-      "kunyomi_romaji": "haji"
+      "kunyomi_romaji": "hajimete"
     },
     {
       "character": "所",
@@ -14409,9 +16800,9 @@
       "meaning": "panas (cuaca)",
       "audioText": "しょ、あつ",
       "onyomi_kana": "しょ",
-      "kunyomi_kana": "あつ",
+      "kunyomi_kana": "あつい",
       "onyomi_romaji": "SHO",
-      "kunyomi_romaji": "atsu"
+      "kunyomi_romaji": "atsui"
     },
     {
       "character": "笑",
@@ -14419,9 +16810,9 @@
       "meaning": "tertawa",
       "audioText": "しょう、わら",
       "onyomi_kana": "しょう",
-      "kunyomi_kana": "わら",
+      "kunyomi_kana": "わらう",
       "onyomi_romaji": "SHOU",
-      "kunyomi_romaji": "wara"
+      "kunyomi_romaji": "warau"
     },
     {
       "character": "乗",
@@ -14429,9 +16820,9 @@
       "meaning": "naik (kendaraan)",
       "audioText": "じょう、の",
       "onyomi_kana": "じょう",
-      "kunyomi_kana": "の",
+      "kunyomi_kana": "のる",
       "onyomi_romaji": "JOU",
-      "kunyomi_romaji": "no"
+      "kunyomi_romaji": "noru"
     },
     {
       "character": "信",
@@ -14479,9 +16870,9 @@
       "meaning": "maju",
       "audioText": "しん、すす",
       "onyomi_kana": "しん",
-      "kunyomi_kana": "すす",
+      "kunyomi_kana": "すすむ",
       "onyomi_romaji": "SHIN",
-      "kunyomi_romaji": "susu"
+      "kunyomi_romaji": "susumu"
     },
     {
       "character": "制",
@@ -14499,9 +16890,9 @@
       "meaning": "menjadi",
       "audioText": "せい、な",
       "onyomi_kana": "せい",
-      "kunyomi_kana": "な",
+      "kunyomi_kana": "なる",
       "onyomi_romaji": "SEI",
-      "kunyomi_romaji": "na"
+      "kunyomi_romaji": "naru"
     },
     {
       "character": "晴",
@@ -14509,9 +16900,9 @@
       "meaning": "cerah",
       "audioText": "せい、は",
       "onyomi_kana": "せい",
-      "kunyomi_kana": "は",
+      "kunyomi_kana": "はれる",
       "onyomi_romaji": "SEI",
-      "kunyomi_romaji": "ha"
+      "kunyomi_romaji": "hareru"
     },
     {
       "character": "昔",
@@ -14529,9 +16920,9 @@
       "meaning": "menyampaikan, legenda",
       "audioText": "でん、つた",
       "onyomi_kana": "でん",
-      "kunyomi_kana": "つた",
+      "kunyomi_kana": "つたえる",
       "onyomi_romaji": "DEN",
-      "kunyomi_romaji": "tsuta"
+      "kunyomi_romaji": "tsutaeru"
     },
     {
       "character": "億",
@@ -14549,9 +16940,9 @@
       "meaning": "tanda, sepersejuta",
       "audioText": "ちょう、きざ",
       "onyomi_kana": "ちょう",
-      "kunyomi_kana": "きざ",
+      "kunyomi_kana": "きざす",
       "onyomi_romaji": "CHOU",
-      "kunyomi_romaji": "kiza"
+      "kunyomi_romaji": "kizasu"
     },
     {
       "character": "党",
@@ -14569,9 +16960,9 @@
       "meaning": "menerima, memungut",
       "audioText": "しゅう、おさ",
       "onyomi_kana": "しゅう",
-      "kunyomi_kana": "おさ",
+      "kunyomi_kana": "おさめる",
       "onyomi_romaji": "SHUU",
-      "kunyomi_romaji": "osa"
+      "kunyomi_romaji": "osameru"
     },
     {
       "character": "夢",
@@ -14619,9 +17010,9 @@
       "meaning": "bekerja, menyelesaikan",
       "audioText": "しゅう、つ",
       "onyomi_kana": "しゅう",
-      "kunyomi_kana": "つ",
+      "kunyomi_kana": "つく",
       "onyomi_romaji": "SHUU",
-      "kunyomi_romaji": "tsu"
+      "kunyomi_romaji": "tsuku"
     },
     {
       "character": "展",
@@ -14719,9 +17110,9 @@
       "meaning": "cinta",
       "audioText": "れん、こ",
       "onyomi_kana": "れん",
-      "kunyomi_kana": "こ",
+      "kunyomi_kana": "こう",
       "onyomi_romaji": "REN",
-      "kunyomi_romaji": "ko"
+      "kunyomi_romaji": "kou"
     },
     {
       "character": "折",
@@ -14729,9 +17120,9 @@
       "meaning": "mem折, patah",
       "audioText": "せつ、お",
       "onyomi_kana": "せつ",
-      "kunyomi_kana": "お",
+      "kunyomi_kana": "おる",
       "onyomi_romaji": "SETSU",
-      "kunyomi_romaji": "o"
+      "kunyomi_romaji": "oru"
     },
     {
       "character": "救",
@@ -14739,9 +17130,9 @@
       "meaning": "menyelamatkan",
       "audioText": "きゅう、すく",
       "onyomi_kana": "きゅう",
-      "kunyomi_kana": "すく",
+      "kunyomi_kana": "すくう",
       "onyomi_romaji": "KYUU",
-      "kunyomi_romaji": " suku"
+      "kunyomi_romaji": "sukuu"
     },
     {
       "character": "束",
@@ -14759,9 +17150,149 @@
       "meaning": "menanam",
       "audioText": "しょく、う",
       "onyomi_kana": "しょく",
-      "kunyomi_kana": "う",
+      "kunyomi_kana": "うえる",
       "onyomi_romaji": "SHOKU",
-      "kunyomi_romaji": "u"
+      "kunyomi_romaji": "ueru"
+    },
+    {
+      "character": "叔",
+      "meaning": "paman (adik kakek/nenek)",
+      "romaji": "shuku / oji",
+      "audioText": "しゅく、おじ",
+      "onyomi_kana": "しゅく",
+      "kunyomi_kana": "おじ",
+      "onyomi_romaji": "SHUKU",
+      "kunyomi_romaji": "oji"
+    },
+    {
+      "character": "姪",
+      "meaning": "keponakan perempuan",
+      "romaji": "tetsu / mei",
+      "audioText": "てつ、めい",
+      "onyomi_kana": "てつ",
+      "kunyomi_kana": "めい",
+      "onyomi_romaji": "TETSU",
+      "kunyomi_romaji": "mei"
+    },
+    {
+      "character": "甥",
+      "meaning": "keponakan laki-laki",
+      "romaji": "sei / oi",
+      "audioText": "せい、おい",
+      "onyomi_kana": "せい",
+      "kunyomi_kana": "おい",
+      "onyomi_romaji": "SEI",
+      "kunyomi_romaji": "oi"
+    },
+    {
+      "character": "孫",
+      "meaning": "cucu",
+      "romaji": "son / mago",
+      "audioText": "そん、まご",
+      "onyomi_kana": "そん",
+      "kunyomi_kana": "まご",
+      "onyomi_romaji": "SON",
+      "kunyomi_romaji": "mago"
+    },
+    {
+      "character": "戚",
+      "meaning": "kerabat",
+      "romaji": "seki / shinzoku",
+      "audioText": "せき、しんぞく",
+      "onyomi_kana": "せき",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "SEKI",
+      "kunyomi_romaji": ""
+    },
+    {
+      "character": "波",
+      "meaning": "gelombang",
+      "romaji": "ha / nami",
+      "audioText": "は、なみ",
+      "onyomi_kana": "は",
+      "kunyomi_kana": "なみ",
+      "onyomi_romaji": "HA",
+      "kunyomi_romaji": "nami"
+    },
+    {
+      "character": "津",
+      "meaning": "pelabuhan",
+      "romaji": "shin / tsu",
+      "audioText": "しん、つ",
+      "onyomi_kana": "しん",
+      "kunyomi_kana": "つ",
+      "onyomi_romaji": "SHIN",
+      "kunyomi_romaji": "tsu"
+    },
+    {
+      "character": "鈍",
+      "meaning": "tumpul, lamban",
+      "romaji": "don / nibu(i)",
+      "audioText": "どん、にぶ(い)",
+      "onyomi_kana": "どん",
+      "kunyomi_kana": "にぶい",
+      "onyomi_romaji": "DON",
+      "kunyomi_romaji": "nibui"
+    },
+    {
+      "character": "鋭",
+      "meaning": "tajam, cerdas",
+      "romaji": "ei / surudo(i)",
+      "audioText": "えい、するど(い)",
+      "onyomi_kana": "えい",
+      "kunyomi_kana": "するどい",
+      "onyomi_romaji": "EI",
+      "kunyomi_romaji": "surudoi"
+    },
+    {
+      "character": "霜",
+      "meaning": "embun beku",
+      "romaji": "sou / shimo",
+      "audioText": "そう、しも",
+      "onyomi_kana": "そう",
+      "kunyomi_kana": "しも",
+      "onyomi_romaji": "SOU",
+      "kunyomi_romaji": "shimo"
+    },
+    {
+      "character": "霧",
+      "meaning": "kabut",
+      "romaji": "mu / kiri",
+      "audioText": "む、きり",
+      "onyomi_kana": "む",
+      "kunyomi_kana": "きり",
+      "onyomi_romaji": "MU",
+      "kunyomi_romaji": "kiri"
+    },
+    {
+      "character": "願",
+      "meaning": "permohonan, harapan",
+      "romaji": "gan / nega(u)",
+      "audioText": "がん、ねが(う)",
+      "onyomi_kana": "がん",
+      "kunyomi_kana": "ねがう",
+      "onyomi_romaji": "GAN",
+      "kunyomi_romaji": "negau"
+    },
+    {
+      "character": "郎",
+      "meaning": "laki-laki muda",
+      "romaji": "rou",
+      "audioText": "ろう",
+      "onyomi_kana": "ろう",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "ROU",
+      "kunyomi_romaji": ""
+    },
+    {
+      "character": "感",
+      "meaning": "rasa, perasaan",
+      "romaji": "Kan",
+      "audioText": "カン",
+      "onyomi_kana": "カン",
+      "kunyomi_kana": "",
+      "onyomi_romaji": "KAN",
+      "kunyomi_romaji": ""
     }
   ],
   "vocabulary_n4": [
@@ -26154,6 +28685,621 @@
           "id": "Hujan turun terus-menerus sejak kemarin."
         }
       ]
+    },
+    {
+      "id": "vocab-n4-crit-056",
+      "character": "目的",
+      "romaji": "mokuteki",
+      "meaning": "tujuan",
+      "kana": "もくてき",
+      "examples": [
+        {
+          "jp": "日本へ行く目的は何ですか。",
+          "kana": "にほんへいくもくてきはなんですか。",
+          "id": "Apa tujuan ke Jepang?"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-057",
+      "character": "方法",
+      "romaji": "houhou",
+      "meaning": "metode, cara",
+      "kana": "ほうほう",
+      "examples": [
+        {
+          "jp": "いい方法を教えてください。",
+          "kana": "いいほうほうをおしえてください。",
+          "id": "Tolong ajari cara yang bagus."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-058",
+      "character": "報告",
+      "romaji": "houkoku",
+      "meaning": "laporan",
+      "kana": "ほうこく",
+      "examples": [
+        {
+          "jp": "報告書を提出してください。",
+          "kana": "ほうこくしょをていしゅつしてください。",
+          "id": "Tolong serahkan laporan."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-059",
+      "character": "感想",
+      "romaji": "kansou",
+      "meaning": "impresi, kesan",
+      "kana": "かんそう",
+      "examples": [
+        {
+          "jp": "映画を見た感想を教えてください。",
+          "kana": "えいがをみたかんそうをおしえてください。",
+          "id": "Tolong ceritakan kesan setelah nonton."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-060",
+      "character": "印象",
+      "romaji": "inshou",
+      "meaning": "kesan",
+      "kana": "いんしょう",
+      "examples": [
+        {
+          "jp": "彼はいい印象です。",
+          "kana": "かれはいいいんしょうです。",
+          "id": "Dia memberi kesan baik."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-061",
+      "character": "影響",
+      "romaji": "eikyou",
+      "meaning": "pengaruh",
+      "kana": "えいきょう",
+      "examples": [
+        {
+          "jp": "音楽は人に影響を与えます。",
+          "kana": "おんがくはひとにえいきょうをあたえます。",
+          "id": "Musik memberi pengaruh pada orang."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-062",
+      "character": "事実",
+      "romaji": "jijitsu",
+      "meaning": "fakta",
+      "kana": "じじつ",
+      "examples": [
+        {
+          "jp": "これは事実です。",
+          "kana": "これはじじつです。",
+          "id": "Ini fakta."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-063",
+      "character": "情報",
+      "romaji": "jouhou",
+      "meaning": "informasi",
+      "kana": "じょうほう",
+      "examples": [
+        {
+          "jp": "詳しい情報を教えてください。",
+          "kana": "くわしいじょうほうをおしえてください。",
+          "id": "Tolong info detail."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-066",
+      "character": "感情",
+      "romaji": "kanjou",
+      "meaning": "emosi, perasaan",
+      "kana": "かんじょう",
+      "examples": [
+        {
+          "jp": "感情をコントロールすることが大切です。",
+          "kana": "かんじょうをコントロールすることが大切です。",
+          "id": "Penting mengontrol emosi."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-067",
+      "character": "興奮",
+      "romaji": "koufun",
+      "meaning": "tergugah, terangsang",
+      "kana": "こうふん",
+      "examples": [
+        {
+          "jp": "試合前に興奮しました。",
+          "kana": "しあいまえにこうふんしました。",
+          "id": "Tergugah sebelum pertandingan."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-068",
+      "character": "緊張",
+      "romaji": "kinchou",
+      "meaning": "gugup, tegang",
+      "kana": "きんちょう",
+      "examples": [
+        {
+          "jp": "面接の前に緊張します。",
+          "kana": "めんせつのまえにきんちょうします。",
+          "id": "Gugup sebelum interview."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-069",
+      "character": "不安",
+      "romaji": "fuan",
+      "meaning": "tidak tenang, cemas",
+      "kana": "ふあん",
+      "examples": [
+        {
+          "jp": "明日の試験が不安です。",
+          "kana": "あしたのしけんがふあんです。",
+          "id": "Cemas dengan ujian besok."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-070",
+      "character": "満足",
+      "romaji": "manzoku",
+      "meaning": "puas",
+      "kana": "まんぞく",
+      "examples": [
+        {
+          "jp": "結果に満足しています。",
+          "kana": "けっかにまんぞくしています。",
+          "id": "Puas dengan hasil."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-071",
+      "character": "後悔",
+      "romaji": "koukai",
+      "meaning": "penyesalan",
+      "kana": "こうかい",
+      "examples": [
+        {
+          "jp": "彼を信頼したことを後悔しています。",
+          "kana": "かれをしんらいしたことをこうかいしています。",
+          "id": "Menyesal memercayai dia."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-072",
+      "character": "感謝",
+      "romaji": "kansha",
+      "meaning": "terima kasih (rasa)",
+      "kana": "かんしゃ",
+      "examples": [
+        {
+          "jp": "ご支援に感謝します。",
+          "kana": "ごしえんにかんしゃします。",
+          "id": "Terima kasih atas dukungan."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-073",
+      "character": "感心",
+      "romaji": "kanshin",
+      "meaning": "kagum",
+      "kana": "かんしん",
+      "examples": [
+        {
+          "jp": "彼女の努力に感心しました。",
+          "kana": "かのじょのどりょくにかんしんしました。",
+          "id": "Kagum dengan usahanya."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-074",
+      "character": "瞬間",
+      "romaji": "shunkan",
+      "meaning": "sesaat",
+      "kana": "しゅんかん",
+      "examples": [
+        {
+          "jp": "出会った瞬間を覚えています。",
+          "kana": "であったしゅんかんをおぼえています。",
+          "id": "Ingat saat bertemu."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-075",
+      "character": "当時",
+      "romaji": "touji",
+      "meaning": "waktu itu",
+      "kana": "とうじ",
+      "examples": [
+        {
+          "jp": "当時は若かったです。",
+          "kana": "とうじはわかかったです。",
+          "id": "Waktu itu masih muda."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-076",
+      "character": "今後",
+      "romaji": "kongo",
+      "meaning": "mulai sekarang",
+      "kana": "こんご",
+      "examples": [
+        {
+          "jp": "今後ともよろしくお願いします。",
+          "kana": "こんごともよろしくおねがいします。",
+          "id": "Mohon dukungan ke depan."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-078",
+      "character": "未来",
+      "romaji": "mirai",
+      "meaning": "masa depan",
+      "kana": "みらい",
+      "examples": [
+        {
+          "jp": "未来は明るいです。",
+          "kana": "みらいはあかるいです。",
+          "id": "Masa depan cerah."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-079",
+      "character": "過去",
+      "romaji": "kako",
+      "meaning": "masa lalu",
+      "kana": "かこ",
+      "examples": [
+        {
+          "jp": "過去を振り返ります。",
+          "kana": "かこをふりかえります。",
+          "id": "Melihat ke masa lalu."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-080",
+      "character": "現在",
+      "romaji": "genzai",
+      "meaning": "sekarang",
+      "kana": "げんざい",
+      "examples": [
+        {
+          "jp": "現在は東京に住んでいます。",
+          "kana": "げんざいはとうきょうにすんでいます。",
+          "id": "Sekarang tinggal di Tokyo."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-081",
+      "character": "現場",
+      "romaji": "genba",
+      "meaning": "lokasi kejadian, tempat kerja",
+      "kana": "げんば",
+      "examples": [
+        {
+          "jp": "事故の現場に行きました。",
+          "kana": "じこのげんばにいきました。",
+          "id": "Pergi ke lokasi kecelakaan."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-082",
+      "character": "地方",
+      "romaji": "chihou",
+      "meaning": "daerah, provinsi",
+      "kana": "ちほう",
+      "examples": [
+        {
+          "jp": "地方によって食事が違います。",
+          "kana": "ちほうによってしょくじがちがいます。",
+          "id": "Makanan beda tiap daerah."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-083",
+      "character": "都会",
+      "romaji": "tokai",
+      "meaning": "kota besar",
+      "kana": "とかい",
+      "examples": [
+        {
+          "jp": "都会で生活しています。",
+          "kana": "とかいでせいかつしています。",
+          "id": "Hidup di kota besar."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-084",
+      "character": "面接",
+      "romaji": "mensetsu",
+      "meaning": "interview",
+      "kana": "めんせつ",
+      "examples": [
+        {
+          "jp": "明日面接があります。",
+          "kana": "あしためんせつがあります。",
+          "id": "Besok ada interview."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-085",
+      "character": "研修",
+      "romaji": "kenshuu",
+      "meaning": "pelatihan, training",
+      "kana": "けんしゅう",
+      "examples": [
+        {
+          "jp": "新入社員の研修があります。",
+          "kana": "しんにゅうしゃいんのけんしゅうがあります。",
+          "id": "Ada training karyawan baru."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-087",
+      "character": "資料",
+      "romaji": "shiryou",
+      "meaning": "materi, dokumen",
+      "kana": "しりょう",
+      "examples": [
+        {
+          "jp": "資料を配ってください。",
+          "kana": "しりょうをくばってください。",
+          "id": "Tolong bagikan dokumen."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-088",
+      "character": "辞書",
+      "romaji": "jisho",
+      "meaning": "kamus",
+      "kana": "じしょ",
+      "examples": [
+        {
+          "jp": "日本語の辞書を使います。",
+          "kana": "にほんごのじしょをつかいます。",
+          "id": "Pakai kamus bahasa Jepang."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-090",
+      "character": "メール",
+      "romaji": "meeru",
+      "meaning": "email",
+      "kana": "メール",
+      "examples": [
+        {
+          "jp": "友達にメールを送ります。",
+          "kana": "ともだちにメールをおくります。",
+          "id": "Kirim email ke teman."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-092",
+      "character": "アプリ",
+      "romaji": "apuri",
+      "meaning": "aplikasi",
+      "kana": "アプリ",
+      "examples": [
+        {
+          "jp": "便利なアプリを使います。",
+          "kana": "べんりなアプリをつかいます。",
+          "id": "Pakai aplikasi berguna."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-093",
+      "character": "スマホ",
+      "romaji": "sumaho",
+      "meaning": "smartphone",
+      "kana": "スマホ",
+      "examples": [
+        {
+          "jp": "新しいスマホを買いました。",
+          "kana": "あたらしいスマホをかいました。",
+          "id": "Beli HP baru."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-099",
+      "character": "咳",
+      "romaji": "seki",
+      "meaning": "batuk",
+      "kana": "せき",
+      "examples": [
+        {
+          "jp": "咳が止まりません。",
+          "kana": "せきがとまりません。",
+          "id": "Batuk tidak berhenti."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-100",
+      "character": "頭痛",
+      "romaji": "zutsuu",
+      "meaning": "sakit kepala",
+      "kana": "ずつう",
+      "examples": [
+        {
+          "jp": "頭痛がします。",
+          "kana": "ずつうがします。",
+          "id": "Saya sakit kepala."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-102",
+      "character": "梅雨",
+      "romaji": "tsuyu",
+      "meaning": "musim hujan",
+      "kana": "つゆ",
+      "examples": [
+        {
+          "jp": "梅雨の季節になりました。",
+          "kana": "つゆのきせつになりました。",
+          "id": "Sudah masuk musim hujan."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-105",
+      "character": "災害",
+      "romaji": "saigai",
+      "meaning": "bencana",
+      "kana": "さいがい",
+      "examples": [
+        {
+          "jp": "自然災害が増えています。",
+          "kana": "しぜんさいがいがふえています。",
+          "id": "Bencana alam makin banyak."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-106",
+      "character": "苦手",
+      "romaji": "nigate",
+      "meaning": "lemah, kurang suka",
+      "kana": "にがて",
+      "examples": [
+        {
+          "jp": "私は数学が苦手です。",
+          "kana": "わたしはすうがくがにがてです。",
+          "id": "Saya lemah matematika."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-107",
+      "character": "得意",
+      "romaji": "tokui",
+      "meaning": "andal,擅长的",
+      "kana": "とくい",
+      "examples": [
+        {
+          "jp": "彼女は歌が得意です。",
+          "kana": "かのじょはうたがとくいです。",
+          "id": "Dia jago menyanyi."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-109",
+      "character": "単純",
+      "romaji": "tanjun",
+      "meaning": "sederhana",
+      "kana": "たんじゅん",
+      "examples": [
+        {
+          "jp": "単純な質問です。",
+          "kana": "たんじゅんなしつもんです。",
+          "id": "Pertanyaan sederhana."
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-111",
+      "character": "違い",
+      "romaji": "chigai",
+      "meaning": "perbedaan",
+      "kana": "ちがい",
+      "examples": [
+        {
+          "jp": "日本とインドネシアの違いは何ですか。",
+          "kana": "にほんとインドネシアのちがいはなんですか。",
+          "id": "Apa beda Jepang dan Indonesia?"
+        }
+      ],
+      "level": "N4"
+    },
+    {
+      "id": "vocab-n4-crit-117",
+      "character": "準備",
+      "romaji": "junbi",
+      "meaning": "persiapan",
+      "kana": "じゅんび",
+      "examples": [
+        {
+          "jp": "明日の準備をします。",
+          "kana": "あしたのじゅんびをします。",
+          "id": "Persiapan untuk besok."
+        }
+      ],
+      "level": "N4"
     }
   ]
 }
